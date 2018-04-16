@@ -1,3 +1,7 @@
+# Ignore GloVe word embeddings #
+################################
+embeddings/glove.*.txt
+
 # Compiled source #
 ###################
 *.com
