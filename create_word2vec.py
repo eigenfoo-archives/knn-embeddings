@@ -3,9 +3,10 @@ from gensim.models.word2vec import PathLineSentences, Word2Vec
 
 
 if __name__ == '__main__':
+
     DATA_DIRS = ['/data/corpus1/total',
-                 '/data/corpus2/train',
-                 '/data/corpus3/train']
+                 '/data/corpus2/total',
+                 '/data/corpus3/total']
 
     for idx, data_dir in enumerate(DATA_DIRS):
         sentences = PathLineSentences(os.getcwd() + data_dir)
