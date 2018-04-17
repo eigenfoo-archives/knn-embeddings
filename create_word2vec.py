@@ -11,9 +11,9 @@ if __name__ == '__main__':
     for idx, data_dir in enumerate(DATA_DIRS):
         sentences = PathLineSentences(os.getcwd() + data_dir)
         w2v = Word2Vec(sentences,
-                       size=100,
+                       size=300,
                        min_count=1,
                        window=5,
                        seed=1618,
                        iter=100)
-        w2v.save('w2v.corpus{}.100d'.format(idx))
+        w2v.save('w2v.corpus{}.300d'.format(idx))
