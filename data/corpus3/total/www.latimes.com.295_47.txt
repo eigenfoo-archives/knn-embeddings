@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e00b1e514d80707c98b70b8b5a1d9dedbafa5a6b5d9b3007d329dc3cb7331473
-size 10697
+Attacks:
+Studies focus on how lethal agents disperse.
+Tests are run in subways, at airports.
+No one challenged them as they moved among Manhattan's busy subway commuters--a group of men, carrying identification from a phony company, who tossed light bulbs that shattered on the underground tracks.
+But the men who slipped onto midtown trains 35 years ago were actually U.S. germ warfare scientists, and their light bulbs contained bacteria, considered harmless, that they dispersed among thousands of New Yorkers. 
+It was one of more than 200 secret tests the Army conducted in populated parts of the country from 1949 to 1969, aimed at producing data on how a biological or chemical attack might unfold. 
+The studies provoked outrage when they became known in the 1970s.
+But today, as some Americans stockpile gas masks and antibiotics in fear of a terrorist attack, they are also a reminder that the government has been probing the science of unconventional warfare for decades, and in substantial detail. 
+In fact, the government is still conducting studies on the decades-old question of how lethal agents would disperse during an assault.
+In nighttime experiments, scientists have monitored air flows in the Washington subway system, which might show how officials could move trains without making an attack worse.
+Other tests have been conducted in airports, over Salt Lake City last year and in other settings with complex air flows, using smoke and other materials instead of bacteria. 
+And that is only one field of science that government biological and chemical defense experts are studying.
+The work extends well beyond the most obvious elements of defense, such as developing gas masks and protective gear. 
+New optical equipment can determine whether a suspicious cloud miles away contains dangerous materials.
+The gene revolution has led to hand-held monitors that can detect small amounts of biological or chemical agents.
+Because the first signs of biological attack might appear at doctors' offices, new software is helping a small number of public health officials keep moment-by-moment tabs on the illnesses reported by patients. 
+Some of these products are already available, but it will take years for many others to reach soldiers or civil defense directors.
+Moreover, the nation is not always adept at using even the tools it has at hand. 
+The General Accounting Office, for example, reported last week that poor inventory controls caused the Pentagon to greatly overstate the number of protective suits it had purchased to safeguard troops from biochemical attacks.
+And the Virginia-based International Assn. of Fire Chiefs complains that firefighters cannot buy a new type of protective mask already on the market, because a government agency has been slow to certify the equipment as acceptable. 
+"We are not prepared for a chem-bio attack in this country, and one of the main reasons for it is that the federal government has not yet certified the masks for use by firefighters and other first responders," said Alan Caldwell, government relations director for the fire chiefs' group.
+"Having the mask would be a major step forward." 
+But at the same time, some people familiar with government efforts believe that their broad scope should bring a measure of comfort to a nation now anxious about the threat of biological or chemical attacks. 
+"We may not be where we want to be on homeland defense, but we are not starting with a blank sheet of paper," said Brig.
+Gen. Dean Ertwine, commander of the U.S. Army Developmental Test Command, whose mission includes testing protective equipment. 
+Many terrorism experts believe that the threat of a biological or chemical attack, at least one that would cause mass casualties, is remote.
+Even if a terrorist could obtain a lethal agent, there are technical hurdles to distributing it widely. 
+The secret tests of the 1950s and 1960s examined how high those hurdles are.
+They studied the distance that bacteria, viruses or lethal gases spread in the atmosphere, how fast they degrade and how many casualties they might cause. 
+In 1950, for example, a Navy vessel sprayed bacteria along two miles of the San Francisco coast.
+Thanks to a gentle wind, the bacteria blanketed the city during one test. 
+Had a similar but lethal bacteria been sprayed, more than 60% of residents would have been infected, according to William Patrick III, a former manager of Army bioweapons programs. 
+But in a second test, conducted during rougher weather, scientists could find bacteria only as far as two blocks from the shore.
+This demonstrated that weather conditions were as important to an attack as the agent used, Patrick wrote in a paper published this year by the National Academy of Sciences. 
+In all, six tests were conducted in San Francisco, using two types of bacteria.
+Other materials were sprayed over Minneapolis and St. Louis, in Washington's National Airport and elsewhere.
+In the 1966 New York subway tests, air flows from the trains were shown to push bacteria widely through the subway cars and underground tunnels. 
+It was an era with no computer modeling, and with less sensitivity than today to the protection of research volunteers.
+Military officials did not tell local officials or Congress about the tests, and word did not leak out until the mid-1970s.
+There were reports of increased illness in some of the cities involved, but military officials called them coincidental.
+A federal judge dismissed one wrongful-death case in San Francisco, ruling that the bacteria release had been harmless. 
+Today, scientists are still working on some of the same questions as in the secret experiments, but with a major difference.
+In 1969, President Nixon halted all work on offensive biological weapons, and the nation began destroying its stockpiles.
+By law, all current efforts must be aimed only at improving defenses against an attack. 
+For example, scientists are still studying air flows.
+The information could help them learn how to evacuate people from a subway, airport or city without spreading bacteria further, said Richard Wheeler, who manages chemical, biological and national security programs at the Department of Energy. 
+One particularly complex problem involves air flows through the "urban canyons" created by tall buildings.
+But understanding air movements in cities could be crucial, said Alan Zelicoff, a physician at the government's Sandia National Laboratories in Albuquerque. 
+With millions of people living and working in Manhattan, N.Y., officials could not rush antibiotics to everyone if they detected a biological attack.
+"You'd like to know if maybe people on the left hand of the island have no concerns, because the cloud passed over them, but that those beyond Lexington and 83rd need help," he said. 
+Last fall, the Department of Energy conducted tests over Salt Lake City using a gas meant to mimic a toxic cloud, Wheeler said.
+He said the city was chosen because of unique air flows in the region, and not because it will host the 2002 Winter Olympics. 
+Often, new information on air flows is fed into a modeling system at the Lawrence Livermore National Laboratory near Oakland, which uses current weather conditions and a vast database to predict how an atmospheric release of materials is likely to travel. 
+The 20-year-old system was designed to track accidental releases of radioactive material from nuclear power plants, Wheeler said.
+But it is being upgraded to include a variety of data, such as how quickly various biological agents degrade in the atmosphere. 
+At Dugway Proving Ground, an Army testing range in Utah, scientists have built expertise in the arcane science of aerobiology, the study of airborne organic materials. 
+Dugway scientists test protective clothing, decontamination systems and equipment that detects lethal agents.
+Because different spraying systems create different types of toxic clouds--from a fine mist to a heavy rain--the scientists have to know how different spray nozzles affect the way lethal agents disperse. 
+But that expertise has been important for other reasons.
+In the months leading up to Operation Desert Storm a decade ago, U.S. officials became aware that the Iraqi government had purchased several dozen sophisticated spraying devices from Italy.
+The devices were meant for agricultural purposes, but military officials feared they could also be used to spread biological or chemical materials in the battlefield. 
+It fell to scientists at Dugway and other Army programs to determine the threat from these sprayers.
+According to an unclassified summary of their report, the scientists tested the equipment and developed estimates of the threat it posed to people who might be downwind. 
+Some of the government work is aimed at detecting weapon programs by hostile groups. 
+In early September, the Defense Department confirmed that it had built a germ fermenter in the Nevada desert using commercially available parts.
+The goal, the agency said, was to study whether terrorists or other groups that tried similar projects would produce any "signatures" of their work that could be detected by U.S. intelligence-gathering. 
+The Pentagon has also discussed producing a genetically altered form of anthrax to see if it would be resistant to the anthrax vaccine.
+The project, which was first disclosed by the New York Times last month, came about after Russian scientists reported in 1997 that they had implanted foreign genes in anthrax, the Pentagon said.
+It has been on hold amid debate on whether it violates an international treaty and U.S. laws that bar work on offensive biological weapons. 
+Zelicoff, the Sandia scientist, is working on a different aspect of biowarfare defense.
+He has designed a touch-screen computer program that allows doctors to record basic symptoms of patients in about 30 seconds.
+The information, which includes such data as blood counts and X-ray results, is relayed electronically to public health officials, who look for unusual patterns. 
+Because biological agents tend to be odorless and colorless, these illness patterns might be the first warning that a biological attack has occurred, Zelicoff said.
+The system is at six hospitals now, but Zelicoff says he has government funding to put it in 150 hospitals in the next year. 
+Traditionally, public health officials have had to rely on doctors to phone them with reports of unusual symptoms.
+And most doctors cannot tell anthrax, for example, from a more common influenza.
+But Zelicoff's Rapid Syndrome Validation Project can detect unusual patterns of symptoms, and it pages public health officials when suspicious clusters of symptoms appear.

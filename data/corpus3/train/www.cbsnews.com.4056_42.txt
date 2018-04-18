@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a047c1fbea88f4437a1b00b975b62eade1f266c5f5daefda9821077e13f0c764
-size 3266
+America's financial system operated with remarkable efficiency to minimize the fallout from the Sept. 11 terrorist attacks, Federal Reserve Chairman Alan Greenspan said Tuesday. 
+"We are blessed with a financial system that is creative, that is flexible, that is innovative," Greenspan said in remarks to the American Bankers Association. 
+The ABA canceled its regular annual convention, which had been scheduled to start Sept. 29 in Palm Desert, Calif., because of the disruptions in air travel. However, it decided later to proceed with the sessions with the planned speakers making their presentations on the Internet. 
+Greenspan said the very fact that he was addressing the bankers in cyberspace was a "testimony to American perseverance, to our technology and to our flexibility. It is a metaphor for the ability of our economy to circumvent difficulties and innovate around obstacles." 
+The Fed chief said such flexibility was also apparent in how banks and Fed officials worked in the days following the attacks to make sure that the financial system would continue operating. 
+"Literally within hours of the attack on the World Trade Center, with many of the participants still grieving and with the loss of extraordinary personnel and resources, our financial system was finding ways to return to operation," Greenspan said. 
+Greenspan said the destruction of communication lines in the heart of New York's financial district caused disruptions in the normal process of settling billions of dollars of transactions between banks. 
+To cover the shortfall, Greenspan noted, the Fed supplied record amounts of cash to the banking system in the days following the attacks, both through direct loans from its discount window and by purchasing Treasury securities for cash that banks could use as reserves to meet withdrawal demands. 
+As part of these activities, the Fed provided more than $45 billion to the banking system to keep the government-bond market functioning after it was determined that banks that served as key middlemen in many government bond transactions were having difficulties processing trades. 
+The Fed also opened record swap lines to supply credit to foreign commercial banks whose New York operations were having difficulty getting the dollars they needed to complete transactions. 
+Greenspan noted that commercial banks also helped get through the crisis by agreeing to extend the length of time for certain settlements. The terrorist attacks had cut electronic communications between some banks operating in the commercial paper market short-term loans used by corporations to meet funding needs. 
+"Crucially, lenders banks in particular stepped up to meet their commitments, real and implied, to avoid the disruptions that were a large part of the terrorists' objective," Greenspan said. 
+Greenspan said the success in getting through the crisis without a meltdown of the financial system proved the strength of what he called "our seemingly crazy quilt structure" of financial service companies. 
+Legislation passed in 1999 removed Depression-era banking barriers and allowed the creation of new financial "supermarkets" formed by banks, securities firms and insurance companies that could enter each others businesses.

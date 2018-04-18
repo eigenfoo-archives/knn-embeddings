@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0d5bfe2fc95058cf6ab33da715c6a7e86932998ec51088f307ac8024ca1f5e3
-size 1371
+1 Department of Physics and Frederick Seitz Materials Research Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA.2 Department of Physics, Soongsil University, Seoul, Korea; Department of Physics and Frederick Seitz Materials Research Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA.3 Department of Materials Science and Engineering, University of Pennsylvania, Philadelphia, PA 19104, USA.4 Department of Physics and Astronomy, Laboratory for Research on the Structure of Matter, University of Pennsylvania, Philadelphia, PA 19104, USA.5 Department of Materials Science and Engineering, Laboratory for Research on the Structure of Matter, University of Pennsylvania, Philadelphia, PA 19104, USA.
+* To whom correspondence should be addressed.
+E-mail: ayazdani@uiuc.edu .
+Arrays of C 60 molecules nested inside single-walled nanotubes represent a class of nanoscale materials having tunable properties.
+We report electronic measurements of this system using a scanning tunneling microscope and demonstrate that the encapsulated C 60 molecules modify the local electronic structure of the nanotube.
+Our measurements and calculations also show that a periodic array of C 60 molecules gives rise to a hybrid electronic band, which derives its character from both the nanotube states and the C 60 molecular orbitals.

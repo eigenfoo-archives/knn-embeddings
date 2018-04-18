@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa3ef34508c5ce87a284a74805119528aa5a6132e6ba2a0891cf6d7e0f7c5a13
-size 2309
+Some types of hormone replacement therapy used to treat women for menopause symptoms may raise the risk of a rare ovarian cancer, Swedish researchers said on Tuesday.
+The study adds to the considerations a woman has to make before deciding whether to take hormone replacement therapy.
+helps relieve the hot flashes, sexual side-effects and other unpleasant symptoms of menopause and has positive health effects, such as the prevention of osteoporosis and heart disease and, possibly, Alzheimer s disease.
+But estrogen alone can increase the risk of uterine cancer, although adding another hormone called progestin reduces this risk. HRT may also be linked with an increased risk of breast cancer, although this risk in not clear.
+Dr. Tomas Riman, of Falu Hospital and the Karolinska Institute in Stockholm and colleagues found a similar pattern with another rare cancer, epithelial ovarian cancer.
+Also known as ovarian epithelial cancer, it is one of 10 different types of ovarian cancer, which will kill an estimated 13,900 women in the United States this year. This particular form develops in the tissues covering the ovary and is hard to treat because the symptoms are difficult to detect.
+Writing in the Journal of the National Cancer Institute, Riman and his colleagues said women who took estrogen alone, or estrogens combined with a sequential, or cyclic, regimen of progestins, had a higher risk of epithelial ovarian cancer.
+But if progestins were taken daily with estrogen, the risk disappeared.
+If our findings are replicated, it would be valuable to consider the epithelial ovarian cancer risk increase associated with the use of certain HRT regimens, especially given the prevalence of HRT use and the poor prognosis of epithelial ovarian cancer, Riman s team wrote.
+They studied 655 women aged 50 to 74 with epithelial ovarian cancer and compared them to 3,899 women who did not have cancer.
+Women who had used estrogens alone had a 43 percent higher risk of developing epithelial ovarian cancer than women who had never used such therapy -- but only if they had an intact uterus. Women who had undergone hysterectomies and had used estrogens were not at increased risk of ovarian cancer, the researchers found.
+The researchers cautioned that this particular type of cancer is rare.

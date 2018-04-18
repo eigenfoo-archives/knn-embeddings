@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66082aa18f74e7cee31b413d42a0eca17f9860b7cf46f8a1c5757a18891a7fb9
-size 901
+Japan may soon have a missile defence system developed in cooperation with the United States. 
+The Japanese cabinet endorsed a plan for an intensive research program on Friday, just as Japan put its four Aegis missile warships on stand-by, anticipating possible missile tests by North Korea. 
+Officials say North Korea's missile testing spurred Japan's endorsement of the new project. 
+The research project being undertaken by Japanese and American scientists will explore an early warning system and batteries of missiles than can knock out incoming missiles. 
+So far no country has been able to perfect such a system. The closest, the Patriot missile used in the Gulf War, didn't have a very good record, according to experts. 
+The U.S. is now looking to improve that technology and is happy with the help of Japan, a world leader in missile-guidance systems. 
+Written by CBC News Online staff

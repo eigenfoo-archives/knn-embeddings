@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f61150195c19287d2c45c45890b743eb03066cedd92fc637f0def27c08758068
-size 708
+The ad, for Japanese TV, shows a Russian cosmonaut grabbing a floating bottle of a sports drink called "Pocari Sweat" and gulping it down while gazing at Earth from the International Space Station. 
+The ad cost about $786,000 to make, said an official at Japan's Dentsu Inc, the world's fourth largest ad agency. 
+The National Space Agency of Japan also chipped in about $80,000 for the project, the Dentsu official said. 
+The International Space Station program is a partnership between NASA and space agencies in Russia, Canada, Europe and Japan. 
+The Russians also have plans to put civilians in space for a price, with the first likely candidate South African Internet millionaire, Mark Shuttleworth.

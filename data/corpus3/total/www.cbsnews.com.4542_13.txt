@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b895f42f3fcf02bf2b799998dead2152d997f39957ac4bd983d9c94786db6d3
-size 2038
+Napster's song sharing service went dark Monday as the company continued to upgrade the network in preparation for advanced music-identification tools and the pending launch of a revamped, fee-based system. 
+"File transfers have been temporarily suspended while Napster upgrades the databases that support our new file identification technology.
+Keep checking this space for updates.
+Thanks for your support!
+" read a message on Napster's home page Monday. 
+The Redwood City-based company has been scrambling to comply with a federal court-issued injunction to keep unauthorized music offline. 
+Napster representatives did not immediately return calls seeking comment on the status of the system changes. 
+The company has begun playing hardball lately with its users, who have long traded MP3 file versions of popular music with little regard to copyright issues.
+The latest version of the Napster application, a forced upgrade to the system that no longer allows the use of previous versions, contains new filtering technology to identify song files accurately. 
+The result has been a drastic drop in the number of songs shared and the number of users sharing them. 
+On June 27, a snapshot of Napster activity revealed 320,000 users sharing an average of 1.5 songs each, a dramatic drop from an average 1.57 million users sharing 220 songs each at the peak of the service in February, according to researcher Webnoize. 
+Normal fluctuations in the Napster usage does not account for the sharp decline of music traders online, Bailey said. 
+"The new client is being used to test Napster's fingerprinting technology for the company's planned commercial service," said Webnoize senior analyst Matt Bailey.
+"By further reducing the music available through the current service, Napster has provided another nail in the coffin of the service consumers originally loved." 
+The new fee-based Napster has no specific launch date, but has been promised before summer's end by German media giant Bertlesmann AG, Napster's primary financial backer. 

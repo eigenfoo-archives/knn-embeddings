@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2055c8d3da1e0cc704c70099bf47fbb3bb18de7069db1353b7fc294babd32fc3
-size 3351
+Did Landing Gear Doom Lander? 
+A landing gear deployment glitch that may have led to the premature shut down of the Mars Polar Lander's descent engines last December remains one of NASA's top candidates for explaining the loss of the ill-fated spacecraft, agency sources said Wednesday. 
+An independent review board is scheduled to release the findings of an exhaustive investigation next week.
+It is expected to list, among other possible failure scenarios, a problem in which the normal deployment of the spacecraft's three landing legs high above the red planet's surface could have triggered microswitch sensors intended to detect actual touchdown. 
+If the sensors did, in fact, trip when the landing legs deployed, the Polar Lander's flight computer thinking the vehicle had landed would have ordered the descent engines to shut down and the spacecraft would have crashed to the surface. 
+The problem could have been corrected with a computer software patch before the Polar Lander's Dec. 3, 1999, arrival at Mars had engineers realized there was a problem.
+But NASA sources said Wednesday the problem was not fully uncovered until extensive post-crash tests using a similar lander built for a 2001 mission. 
+Why the problem was not discovered before the Polar Lander's launch or, if it was at some engineering level, why it was not properly resolved is not yet clear.
+Presumably, that issue will be addressed next week by the failure review board. 
+In any case, the landing leg-microswitch scenario was reported earlier this year by various news organizations as one of several failure modes under assessment.
+And that has not changed, NASA officials said Wednesday in response to a news report that claimed NASA knew about but did not disclose fatal problems with the lander's descent engines before the spacecraft arrived at Mars. 
+United Press International, quoting an anonymous source, reported the braking rockets failed their acceptance testing and "rather than begin an expensive and time-consuming redesign, an unnamed space official simply altered the conditions of the testing until the engine passed.
+" 
+The report also said members of a NASA review team found out about the problem before the Polar Lander arrived at Mars but that agency managers decided not to disclose the issue. 
+In a strongly worded denial, NASA said Wednesday concerns about the Lander's engines were publically discussed during a November news conference.
+In addition, NASA said in a statement, two review teams had uncovered "no evidence relating to thruster acceptance testing irregularities as alleged by UPI.
+In fact, members of the review teams are using words like 'bunk,' 'complete nonsense,' and 'wacko,' to describe their reactions" to the story. 
+In the end, no one will ever know for sure what happened to the Mars Polar Lander, barring recovery of actual wreckage by future astronauts or photographic detection of debris by some future orbiter.
+The last signal from the Polar Lander was transmitted before atmospheric entry and in the absence of any hard data, engineers can only make educated guesses about what might have actually gone wrong. 
+But as one official said Wednesday of the landing leg deployment issue, "had everything else worked perfectly, this one would have gotten us." 
+Copyright 2000, CBS Worldwide Inc., All Rights Reserved.

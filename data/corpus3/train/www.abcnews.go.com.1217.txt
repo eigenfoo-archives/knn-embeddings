@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:877c7886fe598874b4ca248a5fa8642f5007f27e03b7a6712e3646d5a651b6bf
-size 3233
+Whatever the reason, a two-ton, 20-foot long dinosaur pressed its clawed feet into soft sand about 163 million years ago and left tracks that reveal how this hulking animal could switch gears from a stroll to a run.
+"Paleontologists have thought that smaller dinosaurs could reach high speeds, but there has not really been direct evidence that the large ones could reach decent speeds," said Paul Upchurch, a paleontologist at the University of Cambridge. 
+
+The tracks of the theropod a two-legged carnivorous dinosaur were fossilized into white limestone and then spotted a few years ago in a quarry in Oxfordshire, England. 
+Dozens of dinosaur tracks have been found throughout the world, including in the western and northeastern United States. But the Oxfordshire quarry tracks are unique for the way they illustrate two very different kinds of locomotion in the strides of a single animal.
+"We don't often see this kind of different types of walking in the same animal in the same trackway," said Mathew Carrano, a paleontologist at the State University of New York in Stony Brook.
+At the start of the nearly 600-foot-long track, the footprints indicate the dinosaur waddled with a wide gait placing its three-clawed feet far to the right and to the left. Upchurch says the dinosaur's wide stride suggests it may have been treading on slippery ground.
+About midway through the stretch, the dinosaur's prints change dramatically. Rather than a zig-zag of wide steps about nine feet apart, the stride is doubled and the prints follow nearly a straight line. That suggests the animal quickly accelerated from an amble to a run or at least to a very brisk walk. 
+
+By estimating the leg length of the animal based on its foot size, and measuring its stride length, Paul Upchurch and his colleague Julia Day calculated the animal was walking at about 4 miles an hour (a very fast walking pace for a person) and then sped up to 18 miles an hour. Day and Upchurch wrote about the unusually fast-paced dinosaur and its tracks in this week's issue of the journal Nature .
+James Farlow, a paleontologist at Indiana-Purdue University was particularly intrigued by the animal's top speed estimates. By building computer models of running theropods, Farlow and his team recently calculated the animals could not reach speeds any faster than 18.3 miles an hour without stumbling or ripping a muscle.
+"Our argument was based on limb strength calculations, and some goofy worries about the risk of an injury to a huge biped if it were to fall while running," said Farlow. "It's interesting that the trackway estimate is close to my estimate."
+Others caution that estimating speed from footprints can be dicey science. 
+"The margin of error can be large, even with living animals," said John Hutchinson, a dinosaur locomotion expert at Stanford University.
+Regardless of the animal's exact speed, the tracks clearly show the carnivore changed its gait in a quick moment. Why? That's something scientists can never know for sure. 
+But researchers found other tracks in the quarry that offer a possible clue: It seems plant-eating sauropods were not far away, which could mean the meat-eating theropod just might have spotted lunch.

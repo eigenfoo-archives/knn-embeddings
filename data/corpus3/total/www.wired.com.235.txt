@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ae991677f4459ec1ee4c3248279814aea0782581b8cd3c4f70b74602d945a62
-size 4454
+The XP keynote kicked off with a rendition of "America The Beautiful" performed by a white-robed gospel choir gathered underneath a huge Windows XP banner.
+What might have been obnoxious six weeks ago seemed appropriate at the Marriott Marquis in the heart of New York City. 
+Gates and New York City Mayor Rudolph Giuliani took the stage shortly after and received standing ovations, which Gates said was presumably directed at the popular Guiliani. 
+Giuliani made a short speech stating "we have emerged stronger, more confident in our ability to handle any disaster, and more convinced that we're right and they're wrong." 
+Giuliani also thanked "Bill" for holding the XP launch in his town, and for donating software and computer systems after the attack.
+The city's original emergency command center, located below ground in World Trade Center 7, was crushed when the Twin Towers collapsed.
+A new command center was quickly built with donations from tech companies. 
+"Without those donations, and without the technology, New York would not have been able to function," Giuliani said. 
+Gates opened his keynote by noting that technology makes the impossible possible. 
+He stressed security and privacy features of XP, and said it was a common-sense system that would act as a "platform to allow people to develop on top of it." 
+Gates said the release of XP "marked the end of an era, the end of DOS and also the end of Windows 95.
+" is the text-based system that powered Windows PCs, and still lurks underneath Windows 3.1, 95, 98 and Windows Me. 
+Windows 95 was dismissed by Gates as an operating system whose day was done.
+Windows 98 and Me, which received lukewarm receptions from the tech industry but are still in wide usage, got scant mention, but Windows 2000 was touted as the rock-solid framework that XP was built on. 
+A clip of the launch of Windows 95 was shown, featuring Gates informing the crowd that he agreed with Apple's Jobs that Windows 3.1 was a "crummy operating system," and assuring the crowd that he'd soon say that about Windows 95. 
+"And certainly our users have given us plenty of reasons to know that Windows 95 isn't good enough," Gates said. 
+A DOS C: prompt, the opening screen for all the text-based DOS programs, appeared on a large TV screen, and Gates typed "Exit," the DOS command to shut down a system. 
+As he prepared to hit "enter," a HAL-like robot voice pleaded with him not to shut DOS down, to which Gates responded, "They don't call your movie 2001 for nothing," and terminated the DOS program. 
+Gates' introduction of Jim Allchin, vice president of Microsoft's platforms group that oversees Windows, included reminisces of Allchin chiding Gates about Microsoft's "unreliable, consumer operating systems" during his employment interview. 
+"I told Bill I wanted to work with real operating systems," Allchin recalled, and then launched into the benefits of XP, touting the system's juxtaposition of the "high-end, power-user Windows 2000 features, and consumer friendly Windows Me components." 
+Regis Philbin took the stage and confessed that he was computer illiterate. 
+Philbin then put Gates in the Who Wants
+To Be A Millionaire hot seat, asking him if it was worth his time to answer questions to earn a "mere million.
+" 
+"Well, actually I don't know," smiled Gates, who went on to answer a few questions about Windows XP, managing to respond without polling the audience or calling a lifeline. 
+Gates then said he was going out for a walk around Times Square, leaving Philbin on stage to learn how to use XP.
+Philbin noted that Gates would probably enjoy meeting "the naked cowboys and hot dog vendors" that Philbin seems to think populate Times Square. 
+Gates later "beamed back" into the keynote from a local Starbucks, where he sipped hot chocolate and chatted with former NYC Mayor Ed Koch.
+Gates soon moved on to the Times Square Virgin music store where he chatted with Dick Clark and then danced with a heavily tattooed man who complimented Gates on his haircut. 
+When Philbin lost contact with Gates via XP's instant messenger video application, Philbin ad-libbed that Gates had probably run off with his new tattooed friend. 
+At that point, an assistant was sent out with a backup camera and quickly located the wayward billionaire, who was standing alone in the midst of the bustle of Times Square, looking very happy. 
+Have a comment on this article?
+Send it . 
+Printing?
+Use this version.

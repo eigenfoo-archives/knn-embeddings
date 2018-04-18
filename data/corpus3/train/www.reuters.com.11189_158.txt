@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f209d56131f9bb8e38bc4f9c9b188728f1bc817ffde5654cb50f60695f16624
-size 4311
+The Hubble Space Telescope was alive and well on Wednesday after a pair of spacewalking astronauts finished a risky repair job that NASA compared to a heart transplant.
+"Hubble has a heartbeat," said NASA spokesman Rob Navias, moments after the first streams of data arrived at ground stations.
+Mission controllers were powering up and testing Hubble's systems one by one and were expected to be finished by midafternoon. All the systems so far had returned in good shape, and NASA managers said they expected the rest would be OK.
+managers had feared the operation to replace a faulty power control unit might have ended with Hubble no more than a costly piece of space junk if they could not restore power to the orbiting observatory.
+It was not without drama, which included a leaking spacesuit, but NASA in the end had what it wanted -- an orbiting observatory that may someday see to the very edge of the universe.
+Astronauts John Grunsfeld and Rick Linnehan from the space shuttle Columbia had the difficult task of replacing the aging observatory's power control unit, a 160-pound box that distributes electricity to all the satellite's instruments and flight systems.
+had to turn off Hubble's power for the first time since it sat at the Kennedy Space Center in 1990 awaiting liftoff. Since satellites are rarely turned off after launch, and Hubble had never been turned off, NASA counted the mission among its most risky and challenging.
+The old power unit was meant to be a permanent component, never to be handled 350 miles above Earth by men in bulky pressure suits, big white helmets and stiff, thick gloves.
+"I can tell you there were a lot of people who thought we were crazy to even try it," said Preston Burch, NASA's Hubble program manager.
+Comparing the procedure to a heart transplant, Dave Leckrone, the Hubble program scientist for NASA, said on Tuesday that "major surgery entails a certain degree of risk."
+Linnehan had to disconnect most of the three dozen power couplings that led to various Hubble systems, much of the time using a special tool designed just for that job, since his gloved hand could not reach some of the cables and couplings.
+Grunsfeld had the job of installing the new system, which because of its size presented many of the same obstacles.
+
+As the last of 36 connections were made to the new unit, a cheer went up in the Customer Service Room at Houston's Johnson Space Center, where some of Hubble's astronomers had gathered.
+Preparations for the mission began in 1993, when power fluctuations were traced to a loose screw in the control unit.
+"There's been a huge amount of investment in time and preparation, but also I think a lot of emotion has been invested in this in both the hopes that it would work and the fears that it might not," said Bryan Austin, the lead flight director. "I can tell you right now those emotions are coming out."
+Once NASA cut the power to Hubble, ground controllers had about 10 hours to get it up and running again before the frigid cold of outer space damaged sensitive scientific instruments.
+The old unit has never completely failed in orbit, but Hubble has done all of its great science work handicapped by the malfunctions.
+Without the new unit, Hubble did not have the power to use all the new instruments being added on this mission, including a new imaging camera, a new cooling system and the resuscitation of a long-dormant infrared spectrometer.
+The job was almost stymied before it began. About 25 minutes before Grunsfeld and Linnehan were first scheduled to depressurize their airlock, Grunsfeld's suit suddenly began leaking water from a cooling system.
+"I'm monitoring John's suit and there's a large bit of water here near the battery," radioed astronaut Jim Newman. As much as 9 pounds may have leaked out, NASA said.
+One official said the problem may have been caused by a power surge in the airlock that forced open a valve.
+The astronauts were clearly concerned, since free-floating fluids are very hard to clean up in the weightlessness of space.
+Grunsfeld was ordered into another suit and Linnehan stayed in the airlock throughout the two-hour delay.
+had the option of postponing the spacewalk, but Austin decided to press on, since the Hubble had been prepped for its power-down.

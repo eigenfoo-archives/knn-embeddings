@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c3364a341e8098e1c02be369582b4a86af41c6777520c988cd56b370f669d28
-size 2309
+At Jackson, Tenn.North Georgia vs. Dillard, La. , 10 a.m.
+Auburn Montgomery, Ala. vs. Houston Baptist , 11:45 a.m.
+Central State, Ohio vs. Vanguard, Calif. , 1:30 p.m.
+Edward Waters, Fla. vs. Oklahoma City , 3:15 p.m.
+Benedict, S.C. vs. Campbellsville, Ky. ,
+5:30 p.m.
+Southern Nazarene, Okla. vs. St. Francis, Ill. ,
+7:15 p.m.
+Union, Tenn. vs. McKendree, Ill. ,
+9:30 p.m.
+Lindsey Wilson, Ky. vs. Montana-Western , 11:15 p.m.Mobile, Ala. vs. Shorter, Ga. , 10 a.m.
+Brescia, Ky. vs. Azusa Pacific, Calif. ,
+11:45 a.m.
+Lewis-Clark State, Idaho vs. Georgetown, Ky. , 1:30 p.m.
+Oklahoma Baptist vs. Xavier, La. , 3:15 p.m.
+Fresno Pacific, Calif. vs. Freed-Hardeman, Tenn. , 5:30 p.m.
+Columbia, Mo. vs. Lambuth, Tenn. , 7:15 p.m.
+Life, Ga. vs. Cumberland, Ky. ,
+9 p.m.
+Trevecca Nazarene, Tenn. vs. Oklahoma Christian , 10:45 p.m.
+Mobile, Ala.-Shorter, Ga. winner vs. Benedict, S.C.-Campbellsville, Ky. winner, 10:00 a.m.North Georgia-Dillard, La. winner vs. Lewis-Clark State, Idaho-Georgetown, Ky. winner 11:45 a.m.Oklahoma Baptist-Xavier, La. winner vs. Auburn Montgomery, Ala.-Houston Baptist, 1:30 p.m.
+Brescia, Ky.-Azusa Pacific, Calif. winner vs. Edward Waters, Fla.-Oklahoma City, 3:15 p.m.
+Central State, Ohio-Vanguard, Calif. winner vs. Columbia, Mo.-Lambuth, Tenn. winner, 5:30 p.m.
+Southern Nazarene, Okla.-St.
+Francis, Ill. winner vs. Fresno Pacific, Calif.-Freed-Hardeman, Tenn. winner, 7:15 p.m.
+Union, Tenn.-McKendree, Ill. winner vs. Life, Ga.-Cumberland, Ky. winner, 9 p.m.
+Trevecca Nazarene, Tenn.-Oklahoma Christian winner vs. Lindsey Wilson, Ky.
+-Montana-Western winner, 10:45 p.m.
+Brescia, Ky.-Azusa Pacific, Calif./Edward Waters, Fla.-Oklahoma City winner vs. North Georgia-Dillard, La./Lewis-Clark State, Idaho-Georgetown, Ky. winner, 3 p.m.
+Southern Nazarene, Okla.-St.
+Francis, Ill./Fresno Pacific, Calif.-Freed-Hardeman, Tenn. winner vs. Mobile, Ala.-Shorter, Ga./Benedict, S.C.-Campbellsville, Ky. winner, 5 p.m.
+Union, Tenn.-McKendree, Ill./Life, Ga.-Cumberland, Ky. winner vs. Mobile, Ala.-Shorter, Ga./Benedict, S.C.-Campbellsville, Ky. winner, 7 p.m.
+Central State, Ohio-Vanguard, Calif./Columbia, Mo.-Lambuth, Tenn. winner vs. Trevecca Nazarene, Tenn.-Oklahoma Christian/Lindsey Wilson, Ky.
+-Montana-Western winner, 9 p.m.Quarterfinal winners, 7 and 9 p.m.Semifinal winners, 8 p.m.

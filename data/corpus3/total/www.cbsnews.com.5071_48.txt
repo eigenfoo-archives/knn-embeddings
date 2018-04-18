@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2889941bb469a9d4945f2723d315da5efa93bc33bbfb1b4ffb60c54d820ae477
-size 2718
+Microsoft Corp. has been given more time to respond to the European Union's concerns about allegedly anticompetitive business practices, the EU's competition commissioner said Wednesday. 
+The commissioner, Mario Monti, also called "premature" a report that the EU may decide to fine the software giant, saying Microsoft has yet to give its side in the EU's antitrust case. 
+A fine "is no more than a possibility at this stage," Monti said.
+"To speak of a fine when Microsoft has not yet disputed the Commission's preliminary findings both in fact and law, as is its right, is premature.
+" 
+The European Commission, which enforces EU rules, warned in August that Microsoft may be violating antitrust laws by bundling its Media Player into its Windows operating system, and that Microsoft may have used "illegal practices" to extend its dominance in personal computers into server markets. 
+Microsoft had two months to respond in writing to the EU's preliminary statement of objections, but Monti said the company has been granted "a short extension." 
+After that is received, Microsoft also will present its arguments at an oral hearing. 
+The Wall Street Journal reported Wednesday that the EU may seek a fine from Microsoft Corp. and demand that it drop some features from its dominant Windows software. 
+It said the fine may be higher because the Commission believes Microsoft lied to investigators and sought to obstruct the case by presenting false letters purporting to support its case. 
+Monti declined to comment on the details of the report. 
+Under EU law, the Commission can fine a violator up to 10 percent of its annual revenue, or potentially $2.5 billion in Microsoft's case.
+In practice, though, fines have never exceeded 1 percent. 
+At a news conference, Monti noted that a statement of objections sent to a company "is by no means a final conclusion," but can change after the target presents its evidence. 
+In a case against DaimlerChrysler decided Wednesday, for example, the initial finding that the German automaker had engaged in a "general strategy" to subvert internal market rules on car distribution was later dropped, he said. 
+The latest EU charges, similar to a U.S. judge's findings regarding Microsoft's Internet Explorer, adds to an ongoing EU investigation into allegations that Microsoft is illegally leveraging its dominance in the market for operating systems for personal computers into that for bigger, more powerful machines. 
+In the U.S. case, Microsoft is negotiating with U.S. authorities on whether to proceed with settlement talks.
+If the two sides fail to reach an agreement, a federal judge said she is prepared to resume court proceedings early next year. 
+By PAUL GEITNER

@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3c229571a444dee4a1bfbfcfaca42bf319b8f530533288eb4e00c70fdc7c956
-size 3169
+"The Postal Service is facing an unprecedented threat," said Rep. Henry A. Waxman (D-California), the ranking minority member of the committee.
+"Bioterrorists are poisoning innocent Americans with anthrax by taking advantage of the anonymity of the mail." 
+Waxman is proposing the implementation of a two-dimensional barcode "stamp" that would contain the sender's identity as well as the date, time and place the postage was paid.
+The technology is currently used by companies that provide Internet mailing services, such as Stamps.com . 
+He said the particulars of the proposal -? including costs and the effect on stamp machines -? still need to be hashed out. 
+A Postal Service spokesman refused to comment on the tracking proposal but allowed that the agency was "aggressively looking at virtually everything that's out there" to increase security.
+He added that mail-sorting technologies -?
+such as barcodes -- can be implemented unilaterally by the USPS without congressional approval. 
+The USPS responded to the anthrax attacks by irradiating mail, but Waxman and others say the method is insufficient.
+Because irradiation equipment is costly, it has only been dispatched to a few undisclosed postal service facilities.
+The bulk of the 680 million pieces of mail delivered each day by the USPS is not sanitized. 
+Irradiation, which consists of bombarding objects with high energy electrons that break up the bacteria's DNA and kill it is routinely used to sterilize food products such as meat. 
+But the process can also destroy the mail - earlier this month, 90 lbs.
+of envelopes and magazines burst into flames at a New Jersey postal facility when the material overheated.
+Irradiation also harms electronics, exposes film and weakens prescription drugs, said Maynard H. Benjamin, president of the Envelope Manufacturers Association , a trade group representing the makers of 93 percent of the envelopes manufactured and distributed in North America. 
+Benjamin, who attended closed-door meetings with the USPS and Waxman this month, has suggested the agency consider "fiber fingerprinting," which identifies correspondence by the unique characteristics possessed by each piece of paper. 
+But the ultimate goal of any technology adopted by the USPS should be to identify the people sending mail, he said. 
+"If you look at Federal Express or UPS, the reason there have been minimum successful threats to them is that everything they have is traceable and trackable," Benjamin said. 
+Privacy advocates say that traceable mail would stifle whistle-blowers and government critics.
+Furthermore, they argue, the system could backfire. 
+"You'll have the same fraudulent problems that you have with IDs and credit cards now," said Lauren Weinstein, the moderator of the Privacy Forum .
+"The bottom line is that the bad guys are going to find a away around it.
+What if they steal your stamps, and you get framed for something you didn't send?" 
+Weinstein said that proposal could further harm the precarious financial health of the USPS, by pushing more consumers to opt for e-mail over snail mail. 
+Have a comment on this article?
+Send it . 
+Printing?
+Use this version.

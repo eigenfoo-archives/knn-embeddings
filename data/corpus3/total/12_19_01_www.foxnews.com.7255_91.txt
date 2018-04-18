@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd823d809c37b5507a75247de94051c49ba307250836df01f40fef66d98798f7
-size 1672
+Retail sales at discount, chain and department stores fell sharply during the first two weeks of December as reluctant consumers put off holiday purchases until closer to next week's Christmas holiday, Instinet Research said in its weekly report Tuesday. 
+The Redbook Retail Sales Average tumbled 4.6 percent in the two weeks ended Dec. 15 compared with the same period in November. 
+Sales in the first two weeks of December were off 1.1 percent compared with the same period a year ago. 
+Still, many retailers' results were close to plan in the latest week, and "sales growth is expected to be the strongest in the next two weeks as consumers continue to delay purchases close to Christmas," the report said. 
+Sales of winter clothing improved as a wave of cold weather swept across parts of the country.
+Demand was also solid for consumer electronics, like DVD players, the Sony Playstation and the Microsoft Xbox.
+Videos and toys also sold well. 
+Redbook said the two biggest weeks in December for retailers are those immediately before and after Christmas. "
+These weeks could determine the entire month's performance, which makes current readings somewhat provisional," the report said. 
+The Redbook Retail Sales Average is a sales-weighted average of annual growth in same-store sales at discount, department and chain stores that report their results on a weekly basis. 
+The average is compiled from a sample of general merchandise retailers representing about 9,000 stores.
+Same-store sales measure revenues at stores open at least a year. 
+The Redbook Average is released weekly by Instinet Research, a division of Instinet, a Reuters-owned electronic brokerage.

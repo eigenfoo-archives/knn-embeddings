@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05d784a7f044e15a320fe87f361817c51a3c7c5894ecbe6840418f9aa4d71ff6
-size 1553
+Health warnings on computer games?   
+Computer games with vibrating hand-held control devices should carry health warnings because they can cause damage to hands, British doctors said on Friday. 
+The doctors think parents and children should be aware of potential health problems that could be caused by prolonged use of the devices. 
+"We believe that, with increasing numbers of children playing these devices, there should be consideration for statutory health warnings to advise users and parents," said Gavin Cleary of Great Ormond Street Children's Hospital in London. 
+Cleary and his colleagues called for the health warnings in a letter to the British Medical Journal after a 15-year-old boy developed symptoms similar to hand-arm vibration syndrome, which is caused by using industrial tools for long periods of time. 
+The syndrome was classified as an industrial disease in 1985 and sufferers receive disability benefits and compensation. 
+The boy, who played computer games with a vibrating control device for up to seven hours a day, suffered pain and swelling in his hands. 
+"The seven hours a day that our patient reported is excessive and exceeds the manufacturer's recommendation, but we must assume that this is not an uncommon occurrence," said Cleary. 
+Video game console manufacturers reportedly believe the condition is very rare and suggest that users take a break every hour to relieve any potential strain. 
+Copyright 2002 Reuters .
+All rights reserved.
+This material may not be published, broadcast, rewritten, or redistributed.

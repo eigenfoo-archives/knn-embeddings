@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13f9ca30ab6c95388dd6484164c62dbb29a5008aed55f7638b5bca2c7edaea65
-size 6797
+Pharmaceuticals: Analysts say investors should not assume the anthrax crisis will buoy such firms indefinitely.
+The spate of anthrax infections and the fear of larger-scale biological weapons attacks have triggered a surge of interest in vaccine, drug and biodetection equipment makers.
+Yet analysts warn that the stock gains linked to the current crisis may be short-lived.
+Bayer , the German maker of Cipro--the antibiotic of choice for anthrax infections--is tripling its output of the drug. And Bayer's stock price has risen by more than 33% since the anthrax outbreaks began.
+But Bayer's longer-term prospects look troubling, analysts say.
+Although Cipro produces more than $1 billion in annual sales, that's only a small fraction of Bayer's roughly $28 billion in total revenue. And the U.S. government is pressuring Bayer to voluntarily relax its patent control over Cipro, which expires in 2004, so that other companies can supply the drug. The government also could issue an order that would allow generic drug makers to produce a Cipro equivalent.
+Bayer was forced in August to pull one of its top-selling drugs, the anti-cholesterol remedy Baycol, off many international markets after reports that dozens of Baycol users died or developed life-threatening symptoms.
+Several smaller companies also have achieved sudden notoriety for work on bioterror countermeasures, yet commercial versions of many products still might need years of development.
+One field of sudden interest centers on the definitive identification of a bioweapon. At present, these tests can take days in an advanced laboratory, as diagnosis of the recent anthrax cases has shown. And much of today's diagnostic equipment is costly and bulky--unsuited for emergency response at the site of an attack.
+Two biotech companies, Sunnyvale, Calif.-based Cepheid Inc. and Nanogen Inc. in San Diego, say their products will transform bioweapon testing. The devices attempt to identify samples of hazardous microorganisms by rapidly comparing each sample's unique genetic material, or DNA, with the DNA profiles of known pathogens, such as the organisms that cause anthrax or smallpox. Scientists say these techniques are becoming highly reliable.
+The two small companies, among others, are working to streamline the process to allow field technicians to determine within 30 minutes whether a bioweapons attack has occurred and, if so, what pathogenic agent was involved.
+Nanogen's stock has jumped 73% since last month's terrorist attacks, partly on the strength of a $1.5-million U.S. Army grant to develop a portable kit using DNA comparison technology. On Wednesday, Nanogen's stock closed up 19 cents at $8.19 in Nasdaq trading.
+"Their technology theoretically could be applicable" to bioweapon detection, said Thomas Flaten, a biotech analyst with Dain Rauscher Wessels. "But there is no product now," he said, cautioning investors against betting that the bioterror crisis will buoy such stocks indefinitely.
+Last year, Nanogen lost $24 million from operations on sales of only $11 million.
+Cepheid, whose shares have more than tripled in price since the terror attacks, sells a device called Smart Cycler that analyzes 16 biological samples at once. The firm has sold about 400 units, including about 100 to biodefense agencies.
+But Smart Cycler is designed for DNA analysis in biomedical research and cancer cell detection, not for field analysis. The $27,000 device requires refined samples uncontaminated from dirt or blood.
+Cepheid is developing a version of its product that it said will refine contaminated samples and still produce a result within 30 minutes.
+A prototype of that device--about the size of a small suitcase--will be delivered to the Defense Department this year, said Kurt Peterson, the company's president. A commercial version could be available by 2003.
+"Only about 20% to 25% of our business is related to biothreat, although we have had a lot of Defense Department funding in the past," Peterson said. The company sells mainly to biomedical researchers and food safety test labs. In its last quarter, Cepheid lost $4 million on sales of $2 million.
+But experts hope that initial government acceptance of rapid-detection technology could spur general market acceptance that could boost the detection equipment industry.
+Pharmaceutical companies also have gotten a financial boost from the bioterror crisis, which has put a spotlight on possible medicines for biological weapons victims.
+But the stock spike for such companies also may prove ephemeral, analysts say. Gilead Sciences Inc., based in Foster City, Calif., saw its stock hit an all-time high last week on the strength of reports that its antiviral drug cidofovir, designed to treat AIDS-related infections, has shown promise in the lab as a possible treatment for smallpox.
+Gilead Sciences is not in the biowarfare prevention business, said Joseph Dougherty, a biotech analysts at the Lehman Bros. investment bank.
+He added that the distance between lab evidence and commercially viable treatments can be measured in years--if ever.
+Because smallpox was eradicated decades ago, children are no longer given smallpox vaccines. And adults who were vaccinated decades ago would need booster shots to ensure immunity. So government officials fear that terrorists could unleash an attack using the deadly virus.
+No U.S. company currently manufactures smallpox vaccine, and current stockpiles might be sufficient to vaccinate only 15 million people.
+Shares in Avant Immunotherapeutics Inc., based in Needham, Mass., rose nearly 60% last week, after the company licensed its vaccine technology to DynPort Vaccine Co., a major Defense Department contractor.
+"I don't think the stock bump will be sustainable" because the deal is relatively small, said Mark Monane, a physician and biotech analyst with investment bank Needham Co. "If you buy Avant, don't buy it because of biowarfare."
+Medical experts also hope that the bioweapons incidents will finally prompt the government to jump-start the vaccine industry, which has languished for years.
+The only U.S. maker of anthrax vaccine is privately held BioPort Corp. in Lansing, Mich. The company has suffered a series of manufacturing problems that has prevented it from fulfilling contracts to supply the Defense Department, let alone stockpile the vaccine for civilian use.
+"The pharmaceutical industry has shown very little interest in vaccines," which can confer permanent immunity to a disease, said Steven Block, a Stanford University biophysicist and government advisor on biological warfare.
+Drugs that treat disease symptoms offer more long-term profits, he said. "They are in the health maintenance business, not in the business of curing people."

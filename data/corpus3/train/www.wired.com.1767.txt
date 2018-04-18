@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d24cc780deca6524d3738394d8490af58e783099ffaafb847e85e3a0f53931ef
-size 3607
+This approach works, but it is expensive. An original model Aibo costs about $1,500, although new models like " Latte " are selling for just under $1,000. 
+Enter the upstart B.I.O. Mechanical Bugs from Hasbro, which hit toy stores in September and sell for $40. Fans and experts say these can herd, feed, flee, fight and even learn on their own, and seem every bit as lifelike as Sony's far pricier mechanical hound. 
+Christopher Byrne, a toy expert, is impressed with the technological sophistication of the toys, which he found to be "more fun" than the Aibo. 
+"They're wired to learn," Byrne said. "You can put it in a box, and it can be stymied, then learn to climb out, and it will remember the next time." 
+He expects the bugs to be especially popular with young boys, combining their penchant for bugs, robots and battle. "It's really cool to get (the bugs) to battle each other," he said. 
+Unlike Aibo , the B.I.O. bugs don't rely on a big computer brain to function. Although the bug-bots do use some simple computer chips, their design is actually based on robots that use only basic electronic circuitry to create "nervous networks" that can behave in very lifelike ways. In short, their genius lies in the body, and not the brain. 
+Mark Tilden designed the toys based on his 10 years of work as a roboticist and physicist with the federal lab in Los Alamos, New Mexico. One of his projects was building robots that could explore the surface of Mars for NASA. 
+The key to Tilden's approach is shedding the notion that a good robot needs a powerful central processor -- a "brain" -- like humans have. 
+"Ninety-nine percent of creatures on this planet do very well without a brain at all," Tilden said. "I've tapped in to how they do that." 
+Tilden is not the only one eschewing digital technology as the key to making artificially intelligent robots. Over the past 15 years, other roboticists have built very effective robots that don't require a motherboard or a hard drive. 
+Rodney Brooks , of the Artificial Intelligence Laboratory at MIT, is well known as the pioneer of this simpler approach, which he calls "behavior-based" robotics. 
+When he constructed his first behavior-based robot 15 years ago, Brooks' colleagues thought it was, literally, too stupid to be worth much. "I didn't have heaps of mathematical logic," he said. "They thought it couldn't be respectable." 
+The robot, named Gingus, was a six-legged walker. Each leg was operated by a simple, independent circuit connected to a sensor on the foot. When the sensor was on the ground, the circuit would instruct the leg to push down and back; when in the air, to kick forward, and so on. 
+With each leg working independently, Gingus was able to climb over things, and navigate through a crowd, and do it quickly. It took Gingus only seconds to do what its computer-based, big-brained rivals took 15 minutes of "thinking" to achieve, Brooks said. 
+"The traditional AI system tries to extract info from the world, model it, then cope in it," Brooks said, "whereas behavioral systems react to the world itself." 
+Tilden said this direct link to the world is what gives his bug toys their lifelike reaction to each other, people and the world, and makes them so much fun. 
+"The cool thing about my devices is that they do what they do by themselves," Tilden said. "They have more interactive responsibility than an Aibo. If you ignore it, it gives a death scream. If you attack the bug, it will respond to you, based on how you play with it." 
+Have a comment on this article? Send it . 
+Printing? Use this version.

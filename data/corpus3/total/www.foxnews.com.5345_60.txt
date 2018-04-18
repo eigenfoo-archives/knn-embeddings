@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26e173a552cb7393a017a5da11b158fc5502902cf3a215cfe071d3e86053d934
-size 4761
+Stocks soared Tuesday, with the broad market hitting levels unseen since late August as investors scooped up stocks across the board on increased expectations of a speedy conclusion to the war in Afghanistan.
+Helping fuel bullish sentiment were upbeat financial results from retailing giants such as Home Depot Inc. and a positive forecast from top semiconductor company Texas Instruments Inc. 
+The blue-chip Dow Jones industrial average gained 195.58 points, or 2.06 percent, to end at 9,750.95.
+The technology-packed Nasdaq Composite Index rose 51.96 points, or 2.82 percent, to 1,892.09 while the broader Standard Poor's 500 Index climbed 20.76 points, or 1.86 percent, to 1,139.09.
+The Nasdaq and S P 500 posted their highest closes since late August, and the highest finish for the Dow since Sept. 6.
+Year-to-date, however, the Dow is down 9.6 percent, Nasdaq off 23.4 percent, and the S P 500 has lost 13.7 percent. 
+"Investors are certainly acting like (the war) is not going to be a protracted drag on economic activity," said Charlie Crane, a strategist at Victory SBSF Capital Management, which oversees $4 billion.
+"It allows investors to focus on what positives may unfold as a result of monetary and fiscal stimuli that have been applied with a very heavy hand over the last several months."
+The Taliban's hard-line Islamic rule of Afghanistan appeared to be in tatters after the opposition Northern Alliance took control of the capital Kabul and other key areas.
+The United States has been waging war against the Taliban and their "guest," Usama bin Laden, chief suspect in the Sept. 11 attacks on the World Trade Center and the Pentagon. 
+Meanwhile, officials in the United States said early information suggested Monday's crash of an American Airlines passenger jet was an accident -- and not a terror attack.
+The crash, which killed up to 269 people, had raised fears another assault had been waged against the United States. 
+Airline stocks rebounded after suffering steep losses after the crash, with the Standard Poor's airline index rebounded 4.68 percent after falling 6 percent on Monday. 
+Corp., the parent of American Airlines, rose 51 cents, or 3 percent, to $17.
+UAL Corp., the parent of United Airlines, climbed 58 cents to $10.91.
+Delta Air Lines rose $1.41 to $24.68, or more than 6 percent.
+The S P hotel index bounced 5.19 percent up after losses on Monday.
+Marriott International rose $2.17 to $34.67 and Starwood Hotels added $2 at $34.50.
+Semiconductors like Intel Corp. jumped on hopes the chip industry had scraped bottom.
+Texas Instruments rose $1.90 to $33.80 after reaffirming its outlook and saying the third quarter could mark a bottom for semiconductor orders.
+Intel added $1.67 to $30.05. 
+The Philadelphia Stock Exchange semiconductor index rose 4.1 percent reflecting gains by other firms in the sector like Applied Materials, up $1.84 to $40.80.
+Oracle Corp. slipped 88 cents to $14.52 after the investment bank Credit Suisse First Boston cut its rating on the business software maker, citing weakening demand.
+The downgrade came after Oracle suggested at a technology conference its results will land below consensus estimates. 
+Compaq Computer Corp. bolted 14.8 percent higher after Lehman Brothers analyst Dan Niles said the computer maker's fourth quarter is on track and that Compaq's stock is attractive whether or not its planned merger with rival Hewlett-Packard Co. goes through.
+Compaq, the most active issue on the New York Stock Exchange, rose $1.14 to $8.80 while HP was up 93 cents at $20.23, or 4.8 percent.
+Home Depot Inc., the world's largest home-improvement retailer, tacked on a $2.88 gain to $44.
+The Dow component's earnings rose 20 percent as cost controls helped the retailer weather an uncertain economy. 
+Wal-Mart Stores Inc., the world's largest retailer, reported an 8 percent increase in profits, as consumers sought low-priced goods in the stalled economy, and said profit growth should return to about 15 percent next year.
+Its stock, however, fell 58 cents to $55, dragging on the Dow index.
+Drugmaker Watson Pharmaceuticals Inc. sank $18.61 or more than 39 percent, to $28.54 after the drugmaker posted a loss and was refocusing away from the competitive generic drugs business. 
+Advancing issues outnumbered decliners by a 7 to 3 margin on the New York Stock Exchange, where volume came to 1.33 billion shares, up from 991.3 million shares the previous day. 
+The Russell 2000 index, which tracks smaller company stocks, rose 7.24 to 447.72. 
+Overseas, Japan's Nikkei stock average fell 0.5 percent.
+Germany's DAX index was up 2.6 percent, Britain's FT-SE 100 was up 2.5 percent, and France's CAC-40 was up 4.3 percent.
+Reuters and the Associated Press contributed to this report.

@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3d9214626255cb36a6b38047b999bb81fee47940002407a7d610ff7c95f9a43
-size 4155
+   
+As American companies recovered from the latest Internet worm, the complex "Nimda" program struck companies around the world, shutting down sites in Norway, Japan and elsewhere.
+The viruslike program spreads rapidly through many ways to infect computers running Microsoft's Windows operating system.
+Nimda seemed to be abating in the United States early Wednesday. The worm is still active, but many system administrators are seeing it less.
+"We are still seeing some activity, but it doesn't seem to be quite as active," said Vincent Gullotto, McAfee.com's head virus researcher.
+Experts implored computer users to update their antivirus software and visit Microsoft's Web site to download protective software before reading their e-mail or visiting other Web sites.
+Gullotto said the worm wasn't as active in Europe or the Middle East, but more so in Asia and Australia. However, he said there is no geographic bias programmed into the worm, and researchers still aren't sure where it came from.
+Several researchers noted that the first reports of the worm came almost exactly a week after the twin terrorist attacks in Washington and New York. But Attorney General John Ashcroft has said there is no evidence linking the worm to last week's attacks.
+Web search engine company Yahoo was one of the firms infected by the Nimda, company spokesman Kevin Timmons confirmed. The company's nonpublic corporate network has been infected, but the public Web site is not.
+The malicious software program is designed to spread to people who open infected e-mail or visit an infected Web site. The program also generates more traffic on the Web, slowing down users.
+Every major antivirus company has updated software that can detect and remove Nimda.
+Microsoft has provided several different updates for both Web servers and home computers on its Web site.
+Major sporting sites in Norway, including the Norwegian Sports Federation site, were knocked offline Tuesday night when their Web provider was infected.
+In Japan, Tsuru Credit Union spokesman Takao Ide said the bank  which is west of Tokyo -- shut down its Web site after finding it infected with the program.
+After the shutdown, the bank suspended accepting account settlements and transfers of funds by customers via the Internet, Ide said.
+Several other Japanese entities were suspected of being hit by the computer worm, including Yamanashi Gakuin University, the Kyodo News agency and the Chunichi newspaper.
+The Swedish government was forced to quarantine some government computers after they were infected.
+The worm can spread in many different ways. It can infect Web sites running Microsoft's Internet Information Services software, like the recent "Code Red" worm did. Once a Web site is infected, any Web user accessing it can get the worm.
+Once one computer on a company network is infected, it can also travel across the network to attack others. Together, this can cause an entire corporate network to be infected if even a single worker visits an infected Web site.
+Finally, it can send itself through an e-mail attachment. The sender address is faked, and may be a well-known address. Researchers said they weren't sure how the address is generated. The attachment may be named "README.EXE."
+In addition to the hailstorm of junk messages slowing down Internet access around infected computers, it can overwrite critical Microsoft Windows system files, requiring a costly and time-consuming repair.
+The only clues to Nimda's origin are the words "Copyright 2001 R.P.China," which indicates a possible -- but far from definite  link to China. Also, the words "Concept virus," appear.
+Researchers say the worm could have been built as a proof of concept to see how it performs.
+"It's apparently a pretty effective one," Gullotto said.
+Alan Paller, director of research at the Sans Institute, a computer security think tank, said Nimda is far more efficient and powerful than the "Code Red" worm, which hit in July and August.
+"Each time we turn over a rock, there's another ... way it weaves itself in," Paller said. "This one's going to be with us a long time."
+

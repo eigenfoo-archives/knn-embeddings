@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dea00bb9d8a443c186800906089901b471046c2430d34e19a83726f1a20a0fb
-size 2297
+A key gauge of future U.S. economic activity declined 0.5 percent last month, as the Sept. 11 terrorist attacks weakened an already troubled economy. 
+The New York-based Conference Board said Monday its Index of Leading Economic Indicators fell to 109.2 in September, following a revised 0.1 drop in August. 
+The decrease in the September index is the largest one-month decline since January 1996, the board said. 
+"The two-month decline in the index suggests that the already-weak economy is likely to remain weak into next year," said Conference Board economist Ken Goldstein. 
+He said the slide in the index reflects a significant slowdown in the manufacturing and service sectors. 
+The index is usually closely watched because it indicates where the overall U.S. economy is headed in the next three to six months. It stood at 100 in 1996, its base year. 
+The economy has been struggling for several months before the Sept. 11 attacks. Many economists have said they believe that a recession is unavoidable with the new uncertainties raised by the disaster. 
+The Federal Reserve bank has cut a key interest rates nine times this year in an effort to shore up the economy, actions lauded by the Conference Board. 
+"Without the aggressive expansionary policy adopted by the Federal Reserve ... this drop would have been much deeper," it said in a statement accompanying the report. 
+The board said six of the 10 components of the leading index contributed to the decrease in September: stock prices, average weekly initial claims for unemployment insurance, index of consumer expectations, average weekly manufacturing hours, building permits and manufacturers' new orders for nondefense capital goods. 
+Money supply and interest rate spread were the only components that rose, while vendor performance and manufacturers' new orders for consumer goods and materials held steady for the month. 
+The coincident index, which measures current economic activity, fell 0.1 percent from a revised August number to 116.6 in September. The index of lagging indicators, which reflects changes that have already occurred, slipped 0.2 percent in September to 104. 
+The Conference Board is a nonprofit research and business group, with more than 2,700 corporate and other members around the world.

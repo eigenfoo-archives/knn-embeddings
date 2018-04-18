@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c30a23ffc9309fe76463f010dce186f0f2301213e39f249a14da853a68806928
-size 10282
+Security:
+No sign of the bacterium is uncovered at the executive mansion, Bush officials say.
+The nation's anthrax scare escalated Tuesday as traces of the deadly bacterium were detected at an off-site mail facility serving the White House and the number of life-threatening infections continued to climb, spurring health officials to immediately begin antibiotic treatments for thousands of postal workers. 
+White House officials stressed that no anthrax spores had been discovered in the executive mansion itself but said testing was underway on employees who work in the White House mail room and at a remote military facility where White House mail is processed. 
+"We're making sure that the West Wing, the White House is safe," President Bush said Tuesday.
+"I'm confident when I come to work tomorrow that I'll be safe." 
+Bush brushed aside questions about whether he personally has been tested for anthrax, saying only: "I don't have anthrax." 
+The discovery came as three more postal workers--two in Washington and one in New Jersey--were hospitalized with what is believed to be inhalation anthrax, the most deadly form of the disease. 
+That would bring the total number of inhalation cases to nine, including seven postal workers.
+There are three confirmed cases and at least three suspected cases in Washington, Florida and New Jersey.
+Three other victims have died. 
+Responding to a request by the postmaster general, Bush ordered the immediate allocation of $175 million to improve safety at U.S. postal facilities. 
+Officials also confirmed that inhalation anthrax caused the deaths of Joseph P. Curseen, 47, and Thomas L. Morris Jr., 55, both of whom worked at Washington's main mail-processing facility.
+They advised immediate treatment for thousands of postal employees, contractors and any others who spent time in the Brentwood mail facility, where an anthrax-laced letter to Senate Majority Leader Tom Daschle (D-S.D.) was handled. 
+Detection of anthrax spores at the White House's off-site mail facility focused even more attention on the Brentwood center, which also handles White House mail before it is sent to a military base miles away for security screening.
+From there, the mail is trucked to the postal facility for additional screening before it is sorted and taken to the White House. 
+Anthrax spores were discovered on a machine that opens letters at the off-site facility, but no contaminated letter has been found, according to White House spokesman Ari Fleischer.
+He said environmental samples taken throughout the White House have come back negative for anthrax. 
+It was unclear whether the anthrax found at the White House facility was caused by a new, undiscovered letter or if mail headed to the White House was somehow contaminated at the Brentwood facility. 
+Contrary to some earlier statements, postal and health officials now say they doubt that anthrax spores could spread from one letter to another during processing.
+Officials concede that developments continue to disprove their understanding of how the spores can be spread. 
+Even if there was another anthrax-laden letter sent to the White House, Fleischer said enhanced security measures imposed there since the Sept. 11 attacks would make it unlikely that anyone in the White House would be exposed.
+He declined to specify what precautions White House officials were taking with mail. 
+Workers at the White House mail room and the off-site facility will be offered antibiotic treatment to prevent anthrax infection, Fleischer said. 
+Meanwhile, hundreds of Washington postal workers who lined up Tuesday at D.C. General Hospital to be tested for anthrax exposure came away instead with a 10-day course of the antibiotic Cipro. 
+The medication was given to anyone who worked in or visited the mail processing room of the Brentwood center in Northeast Washington, which handles all mail to the nation's capital, including letters and packages destined for Congress and the White House.
+Health authorities also advised treatment for anyone who was exposed to the back rooms of the city's 36 other postal facilities, where mail from Brentwood is routed. 
+"We need to treat and treat quickly," said Dr. Ivan Walks, chief of the city's Department of Health.
+He spoke at a frenetic noon briefing as officials scrambled to contain a public health threat they do not fully understand and which has no precedent. 
+The medicine and the attention were regarded as long overdue by many district postal workers.
+They stayed on the job last week even as the House of Representatives shut down in fear of the deadly disease, only to see two of their colleagues die of anthrax. 
+"We just had the impression that no one was concerned about us," said Michael Pailen, a letter carrier in downtown Washington for 29 years. 
+City officials defended their actions but acknowledged they might have acted differently in hindsight. 
+"In retrospect, we should have done a number of things earlier," said district Mayor Anthony Williams, who began Cipro treatment Tuesday along with his mother, a retired postal worker.
+The mayor had visited the Brentwood plant last week.  
+In New Jersey, where the anthrax-laced letters sent to Daschle and NBC anchor Tom Brokaw were processed, the mood among postal employees was similarly grim.
+New Jersey Health Commissioner George DiFerdinando said 19 of the 59 environmental samples that were taken from the Hamilton processing center Sunday have tested positive for anthrax. 
+Because of the high percentage of positive tests, the New Jersey health department and the U.S. Centers for Disease Control and Prevention plan to expand tests in the post office. 
+DiFerdinando said Tuesday that a postal employee from the Hamilton facility has been hospitalized since Friday with symptoms of inhalation anthrax.
+Though initial tests for anthrax at the hospital were negative, follow-up tests conducted by the CDC were "suspected positive," according to state health officials. 
+"People are so scared," said Valerie Williams, a postal clerk who has worked in the Hamilton distribution center for 15 years.
+"No one knows who or what to believe any more." 
+Health officials in Washington stressed that there was no evidence of contamination at postal facilities other than Brentwood.
+Treatment for workers at other facilities was "a precautionary measure" pending a full assessment of any risks, they said. 
+On Capitol Hill, where both houses were in session but six congressional office buildings remained closed, lawmakers grilled representatives from the CDC and the FBI about their handling of the anthrax outbreak in Washington. 
+"There's something there that bothers us," said Sen. Tom Harkin (D-Iowa), chairman of the Senate subcommittee on labor, health and human services.
+"I want to know how soon after the workers in Trenton were diagnosed did the CDC start doing something with employees at Brentwood." 
+"It's difficult for me to fathom how anyone showing up at the hospital in the district would be sent home with flu-like symptoms," said Sen. Mary Landrieu (D-La.). 
+Harkin also questioned whether turf wars between the FBI and CDC had caused delays in disseminating critical information to public health officials.
+He asked the CDC to put together a chronology describing its actions over the last few days. 
+Dr. Jeffrey P. Koplan, director of the CDC, said his agency has been actively tracking hospitals in Washington, D.C., New Jersey and Florida for potential cases of inhalation anthrax but that the two D.C. postal workers "didn't turn up." 
+He cautioned against second-guessing doctors and hospital workers, noting that the symptoms of inhalation anthrax are common to many other ailments.
+Doctors and health officials have little experience with detecting and treating anthrax that is not naturally occurring, Koplan said. 
+"Knowing what we know today, would we have done things differently?
+Yes," Koplan said. 
+Until the deaths of the postal workers this week, health officials did not believe inhalation anthrax could be spread through a sealed envelope containing the spores. 
+"We have been on a steep curve of learning," said Dr. Rima Khabbazz of the CDC. 
+Tim Caruso, FBI deputy assistant director of counter-terrorism, stressed that criminal investigators were sharing information about the anthrax cases with health officials, even if such information is classified, to prevent further anthrax exposure. 
+"We find a way to get them information to save lives," Caruso said.
+To ensure cooperation and coordination, the FBI and CDC also have assigned investigators to work at one another's headquarters to monitor the investigations. 
+Doctors in suburban Virginia said Tuesday evening that they continue to monitor two Washington postal workers diagnosed this weekend with inhalation anthrax.
+They remain in serious condition. 
+"They are awake, talking and moving on their own," said Dr. Susan Matcha, who is treating the patients at Inova Fairfax Hospital. 
+Both patients began having flu-like symptoms Oct. 17, she said. 
+The first patient was admitted Friday afternoon with a fever, muscle aches, sweating and fatigue.
+The second was admitted to the hospital Sunday morning with symptoms including fever and headache. 
+They are being treated with three kinds of antibiotics: Cipro, Rifampin and Clindamycin, Matcha said.
+Another doctor said Tuesday that he is concerned that patients infected with skin anthrax may later show signs of the bacterium in the blood, an unexpected new wrinkle. 
+Dr. Ron Goren, an infectious disease specialist at Frankford Hospital in Oxford Valley, Pa., who treated one of the New Jersey postal workers, reported that two cutaneous anthrax cases--a New Jersey postal worker and an infant infected at ABC news studios in New York--have showed evidence of anthrax bacteria in their blood. 
+The development was unusual, Goren said, in that previous medical knowledge of skin anthrax did not suggest that likelihood.
+It also hinted at the possibility that skin anthrax, left untreated, could transform into a more dangerous form of the disease.  
+Times staff writers Stephen Braun, Megan Garvey, James Gerstenzang and Marisa Schultz in Washington and John Goldman and P.J. Huffstutter in New York contributed to this story.

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:450bd8dcd5afd1a4a0a71b980b4e5c7df097fef4c3cc98abea3e350ee178f4fc
-size 3280
+The Hubble Space Telescope showed signs of life on Wednesday after a pair of spacewalking astronauts finished a risky repair job that NASA compared to a heart transplant.
+The operation to replace a faulty power control unit, which NASA managers had feared could turn the costly satellite into a piece of space junk, was quickly followed by a stream of data as ground controllers coaxed the patient back to life.
+"Hubble has a heartbeat," said NASA spokesman Rob Navias.
+The satellite still faced hours of testing as systems were brought back online one by one.
+Astronauts John Grunsfeld and Rick Linnehan from the space shuttle Columbia had the difficult task of replacing the aging observatory's power control unit, a 160-pound box that distributes electricity to all the satellite's instruments and flight systems.
+"Outstanding work getting all of that done," a relieved Mission Control radioed the astronauts, making the third of five spacewalks on this 11-day mission.
+had to turn off Hubble's power for the first time since it sat at the Kennedy Space Center in 1990 awaiting liftoff.
+Since satellites are rarely turned off after launch, and Hubble had never been turned off, NASA counted this mission among its most risky and challenging to date.
+The old power unit was meant to be a permanent component, never to be handled 350 miles above Earth by men in bulky pressure suits, big white helmets and stiff, thick gloves.
+Linnehan had to disconnect most of the three dozen power couplings that led to various Hubble systems, much of the time using a special tool designed just for this job, since his gloved hand could not reach some of the cables and couplings.
+Grunsfeld had the job of installing the new system, which because of its size presented many of the same obstacles.
+Once NASA cut the power to Hubble, ground controllers had about 10 hours to get it up and running again before the frigid cold of outer space damaged sensitive scientific instruments.
+The old unit had never failed in orbit, but Hubble has done all of its great science work handicapped by a malfunction caused by a loose screw that made the power output somewhat unpredictable.
+Without the new unit, Hubble did not have the power to use all the new instruments being added on this mission, including a new imaging camera, a new cooling system and the resuscitation of a long-dormant infra-red spectrometer.
+But the job was almost stymied before it began.
+About 25 minutes before Grunsfeld and Linnehan were first scheduled to depressurize their airlock, Grunsfeld's suit suddenly began leaking water from a cooling system.
+"I'm monitoring John's suit and there's a large bit of water here near the battery," radioed astronaut Jim Newman, who was helping Grunsfeld prepare for the spacewalk.
+It was not clear how much water leaked, or why, but the astronauts were clearly concerned, since free-floating fluids are very hard to clean up in the weightlessness of space.
+"The back of the suit's pretty well saturated," said astronaut Nancy Currie.
+Television pictures beamed down from Columbia showed several astronauts trying to capture the water with towels before it could escape the suit.
+Grunsfeld was ordered into another suit and Linnehan stayed in the airlock throughout the two-hour delay.

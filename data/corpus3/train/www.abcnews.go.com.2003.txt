@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2eef555b57662609db3676c8d44dfca0d5e8b6ed5857f691535a1222c745f94
-size 4567
+A fluorescent green potato plant may seem like a biotechnology nightmare come true, but scientists claim it could save agricultural costs and tackle dire water shortage problems in the future. Rather than relying on uncertain soil tests and weather forecasts to gauge when their crops need water, farmers instead could read the fluorescence of the specially engineered potatoes.
+The innovation holds potential to influence a very important resource since potatoes are one of five major crops that feed three-quarters of the world s population. And growing potatoes requires an even more vital resource water. 
+
+There have been signals that by 2050, water could be the most expensive agricultural product in the world, says Anthony Trewavas, a biologist at Cambridge University in Cambridge, England. So if you can provide a device that signals when a farmer s crop needs water, not when he supposes it needs water, then you can save money. 
+Trewavas and his colleagues created the unusual potato plant by borrowing a gene from an animal that glows green naturally the luminous jellyfish, aequorea victoria . The team spliced the gene into the potato so when the plant first senses it s in need of water, it triggers a process to begin conserving water as well as the inserted process that makes it glow green.
+When exposed to black light, Trewavas explains, the dehydrated plant glows like a white shirt in a disco. The plant is expected to be ready for the field in about five to 10 years. Trewavas envisions that farmers could plant the crop in strategic locations throughout their fields as signal crops. The engineered potatoes would then be removed before normal potatoes are harvested for eating.
+It s very easy to overwater potatoes by watering too often or too much, explains Steve Love of the Aberdeen Research and Extension Center College of Agriculture at the University of Idaho. If we could relieve either one of these problems it could not only prevent wasting water, but also prevent nutrients from leaking from the soil. 
+Overwatering potato crops sometimes causes nitrates in the soil, as well as nutrients in the potato to run off into water tables that are inaccessible to the plant, Love explains. 
+
+Trewavas first thought of the idea while traveling through rural Scotland where he saw farmers watering their potato fields even after a heavy rainfall. Farmers tend to favor overwatering potato crops, says Trewavas, since the plant, which originated as a crop more than 6,000 years ago in the moist environs of the Andes, tends to grow larger spuds when offered an abundance of water.
+But an abundance of water might not always be available in the future.
+The signs of growing water shortages are worldwide. In the United States, the Colorado River has dwindled from a once gushing river to one that often dries up before reaching the Gulf of California. Residents in Alabama and Florida are in skirmishes with officials in Georgia about water supplies from shared river basins. 
+In China, the Yellow River ran completely dry in 1997. And the Nile River in Africa and the Ganges River in South Asia as among other rivers that often run dry before reaching the sea.
+Water has been an abundant resource and an essentially free resource so we take it for granted, says Worldwatch Institute President Lester Brown. We now know we can t do that anymore. 
+
+Rebecca Goldberg, a biologist at Environmental Defense, points out that while biotechnology can be useful, issues like water shortages and changing agricultural practices are complex and require complex solutions.
+Making sustainable agriculture and providing foods is a really complicated problem that has to do with how governments and farmers manage crops, she says. There is no one solution. If anything biotech is only one small piece of the puzzle. 
+Clen Atchley, a potato farmer in Ashton, Idaho, isn t yet certain how much a glowing green potato plant could serve his needs.
+Right now Atchley hires a consultant to inspect his 1,100 acres of potato fields every week. He says the consultant uses probes to take readings of soil moisture as well as simply feeling the soil between his fingers to detect how much water the crops need.
+Atchley says his consultant s work seems to be accurate enough. But, he adds, he s open to new ideas out of necessity.
+Maybe they ve got something for us, says Atchley. Usually these new ideas don t work, but sometimes they do. You don t want to be first in this business that s dangerous. But you better be second or third to survive.

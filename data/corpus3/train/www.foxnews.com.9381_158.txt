@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca5bb1c5d12d9b0b04b13f0028d2776d89721f2249a4e538544c3f7374a3c57d
-size 4076
+Fla. Two astronauts stepped out into the vacuum of space Wednesday and successfully performed the riskiest surgery yet on the Hubble Space Telescope, a power-unit replacement that was likened to a heart transplant.
+The operation required that Hubble be turned off completely for the first time in orbit, a frightening prospect for astronomers. But after a four-hour, 25-minute shutdown, the newly installed unit was powered up and, to everyone's relief, passed its initial test.
+"A postoperative report: We have a heartbeat," Mission Control informed the astronauts. Within minutes, power was surging through other telescope systems.
+The spacewalk, the third in as many days for shuttle Columbia's crew, got started late because of a leaky spacesuit.
+An unusual and unexplained water seepage from astronaut John Grunsfeld's suit forced him to pull off his soaked top and get into a dry one. It pushed back the spacewalk by two hours, adding dramatic suspense to an already tension-filled day.
+held off shutting down Hubble until Grunsfeld and Richard Linnehan were ready to start disconnecting the old power control unit, an hour into their spacewalk.
+"For the first time since its launch on April 24, 1990, Hubble is without a heartbeat," Mission Control reported.
+It was the part of the mission that scientists had feared most. The failure of a critical system could leave the $2 billion-plus telescope crippled or even useless.
+It took the two spacewalkers about 3 hours to remove the old power control unit and plug in the new one. It was a tedious job requiring 36 connections and made all the more difficult by poor access and a protruding bundle of wires.
+Grunsfeld used a long spatula and a specially designed wrench to hook up all 36 connectors on the left side of the new power unit, a long, narrow black box.
+"What I need," he said, pausing to take a breath, "is to have talked about this in 1975 and laid out this bay."
+"Ashamed to mention it, but I was in high school," astronaut Nancy Currie replied from inside the cockpit.
+"Me, too!" Grunsfeld said.
+Grunsfeld was congratulated by his crewmates after the last connector was twisted on. "Outstanding work," Mission Control radioed. "That is some tough work with those gloves on."
+said it had little choice but to replace Hubble's original power control unit.
+The 12-year-old unit had a loose screw that hampered its ability to circulate electricity through the telescope. If it wasn't replaced, astronomers would have been able to operate only one or two scientific instruments at a time. In the worst case, some of the telescope's batteries could have overheated, ruptured and wrecked Hubble.
+"As with any beloved relative, you're worried about sending them in for bypass surgery or even a heart transplant, but you realize that the risk of not doing it is severe," Hubble project scientist Dave Leckrone said Tuesday.
+could not guarantee that all of Hubble's systems would come to life once the new power control unit was plugged in and the telescope turned back on. But officials said the risk was lower than the potential for failure from the old unit.
+The astronauts and ground controllers raced against the clock once Hubble fell silent. The telescope's systems cannot be without power too long, otherwise they could be damaged by the cold.
+During their first spacewalk on Monday, Grunsfeld and Linnehan hung thermal blankets on the telescope where the more sensitive instruments are located to help keep them warm while the power was off. They installed additional covers Wednesday.
+In the minutes following the spacesuit leakage, Mission Control debated whether to postpone the power-unit replacement by a day and have Grunsfeld and Linnehan install an advanced camera, a much shorter job slated for Thursday. But flight controllers stuck to the original plan, even though it meant for a much longer workday.
+Grunsfeld, an astrophysicist, worked on the 43-foot Hubble during the last service call in 1999. Linnehan is a veterinarian who has operated on elephants, rhinos and whales.

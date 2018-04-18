@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e73494b958dc1155833f6d77ec3ecd90972774834e370f5309d9c47d3ac0a629
-size 2712
+Nov. 15, 1999 Online music execs are already buzzing about this year's Webnoize music event. Veterans are returning flush with cash, and startups will surely be vying for attention. By Jennifer Sullivan. 
+Nov. 13, 1999 After the RIAA comes calling, the University of South Carolina begins monitoring the school network for suspicious download activity. By Kristen Philipkoski. 
+Nov. 12, 1999 Bit by bit, manufacturers are implementing security features that will meet the proposed requirements of the record industry's SDMI initiative. By Christopher Jones. 
+Nov. 10, 1999 New software tackles the problematic task of securing downloadable digital music for use in portable players. Crackers have thwarted previous efforts at protecting content. 
+Nov. 10, 1999 Streambox releases software that "repurposes" RealNetworks content so users can avoid that nasty encryption and take their favorite music streams anywhere. By Christopher Jones. 
+Nov. 9, 1999 Dozens of Carnegie Mellon University students lose their Internet privileges after school officials do a random search for illegal MP3 files. Music industry threats prompted the bust. By Kristen Philipkoski. 
+Nov. 6, 1999 RealNetworks posts an updated RealPlayer to remove personal tracking code. A week ago, the company addressed related concerns with its RealJukebox software. By Chris Oakes and Jennifer Sullivan. 
+Nov. 5, 1999 You've got an MP3 player on your computer, and maybe you've tested portable waters, too. All you need is an MP3 home stereo deck. A Wired News review by Christopher Jones. 
+Nov. 4, 1999 The supposed hacker-proof DVD security system was easily broken by Linux users who couldn't watch movies on their systems. Andy Patrizio, who broke the story, offers suggestions about what the movie industry should do next. 
+Nov. 3, 1999 Online music shops such as RealNetworks are no different from other retailers in wanting your demographic data. After all, big bucks are at stake. By Jennifer Sullivan and Christopher Jones. 
+
+Nov. 2, 1999 The online grocer's initial public offering, delayed in October, is expected to proceed Wednesday. Also: Barnes & Noble buys a chunk of iUniverse.com.... Replay Networks unveils new personal video recorder.... Beatnik Inc., Mixman Technologies in merger. 
+Nov. 1, 1999 Privacy group Truste promises to investigate the Net music company for tracking individuals' listening habits. The company will issue a software patch, but privacy advocates call for government participation. By Leander Kahney. 
+Nov. 1, 1999 New software allows users to chat about their favorite music and swap MP3 files. Isn't this the way the Net's supposed to work? Not everybody thinks so. By Jennifer Sullivan.

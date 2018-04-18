@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25e87bb37b25019e2416436121f4339665bcafae162cb5d1f723c49cdc60da3b
-size 4005
+gave the shuttle Columbia astronauts permission Saturday to proceed with their full mission to renovate the Hubble Space Telescope despite clogged plumbing in their ship.
+Optimism had been growing throughout the day, aboard Columbia and inside Mission Control, that the 11-day Hubble servicing mission would remain on track despite a problem with a radiator line used to shed heat from shuttle electronics.
+The trouble had threatened to cut short the flight.
+Debris in the line, possibly leftover from a welding job during Columbia's recent overhaul, resulted in a violation of flight safety rules during Friday's launch.
+But mission director Phil Engelauf emphasized that engineers had become more comfortable with the reduced flow of Freon in the line, and that it would be sufficient for handling the increased heat load from shuttle systems during landing.
+The final decision by mission managers came late in the afternoon as the seven astronauts slept.
+It means the crew can press forward with Sunday morning's rendezvous with Hubble and five days of spacewalks to improve the telescope's electrical and scientific output.
+Columbia's commander, Scott Altman, said earlier in the day that he and his crew were "charging ahead full speed with our eyes on the goal," regardless of what the outcome might be.
+"To be honest, we've gone on the assumption that we're here to stay, that we're going to do our job, and we've just kind of kept that thought foremost in our minds," he said in an interview with The Associated Press.
+Astronaut John Grunsfeld, the chief telescope repairman, said he was so busy preparing for the spacewalks that he didn't have time to ponder the coolant system problem -- or the threat of a shortened mission.
+"One of the things that astronauts and a lot of other professionals are very good at is compartmentalizing certain types of concerns," Grunsfeld told the AP.
+"We're letting the smart folks on the ground really worry for us."
+The cooling system problem arose moments after Columbia reached orbit.
+The flow of Freon in one of two coolant loops dropped drastically and even dipped a little below the safety limit.
+Once the shuttle's payload bay doors were opened, exposing large radiators that dispel heat, the cooling problem was eased for the time being, Engelauf said.
+But a concern did remain about landing day, when shuttle electronics generate additional heat and the payload doors are shut and can't radiate the excess.
+Engineers wanted to assure themselves that the Freon flow in the clogged line would not worsen and that the unclogged line would stay that way.
+The contamination in the line may be solder or wiring left over from welding that was part of Columbia's extensive two-year overhaul, Engelauf said.
+Even though the pipe was flushed afterward, residue may have remained inside and, all these months later, been knocked loose by the force of liftoff.
+"That's the speculation," Engelauf said.
+"But we don't have any proof of that and we won't really be able to know until we get the vehicle back."
+Records show a welding error happened during the overhaul, but the line was cleaned, inspected and recertified, said Kari Fluegel, a spokeswoman for United Space Alliance, a private contractor.
+The flight rule pertaining to the coolant levels was written years ago and based on the assumption that all of the shuttle electronics would be running during landing, Engelauf said.
+By shutting down some systems, the heat load would be reduced and the so-called red line, or safety limit, could be lowered.
+"It would be a foolish waste of NASA's resources and the government's investment for us to arbitrarily decide to come home out of over-conservatism," he told reporters.
+"If we can see our way clear with good engineering rationale to continue and fly that mission, that's what we are supposed to do."
+Shuttle program manager Ron Dittemore said if any further degradation is noted in the flow of Freon, he and his team will have to reassess the situation.

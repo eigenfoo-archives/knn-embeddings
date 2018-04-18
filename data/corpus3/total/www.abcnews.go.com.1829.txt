@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6313448dd656807660d73c8fd29c181f0947ef57e153675dc1311d11bedfa779
-size 3579
+For decades, scientists have been in awe of the lowly spider and the magical material it uses to spin its web.
+After all, strands of spider silk are a mere one-tenth the thickness of human hair, yet they can snag a bee traveling 20 miles per hour without breaking.
+Ounce for ounce, spider silk is five times stronger than steel and about three times tougher than man-made fibers such as Kevlar.
+And that makes the material ideal for all sorts of interesting uses from better, lighter bulletproof vests to safer suspension bridges. 
+But "harvesting" spider silk hasn't been easy.
+Unlike silkworms, spiders aren't easy to domesticate. "
+Spiders are territorial carnivores, they eat each other if placed in contact of in close proximity," says Jeffrey Turner, president and CEO of Nexia Biotechnoloies, Inc.
+"It's like trying to farm tigers."
+Now, researchers at the Quebec-based Nexia along with scientists at the U.S. Army's Soldier Biological Chemical Command (SBCCOM) in Natick, Mass., say they may have figured a way out of the sticky situation. 
+In the latest issue of Science, the researchers report that they've managed to successfully create artificial spider silk that's nearly as good as the real thing and without involving a single spider.
+How?
+Turner and his team of bio scientists took the genes responsible for creating spider silk into the cells of mammals, such as goats.
+Using those genes, the re-engineered goats were then able to produce in their milk the same protein that makes up spider's silk.
+Turner says that by isolating those proteins from the goats' milk, they were then able to "spin" a thread remarkably similar to natural spider silk.
+"On things like toughness and modulus of elasticity the ability to stretch without breaking we're right on the money," says Turner.
+Still, Turner does note there are still many other factors that need to be worked out before we see bridges built with man-made silk.
+For one, the amount of silk-building protein that Nexia has been able to produce has been limited to a few strands.
+And it isn't clear yet how much protein may be able to be harvested in such a manner.
+Turner says his team expects to have a second research paper that would examine such details out by the end of this year.
+And Nexia's experimental silk strands aren't an exact match yet.
+Turner notes that they're only 20 percent to 40 percent as strong as natural spider silk.
+"We still have more work to do," says Turner.
+"But to get this far is just a step forward."
+Herd of Silky Goats? 
+And moving even further forward is what really excites Turner and his military partners. 
+The most promising aspect of their research so far: The spider genes are faithfully passed on among the experimental goats.
+And that means producing more artificial silk might be as simple as breeding more of the genetically-enhanced goats naturally.
+Since starting the experiment three years ago, Turner says Nexia's flock in Montreal has grown to nearly 50 goats.
+Within the next several years he expects the flock to scale up to "several thousand."
+And as the company continues its research and grows out the herd, Turner believes that it won't be long before we could see commercial applications.
+Nexia has already plans to market the material, dubbed BioStell, for use as fine suture material and biodegradable fishing line by 2003 or 2004.
+If all goes well by then, he says it wouldn't be too much of a stretch to see lightweight body armor made of artificial spider silk within three to five more years. '
+Ned Potter and Paul Eng contributed to this report.

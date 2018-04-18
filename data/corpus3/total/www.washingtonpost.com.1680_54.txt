@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c87176b9dbbfb5bba76944657529fe8ad4a5f116d2dd1af23c15f2405ee3cccd
-size 9515
+U.S. scientists, spurred into action by the events of Sept. 11, have begun a concerted assault on bioterrorism, working to produce an array of new medicines that include treatments for smallpox, a safer smallpox vaccine and a painless anthrax vaccine.
+At least one major drug company, Pharmacia Corp. of Peapack, N.J., has offered to let government scientists roam through the confidential libraries of millions of compounds it has synthesized to look for drugs against bioterror agents.
+Other companies have signaled that they will do the same if asked.
+These are unprecedented offers, since a drug company's chemical library, painstakingly assembled over decades, is one of its primary assets, to which federal scientists usually have no access.
+"A lot of people would say we won World War II with the help of a mighty industrial base," said Michael Friedman, a onetime administrator at the Food and Drug Administration who was appointed days ago to coordinate the pharmaceutical industry's efforts.
+"In this new war against bioterrorism, the mighty industrial power is the pharmaceutical industry."
+One example of the new urgency is an initiative launched by Eli Lilly Co.
+One of the company's infectious-disease experts, Gail Cassell, realized during the anthrax scare that her company had three drugs that might work as treatments for smallpox, even scarier than anthrax as a potential terrorist weapon.
+In a matter of days Cassell, a Lilly vice president, tore through paperwork that normally would have taken months, put samples of the drugs on a plane and flew them to government laboratories in the Washington area to be tested against smallpox.
+It's not clear yet whether the drugs will prove effective.
+"We all have to think of the situation as being rather urgent," Cassell said.
+"You're kind of waiting for the next shoe to drop, given the events of the last two months."
+Researchers say a generation of young scientists never called upon before to defend the nation is working overtime in a push for rapid progress.
+At laboratories of the National Institutes of Health, at universities and research institutes across the land, people are scrambling.
+"This has been such a shock to so many people," said Carole Heilman, a division director at NIH, which is paying for much of the bioterror research.
+"People aren't sleeping anymore.
+Everybody is working as much as they possibly can.
+Bureaucracy is not a word that's acceptable anymore."
+But the campaign, for all its urgency, faces hurdles both scientific and logistical.
+The kind of research now underway would normally take at least a decade before products appeared on pharmacy shelves.
+Scientists are talking about getting at least some new products out the door within two years, a daunting schedule in medical research.
+If that happens, it will be with considerable assistance from the nation's drug companies.
+They are the only organizations in the country with the scale to move rapidly to produce pills and vials of medicine that might be needed by the billions.
+The companies and their powerful lobby in Washington have been working over the past few weeks to seize the moment and rehabilitate their reputations, tarnished in recent years by controversy over drug prices and the lack of access to AIDS drugs among poor countries.
+The companies have already made broad commitments to aid the government in the short term, offering free pills with a wholesale value in excess of $1 billion, as well as other help.
+The question now is whether that commitment will extend over the several years it will take to build a national stockpile of next-generation medicines.
+"This is a time of crisis," Friedman said.
+"I think the industry is going to be very patient and going to be making a long-term commitment.
+It's the right thing to do."
+A good deal of basic research is already going on at nonprofit institutes that work for the government under contract, and scientists there say they are newly optimistic about the prospects of commercial help.
+"The main issue is, can we get the facilities?" said John Secrist III, vice president for drug discovery and development at Southern Research Institute in Birmingham, which is looking, under federal grant, for antiviral drugs to treat smallpox.
+Given the new mood in the country, he said, "if we come up with a molecule that's going to be of help, then I have no doubt that we could very rapidly convert that into doses for humans."
+Many of the projects that could lead to new drugs and vaccines were underway before Sept. 11, thanks partly to an extensive commitment NIH made two years ago.
+Others, like the smallpox project Eli Lilly initiated, have been started from scratch in recent weeks.
+Before Sept. 11, NIH had planned to spend $93 million on next-generation bioterrorism research this budget year.
+That was nearly double the amount in the prior year, but now the actual figure is likely to jump by tens of millions.
+Other parts of the government, including the Department of Defense, are spending millions as well, often in cooperation with NIH.
+Much of the immediate focus is on better defenses for smallpox and anthrax, two bioterror agents theoretically capable of killing millions.
+Smallpox was eradicated from the United States in 1949 and from the rest of the world in 1978.
+The last remaining stocks of virus are supposedly secure in two repositories in the United States and Russia.
+Some terrorist groups are feared to have gotten their hands on virus samples from Russia, and if that's true, they could set off a worldwide epidemic.
+Stopping such an outbreak would require mass vaccinations.
+The government has a stockpile of old smallpox vaccine, but the supply is limited.
+It is, moreover, a primitive product, not substantially different from the vaccine discovered by English physician Edward Jenner in 1796.
+Using it involves deliberately infecting a person with a mild virus related to smallpox, which prompts the immune system to mount a defense that works against smallpox as well.
+The government is about to place emergency orders for more vaccine.
+However, the vaccine itself can provoke illness in some people, and a mass vaccination campaign in the United States would likely cause hundreds, if not thousands, of deaths.
+In work sponsored by NIH and the Pentagon, scientists are studying the prospect of creating a modern vaccine that uses only a small, harmless part of the smallpox virus to induce immunity -- a so-called "subunit" vaccine.
+The safest modern vaccines are made that way.
+Anthony Fauci, head of the National Institute of Allergy and Infectious Diseases, a unit of NIH, said progress is being made but an improved smallpox vaccine could still be years away.
+A complementary near-term strategy is to come up with ways to treat vaccine-induced illness so as to minimize deaths. 
+Supported by Fauci's institute, Paul W.H.I. Parren at the Scripps Research Institute in San Diego is working on creating proteins to do that.
+Similar work is progressing in other labs.
+Parren said his lab has obtained promising results, and animal testing may begin soon.
+He estimated production of a drug could conceivably get begin within a year. "
+These last events have accelerated everything," he said.
+Scientists are also trying to make an improved anthrax vaccine to replace the primitive one in use today.
+Prospects are brighter in the near term than for a new smallpox vaccine, in part because much of the necessary knowledge about anthrax is already in hand.
+"I think that's something that could move along very rapidly," Fauci said.
+Some private companies are interested.
+Iomai Corp. of Gaithersburg is working on a project that would use a skin patch developed by the company to vaccinate against anthrax.
+This strategy might overcome the repeated, painful injections and side effects that have prompted hundreds of U.S. soldiers to refuse anthrax vaccinations.
+The company is collaborating with a government lab that has received a $300,000 federal grant but wants more.
+"If we had the resources and the commitment, I think we could have a working experimental vaccine evaluated in nine months, which in the vaccine universe is very fast," said Gregory Glenn, senior vice president at Iomai.
+While a new smallpox vaccine could contain an outbreak, it would not help people infected in an attack.
+The disease is untreatable.
+To solve that problem, labs are working on antiviral drugs to attack Variola major , the smallpox virus.
+A drug called cidofovir, developed in the 1990s to treat an AIDS-related infection, has already shown promise against smallpox, but it has serious side effects.
+Scientists are trying to make chemical cousins with fewer side effects. 
+The drugs from Lilly are also possibilities.
+If one of them should prove to work, the company is committed to a crash program to produce it, Cassell said.
+"We are absolutely willing to do that," she said.
+"I would just emphasize that we would do it for the good of the country, not for the good of Lilly."
+Instead, the best scientists will be able to get is animal testing for effectiveness.
+The drugs can, however, be tested in uninfected human volunteers to see whether they're safe to administer.
+Blood markers in those tests should give researchers some idea whether a drug or vaccine is working the same way in people that it does in animals.
+"I think we're going to have to settle" for such lesser proof of effectiveness, Fauci said.
+"That's just the reality of the situation."
+Related Links

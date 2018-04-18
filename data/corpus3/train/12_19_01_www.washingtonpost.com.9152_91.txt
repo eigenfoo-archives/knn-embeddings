@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b07cee4c35b06a08e025443e2e3686f7951cef3fe7c8e05b61d210bdfc746402
-size 2587
+The National Transportation Safety Board is investigating whether a rudder problem caused a United Airlines Boeing 737 to suddenly bank while descending for a landing in Chicago last week. The plane landed safely.
+Rudder problems on 737s are suspected in two deadly U.S. air crashes in the early 1990s. Last month, the Federal Aviation Administration proposed requiring airlines to install new rudder control systems on 737s, the world's most popular commercial jets.
+The rudder is the flap on the vertical tail of the aircraft. Moving the rudder left or right causes the plane to turn in that direction.
+The pilots flying United Airlines Flight 578 from St. Louis to Chicago's O'Hare International Airport last Thursday afternoon reported the plane's nose suddenly swung to the left and right when the aircraft began descending at around 9,000 feet, FAA spokesman Paul Turk said Monday.
+The pilots disconnected the autopilot and the plane then banked sharply, Turk said. They had to apply pressure on the rudder pedals to level the wings and regain control.
+After the plane touched down, the pilots said the rudder swung left and then fully to the right, causing a loud bang, Turk said.
+The plane stopped safely and all 93 passengers got off without incident.
+spokeswoman Lauren Peduzzi said investigators checked the plane during the weekend and are studying its flight data recorder and cockpit voice recorder.
+"We're still reviewing all the data to see exactly what caused the incident," said Peduzzi, who described it as a "rudder anomaly."
+Boeing spokeswoman Liz Verdier said a number of factors could have been responsible, including the aircraft itself, the pilot or the weather.
+"We don't know what that anomaly is," she said.
+Verdier said Boeing considers the incident serious and would consider checking its entire fleet if the NTSB investigation indicates it could be more than an isolated occurrence.
+United spokesman Joe Hopkins declined to comment.
+Boeing announced in September that it would train pilots in how to handle jammed rudders and would begin installing new rudder systems on 737s in 2003.
+The FAA's rudder proposal would give the airlines five years to install the new systems. The FAA estimates that 2,000 U.S. airplanes would have to be refitted, at a cost of $364 million.
+The FAA is seeking public comments for 60 days before issuing the new directive.
+The NTSB blamed rudder problems for a US Airways crash outside of Pittsburgh in 1994 that killed 132 people and a United Airlines crash at Colorado Springs, Colo., in 1991 that killed 25.

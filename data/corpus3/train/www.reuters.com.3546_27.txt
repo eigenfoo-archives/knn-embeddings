@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b1cc4b10e2952e4b4a1733657d713f8f35c709dd215ad4cc9e306137dda2a52
-size 1577
+Tokyo stocks extended early gains by mid-afternoon on Thursday after a healthy rebound on Wall Street encouraged investors to buy back battered high-techs and auto shares such as Honda Motor Co Ltd, traders said. 
+"Autos were among the first to be dumped after the attacks (in New York and Washington) as they depend on the U.S. market. It's only natural they are the ones to rebound first," said Hiroshi Sato, equities general manager at Cosmo Securities. 
+The benchmark Nikkei average was up 226.91 points or 2.28 percent at 10,191.79 at 12:49 a.m. EDT, while the broader TOPIX index rose 21.81 points or 2.12 percent to 1,052.98. 
+Honda Motor, which relies heavily on the North American market for sales, surged 10.58 percent to 4,390 yen. Its shares were still down some nine percent from pre-attack levels. 
+Rival Nissan Motor Co Ltd followed Honda higher, trading up 7.34 percent at 585 yen. 
+Thursday marks one month since the deadly attacks that leveled the World Trade Center and killed more than 5,000 people. 
+Major technology stocks were equally stronger, with investor spirits cheered by a 3.57 percent advance on the U.S. tech-rich Nasdaq market. 
+High-tech powerhouse Sony Corp soared 9.72 percent to 4,740 yen, while chip and computer maker NEC Corp jumped 8.32 percent to 1,094 yen. 
+Cosmo's Sato said, however, that Thursday's gains were due in large part to short-covering prompted by U.S. gains. 
+Uncertainty over the impact of the attacks and the military strikes in Afghanistan are hindering most investors in chasing shares much higher, he said.

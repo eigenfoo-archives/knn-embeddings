@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:649f11bb69172ea0a1aff96a5d96b4cdcce65a9ca9c24ebe394bf0a5f35d6edb
-size 3035
+Forty-four captive-bred dormice were released into an English woodland on Thursday. 
+It was yet another step in the rescue plan that aims to save one of the UK's rarest mammals from extinction. 
+The animals, with their orange/yellow fur, large black eyes and furry tails, have been placed temporarily in wire mesh acclimatisation cages wrapped around the branches of trees, where they will be fed and monitored. 
+After 10 days, openings will be made in the mesh, allowing the dormice to disperse into the woods to find their own food and make their nests. 
+The precise location of the release in Cambridgeshire is being kept secret to ensure the animals are not disturbed. 
+
+Hazel dormice ( Muscardinus avellanarius ) have been in steady decline for decades as hedgerows and woodland have been turned over to arable production. Climate change and changes in coppicing practice may also have been factors. 
+The creatures have vanished from at least seven counties where they were reported to be present a century ago. 
+Even where they do survive, populations are said to be under severe pressure. 
+One recent survey found that dormice had completely disappeared from 70% of the hedgerows where they lived as recently as 1983. 
+Their threatened position means they now have priority status in the species recovery programme overseen by English Nature, the government's wildlife agency. 
+
+Thursday's release had been organised by English Nature itself, Mammals Trust UK, Royal Holloway, the University of London and the Forest Enterprise, which is managing the woodlands where the dormice have been set free. 
+Dr Tony Mitchell-Jones, mammal expert from English Nature, said: "The dormouse is a key indicator for ancient woodland. If we can re-establish breeding colonies in suitable woodland, it will be great news for dormice, and a milestone for conservation." 
+This point was echoed by Dr Valerie Keeble, chief executive of Mammals Trust UK. She told the BBC: "They're very particular creatures. Throughout the summer, they need lots of different plants to survive - as the plants come to fruit, they eat the fruit and the budding. So if the countryside is suitable for dormice, it's suitable for lots of other species as well." 
+The young animals being introduced into the Cambridgeshire wood have been raised in captivity by licensed members of the Dormouse Captive Breeders Group. 
+Previous releases have shown the dormice can establish themselves in their new environment and even extend their range. 
+
+Dormice are nocturnal. Their favoured habitats are deciduous woodland and overgrown hedgerows. 
+They like to run in the canopies of trees to search for food - pollen, fruits, insects and nuts. 
+In summer, dormice make distinctive grapefruit-sized nests, from vegetation and particularly honeysuckle bark, in which to rear their young. 
+In winter, they hibernate and if food has been particularly scarce, the animals are able to lower their body temperature and become torpid - this way they can save energy.

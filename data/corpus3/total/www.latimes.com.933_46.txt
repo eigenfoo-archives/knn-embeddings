@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f9e6ca81bcc9b046d1ef3a2238e788bcf7c7c2f7972125f4917588279f0ca56
-size 4763
+Treatment: D.C. health officials, in a shift, are prescribing doxycycline, another antibiotic that is cheaper and as effective against anthrax.
+Public health officials, gaining a better understanding of the medical challenge posed by proliferating cases of exposure to anthrax spores, have begun changing their approach to treating people at risk of infection. 
+On Saturday, the District of Columbia's Department of Health started prescribing a cheaper antibiotic, doxycycline, rather than Cipro--the medicine it dispensed to more than 10,000 people last week.
+Those eligible for the drugs include postal workers and corporate mail room workers who may have handled mail tainted with anthrax spores. 
+The Supreme Court justices are among those taking the cheaper drug, said Dr. Ivan Walks, the district's chief health officer.
+Test results received Friday showed anthrax spores in an air filter at the court's off-site mail screening center. 
+Anthrax spores were detected in yet another post office in New Jersey on Saturday.
+And hazardous material teams continued to comb congressional office buildings after traces of the bacteria were discovered in the offices of three House lawmakers. 
+Until now, Cipro has been the drug of choice for those exposed to the bacteria because it is effective on strains of anthrax that are resistant to doxycycline.
+But tests on the anthrax spores in a letter to Senate Majority Leader Tom Daschle (D-S.D.) have proved susceptible to both drugs. 
+"We know now without a doubt that this particular bug is sensitive to doxycycline," Walks said.
+"Why would we keep people on the big gun Cipro , which has more side effects, when we can use a just-as-effective antibiotic that people can tolerate better?" 
+Cipro's side effects include nausea, diarrhea, vomiting, skin rashes and nerve damage.
+Cipro can also cause organ damage when taken with other prescription drugs, such as warfarin (Coumadin), which is used to prevent blood clots. 
+Cipro, made by Bayer Corp., is also much more expensive than doxycycline, a generic drug made by many different firms.
+At pharmacies, 500-milligram Cipro pills cost about $5 each, while 100-milligram doxycycline costs about 60 cents per tablet. 
+Public health authorities recommend that people exposed to anthrax take either drug twice a day for 60 days. 
+"Now that we know that this strain is responsive equally to both, we're encouraging people to go on doxy because it's much less expensive and equally effective," said CDC spokeswoman Lisa Swenarski. 
+"Certainly now that we're talking about increasing numbers of people that are going on antibiotics, you have to look at questions of cost and supply." 
+The Department of Health and Human Services has contracts to buy 100 million Cipro tablets from Bayer at 95 cents each.
+The government is also buying 1.2 billion tablets of doxycycline from Ivax Pharmaceuticals Inc.; terms have not been disclosed. 
+A third post office in New Jersey was closed Saturday after traces of anthrax were found in a mail container, said Gerry Kreienkamp, a spokesman for the U.S. Postal Service.
+The main post office in Princeton is about 10 miles northeast of the area where anthrax-laced letters to Daschle, NBC News anchor Tom Brokaw and the New York Post were postmarked. 
+On Capitol Hill, officials said the trace amounts of anthrax found Friday in offices of Reps. John Elias Baldacci (D-Maine), Rush D. Holt (D-N.J.) and Mike Pence (R-Ind.)
+posed little risk. 
+Still, Dr. Gregory Martin, chief of infectious diseases at the Bethesda Naval Medical Center, said that everyone who has worked in or visited the offices since Oct. 12 is being provided with antibiotics. 
+The findings caused concern because previous anthrax discoveries had been limited to sections of the Hart Senate Office Building, where the Daschle letter was opened, and the mail room in the Ford House Office Building.
+The new contamination sites are on the 6th and 7th floors of the Longworth House Office Building. 
+Congressional officials who notified Holt told him that the anthrax trace did not suggest his office had received an anthrax-tainted letter, but that it may have received something that had brushed up against a contaminated letter. 
+"We are assuming it was cross-contamination," said one senior House aide. 
+The discovery also slows Congress' struggle to return to business as usual.
+Two of the six congressional office buildings remained closed, and Holt said, "I've told my staff we should put aside our hopes of getting back in on Monday." 
+Meanwhile, the second of two Washington postal workers who died of anthrax was buried.
+Funeral services took place Saturday for Joseph Curseen Jr., of Clinton, Md., who worked in Washington's Brentwood processing facility.

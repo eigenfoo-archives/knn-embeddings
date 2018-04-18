@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48d2aabd4b34ef3ed1e96875ed450571f561e3a5c4b7fdc7349c1f01dab24a79
-size 2750
+Priceline.com reported fourth-quarter results Monday that beat expectations slightly, but its outlook for this year sent its stock down sharply. 
+The Norwalk-based name-your-own-price Internet company reported a net loss of $1.3 million, or one cent per share, for the October-December period. That was much narrower than a loss of $105 million, or 62 cents per year, for the fourth quarter a year earlier when the company had substantial downsizing costs. 
+Excluding one-time gains and losses, Priceline.com reported a pro-forma profit of $3.3 million, or 1 cent per share. Analysts surveyed by Thomson Financial/First Call expected a break-even quarter before one-time items. 
+"The company did better than we expected -- modestly," said Jake Fuller, a research analyst with Thomas Weisel Partners in New York. 
+But the market was expecting a better outlook this year because online travel has grown substantially, Fuller said. While some Internet travel companies expect fast growth, Priceline confirmed expectations for this year of pro forma profits of 12 cents per share. 
+Shares of Priceline.com closed down $1.49, or 23.5 percent, at $4.83 Monday on the Nasdaq Stock market. 
+For the first quarter this year, Priceline.com said it expects its pro forma results will range from break-even to a profit of 2 cents per share and revenue between $260 million and $290 million. Analysts had expected revenue of $299 million and profits of 2 cents per share. 
+"The disappointment is you don't have dramatic growth prospects here as for other travel companies," Fuller said. "They're not keeping pace with the rest of the Internet travel retailers." 
+Priceline.com allows customers to name their own prices for airline tickets, hotel rooms, car rentals and home mortgages. 
+Revenue for the fourth quarter was $235.3 million, up 3 percent from $228.1 million for the same period a year ago. 
+Demand for airline tickets is good, but completing deals from customer offers has grown tougher, said Jeffrey Boyd, the company's president and chief operating officer said. Customers are seeking deals below already deeply discounted airline prices, he said. 
+"The airline business is in a tough environment, but under the circumstances it performed reasonably well," Boyd said. 
+Priceline.com reported selling nearly 790,000 hotel room nights during the quarter, up 115 percent from the same period a year earlier. Rental cars days increased 38 percent, while sales of airline tickets were up 4 percent, the company said. 
+For the year, Priceline.com reported a net loss of $15.8 million, or 8 cents per share, on revenue of $1.17 billion. That compared with a net loss of $329.5 million, or $1.97 per share, on revenue of $1.23 billion for 2000.

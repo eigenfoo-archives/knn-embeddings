@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f75d92f8a293f18cc13f831291cad1d7e94f7835c537f833b8cdb1916d927a3
-size 3530
+Researchers with Royal Philips Electronics NV, the Dutch electronics giant, say you won't use the phone to call and complain to the radio station.
+Instead, you'll use it to access a sophisticated music database that can automatically find the song's name based on the way it sounds or its audio "fingerprint." 
+The music identification system that Philips' scientists have been testing in their labs at Eindhoven, Netherlands, uses a technique called "hashing.
+" It's a process typically used in cryptography to help ensure that long electronic messages between computers arrive safely and completely. 
+Hashing works by using the words or data within the message to create short unique codes.
+These codes are then transmitted along with the original message.
+If the receiving computer can't recreate the same unique codes from the message it has received, it means the data has been corrupted and needs to be resent.
+Philips researchers use a similar hashing method for their experimental electronic music identification system.
+Each song or piece of music is divided into 33 narrow frequency bands.
+The energy levels how loud or soft each frequency becomes are measured and used to create the song's hash codes. 
+The codes or fingerprints are stored in a computer database along with the song's title, artist, and other musical information.
+When music listeners hear an unfamiliar song they want identified, they would dial a special number and allow the computer to "listen" to the music being played.
+The computer would then convert the sound into hash codes and attempt to find a match within the Philips database.
+Once a match is found, the computer sends the song's ID data back for display on the cell phone's screen.
+Philips says that its hash scheme allows for audio fingerprints that are very small and that translates into very fast and efficient song identification.
+The researchers say that a prototype setup in its labs was able to correctly name a song after "hearing" less than four seconds of music.
+Coming to a Cell Phone
+Near You? 
+Identifying music by unique audio qualities isn't entirely new.
+Other companies such as Relatable in Alexandria, Va., have similar musical fingerprinting schemes. 
+Jim Healy, a spokesman for Relatable, says that his company's technology could be modified to match Philips' system, but he wasn't sure there was an immediate demand for such a "solution." 
+"With [Philips'] setup, you have to sell to [cell phone]
+service providers and I don't know if there's a market for that," says Healy.
+Instead, he believes that the more pressing need is among the nascent online music subscription services which will need the technology to find illegal copies of their copyrighted digital music that may be floating out on the vast Internet.
+Another concern: the size of the database.
+Right now, Philips has managed to create a database that contains fingerprints of only about 300,000 songs.
+But according to the Recording Industry Association of America, there are some 10 to 13 million copyrighted works in the United States alone.
+And growing the Philips database to that size will take time and may affect performance.
+Still, even Philips recognizes that ending the "Name That Tune" game won't happen overnight.
+Ellen de Vries, a spokeswoman for Philips, says that the company is in talks with cellular phone service providers about further development of its song ID system.
+But consumers most likely won't see a service using it until 2003 maybe.
+"It's a very early thing," she says.

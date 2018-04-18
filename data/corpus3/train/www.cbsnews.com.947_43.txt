@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dafa8a1fd1a0093444c59e67d4632f6b71e6a0d284627df618d0e676723fecb9
-size 4424
+American Red Cross blood processing centers have repeatedly failed federal inspections over the last 15 years and continue to have problems that present a "potential for harm" to patients, federal officials said Friday. 
+"The Red Cross (blood operation) is not in compliance with the current laws and regulations," said Dr. Jay S. Epstein of the Food and Drug Administration . "The problems are serious because of the potential for harm" to patients receiving the blood. 
+Documents filed by the FDA in the U.S. District Court in Washington said the Red Cross has "a long-standing and ongoing failure to comply with good manufacturing practice" standards in collecting, processing and distributing blood used in medical procedures. 
+The FDA said the Red Cross "has not been in compliance with the CGMP provisions ... since at least 1985," and that increasingly tough actions by the FDA have failed to correct the problems. CGMP stands for current good manufacturing practices, an FDA quality standard. 
+Dr. Bernadine Healy, the American Red Cross president and chief executive, said the blood supplied by the organization is "the safest in the world." 
+"We are not releasing dangerous blood, but there have been near misses," Healy said. "These are red flags and we are jumping on them." 
+The FDA, in its court filings, said the Red Cross failed FDA inspections in 1985. After repeated notifications of noncompliance, the Red Cross in 1988 entered into an agreement with the FDA to follow a plan to meet agency standards. 
+The problems continued and the FDA sent three notices threatening to revoke establishment licenses. Eventually the license of one Red Cross center was revoked. 
+"When even these measures did not spur (the Red Cross) to meaningful action, FDA negotiated" a 1993 court decree that required better controls and a quality assurance program, the court papers said. Since 1993, the FDA said, it has sent 10 letters warning the Red Cross of noncompliance with blood center regulations. 
+An FDA inspection in July found 25 violations in an Atlanta Red Cross center. A similar inspection of the Red Cross headquarters in Washington found 63 violations. 
+The violations included an improper release of blood products that tested positive for the cytomegalovirus and failure to follow procedures in a second HIV test of blood that had been rejected because it tested positive for the AIDS virus in an initial test. The HIV-suspected blood was never distributed and the cytomegalovirus-positive blood was not used by patients, a Red Cross official said. 
+The "current violations are of deep concern to FDA because of the impact they may have on the safety of the nation's blood supply," said the FDA court filing. 
+Epstein said the FDA officials have been in discussion with Red Cross officials about possible fines to force the Red Cross to comply. 
+Such fines, said Epstein, "are an appropriate step to provide increased incentives to bring the Red Cross into compliance." 
+Following the discussion, the Red Cross filed papers in the District Court to block the fines and ask that the court order mediation of the FDA compliance enforcement efforts. In a response, the FDA told the court that it "does not believe mediation would be productive." 
+The increasingly severe actions of the FDA came to light after Dr. Sidney M. Wolfe, director of Public Citizen's Health Research Group, released copies of a letter he sent to Dr. Jane Henney, commissioner of FDA, asking that the agency "stop playing dangerous, cooperative, polite games with the (Red Cross) and ask that the organization be held in contempt of court" for not complying with the 1993 consent decree. 
+"Unless the FDA exercises this legal responsibility, there is little evidence that the (Red Cross) will come into compliance with the terms of the (court decree) or with U.S. laws and regulations concerning blood and blood products," Wolfe said in a statement. 
+Healy, who became head of the American Red Cross last year, said the organization took out a $300 million loan in 1991 to build and equip laboratories and to improve the management of the blood supply system. 
+She said one blood processing center, in Puerto Rico, has been closed and 36 other centers are being upgraded to comply with FDA regulations. 
+The Red Cross collects about 6.5 million units of blood annually, about half of the nation's medical blood supply.

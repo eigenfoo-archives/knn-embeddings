@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6e52aa1c07a94b278fa14f07d1263d89b46798dcdfb3f479318a6e57a7d759f
-size 2889
+April 10, 2001 U.S. District Judge Marilyn Hall Patel is nearing the end of her rope with the file-trading service's attempts at filtering out copyrighted material. "Maybe the system needs to be shut down," Patel says. Brad King reports from a heated courtroom in San Francisco. 
+April 10, 2001 MP3.com thought it had caught a break last Friday when it was asked to pay just $300,000 in a copyright infringement trial. Jury members over the weekend admit they wanted a much higher award but had problems doing the math. By Brad King. 
+April 10, 2001 Universal's deal to buy EMusic is seen as good and bad by the labels who had deals with EMusic. The concern for some is that it will have artists singing the blues. By Jeffrey Terraciano. 
+April 10, 2001 Subscription models are making a comeback -- only this time, the entertainment won't just stay on your computer. Convergence is coming, and it's going to cost you. By Brad King. 
+April 6, 2001 A jury awards TVT Records the minimum penalty in a copyright infringement case against MP3.com. But the music site hopes to win an appeals decision that could make it easier to run a music locker service. By Brad King. 
+
+April 6, 2001 Napster use goes global, raising the stakes in the copyright protection fight going on in America. Regardless of the outcome, the record labels are probably going to be OK. Also: Listen.com's new plan ... MoodLogic's smart search. By Brad King. 
+
+
+April 5, 2001 The biggest portal site will begin offering a subscription music service this summer with the help of two major labels. Although the labels finally seem committed to licensing content they are shutting out traditional retailers. By Brad King. 
+April 4, 2001 MTV gets into the digital download business, as it begins selling 10,000 tracks from all five of the major labels. With plans to integrate its online retailers with its television name brand, MTV becomes the most powerful online music presence. By Brad King. 
+April 4, 2001 Two powerful trade organizations are set to take on the recording industry, reluctantly picking up the fight for digital rights where Napster has failed. By Brad King. 
+April 3, 2001 Napster faithful gathered for a rally one day before the Senate opens hearings that could help determine the future of digital distribution. Ryan Sager reports from Washington. 
+April 3, 2001 It's not just Sen. Orrin Hatch and Napster ganging up on the recording industry. Retailers and security companies have joined in the fight for the right to distribute digital music. Tuesday's Senate hearing should be a download of fun. By Brad King. 
+April 2, 2001 Three major record labels announce a partnership with RealNetworks to launch a music subscription service. This comes on the eve of a high-profile Senate hearing that will examine what some have deemed unfair practices by the recording industry. By Brad King.

@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2751245c209d8c668903ccef75ffcdd5c3d2f4908c121337eeaa0e66c825f3c
-size 3595
+The new judge overseeing the Microsoft Corp. MSFT.O antitrust case on Friday ordered intensive settlement talks between the company and the government ahead of hearings on possible sanctions against the software giant. 
+U.S. District Court Judge Colleen Kollar-Kotelly told a status hearing with the parties that the settlement talks should proceed "24 hours a day, seven days a week" until a deadline on Nov. 2. 
+If the two sides have not reached a deal by Oct. 12, Kollar-Kotelly said she will appoint a mediator to try to speed up a conclusion to the three-year court battle. 
+"The court cannot emphasize too strongly the importance of making these efforts to settle the cases and resolve the parties' differences in this time of rapid national change," Kollar-Kotelly wrote in the order issued after the hearing. 
+If no settlement emerges by Nov. 2, Kollar-Kotelly said she expects hearings starting March on what sanctions should apply to prevent future violations of antitrust law by Microsoft. 
+The judge rejected Microsoft's request to narrow the scope of those possible remedies, saying she has "large discretion" to design a remedy. 
+Microsoft stock closed up $1.21 at $51.17 on the Nasdaq market. 
+The case returned to the district court after an appeals court in June agreed that Microsoft had illegally maintained its monopoly in personal computer operating systems. 
+But the appellate judges rejected breaking the company in two as proposed by the original trial judge Thomas Penfield Jackson. 
+Legal experts said Kollar-Kotelly was pushing the parties hard toward settlement. 
+"Both sides need to face the reality that this is probably their last best chance to craft something that's not imposed by the courts," said Andy Strenio, an antitrust lawyer with Powell, Goldstein, Frazier & Murphy. "That's a risky roll of the dice -- to leave it in the hands of the judiciary." 
+Citing court precedent, Kollar-Kotelly said it would be a mistake to put limits on the possible remedies until she has heard all the evidence. "It would obviate the usefulness of an evidentiary hearing," the judge said. 
+She also swatted down Microsoft's suggestion that the remedies should be limited to only those specific acts that have been deemed illegal. 
+Most of the original case against Microsoft focused on the tactics the company used to drive rival Netscape Communications Corp. out of the market for Internet browsers. 
+However, some of the states have said the final remedy should thwart any future anticompetitive behavior by Microsoft using its latest products. 
+They have expressed particular concern about how the company's new Windows XP operating system will affect competition. Windows XP is packed with new software features that rival companies now offer separately. 
+Government attorneys have said they will ask the judge to impose broad restrictions on Microsoft's business tactics that would be modeled after a set of interim sanctions handed down last year by Judge Thomas Penfield Jackson, who was the trial court judge in the case at the time. 
+The interim remedy cited by the government would, among other things, require the company to give outside software developers greater access to the Windows source code, the basic programming instructions for its software. 
+But with Windows XP due to be released in a matter of weeks, the company's lead attorney, Dan Webb, told Kollar-Kotelly that Microsoft was very concerned about competitors getting access to the Windows source code. 
+"It would be devastating to Microsoft to have that happen," Webb said. 

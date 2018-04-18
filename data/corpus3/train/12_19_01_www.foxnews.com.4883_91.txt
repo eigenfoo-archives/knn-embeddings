@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c7d9b589e90fb60af7ea6db8f1c073e888a99f17a5f82c5c11b935e56dba6a0
-size 3294
+Federal health officials said Tuesday they would offer anthrax vaccine and an extra 40 days of antibiotics to thousands of Capitol Hill and postal workers in case any anthrax still lurks in their lungs. 
+The precautionary extra treatment is for people who already were prescribed two months of antibiotics because they may have been exposed during the anthrax attacks-by-mail. 
+Health and Human Services Secretary Tommy Thompson said workers will have to decide, in consultation with their doctors, whether to take extra antibiotics, to take the drugs along with the experimental vaccine ? or cease treatment and call a doctor promptly if they have any anthrax symptoms. 
+The new precaution comes because some animal studies suggest that in rare cases, anthrax spores might linger in the body after standard 60-day antibiotic treatment and then erupt to sicken. 
+The government has confirmed 18 cases of anthrax ? 11 of the often-deadly inhaled form and seven skin infections ? since the bioterror attack began in October. No new cases have been reported since a 94-year-old Connecticut woman died Nov. 21, the fifth death from the attacks. 
+Anthrax is inhaled in a dormant spore form. People get sick when those spores germinate deep in the lungs, letting the bacteria break out and multiply. Antibiotics kill bacteria, not the spores. 
+In some animal studies, 1 percent of the anthrax spores monkeys inhaled still lurked in their lungs 75 days later, and one monkey died three months after spore inhalation. 
+So while 60 days of antibiotics protection should protect most people, federal scientists worry about the rare person who unknowingly has anthrax spores still lodged in the lungs, waiting to infect once antibiotics are stopped. 
+Worse, hundreds of people, mostly postal workers, quit taking their antibiotics before 60 days passed, and no one yet knows the consequences. 
+"Some of these people, especially those who may have been exposed to high levels of anthrax spores may wish to take additional precautions beyond completing the 60-day antibiotic regimens," Thompson said. 
+Fewer than 3,000 people are thought to have been exposed to high levels, said Dr. D.A. Henderson, the government's top bioterrorism adviser. Health officials couldn't estimate how many of them will want more treatment. 
+Senate staffers who choose to be inoculated may get the first of three required shots as early as Wednesday, but the U.S. Postal Service has asked to wait a week so its employees can be educated about their options, Henderson said. 
+
+Anthrax vaccine is proven to work only if given before someone inhales anthrax, not after. So the Food and Drug Administration has given permission for people to be inoculated only if they are told the vaccinations are experimental. 
+Anthrax vaccine has long been used by veterinarians, scientists and the military, and side effects are rare. The main reactions are redness and swelling at the injection site; some swelling can be severe and last weeks but eventually it recedes. 
+There is one other complication: Only one company makes anthrax vaccine, and its newly renovated factory has not passed FDA safety inspections. FDA officials say they have tested some 10,000 doses of immediately available vaccine to ensure they're usable.

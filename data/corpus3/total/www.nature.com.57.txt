@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:010e7ac7a77aa3cd76806773ee56cb7d9b527cfcf46b00b9bf728463dc1b04f9
-size 5161
+Authors want to publish more, readers want to read less.
+This law, which paraphrases the fact that wide exposure is paramount to authors, and (pre)selection to readers, means that anything which allows this law to be better fulfilled will inevitably prompt change in the roles of the many players in scientific publishing.
+This debate has focused on how information technology will spur innovation in scientific communication among researchers.
+However, research information is but the tail of a much larger dog: the needs of the higher education system.
+We predict that the research tail is unlikely to wag the dog of higher education, but conversely that the electronic needs of the higher education system will be the major determinant of the evolution of any system of research information.
+Indeed, it is often overlooked that the same technologies that are the focus of intense debate in the research community are simultaneously revolutionizing the higher education system.
+They will prompt a shift from the current system, where the supply of information is 'pushed' towards students, to one where students will 'pull' from increasingly sophisticated, and customized resources.
+This means that universities and other organizations involved in higher education will themselves increasingly need to develop comprehensive publishing and archiving activities to serve all their clients: authors, readers, students, teachers and researchers. 
+The overall information output of higher education institutions probably exceeds their pure research information output by an order of magnitude, and we therefore predict that it is the broader needs of higher education that will be the major determinant in the evolution of information systems for researchers.
+The need to integrate information for both the purposes of research and higher education suggests that institutions themselves will increasingly usurp the traditional role of publishers in the generation of scientific information, and opt to 'self-archive' their output (see also Harnad , this debate).
+This is already happening.
+Dspace, a joint project of MIT Libraries and the Hewlett-Packard Company, is designed to archive locally the intellectual output of MIT faculty and researchers: some 10,000 articles annually.
+The power of information technology is not so much its utility to empower authors to increase the visibility of their work, or readers to search archives of information.
+Its main disruptive power is that it is spurring a transition in publishing from a low volume/high margin business, to a high volume/low margin business, and an integration of research and educational material, a long-desired, but until now, an unattainable goal.
+The need for universities to generate educational information means that it is logical to bring publishing facilities in-house, and as this includes research output, higher education institutions themselves are bound to become increasingly important platforms in the scholarly publishing chain.
+At the same time, this development will provide innovative publishers with new and interesting opportunities in a much larger and lucrative market. 
+The evolution of a distributed system, where information is shared, therefore seems inevitable, with rewards being given to those actors, including publishers, who add real value to the information available.
+The role of publishers may be increasingly that of aggregators, or providing peer review and other quality control services to higher education institutions, tailored not just to researchers, but also to a much wider audience including students, teachers and the public. 
+The PLS initiative and Berners-Lee s semantic web give little attention to the need for quality control.
+Peer review has its weaknesses but it is a powerful quality control phase in scientific communication.
+Under the current system, it is publishers that mainly administer this system.
+Future systems will probably maintain an element of the 'brands' which act as a guide to quality in the current journals system, but will incorporate broader assessments at both the disciplinary and multidisciplinary levels.
+Peer review, in some form, will no doubt be conserved in any future systems.
+A publication system dominated by institutions publishing their intellectual outputs on their own archives will generate a global distributed system: a virtual organization with cross-searches of geographically dispersed archives.
+If this happens, one question is: will publishers, whether commercial or not-for-profit, and other intermediaries, be able to add sufficient value to maintain a position in this new value chain.
+The challenge is to all parties concerned!
+The University of Twente has established in 1999 the DINKEL Institute (Development Institute for Knowledge, Education and Learning, Peter Daalmans, Acting Director) with the aim to provide integrated services for educational innovation, teaching support and scientific information provision.
+This has been achieved by integrating its university library, educational development centre, university press and appropriate ICT departments into one organizational unit.

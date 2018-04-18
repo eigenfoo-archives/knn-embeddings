@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0aba4e7b4801c6cfb88cc2fc0067ea2515b9d27c16ca3a355ae2dbf3be2f53a8
-size 5830
+Superman had heat vision, X-ray vision, telescopic vision and microscopic vision.
+Today, you can wield a power even Superman didn't have: night vision.
+A new group of inexpensive monoculars and binoculars lets you see in the dark.
+Anybody who boats after the sun goes down should give serious consideration to having a night-vision device on board.
+They can keep you from running aground and help you see your rigging in foul weather.
+The gizmos are idiot simple.
+You turn them on, look through them and focus them.
+The images are just like what you see on TV: grainy and green, but with surprising detail.
+For example, a printed sign can be easily read from about 20 yards away.
+Most of the night-vision gadgets on the market are hand-held monoculars, meaning you peer through them with one eye, like a sailor's spyglass.
+Binocular devices also are available, at about twice the price of a monocular, which range from $200 to $500.
+More expensive still are goggles designed to be worn on the head.
+Why not just save some money and use a spotlight?
+Single source illumination--the sort of light you get from one bulb--makes it harder to see within shadows.
+And shadows conceal all sorts of hazards, like a barely submerged rock.
+Night-vision devices let you see within shadows.
+Technically, night-vision gizmos amplify light, which means they increase light from the stars and any other light source.
+Remember that scene in "The Silence of the Lambs" where Agent Starling is trapped in a blacked-out basement?
+As she desperately struggles to find a crazed killer, he hovers inches away, watching her through light-amplification goggles.
+That couldn't happen.
+Night vision won't work in the absence of light.
+Many night-vision devices get around that by building in an infrared emitter that floods an area with invisible light.
+They work fine with infrared light, but you'll lose your ability to be invisible; the infrared emitter glows like Rudolph's nose.
+There are three different levels, or "generations," of night-vision equipment.
+The affordable devices designed for consumers are known as Generation I. Generation II and Generation III also are available in stores, but cost thousands of dollars and are used by the military.
+Each successive generation provides better images and longer battery life, at a higher cost.
+Are these things fun?
+The truth is, seeing in the dark is like taking off a day in the middle of the week to go people-watching.
+The good news is there aren't any crowds.
+The bad news is there's not a lot to look at.
+Bottom line: If Superman couldn't do it, it probably wasn't all that cool to start with.
+We tested five Generation I devices from three distributors in various locations and weather conditions.
+The brand name isn't especially important, because most Generation I gear is made in Russia and relabeled for export.
+For instance, the Bushnell model 26-2042W waterproof monocular looks identical to the Night Owl Optics NONO3Y.
+The $300 Bushnell 26-3652, a black, business-like monocular, took top honors.
+It's got a large, 52-millimeter objective lens combined with 3.6x image magnification.
+The combination is a great compromise of magnification, clarity and weight.
+The higher the magnification, the more light you lose, and the dimmer the image becomes.
+That's why astronomers need huge telescopes; bigger scopes pull in more light, which allows for increased magnification.
+The 26-3652 runs on two AA batteries; most of the other devices we tested use exotic lithium batteries designed for cameras.
+The device gets low marks for its clumsy battery compartment, which requires a screwdriver to open and close.
+The external mount on the infrared emitter also was a poor design choice.
+Every other device we tested has the infrared emitter--used to see in total darkness--integrated within the housing.
+The 26-3652's emitter plugs into a slot on the side, where it could easily be knocked off.
+Resolution was excellent for a hundred yards.
+Shadows beneath the lifeguard towers on the Santa Monica beach late at night concealed nothing from this device, including two lovers entwined in the sand.
+And let us never speak of that particular experiment again.
+Runner-up is the $300 MB-3 from Newcon Optik.
+It comes dressed in rain-slicker yellow, apparently the international symbol for "I'm waterproof!"
+It has a large 56mm objective lens but offers only 2.4x magnification.
+It runs on two AAA batteries and performed well over long distances.
+This was the smallest and lightest device we tested, but you pay for that with decreased magnification, which kept it from getting the top spot.
+Two of our least favorite monoculars were the $200 Night Owl NONO3Y and the apparently identical $300 Bushnell 26-2042W.
+The Night Owl claims a 3.1x magnification and a 42mm objective lens.
+But there was no detectable difference between it and the Bushnell 26-2042W, which only claims 2x magnification with its 42mm objective lens.
+Both are waterproof--you can tell because they're yellow--and lightweight.
+But these devices only would be useful over a fairly small area, maybe 50 yards, tops.
+Plus, they use those annoying camera batteries.
+The only detectable difference between the two is in the labeling.
+Oh, and the Night Owl has a much trimmer, cooler case.
+The worst-of-show has the highest price tag, the $700 Bushnell 26-3150 binoculars.
+They have a 50mm objective lens and 3.1x magnification.
+That power, combined with the depth perception available with the binocular format should have made these a standout.
+But they're unacceptable on nearly every level.
+*
+The good: You don't have to go through life with this around your neck.
+If you want other stories on this topic, search the Archives at latimes.com/archives .
+For information about reprinting this article, go to www.lats.com/rights .

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a62d637a0cc8fae22e00f6504ca9655d696d7f0fd29613a1dd3f4ee010516bb0
-size 2742
+Sun Microsystems Inc. SUNW.O said on Friday it might sue rival Microsoft Corp MSFT.O , since it believed an anti-trust settlement between the federal government and the software maker would not protect competitors. 
+Sun's top lawyer, General Counsel Mike Morris, told Reuters Microsoft would still be able to hurt competitors under a deal struck with the U.S. Department of Justice. 
+"It is not even weak. It is totally ineffectual," Morris said of the settlement. "There are all sorts of outs and loopholes and vagaries and lack of definitions here." 
+The deal, which must be endorsed by a federal judge, intends to curb Microsoft's powers by setting restrictions on how it treats competitors, and it avoids the breakup a court once recommended. 
+Microsoft has stopped short of admitting it broke the law but said on Friday the deal gave it new responsibilities. 
+Morris said Sun would now consider a civil suit against Microsoft. "I can't tell you what we will do, but I can assure you that we will now move to active consideration and decision about what to do," he said. 
+Sun had been waiting to see if the courts would check Microsoft, Morris said. "We wanted to see how all this panned out, but now we know." 
+Lawyers have said Sun was given ammunition for a potentially major civil anti-trust lawsuit by a U.S. Court of Appeals which ruled in June that Microsoft held a monopoly and violated anti-trust laws in its efforts to suppress Sun's Java programming language. 
+Sun's Internet-friendly Java programming language has been embraced by corporations and developers in part because it runs on different operating systems, which is a boon for developers trying that otherwise might have to adapt each program to many environments. 
+The court found in June that Microsoft tried to stop Java and used its power to push a "polluted" version of Java that would not run only on Windows. 
+"Microsoft's conduct related to its Java developer tools served to protect its monopoly of the operating system in a manner not attributable either to the superiority of the operating system or to the acumen of its makers, and therefore was anti-competitive," the court wrote. 
+"We've never been about hurting Microsoft," Morris said. 
+"The principle duty of our board and management is to look after the interests of our shareholders, and it is with that in mind, and that in mind alone, that we will evaluate whether or not it makes sense to proceed with a civil suit," he said. 
+Such a suit would tax Sun resources and potentially distract executives as they struggle to deal with an uncertain economy. 
+However, Morris said the company knew the ropes of clashing with Microsoft. 
+"We're used to it. We've sued them before," he said.

@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0bfeff9e71887aeb4777d3081f7027735c63283e56e49e8cc885e4db91500a03
-size 4445
+Launching his company's biggest product in six years, Microsoft chairman Bill Gates on Thursday touted the Windows XP operating system as the harbinger of a new era in more Internet-centric computing. 
+Appearing onstage at a Times Square hotel, Gates saluted New Yorkers for their "courage, determination and resilience" and predicted the tech industry, in its worst slump ever, would once again "re-energize" the U.S. economy. With him was Mayor Rudolph Giuliani, who Gates said persuaded him to hold the announcement in New York despite the terror attacks. 
+"Today it really is actually the end of the MS-DOS era," Gates told the audience of about 1,500, a reference to Microsoft's original operating system, the underpinning of all the company's consumer-oriented Windows products until XP. 
+But Gates' software has been out there unofficially, for a couple of weeks, as part of computers sold by Dell, Compaq, Gateway and others. 
+CBS News Computer Consultant Larry Magid says XP is "not as buggy as Windows 98 or Windows Millennium" and is "very good" at handling MP-3 music files, digital photos and CDs. 
+"If your machine is more than two or three years old," cautions Magid, "it's probably not going to be able to run XP." 
+He also advises checking to make sure that XP supports all your hardware and software. 
+Those aren't the concerns that are uppermost at the Justice Department and among Microsoft competitors. 
+As Microsoft's software and Internet services become more pervasive, critics say so does the potential for breaches in information security. 
+To Gates, also Microsoft's chief software architect, it's simply about saving computer users time and money. 
+"It's a value for consumers," Gates said. "Why are there headlights in cars? Why don't they make you go and buy those things separately?" 
+It's also about money: Desktop operating systems accounted for more than $8 billion of the $25.3 billion in revenue Microsoft reported for fiscal year 2001. 
+Friends and foes agree that Windows XP is the souped-up sedan of the desktop operating system world. 
+It offers new features for listening to music, playing videos, or editing and organizing digital photographs. A new system called Windows Messenger lets users communicate instantly with others using text, voice and video. 
+Gates' no-holds-barred vision has built the company into a multi-billion-dollar enterprise and made him the richest man in the world. 
+He believes his company's products have driven the technology revolution, part of why Microsoft has refused to curtail its aggressive efforts to expand Windows despite legal threats from the federal government and attorneys general of 18 states and the District of Columbia, who sued Microsoft for violating antitrust laws. 
+"We work extremely hard and we put out a new version of Windows every couple years as best we can, and no legal thing has prevented us from doing that, and I don't expect that it will," said Gates, who turns 46 on Sunday. 
+Although the company has been found guilty of breaking antitrust laws and is currently negotiating a penalty in federal court, Microsoft has refused to put Windows XP on the bargaining table. 
+In fact, Microsoft has only expanded its reach. A new feature in Windows XP called Passport seeks to become the standard online authentication system, storing Web site passwords, credit card numbers and other personal information required to complete Internet transactions. 
+Critics say that by requiring Passport sign-up in order to use such features as Windows Messenger, Microsoft is coercing people into giving the company personal information. And they worry about the security risk if Microsoft holds personal information on millions of Internet users. 
+Gates dismisses those concerns, though Microsoft has suffered serious security breaches in which hackers gained access to the company's internal network - and may have even obtained valuable source code. 
+Gates calls Passport a savior, not a threat, to Internet commerce. 
+"We're trying to make the Internet more effective and allow not just large companies to get to critical mass with these user names and passwords, but let any company who wants to participate in Passport just do it," he said. 
+Meanwhile, Microsoft forges ahead with the next version of Windows, working with a $5 billion annual research and development budget. The company won't say when to expect the next upgrade.

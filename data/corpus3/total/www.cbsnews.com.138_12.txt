@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62c397f5d89f93894fdd8d6c722b2dab5315aecea5827104ccf013af8e9030e2
-size 1662
+Napster, sued by the recording industry in 1999 for copyright infringement, said it could now block more than 99 percent of all infringing song files.
+But Patel told Napster it needed to block 100 percent of unauthorized, copyright songs or stay offline indefinitely. 
+Napster immediately sought relief from the appeals court, which overturned Patel in a two-sentence order. 
+Napster's free song-sharing service has been down since July 2. 
+It's not the first time the appeals panel reversed Patel in this case. 
+In February, the court modified Patel's order demanding Napster to remove all protected works from its site.
+The panel said Napster must remove the works, but only after the recording industry notifies Napster which files on Napster's servers contain copyright songs. 
+Napster reminded the appeals court of that earlier ruling when it asked the appeals court to lift Patel's most recent order. 
+The Recording Industry Association of America noted that the court only temporarily lifted Patel's order and will hear arguments on the case later this year.
+At that time, the industry said it expects to prevail. 
+"We are confident that after a thorough review, the 9th Circuit Court of Appeals will uphold Judge Patel's decision," RIAA attorney Cary Sherman said. 
+Sherman added that the three-judge panel's decision still requires Napster to remove copyright works that both Patel and the appeals court have found were violating copyright laws. 
+"It is important to note that today's ruling does not change in any way the fact that Napster must prevent copyrighted works from appearing on its system as previously ordered by the court," Sherman said. 

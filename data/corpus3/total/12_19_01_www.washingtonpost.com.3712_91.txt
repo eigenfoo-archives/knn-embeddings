@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99facd31d28609fafde69d1c2aea5097ecdea75c2421440a1e0e8860d82b1e36
-size 10544
+By formally moving last week to withdraw the United States from the 1972 Anti-Ballistic Missile (ABM) Treaty, President Bush has opened the way to more aggressive testing of assorted technologies for defending the nation against long-range missile attack.
+But he has not silenced arguments over whether such systems are feasible, affordable or necessary.
+Bush's unilateral action is unsettling to critics at home and abroad who do not share his enthusiasm for jumping to a new strategic framework free of Cold War-style arms control accords.
+Bringing them along will be a challenge.
+The president and his team will have to come up with the answers to questions about how this new world order is supposed to function, and why other countries should feel reassured by America's new direction.
+With the removal of the ABM Treaty freeing the administration to invest billions of dollars -- not to mention a major chunk of presidential political capital -- in fresh experimentation the stakes are higher than ever:
+Either Bush and his fellow missile defense enthusiasts will win big, or they will fail spectacularly.
+That the United States and the world should again be arguing over national missile defense ought to come as no surprise.
+Missile defense is one of the great phoenixes of U.S. national security policy: It keeps rising from the ashes of Washington debates.
+No sooner had the idea started to soar again under Bush this year than it seemed to falterafter the attacks of Sept. 11.
+Critics argued that the terrorists' reliance on low-tech hijackings rather than high-tech missiles proved Bush had been concentrating on the wrong threat.
+But Bush last week invoked the September tragedy as all the more reason to proceed with missile defense.
+In a speech at The Citadel, the military college of South Carolina, Bush urged his audience to consider this: If terrorists could do the horrendous damage they did just by hijacking a few commercial airliners, imagine what might happen if they ever got their hands on long-range, nuclear-tipped missiles. 
+Such is the nature of the enduring controversy over missile defense.
+Each side will look at the same event and interpret it to its own ends.
+It is a dynamic that has been at work since the first major public debate on the issue in the 1960s, long before Ronald Reagan's "Star Wars" initiative.
+The Bush administration's ambitious testing program includes a provision for realizing at least a rudimentary antimissile system by the next presidential election in 2004.
+The successful test earlier this month of a prototype land-based interceptor, which hit a mock enemy warhead over the central Pacific, has only reinforced the administration's drive.
+But many scientists, arms control advocates and Democratic lawmakers remain either wary of oropposed to the project, questioning whether a national antimissile system can ever work reliably and be built affordably -- and whether enough of a threat exists to warrant such a weapon.
+Even if Russia and our NATO allies end up grudgingly accepting U.S. abandonment of the ABM Treaty, critics fear other adverse consequences.
+It will, they warn, spur China to add to plans to build up its offensive weapons.
+It will undermine U.S. attempts to persuade other nations to abide by their international commitments.
+And it will undercut the credibility of international nonproliferation policies by appearing to presuppose their failure.
+For Bush himself, the idea of an antimissile shield is tied less to the thought of ever needing to useit and more to allowing America to act abroad without fear of subjecting Americans at home to attack.
+"You can't be an internationalist if you allow yourself to be blackmailed," the president told me in an interview last summer.
+"If you believe, like I believe, that our values are so good and we can spread those values in a way that hopefully is not arrogant -- in a humble way -- if you believe that's important, which I do, then the corollary is: How do you make sure you're able to do that without somebody saying, 'If you move, if you act, if you decide to get involved, we'll blow you up'?"
+What is it about missile defense that has made it so controversial for so long?
+That question often ran through my mind during a year and a half of researching and writing a book on why an issue -- dismissed by many after the demise of the Soviet Union as a relic of the Cold War -- came surging back in the final years of the Clinton administration andassumed its place as a high-priority objective of the Bush administration.
+Part of the answer lies in the gravity of what is at stake -- namely, survival in an age of nuclear weapons.
+Since the 1960s, the United States has observed a strategic doctrine that relies on a balance of mutual nuclear terror to forestall a first strike.
+Called "mutual assured destruction," this doctrine is credited with having prevented nuclear war between Washington and Moscow for four decades.
+So understandably, there is a reluctance among many to tamper with success.
+Additionally, there is no scientific certainty as to whether an antimissile system capable of defending the entire United States can be devised.
+Scientists appear as divided on this questionas politicians.
+Cost is also a big factorin the controversy.
+Missile defense promises to be very, very expensive, with rough estimates ranging from $30 billion for a basic land-based system to well over $100 billion for an advanced, multi-layered architecture.
+But ultimately, the passions aroused by missile defense cannot be explained simply by differences over deterrence theory, scientific capabilities or budgetary trade-offs.
+The issue has taken on a transcendent, symbolic significance.
+It has become a litmus test in the debate between the political left and right over the best approach to keeping America militarily strong and secure -- whether, in broad terms, the defense of the nation is better served by arms advances or arms control, by military buildups or diplomatic building blocks, by unilateral initiatives or compromise accords.
+When framed in this way, the argument tends to arouse the fervor of clashes over theology, with religious terms often invoked.
+Proponents talk of the "morality" of erecting a national defense.
+Opponents speak of the "sanctity" of the ABM Treaty.
+The Sept. 11 tragedy has not only provided new debating points for both sides.
+It also has changed some basic realities.
+On the one hand, the administration has found it easier to get more money for its aggressive research and testing program.
+Democrats who had moved previously to cut the administration's $8.3 billion request for missile defense and attach conditions to ensure that testing would remain within terms of the ABM Treaty have been inclined to avoid a partisan wrangle and let Bush's initiative proceed, at least for now .
+Bush's own elevated popularity also has given him more political leeway for moves such as dismantling the ABM Treaty.
+On the other hand, missile defense has lost some of its prominence as the administration's dominant military project.
+It is now forced to share the stage with the new war on terrorism at home and overseas, and the threat of long-range missile attack seems to many people much more remote than the possibility of another hijacked airplane or envelope stuffed with anthrax.
+No Third World country can yet threaten the U.S. homeland with an ICBM.
+Even those given the greatest chance of doing so soonest -- North Korea, Iran, Iraq and Libya -- are relying on facilities and technologies that are primitive by U.S. standards.
+And the leading threat case, North Korea, has shown a willingness to drop its whole effort in return for financial assistance from the United States.
+Nevertheless, the trend is worrisome.
+Even if North Korea could be taken out of the picture, other emerging Third World missile states still may prove determined to acquire substantial capabilities, if only because of the political leverage accompanying possession of such weapons.
+One question often asked is whether a hostile Third World state, even if it came to possess an ICBM, would actually fire it at the United States, given the likelihood of subsequent annihilation by U.S. missiles.
+But it may not have to shoot to have an effect.
+Simply the ability to launch a long-range missile may well influence how future U.S. administrations respond to that country or to regional crises that might bring the United States into conflict with it.
+Bush is not putting forward a definite architecture or exact timetable for development.
+Rather, he has embarked on a set of experiments to see which of several alternatives -- land-, sea-, air- or space-based systems aimed at midcourse or boost-phase intercept -- will prove most workable.
+Additionally, Bush team members have indicated that even if something does not ensure 100 percent effectiveness, they may be willing to put it in the field, believing some weapon is better than none and that improvements will come over time.
+This approach offers some promise of finding an optimum design.
+But the cost of all this experimenting is sure to be substantial, jeopardizing other military projects more popular with senior military commanders.
+When I asked Bush what his own criteria will be for deciding what kind of antimissile system to build, he replied, "Here are the criteria: Does it work?
+Is it cost effective?
+And how does it fit into the priorities of the United States?
+"
+All good questions: In fact, just the ones that critics and proponents have been arguing about for more than 40 years.
+Now that Bush is doing away with the ABM Treaty, he will have to provide answers.
+He and other missile defense enthusiasts will no longer be able to blame treaty constraints for foiling development.
+They will have to demonstrate that their new strategic framework will indeed increase global security.
+They will have to provide reassurance that their real aim is indeed limited to guarding against Third World missile attack, not gaining strategic advantage over Russia and China.
+They will have to keep the Europeans from feeling estranged, and prove that a U.S. antimissile system will not undermine other international efforts at countering proliferation.
+In short, they will have to show that missile de-
+fense can work not only technically and financially, but politically.
+Bradley Graham covers military affairs for The Post.
+He is the author of "Hit to Kill: The New Battle over Shielding America from Missile Attack" (Public Affairs).

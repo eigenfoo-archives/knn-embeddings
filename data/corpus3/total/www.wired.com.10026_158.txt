@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65820679e7b88586ff01c50381e75152064bc3e6ea18a89b44c36e1f668d5760
-size 3346
+That would allow computer makers to install competitors' products, if they chose, without taking on the added cost of supporting both products.
+Currently, Microsoft's ubiquitous Windows has a leg up on competitors vying for the hearts of consumers and software designers.
+In a videotaped deposition released Monday, Microsoft vice president and Windows chief
+Jim Allchin said Microsoft has "no way" to remove the browser from the company's flagship operating system.
+"I couldn't do what you've got here," said Allchin, suffering from a severe cold. "
+Forget about any business thing.
+Technically I just couldn't do it."
+Allchin said the company has done no studies to see if it could be done.
+He referred to an especially embarrassing part of Microsoft's case, in which the company showed a videotape to make the argument that Windows would be damaged if a user attempted to remove the Internet Explorer Web browser.
+Microsoft later admitted the demonstration computer was rigged.
+"Do you have any expectation as to whether or not you will be putting together a similar demonstration for this part of the case?"
+state lawyers asked.
+"Not exactly like that one," Allchin said.
+Steve Ballmer, a college friend of company founder Bill Gates and current chief executive officer, said Microsoft would be forced to offer an infinite number of Windows versions under the states' demands, all with or without extra features.
+Ballmer said if the states should prevail with their demands, the decision would serve the interests of neither computer manufacturers nor users.
+Instead, Ballmer said companies like Sun Microsystems, whose relationship with Microsoft is notoriously prickly, would dedicate themselves to frustrating Microsoft engineers.
+The nine states revised their proposed penalties Monday.
+The new version reflects many complaints leveled by Ballmer and other executives.
+For example, Microsoft would have to offer only one stripped-down version of Windows instead of many different ones.
+Ballmer complained that it would be too expensive to build a version of the Java programming language to package with Windows, as requested by the states.
+The states clarified that Microsoft wouldn't have to bear those costs.
+Connecticut Attorney General Richard Blumenthal said the modifications "clarify and sharpen our proposed remedies, without weakening them."
+"The modified measures should deflate Microsoft's overblown rhetoric and apocalyptic predictions about the proposed remedies," Blumenthal said.
+Brad Smith, Microsoft's general counsel, would not comment on the changes.
+"It appears to be a number of changes made very late," Smith said.
+The company is still reviewing the document, he said.
+Allchin admitted to lawyers for the states that Microsoft violated the law but refused to specify the violations.
+"I don't think that I can summarize those," Allchin said.
+"I'm not an attorney."
+The company faces several allegations of violations that involve infringing on consumer choice and unfairly hurting competitors.
+The states' lawyers, Stephen Houck and Mark Breckler, asked if it would be important for the head Windows executive to know what the violations were, so they wouldn't be repeated.
+"Well, it's a very complicated area," Allchin said.
+"Very complicated."
+Have a comment on this article?
+Send it .
+Printing?
+Use this version.

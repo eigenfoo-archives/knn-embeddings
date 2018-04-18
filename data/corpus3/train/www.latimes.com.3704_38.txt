@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83d3b5b01875f0829f2f01d65d2a2dc5c5fc59384256cb7b257fe6918301d9d9
-size 11699
+Disease: U.S. House is shut down until next week for 'environmental sweep.' Spores sent to offices in New York and Florida are found to be the same strain.
+Concern about bioterrorism mounted Wednesday as early tests showed that 31 staff members at the Capitol have been exposed to anthrax and that spores mailed to the publisher of supermarket tabloids in Florida and to NBC News in New York were the same strain.
+And in an unprecedented move, the House of Representatives was closed to allow what Speaker Dennis Hastert called an "environmental sweep" of the chamber.
+The national Centers for Disease Control and Prevention in Atlanta, which identified the Florida-New York strain, reported that the matching strains do not necessarily mean that the anthrax came from the same source and that further tests were needed. It was also unclear, CDC officials said, whether it matched anthrax in an envelope sent to Senate Majority Leader Tom Daschle in Washington.
+Atty. Gen John Ashcroft, appearing on a TV news program, said preliminary analysis showed that the anthrax sent to Daschle was "virulent, strong, very serious." Although anthrax occurs naturally in animals, law enforcement officials said the sample sent to Daschle was "professionally" manufactured.
+"There has been some attempt to collect it, refine it and make it more concentrated," said Dr. Scott Lillibridge, head of the office for National Security and Bioterrorism in the Department of Health and Human Services.
+He and Health Secretary Tommy Thompson agreed in testimony to a congressional subcommittee that the letter to Daschle was "a very serious attempt at anthrax poisoning."
+But Thompson disputed reports that the anthrax was "weapons-grade."
+Cultures taken from Daschle's sample showed that this particular strain of anthrax is treatable by "all antibiotics, penicillin all the way to ciprofloxacin," said Gen. John Parker, who heads the medical research command at Ft. Detrick, Md., where they were tested.
+"It's a very sensitive strain," Parker said.
+* Concern spread to the the midtown Manhattan offices of New York Gov. George Pataki, where small amounts of anthrax were found in a secure area used by state police. Employees tested negative for exposure, but everyone in the office will be given antibiotics, including the governor.
+* President Bush asked Congress for an additional $1.5 billion to fight terrorism and prevent and respond to bioterrorism. It would be a six-fold increase over the $297 million Congress has appropriated for this year be used to produce smallpox vaccine and increase drug stockpiles.
+* In Florida, preliminary tests showed that a threatening letter sent to a Planned Parenthood clinic in the town of Stuart, 30 miles north of Palm Beach, was contaminated with anthrax. But police were dubious, and it was sent to a laboratory in Miami for a more conclusive analysis.
+In Washington, the House of Representatives was physically closed Wednesday night for what Library of Congress researchers said was the first time. Congressional leaders said it would remain shut for five days, along with its office buildings, to allow a comprehensive sweep of the facilities to determine if they contained any harmful substances.
+The Senate ordered a sweep of its offices as well. But Senate leaders insisted on staying in session today, in part because they feared that a complete shutdown of Congress would sent the public an unnerving impression of the government in panic.
+Among the 31 staff members who tested positive for anthrax exposure, three worked for Sen. Russell Feingold (D-Wis.), whose office is adjacent to Daschle's. Anthrax spores also were found in the Senate mail room, which is in still another office building.
+Congressional leaders tried to calm edgy nerves by underscoring that none of the people who had tested positive for exposure actually had been infected and made ill. They emphasized that the anthrax involved was readily treatable and that everyone exposed was taking antibiotics.
+Thompson and Lillibridge spoke to senators at a Government Affairs subcommittee in the Dirksen Senate Office Building before it was closed. They spoke calmly--in stark contrast to the atmosphere among groups of staffers, who spread the news that more than two dozen of their colleagues had tested positive for anthrax exposure.
+The staffers asked each other whether they were taking the antibiotic Cipro.
+Thompson told the senators that 1,200 bottles of the antibiotic had been sent to the Senate to threat those who were exposed. He said some 1,000 people will be tested.
+The secretary said the FDA will approve two additional antibiotics--doxycycline and penicillin--for treatment of anthrax. Both, he said, are effective against the types of anthrax found so far.
+"Because these drugs are available in generic form and produced by several manufacturers," Thompson said, "they will be relatively inexpensive and readily available."
+* Support additional epidemiological teams that can be sent into cities around the country to respond to infectious disease outbreaks and other public health risks.
+* Beef up laboratories in 45 states.
+* Help hospitals and emergency departments prepare for and respond to incidents requiring mass treatment or immunization.
+Law enforcement officials acknowledged many unanswered questions about the anthrax sent to Capitol Hill. They said they want to know whether it contained any additives to prevent it from clumping and becoming harder to inhale.
+Terrorists seeking to inflict the most damage would try to manufacture particles small enough to be inhaled, but big enough to be absorbed in the lungs, according to a bioterrorism expert in federal law enforcement, who asked to remain anonymous.
+Particles falling in that range would be of particular concern, the official said.
+FBI profilers studied notes found in the mailings to Daschle and to NBC, including one that sources said declared, "Allah is great" and "Death to America."
+The profilers "are analyzing every word to see what patterns it fits and to see if the words are consistent with actual Islamic culture or someone trying to create a false impression," an FBI official said.
+"There's no link to anyone that would suggest a motivation at this point, terrorist or otherwise," the official said. "And no one has claimed credit."
+No one knows who is responsible, a senior federal law enforcement official said. Even within the FBI, he said, there have been many discussions, even disagreements, about whether the letters were the product of an organized effort linked to terrorists who attacked New York and the Pentagon on Sept. 11 with hijacked airliners.
+"You just don't have enough information to make a reasoned decision to rule them in or out," he said of the Sept. 11 hijackers.
+In New York, Gov. Pataki said the anthrax was found in his offices after his secretary received an envelope Monday that seemed suspicious. The envelope was tested. The secretary and mail handlers also received tests. All came back negative.
+"But on Monday night, we ordered environmental tests, and one test indicated a positive . . . for the probability of anthrax in the office," Pataki said. "It was in a secure area used by the state police. As a result, we have closed our state offices on two floors .
+Seventy-five or 80 people work there, the governor said. "The offices will be cleaned. Hopefully by Monday we'll be back in the office. People have been given Cipro as a prophylactic. I too will be taking Cipro.
+"But there is no indication in any individual of anthrax."
+Pataki said the contamination was found on a desk surface. "We don't have any real belief that the envelope in question is the source of it. I'm the governor of New York. I get some very strange mail. State police and the FBI will investigate all possible sources. . . . "We'll also test the state capital," Pataki said, "just as a matter of caution and prudence."
+At NBC, officials said the first 500 of 1,304 employees it tested for anthrax exposure were negative. Dr. Steve Ostroff, a CDC official, said: "There is no evidence of ongoing carriage of the organism."
+The network said its facilities at 30 Rockefeller Plaza need to be cleaned so employees can be sure that all spores have been removed. It said the CDC would advise on how the clean-up should be done.
+"We've been waiting for good news for a long time," said NBC president Don Wright. "This is the happiest day I've had in a long time."
+At ABC, where the infant son of a producer contracted anthrax after accompanying his mother to a birthday party at work, employees were still awaiting test results. An examination of its air conditioning system proved negative.
+Police Chief Bernard Kerik said tests at city facilities have similarly proved negative and that security measures are in effect in subways.
+In Florida, postal workers in Stuart found a threatening letter addressed to a Planned Parenthood clinic. A preliminary test indicated anthrax, but police were dubious.
+Police Chief Joe Lyons called the test "extremely unreliable" said said: "We do not believe that we have a case of anthrax."
+The police were alerted after 9 a.m. Monday. Martin County Sheriff's deputies and the county fire rescue squad, wearing protective suits, removed the letter, tested the its powdery contents, then took it to a Florida Health Department laboratory in Miami, 30 miles south, for a more conclusive analysis.
+The letter was signed by "the Army of God" and contained "anti-abortion ramblings," Lyons said. Its return address, he said, was "the Secret Service in Georgia."
+Planned Parenthood clinics across the country have received more than 100 mailed threats, said Lillian Tamayo, chief executive officer of Planned Parenthood of Palm Beach and the Treasure Coast.
+"It is appalling," Tamayo said, "that individuals here at home, domestic terrorists by any other name, would capitalize on these events to promulgate their agenda."
+In Boca Raton, Fla., employees of American Media Inc., a publisher of supermarket tabloids, were given a second round of blood tests and free antibiotics. And for the first time, workers at firms connected with American Media were examined and given the preventive medications.
+Some of the companies handle the publisher's mail and its newspapers, and their employees were worried that they might have come in contact with the bacteria.
+American Media received an anthrax-spiked letter earlier this month. Seven of its employees were exposed. One has died. Another has been hospitalized with an anthrax infection.
+Postmaster General John E. Potter said "a very minuscule amount of spores" were found at the Boca Raton post office. "The CDC cleaned it up," he said, "and we are doing business there."
+Potter said he has ordered no changes in the way carriers deliver mail to businesses and homes.
+No postal employee has contracted anthrax, he said, and none has tested positive to exposure. Potter said the Post Office was making gloves available to its employees, but "most people are not taking advantage of this.
+"Many of them take the gloves off after an hour or two because they are uncomfortable."
+No machinery or test can detect anthrax in unopened mail, Potter said. "The best technology right now is common sense, heightened awareness about what is in the mail. . . . We are looking into technology sources, and I can't go any further than that."
+Times staff writers Josh Getlin in New York, Marlene Cimons, Ed Chen, Robert Rosenblatt and Elizabeth Shogren in Washington, John-Thor Dahlburg in Miami and researcher Anna M. Virtue in Miami contributed to this report.

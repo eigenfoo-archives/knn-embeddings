@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bf8fa421619bf204fd72f6bf70df0bee41a930c18127f6ecf0097f03f3e9e14
-size 3791
+There is no proof that a mercury-containing preservative present in some vaccines causes developmental disorders in children, but doctors should steer clear of giving children vaccines made with the substance just to be safe, a panel of experts said in a report on Monday. 
+The report by a panel convened by the Institute of Medicine, which provides advice on health issues to the U.S. government under a congressional charter, focused on thimerosal, long used in some vaccines and other pharmaceutical products to prevent bacterial and fungal contamination. 
+The committee concluded that no evidence currently exists proving a link between thimerosal-containing vaccines and autism, attention deficit-hyperactivity disorder, speech or language delays, or other neurodevelopmental disorders. 
+But the panel said it is "biologically plausible" that some children's risk of one of these disorders could be increased by exposure to mercury from vaccines containing thimerosal, which contains nearly 50 percent mercury by weight. The experts said existing evidence is insufficient either to accept or reject the idea that thimerosal-containing vaccines can cause these childhood disorders. 
+Levels of mercury, which can harm the nervous system, can build up in the human body with each exposure, whether from vaccinations or other sources such as contaminated fish. 
+Very few vaccines used in the United States still contain thimerosal and many types of vaccines never contained it, the panel said. But the committee recommended that, as a prudent precaution, vaccines that contain thimerosal not be used when vaccines made without it are available. 
+"Most children in the United States being immunized today and in the future are unlikely to receive a vaccine that contains thimerosal," Marie McCormick, a professor of maternal and child health at Harvard School of Public Health who headed the Institute of Medicine committee, said in a statement. 
+"In those few cases where only supplies containing the preservative are available, the vaccines should be administered rather than foregoing immunization. While the health effects of thimerosal are uncertain, we know for sure that these vaccines protect against real, proven threats to unvaccinated infants, children, and pregnant women," McCormick added. 
+The report was requested by federal health officials. 
+The committee recommended that U.S. policy-makers weigh additional precautionary steps to reduce exposure to thimerosal. The panel urged that government agencies and professional societies review their policies about nasal sprays, eye drops and other products that contain thimerosal and are used for infants, children and pregnant women. 
+Thimerosal has been used in vaccines since the 1930s. 
+But the three-in-one vaccine against measles, mumps and rubella (also called German measles) never contained the preservative, nor did the vaccines for chicken pox or polio. 
+Several other vaccines recommended for children until recently were made with thimerosal. The committee said these vaccines now are made without it, but an unknown, probably small number of vaccine doses remain on clinic shelves. They include vaccines for hepatitis B, diphtheria, tetanus and pertussis (whooping cough), and haemophilus influenzae type B (Hib), a form of bacterial meningitis. 
+A few vaccines, including influenza vaccine given annually during the viral flu season to adults and some children, still are manufactured with thimerosal. 
+Thimerosal also remains in use in many other countries. 
+Two years ago, the federal government and leading medical organizations urged new limits on mercury exposure of infants and young children -- a move that instigated the development of routine childhood vaccines made without thimerosal. 

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:603ad8033704270e36453a5e6a1b933d3aa1f121824b0700a4064785e556d7e0
-size 2729
+Computer security companies on Tuesday warned that a dangerous new Internet worm that is spreading will try to delete and overwrite files on infected computers beginning on Wednesday.
+The worm, dubbed Klez.E, is programmed to delete and overwrite Word, Excel, video, image, and Internet files, among others, on the sixth day of every other month, said Mikko Hypponen, manager of antivirus research at F-Secure, a Helsinki-based company.
+Klez, now listed as one of the 10 most common viruses worldwide, displays different subject lines, sometimes masquerading as a virus warning, and it tries to delete antivirus software as well, according to F-Secure.
+The worm can infect computers running any e-mail system, but only sends itself to recipients listed in the address books of Microsoft Corp.'s MSFT.O Outlook, Hypponen said.
+E-mail attachments containing the worm can execute automatically, infecting the system just by a recipient reading or viewing the e-mail message and not opening the attachment, the company said.
+The original version of the worm was first discovered in Nov. 2001, but earlier versions were not as destructive or fast spreading as Klez.E, Hypponen said.
+The Klez variants appear to have been written by someone in Southeast Asia, as they contain messages such as: "made in Asia," "I want a good job, I must support my parents," and "I want a salary of $5,500 a month," according to F-Secure.
+"I think it's a real guy who would like to get a job," said Hypponen. "He might think (writing the worm) is proof that he can program."
+E-mail service provider Central Command Inc. said it has detected infections of the worm in more than 97 countries.
+"We have seen a significant peak in confirmed infections over the last 30 days of Worm/Klez.E, over this period it has been our top infector," said Steven Sundermeier, product manager for Central Command.
+Most major antivirus vendors' products can detect and block the virus, Hypponen said.
+
+"We haven't gotten a single report from corporate customers" of infection, he said, adding that Trend Micro has the worm rated as a "low" risk.
+A company that specializes in data recovery said it is still unclear whether files overwritten by the worm can ever be recovered.
+"This virus is unique. It's the first I've seen where it actually overwrites the content of the file as opposed to just deleting it," like the Love Bug virus in 2000 did, said Jim Reinert, director of software products at Ontrack Data International Inc. of Eden Prairie, Minnesota.
+Deleted files are easier to recover because all that is destroyed is a reference to the data, leaving the data itself somewhere on the computer, whereas overwriting files obscures the data, he said.

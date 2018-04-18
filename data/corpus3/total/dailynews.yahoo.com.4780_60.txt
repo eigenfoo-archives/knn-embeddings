@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0ec19a7b8585e6f86f233798b556100c4c6fb7c1fea397a57e40d59c8f9facb
-size 3291
+The cockpit voice recorder recovered from American Airlines Flight 587 captured the sound of the plane loudly rattling twice before the pilots lost control after taking off from New York, investigators said on Tuesday as they sought the cause of the crash that killed up to 265 people.
+Evidence from the plane, the voice recorder recovered along with the flight data recorder, and the crash site near New York's John F. Kennedy International Airport initially yielded no signs of internal engine failure or a criminal act, said officials with the National Transportation Safety Board ( news - web sites ).
+But, said NTSB ( news - web sites ) investigator George Black at a late afternoon news conference, "We're not ruling anything out at this point.
+"
+The plane, bound for Santo Domingo, Dominican Republic, took off at 9:14 a.m. Monday.
+It split apart and crashed nose first about two minutes later, setting fire to a dozen homes in the working-class seaside neighborhood of Rockaway in Queens.
+The inferno killed 251 passengers, nine crew members and at least five people on the ground.
+Four more people on the ground were reported missing.
+Black said witnesses saw the plan wobble before falling into a steep spiral.
+Listening to the cockpit voice recorder, the rattling of the frame of the Airbus A300-600 can be heard 107 seconds after the pilots powered up the engines and again 14 seconds later, Black said.
+The timing of that shaking still must be matched with the flight data recorder and with radar to get a better understanding of what it means, investigators said.
+Midway between the two rattling sounds, the captain can be heard remarking that he was encountering the wake of a plane ahead of him, he said.
+That plane was a Japan Airlines (JAL)
+Boeing 747, which took off about 2 1/2 minutes before Flight 587, Black said.
+Two minutes is the normal time separation for departures, he said.
+All aircraft produce wake turbulence -- spirals of air that trail from the wingtips that can be a particular hazard when smaller aircraft follow a larger plane.
+There have been some instances where wake turbulence causes structural damage, according to a Federal Aviation Administration ( news - web sites ) brochure for pilots.
+The FAA requires that these types of aircraft must be four miles apart.
+Aviation sources said they believed these plane were further apart, and the NTSB said it had yet to determine the exact distance between the two.
+After the second rattling, the co-pilot can be heard asking for maximum power, Black said.
+Then there are "several comments suggesting a loss of control" of the plane.
+Just 20 seconds passed between the sound of the first rattle and the pilots' loss of control.
+The tape ended 17 seconds later, only 144 seconds after the engines are first heard.
+Asked how loud the rattling was, Black said, "It was significant enough for them to make note of it."
+"Sounds are important," he said.
+"All sorts of clunks and clinks can be identified."
+The voice recorder tape is 30 minutes and 38 seconds long and of good quality, he said.
+Investigators said at a Tuesday night briefing they had identified all of the major pieces of the plane and had begun more detailed scrutiny of some parts.
+The plane's engines appeared to be in one piece, Black noted.

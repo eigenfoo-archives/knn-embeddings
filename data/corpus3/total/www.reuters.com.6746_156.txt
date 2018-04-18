@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79dd5f1df53c8f4ca7fb79430ae2468254a6ce9685a5851d83cb62514992ba9e
-size 3358
+An astronaut wielding a 50-foot robotic arm snatched the Hubble Space Telescope from its orbit on Sunday, then secured it to the space shuttle Columbia for repairs that should make the orbiting observatory 10 times more powerful.
+It was the high point of a day that began with good news from Mission Control for the astronauts, who learned that a mechanical problem on the shuttle would not scuttle their 11-day mission before they even reached Hubble.
+Shuttle commander Scott Altman and pilot Duane Cary refined their orbit and slowed their speed so that they inched their way up to Hubble as both shuttle and observatory sped around the Earth at 5 miles per second.
+The task of grappling Hubble with the robot arm fell to astronaut Nancy Currie, a U.S. Army helicopter pilot and an ace with the Canadian-built arm.
+NASA has turned to her for two of its most important jobs.
+On her last flight she joined the first two modules of the International Space Station.
+Manipulating Hubble, the jewel in NASA's crown of science satellites, was considered equally significant.
+"Houston, we have Hubble on our arm," Altman radioed Mission Control once Currie had grasped the four-story observatory.
+gave Columbia's crew the green light to finish their mission on Saturday after studying a low-flow rate in a coolant loop that is critical for reentry through Earth's atmosphere.
+Even though the flow of Freon through the loop was below the rate allowed by flight rules, NASA determined there was no leak and that the stable rate, though low, was sufficient.
+Monday begins an aggressive schedule of five spacewalks in five days by alternating teams of astronauts who will install new, more powerful solar-power arrays -- the distinctive "wings" on either side of Hubble -- add a new power control unit, a new imaging camera and replace parts on an long-dormant infra-red camera.
+has called these spacewalks some of the most challenging attempted by shuttle astronauts.
+First up on Monday will be the spacewalking team of John Grunsfeld and Rick Linnehan who will replace one of the two solar arrays.
+Grunsfeld is a Hubble veteran, having flown on the last service mission in 1999.
+"It's great to see an old friend," he said after catching sight of the Hubble in orbit.
+It is the third spacewalk, scheduled for Wednesday and again featuring Grunsfeld and Linnehan, that will be the proverbial nail-biter, because NASA will turn off Hubble's power, something that was never supposed to happen in orbit, then hope ground controllers can bring the 12-year-old satellite back to life.
+While Hubble is dormant, the astronauts will try to replace a power control unit with dozens of snaking cables and power couplings that send electricity throughout the satellite.
+The old power unit, which has operated for years at about two-thirds capacity, was designed as a permanent component and never meant to be worked on by astronauts.
+"I don't think we're going to be really biting our fingernails," said Preston Burch, NASA's Hubble program manager.
+"We're going to be attentive, we're going to be working real hard on the ground ... there won't be time for much fretting and worrying."
+The new power unit and new solar arrays will mean enough power for all of Hubble's science instruments to operate at once, making multiple observations of a single target possible, NASA said.

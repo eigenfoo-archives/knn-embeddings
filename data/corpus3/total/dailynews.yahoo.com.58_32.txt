@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12e8b7e53e6aed48b8d0139486d82b9de8be1d46c2ba052e3e76c3a907838951
-size 3697
+Stocks slipped on Monday as investors readied for a rush of corporate scorecards amid the rising threat of bioterrorism and a second week of air strikes in Afghanistan ( news - web sites ). 
+"In the short term, I don't see much light," said George Rodriguez, senior vice president of equities at Guzman & Co.
+"However, as we look further down I can only be positive toward the economy and various sectors.
+This economy is not shattered and will not be shattered." 
+This week marks the most hectic period for third-quarter earnings, with 180 of the Standard & Poor's 500 companies set to post their results.
+Analysts expect the biggest drop in earnings in a decade as the economy struggles to escape recession, according to research firm Thomson Financial/First Call. 
+The market moved off its lows in the late morning, but tension remained.
+The United States took its military campaign in Afghanistan into a second week to force the ruling Taliban to hand over Osama bin Laden ( news - web sites ), while cases of anthrax in Nevada, New York and Florida have fueled fears of a biological assault on the nation. 
+Monday's winners included companies that may be crucial to combating a chemical or biological attack, but chip stocks slumped amid worries over corporate profits.
+Investment house J.P Morgan cuts its rating on chips makers like PMC-Sierra Inc. (
+PMCS.O), saying the stocks were too pricey. 
+The technology-laced Nasdaq Composite Index (.IXIC) shed 15.16 points, or 0.89 percent, at 1,688.24, after falling more than 2 percent.
+The blue-chip Dow Jones industrial average (.DJI) lost 67.32 points, or 0.72 percent, at 9,276.84, after losing more than 1 percent.
+The broader Standard & Poor's 500 Index (.SPX) was down 7.54 points, or 0.69 percent, at 1,084.11. 
+Stocks had rallied in the past three weeks, boosted by a handful of upbeat corporate results and hopes that increased government spending and lower interest rates will spur economic growth.
+But investors are keeping up their guard as the government promises a lengthy war on terrorism after the Sept. 11 attacks. 
+Cepheid Inc. (CPHD.O), whose products help detect biological agents, jumped more than 11 percent, or 90 cents to $8.68.
+Detection system maker Nanogen Inc. (NGEN.O) rose 76 cents to $9.37.
+Both added to stellar gains last week as anthrax cases fuel fears of biological warfare. 
+The Philadelphia Stock Exchange semiconductor index (.SOXX) fell 4.60 percent.
+Intel Corp. (INTC.O), the world's No. 1 maker of computer chips, dropped 68 cents to $24.34, pressuring both the Nasdaq and the Dow ahead of its earnings after Tuesday's close. 
+JP Morgan cut its rating on five communications chip makers, saying the stocks are overvalued.
+Applied Micro Circuits Corp. (AMCC.O) fell $1.41 to $11.69.
+Xilinx Inc. (XLNX.O) dropped $2.23 to 29.63.
+Altera Corp. (ALTR.O) lost $2.33 to $20.82.
+PMC-Sierra sank $1.97 to $16.83.
+Vitesse Semiconductor Corp. (VTSS.O) surrendered $1.03 to $10.32. 
+United Therapeutics Corp.
+(UTHR.O) sank $6.03 to $10.33.
+The company said preliminary results of a U.S. trial of a compound for treatment of intermittent pain when walking resulting from peripheral vascular disease did not confirm the findings of an earlier trial in Europe. 
+Dutch banking and insurance group ING Groep NV (ING.N) fell $4.26 to $24.
+The company joined the list of financial firms suffering from the global slowdown, slashing its 2001 profit forecast and sending its shares tumbling more than 14 percent. 
+Profits for S&P 500 Index companies are expected to shrink by 22.4 percent this quarter, making it the worst quarter since the second quarter of 1991, according to Thomson Financial/First Call. 
+ADVERTISEMENT

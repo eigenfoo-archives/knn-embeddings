@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd706024678796d7d1bd8475bb7f3ea02e2a2bd125eebbc4d34701c29a97f3a2
-size 2699
+The all-in-one media player has been successfully implemented on a small scale by Yahoo, but the RealOne Player marks a dramatic shift at RealNetworks. Until now, the Seattle, Washington, company has only delivered stand-alone audio and video players. 
+In fact, RealNetworks had been one of the few companies to promote the notion that consumers wanted to watch video files with one player and listen to audio files with another. 
+"The world of Internet media has been more separate until now," said Dave Richards, RealNetworks' vice president of consumer systems. "With broadband, that has all changed. With the interactive mode coming with the help of broadband, media content is going to be more compelling." 
+Other companies have been multi-tasking for a while now --just not to the extent of the RealOne Player. 
+Microsoft 's Windows Media player has long had the capability of playing audio and video together. Yahoo's Finance Vision , a streaming show about money and the stock market, is webcast through a three-frame system. And the video component of the RealOne Player has the look and feel of the Macintosh QuickTime player. 
+The Musicmatch audio player, which offers personalized music services, has been closing the gap between RealNetworks and Microsoft's Windows Media. In the first quarter of this year, Musicmatch increased its customer base by nearly 30 percent, according to Jupiter Media Metrix . 
+Even Microsoft's Windows Media is threatening RealNetwork's dominance. Over the last year Windows Media has added 6.9 million home users, according to Jupiter Media Metrix. 
+While RealNetworks continues to maintain a wide edge in consumer usage, clearly it had to change its philosophy if it was to continue to stay one step ahead of the competition. But the RealOne Player is not merely a cobbled-together version of its competition; the new player has a few new features of its own. 
+The RealOne Player will be the first to offer access to all of the major audio and video formats -- Microsoft, Real and MP3s -- so consumers no longer have to worry that a file they have downloaded won't play. 
+It has the ability to bookmark hyperlinks to video and audio streams as well. Most player applications allow users to store audio and video files, but not hyperlinks. 
+With downloaded music and video files archived alongside hyperlinks from websites that house streamed content, the line between streaming and downloading is beginning to blur. Users no longer have to use space on their hard drives to store files. Instead, they can save links to websites from which audio and video can be streamed. 
+Have a comment on this article? Send it . 
+Printing? Use this version.

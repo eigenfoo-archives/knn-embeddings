@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:845d0433f461498fba8ab8adfb47a1b13e5213b6106cf9bc63c9ef56831b27ca
-size 2043
+Astronauts on board the space shuttle Endeavour have docked with the International Space Station (ISS) setting the stage for the attachment - and dramatic spreading - of the largest solar wings ever taken into space. 
+The docking occurred more than 370 kilometres (230 miles) above central Asia. 
+Shuttle commander Brent Jett brought his ship in from below. 
+Station commander Bill Shepherd and his two Russian crewmates - on board the ISS now for a month - watched Endeavour's slow and cautious approach. 
+The five shuttle astronauts are their first visitors. The two crews talked to one another via radio, but they will not actually meet for almost a week. 
+Because of the difference in air pressure between the two craft, the hatches leading into the ISS's living compartment must remain sealed until the shuttle astronauts complete three spacewalks outside the space station. 
+Ahead of Endeavour's arrival, the three-man crew aboard the ISS detached a separate vessel, Progress, from the station as a security measure. 
+At the end of Endeavour's 11-day mission, the Progress vessel will be put back in place. 
+
+The operation to install the huge solar panels is due to begin on Sunday. 
+astronauts Joe Tanner and Carlos Noriega will perform three spacewalks from Endeavour to attach the $600m panels to the station's exterior, quintupling the station's electrical power. 
+Astronaut Marc Garneau will control the shuttle's robotic arm to transfer the power unit and its wings from Endeavour's cargo bay and hold them in space ready for bolting down by the spacewalkers. 
+Initially, the wings, which have a span of 73 metres, will be mounted on the station in a folded position. Computer commands will then open the structures out. 
+The wings will provide 64 kilowatts at peak power. The ISS is in urgent need of this energy. 
+One of its three rooms is closed off because there is not enough power to heat it. 
+A US lab module cannot be launched to the space station in January as planned unless the solar panels are installed.

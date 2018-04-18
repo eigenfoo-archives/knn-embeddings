@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35100d07dd21c7e9b70a1f3e9a5f8dcbfd5c82f3fb91357fe3c84477d634a511
-size 2391
+"Current slowdowns in broadband proliferation have likely forced anyone who'd planned to build a business on streaming video to drastically scale back growth projections," said Ric Dube, senior analyst with Webnoize , an Internet research firm.
+"Nobody will ever pay for streaming video content at speeds below broadband. "Cable television's quality and price set standard expectations.
+Whether or not speed is there, pay services compete with quality control, customer service, price and selection.
+" 
+No fewer than four subscription services -- operated by Internet media companies, the five major record labels and the movie studios -- are slated to launch before the end of the year, bringing unprecedented popular content to users for monthly fees. 
+MusicNet and Pressplay will offer music from the five major recording labels -- virtually all of the music heard on commercial radio -- as streams and downloads.
+Moviefly is slated to sell access to films released in theaters. 
+Those initiatives only offer digital entertainment in one format -- either audio or video.
+But RealNetworks will offer a mix of music, radio, television and movie highlights with its new RealOne service. 
+For a monthly fee, users can get live radio broadcasts of all Major League Baseball and National Basketball Association games, online video highlights of NBA games and sneak peeks and behind-the-scenes footage of television programming. 
+Despite the slowing broadband growth, much of the audio content can be accessed with a dial-up modem without a noticeable drop off in service, said Scott Ehrlich, RealNetwork's vice president of programming.
+So, he said, consumers can experience shows according to their connection speed. 
+The first iteration of the service -- the Real GoldPass -- has already drawn 400,000 subscribers, each paying $10 per month. 
+"One of the issues with broadband is that it isn't worth a certain amount of money per month to get text faster," Ehrlich said.
+"One of the things that we want to do with RealOne is provide a reason for people to upgrade their connections." 
+The Universal Music Group's digital incubator, eLabs, decided to forgo a subscription model for one of its products, instead launching The Viewing Lounge video service that uses repurposed television commercials as its revenue stream. 
+Have a comment on this article?
+Send it . 
+Printing?
+Use this version.

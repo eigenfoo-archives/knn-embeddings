@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92028851600d3fb758f2254a9fd15a5a3ff52d48cbe4fd66e72ac0d379e63177
-size 995
+has postponed the launch of a satellite designed to produce the first high-fidelity color movies of solar flares. 
+The High Energy Solar Spectroscopic Imager spacecraft, or HESSI, was scheduled for launch on June 7 aboard a Pegasus rocket.
+But a Pegasus rocket was used in the failed test flight of an experimental plane on Saturday at Edwards Air Force Base in California. 
+Engineers are working to determine if there is any connection between the failure of the X43-A mission and the Pegasus vehicle that will be used to launch HESSI from Cape Canaveral Air Force Station in Florida. 
+now says HESSI will launch on or about June 12. 
+The spacecraft has one instrument -- an imaging spectrometer that can create high quality movies of solar flares in X-rays and gamma rays.
+Those images should help scientists better understand the sun. 
+originally was scheduled to be launched last July, but the date was pushed back after the spacecraft was damaged during a vibration test on March 21, 2000.

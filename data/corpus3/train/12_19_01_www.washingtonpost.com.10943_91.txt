@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62c28faf201e74e4148590ea7c49d6eb2db866e2f530da6b20619a2a50122bb4
-size 4061
+The scientist who helped the United States refine anthrax and turn it into a weapon says the bacteria spores used in the recent attacks could have been processed in a variety of ways, making it impossible to trace their source.
+"You can process the stuff in so many different ways, I don't think that it will be the smoking gun," William C. Patrick III said Tuesday in an interview with The Associated Press.
+Patrick, who holds patents for techniques used to make weapons-grade anthrax, said that the type of spores mailed to the offices of Sen. Tom Daschle, D-S.D., and Patrick J. Leahy, D-Vt., could have been processed in a crude laboratory "as long as you are dealing with small quantities of material."
+He said anthrax can be cultured on many different growth mediums and that there are many ways to purify and dry it.
+Patrick led the Army's biological weapons program at Fort Detrick until the program ended in 1969. Since then, he has worked as an adviser and consultant on biological warfare issues for the Defense Department. In 1998, he taught scientists at the Dugway Proving Ground in Utah how to turn wet clusters of bacteria spores into a dry powder, according to The Washington Post.
+That technology is not difficult, Patrick said Tuesday. He said the key to turning anthrax into a weapon is the genetic strain of the microbe.
+"It is all in the strain," he said. "If you have poor strain you're not going to make a good product."
+The strain used in the letters mailed to media offices in New York and in Florida has been identified as Ames, a strain that was used in Defense Department testing.
+Patrick said that spores mailed to the senators offices are "one step removed from weapons grade."
+"It has small particles, with good concentration, (but) it is electrostatic (carries an electrical charge)," said Patrick.
+To make the mailed spores suitable for military weapons, the electrical charge would have to be removed. The electrical charge helps make the spore become airborne at the slightest puff of air.
+Investigators have said that the anthrax spores in the letters sent to the senators offices were so charged that they tended to jump off microscope slides and fly about the chamber where they were being examined.
+Patrick said the same thing would have happened to anyone who made spores for the anthrax-by-letter attacks.
+"It would have been flying all over the room," he said, with up to half the material lost.
+If the processing room had a window to the outside, he said, "you could get people infected if they were just passing that window."
+A person making the spores in a home laboratory, said Patrick, could have protected themselves by wearing a special, easily purchased mask and by taking an antibiotic to prevent infection. But the process still would have contaminated the room where the work was done, he said.
+Patrick said that to turn anthrax into a weapon would involve mixing a cluster of spores with a liquid compound that would cause the individual spores to separate and stay apart.
+"How you treat the liquid material determines what the particle size (of the spores) is going to be and what the concentration will be," he said.
+Drying the wet spores "is not a technically demanding task," he said. "You can dry it in many ways even with a heat lamp.
+"If you purify the material and dried by a vacuum drum or by spray drying or by freeze drying, the material will be the same," said Patrick.
+He said the spores would bear chemical traces of the material used in the wetting compound. Asked about a report that the spores in the senators' offices bore traces of silica, a drying agent, Patrick said: "I am not going to discuss silica, either the presence or the absence of it."
+Another anthrax expert, who asked not to be named, said the characteristics of the spores found in the senators offices suggest the material was spray-dried. This means that the wet spores would have been sprayed into a drying chamber that absorbed the moisture and trapped the dry spores which could then be packaged.

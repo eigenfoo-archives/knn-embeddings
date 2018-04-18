@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d16c33d210f33fba135e64cc338a3d5b7e6fb010d4dea0e4be205e419c66fc03
-size 2633
+The first picture taken through the High Resolution Camera, one of the two X-ray cameras on NASA's Chandra X-ray Observatory, is of the wreckage of a star that exploded in an outrigger galaxy to our own Milky Way. 
+Thousands of years ago, in this small companion galaxy called the Large Magellanic Cloud, a star exploded with almost unimaginable violence.
+For a few days this so-called supernova explosion outshone an entire galaxy of its companions as its wreckage was scattered into space. 
+Thousands of years later the gas is still at millions of degrees and gives off X-rays that Chandra can detect. 
+
+The N132D supernova remnant is a cloud of expanding gas, currently some 80 light years across (that is 20 times the distance between our Sun and the nearest star) that has already swept up enough gas and dust to make 600 suns. 
+"These were preliminary test observations," emphasized Dr. Stephen Murray, of the Harvard-Smithsonian Center for Astrophysics. "But we are very pleased with the results. All indications are that the high resolution camera will produce X-ray images of unprecedented clarity." 
+
+The N132D image shows a highly structured supernova remnant, or shell, of 10-million-degree gas. Such a shell in the vicinity of the Sun would encompass more than 50 nearby stars. What is more the N132D supernova remnant appears to be colliding with a giant molecular cloud, which produces the brightening on the southern rim of the remnant. 
+The molecular cloud, visible with a radio telescope, has the mass of 300,000 suns. Astronomers say that the relatively weak X-radiation on the upper left of the image shows that the shock wave is expanding into a less dense region on the edge of the molecular cloud. 
+
+In addition a number of small circular structures are also visible in the central regions and a hint of a large circular loop can be seen in the upper part of the remnant. Whether the peculiar shape of the supernova remnant can be fully explained in terms of these effects, or whether they point to a peculiar cylindrically shaped explosion remains to be seen. 
+"The image is so rich in structure that it will take a while to sort out what is really going on," Murray said. "It could be multiple supernovas, or absorbing clouds in the vicinity of the supernova." 
+Chandra's high resolution X-ray camera can reveal detail as small as a stop sign at a distance of 12 miles. The observatory is currently going through its checkout procedure. In the next few weeks, during which time the Chandra science team expects to acquire images of other supernova remnants, star clusters and starburst galaxies.

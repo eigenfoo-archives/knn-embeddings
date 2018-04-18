@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eec46925a3122b54edc6c8be59d0cb101d7ea34ec2933ea294f974baf5daae19
-size 677
+We prefer to use electronic artwork because it is easier to work with and it improves the quality of figures on the printed page.
+This is intended to be a simplified guide. 
+We can accept: floppy, cd-rom, jaz, zip and optical (128 mb disks).
+Macintosh or PC formatted.
+Currently, production-quality artwork CANNOT be submitted online. 
+We prefer photographic images at 400+ DPI TIFF or Photoshop v5 format (at actual size).
+We can accept: JPG, EPS, DCS 1 2 . Full guide to preparing production-quality artwork Preferred file formats and resolutions.
+Tips and hints How to get your file into the right format.
+Nature Macmillan Publishers Ltd 2000
+Registered No. 785998 England.

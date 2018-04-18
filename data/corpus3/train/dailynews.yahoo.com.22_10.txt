@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46ffb35bf9500a0ff475c61fc76f304a622f205e4bef48751b81b3de23315ea3
-size 4749
+As rescue crews sorted through the rubble at the World Trade Center site, employees from retail brokerage Tucker Anthony Inc. were in the midst of moving to a bucolic setting 40 miles away in the woods of New York state.
+Tucker Anthony had about 300 employees in 1 World Financial Center, across the street from the two World Trade Center towers that were hit by hijacked airplanes on Sept. 11 and then collapsed, leaving a total of more than 6,500 people dead or missing.
+In the weeks following the disaster, the brokerage firm's ability to access critical data and rebuild its systems underscored the disaster recovery business's evolution from a simple insurance policy for back-up equipment to one focusing on highly orchestrated emergency services.
+Tucker Anthony turned to IBM Corp.(NYSE: IBM - news ), which has 3,000 employees working on recovery efforts after the attacks in both Washington D.C. and the Pentagon ( news - web sites ), including a team helping federal and local agencies.
+This kind of work, called business continuity and recovery, is part of IBM's $33 billion global services business, which has become an increasing percentage of the Armonk, N.Y.-based computer giant's $88 billion in total revenues in 2000.
+In turn, it has made IBM the envy of some other computer makers, such as Hewlett-Packard Co. (NYSE: HWP - news ) and Compaq Computer Corp. (NYSE: CPQ - news ). Indeed, Hewlett and Compaq said on Sept. 4 that they would merge in part to beef up their services offering.
+IBM's disaster recovery team provides a range of services and hardware, from restoring networks, to laptop and desktop computers, to providing temporary workspace to shipping out new replacement equipment, said Todd Gordon, IBM's business continuity and recovery services general manager.
+With many financial customers both in the World Trade Center and in neighboring buildings, IBM began fielding calls before the World Trade Center buildings had even collapsed.
+"We got our first call at 9:10," Gordon explained, just 22 minutes after the first plane hit the World Trade Center. The first tower toppled within the hour.
+As the day went on, customers with contracts and those who did not wanted help with everything from figuring out how to get in touch with their employees to how to patch their data back together.
+In some cases, he said, the needs were more dramatic.
+It was "Help, I'm out of business. Do you have a place we can go?" Gordon said.
+For Tucker Anthony, and about two dozen other companies, that place ended up being IBM's 175,000-square-foot (16,260-square-meter) building in the hills just north of the New York-New Jersey border. Ever since, that normally quiet recovery center has been buzzing with adrenaline.
+Behind one of the doors in the four-story complex is Tucker Anthony's 600-square-foot (55-square-meter) suite where the company is rebuilding its front-office data, including human resources, operations and accounting records.
+A handful of technical employees have made the trek there for 10 days, but the company hopes to close its make-shift center and move to a temporary location in downtown Manhattan during the week of Sept. 24, said Tucker Anthony's Paul Stringer, who heads the technology operations at the site.
+Stringer, who works in the windowless data room, said the company's recovery plan, set up 4 years ago, worked as hoped. The company backed up its data daily and had the tapes picked up early that morning by data storage firm Iron Mountain Inc.(NYSE: IRM - news ).
+"(Iron Mountain) sends the data up to IBM. We meet them up here. They load the tapes and we try to start up transmission services," Stringer explained.
+IBM wasn't the only company helping businesses based in the financial district relocate and reconfigure.
+Wayne, Pennsylvania-based SunGard Data Systems (NYSE: SDS - news ) and Rosemont, Illinois-based Comdisco Inc. (NYSE: CDO - news ), which recently filed for bankruptcy, both said they had at least two dozen customers they were working with after the attacks.
+IBM declined to break out revenues for the business continuity division. The business is set up like the insurance business -- customers pay monthly fees of $100 a month to $1 million for a recovery plan. After the disaster occurs, IBM then charges a daily fee for using the location, said business continuity and recovery services general manager Todd Gordon.
+Gary Helmig, an analyst at SoundView Technology says that IBM's emphasis on providing a broad range of services, including disaster recovery, will benefit the company going forward.
+"Comdisco and a Sungard will be providing recovery services but they don't provide the total outsourcing of the data center," Helmig explained. 

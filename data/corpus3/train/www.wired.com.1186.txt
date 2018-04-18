@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:912c272bb152428f2fb545bf4e9b548421afa270ec6007123f4d5106d7e3f485
-size 3233
+DiBona was in the unenviable position of having only three weeks to dream up a few dozen questions to pose to the always eerily intelligent contestants. The questions had to be challenging enough to strain the combatants' brains and give the audience enough time to merrily jeer -- but not so difficult that they would send contestants into a petulant and protracted silence. 
+DiBona had a particularly tight preparation timetable because he was a last-minute substitute for the Bowl's usual host, Nicholas Petreley, who had to back out due to family commitments. 
+DiBona's first thought when he agreed to host was that he'd have to get started on coding a program to manage the game and the scoring. 
+"I figured it'd be easier to write my own program than learn how to use someone else's software," he said. "I was also a bit concerned that Nick's software had displayed a rather alarming tendency to freeze and offer up random answers to the questions at the San Francisco 2001 bowl." 
+DiBona, the program manager of events for the Open Source Development Network , coded the software in less than a week, and happily accepted help from Linux community members Eric Raymond, Nate Oostendorp and Rick Moon to come up with questions that "any proper geek would know inside and out." 
+The foursome made up a list of subjects spanning high tech to very low pop culture. Then they picked apart the source material to find some obscure little queries with which to torment the contestants. 
+"I wanted the game to be just stressful enough to be enjoyable. I wanted to ask the sort of questions that you know you know the answer to somewhere in the darkest corner of your mind, but you have to struggle a little to recall the information," DiBona said. "I also wanted people in the audience to be squirming in their seats, because they knew the answers and were trying to hold back and not shout out the reply." 
+Contestants were divided into two teams, the "Geeks" and "Nerds." Each team had three pre-selected open source experts (some nervous laughing ensued when the introductions revealed that three of the six experts were currently unemployed), as well as two people who were plucked randomly from the audience. 
+The bowl once again proved that the people who attend LinuxWorld know the strangest things, like what series of science fiction books features the characters Gurney Halleck, Paul Atreides, Duncan Idaho and Feyd-Rautha, and what encryption technology was patented on Sept. 20, 1983. They also know the original name of America Online, the four bases that make up DNA, and what species of penguin calls Phillip Island at the southern tip of Australia its home. 
+"These people just scare the hell out of me," a reporter for a local newspaper, who was in the audience, said. "It's hard to believe that they didn't get issued a totally different sort of brain from the rest of us." 
+The Nerds beat the Geeks by about 1,000 points. No one seemed to care about the final score, but the Nerds proudly clutched their glass-blown golden penguin statuettes and thanked "the Academy." 
+The questions and answers can be found at DiBona's website . 
+Have a comment on this article? Send it . 
+Printing? Use this version.

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6a0c4884189f84c738a00ead2dd8bb005d3ea6a5aa2cd6bce0a98b44c3ebd1a
-size 1504
+The government approved sophisticated genetic fingerprinting tests Thursday for blood banks to use to further reduce the risk of dangerous viruses slipping into transfusions.
+The vast majority of transfusions already are infection-free.
+But blood banks have been performing this nucleic acid testing, called NAT, as part of a nationwide experiment since 1999 to see if the more sophisticated method can make the blood supply even safer.
+Thursday's approval by the Food and Drug Administration validates NAT testing as adding that extra layer of safety.can detect tiny amounts of the AIDS virus or liver-destroying hepatitis C before the blood donor's body has even recognized the infection.
+Some of the tests can detect as few as 10 copies of a viral gene.
+Viral genes spread through blood faster than the immune system begins forming antibodies to fight them, a reaction that may not occur until 20 to 80 days after the person is infected.
+Yet until now, blood testing has depended largely on tests that detect antibodies in an infected donor.
+So newly infected donors occasionally slip through.
+Adding nucleic acid testing to the standard battery of blood tests promises to close much of that gap.
+In the nationwide studies, nucleic acid testing of an estimated 20 million blood donations caught seven cases of HIV infection and 88 hepatitis C-positive donations blood that otherwise would have slipped through.
+Chiron Corp. makes the newly approved test, which it sells under the brand name Procleix.

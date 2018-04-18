@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad70e91c46132161b4858d9b7089f8ef6928506faca4f108eb479831c5414bda
-size 10643
+Terror:
+Officials find their public health and safety systems aren't up to the task and scramble for costly improvements.
+Two years ago, the Justice Department set aside $150 million to help states purchase response gear for civil emergencies.
+Before Sept. 11, one state applied for a share of the money. 
+Now, the rush is on.
+State after state is pushing for the money as local and regional officials realize how unprepared they are in the wake of the terrorist attacks on the World Trade Center and Pentagon. 
+"We're just, frankly, not ready," said Vermont Gov. Howard Dean, who is especially concerned about biological threats. 
+The fixes are expensive, and as budgets slide from surplus into deficit in state after state, a few critics argue that the money would be better spent addressing dangers that clearly plague public health now--drug abuse, say, or smoking--rather than looking ahead to an amorphous terrorist threat.
+Others caution that anti-terror shopping lists are premature: The first order of business, they contend, is for the federal government to deliver a realistic assessment of what type of attacks are most likely. 
+"You can't protect against every fanciful, conceivable, unlikely scenario.
+You can't," Oklahoma Gov. Frank Keating said. 
+But with Atty.
+Gen. John Ashcroft warning of "a clear and present danger to Americans," many state and local officials feel compelled to move as quickly as they can--in as many directions as they can. 
+Most have taken the obvious precautions to bolster security, from installing metal detectors in high-profile buildings to fencing off drinking water supplies.
+In St. Louis, law enforcement officers have started conducting random searches of trucks on the interstate.
+In Illinois, state police have been ordered to carry enough food and water to sustain them for three days in case they can't get back home in a crisis. 
+Arizona has launched a 24-hour hotline for tips about potential terrorists; it has logged more than 600 calls.
+California has set up a central database to track all threats and hoaxes statewide.
+In Georgia, the directors of 60 state agencies met behind barbed wire recently to assess state readiness.
+In Missouri, Gov. Bob Holden created a new Cabinet post for homeland security. 
+Those are quick and inexpensive measures.
+Experts say they are not enough. 
+To gird for attack--and especially for chemical or biological strikes--every state, they say, must fortify its health care infrastructure, stockpile more vaccines and antidotes and load up on supplies for emergency response crews.
+Among the most pressing problems experts cite:
+Many hospitals have, at most, one decontamination shower--capable of processing just a couple of chemical-attack victims per hour.
+Some fire departments also have mobile decontamination units to help out.
+The alternative: herding victims to a staging area, stripping them and spraying them with fire hoses.
+"If you want to know what the short pole on the tent is, that's where it is in most cities," said Larry Gispert, emergency management director for Hillsborough County in Florida. 
+Medical authorities often have no rapid way to communicate the health alerts critical for an effective response to a germ attack.
+Experts say 25% of public health departments don't have e-mail; fewer than half have high-speed Internet access.
+The federal Centers for Disease Control and Prevention in Atlanta reported two years ago that only 45% of local health departments had the capacity for "broadcast faxing," which would allow them to transmit alerts to all labs and physicians in their areas. 
+Only five public health labs in the country can test human specimens for exposure to the types of chemicals that most likely would be used in a terrorist attack.
+Most hospital labs are unable to diagnose exposure to biological weapons, such as anthrax or smallpox.
+And only 37 states have CDC experts assigned to help them spot unusual patterns of infection. 
+Many communities have no workable surveillance system to detect unexpected surges in illness that could signal an outbreak of diseases, such as smallpox.
+In Boston, a computer program automatically records admissions to every emergency room daily--and follows up on any spike within hours.
+But many cities still rely on physicians to fill out paperwork for every flu-like illness they treat, a cumbersome system that often ends up being ignored.
+"The most neglected aspect of our defense is the whole public health infrastructure," said Greg Evans, director of the Center for the Study of Bioterrorism in St. Louis. 
+In an appearance before the Senate Committee on Health, Education and Labor on Tuesday, Dr. Michael T. Osterholm--director of the center for infectious disease research at the University of Minnesota--reiterated that most hospitals and other facilities are unprepared for a large-scale bioterrorism attack.
+A major assault "would overwhelm most existing state and local systems within a few days," Osterholm said. 
+In Houston alone, officials assessing public health needs came up with a $4-million shopping list--and that was before Sept. 11.
+They expect to add more items soon, from protective gear for doctors to decontamination units for major hospitals.
+If the federal government doesn't cover the tab, city officials are considering asking the local business community for donations. 
+"At this point, we're looking at any and all options," said Craig McDowell, the city's emergency services manager.
+"I don't know that you're ever totally prepared.
+But we want to be as prepared as we can be." 
+Authorities across the country emphasize that they are not starting from scratch. 
+The federal government has been prodding communities to gird for weapons of mass destruction at least since 1995, when a Japanese cult released sarin nerve gas in a Tokyo subway, killing 12 people and injuring hundreds. 
+More than 270,000 firefighters, police and paramedics have been trained to respond to such threats.
+Special National Guard teams in 27 states also have been formed to handle chemical or biological attacks--some of them working on virtual reality simulators to practice evacuating a city in crisis. 
+The Justice Department has even organized drills in 120 cities, laying out a disaster scenario and asking officials to run through their responses. 
+Utah, which will host the 2002 Winter Olympics, was the only state to complete the lengthy application to tap into the Justice Department's $150-million fund to purchase emergency equipment, such as protective suits and respirators.
+Yet other federal grants have been available over the years for such purchases. 
+And some agencies have moved aggressively to stock up.
+The Los Angeles County Fire Department, for example, has spent $1 million from its own budget and at least $400,000 in grant money on training and equipment over the last few years.
+As a result, every firefighter now carries an "escape mask" to flee a chemical cloud, along with an injectable nerve gas antidote.
+But Chief P. Michael Freeman recognizes that such preparation is not the norm. 
+"It's been kind of hit or miss around the nation," he said. 
+In Missouri, for instance, only 5% to 10% of "first responders"--the emergency personnel who would be first to a scene--have the equipment to withstand chemical or biological exposure.
+"
+Right now, we're not ready," said Robb Pilkington, a terrorism specialist who trains the state's rescue workers. 
+Florida's wish list includes 1,400 pairs of chemical-resistant boots for rescue workers.
+Arizona is buying 900 protective biocontainment suits, one for each state police officer.
+In Alabama, emergency coordinator Woody Odom needs equipment to detect chemical or biological agents. 
+California needs more high-tech equipment too, and also more training for first responders.
+But Emergency Services Director Dallas Jones hopes to avoid a frenzy of panic buying.
+"We want to do this with a comprehensive regional plan," he said.
+"Every hospital in the state doesn't necessarily need a 900-person-per-hour decontamination unit." 
+Even before the Sept. 11 attacks, the Bush administration had asked Congress to appropriate $104 million for local purchases of emergency response gear.
+More recently, Sens. Edward M. Kennedy (D-Mass.) and Bill Frist (R-Tenn.) have proposed spending $1.6 billion to counter bioterrorism. 
+"I really believe that the majority of funding items will be handled by the federal government," said retired Army Col. Timothy Daniels, Missouri's new homeland security chief. 
+But experts caution that spending is only one way to prepare. 
+John Thomasian, who directs the think-tank branch of the National Governors Assn., recommends legislation that would give health officials the authority to seize property or to mandate medical exams so that they could identify and contain any infectious epidemic. 
+Fire chiefs call for better efforts to establish common radio frequencies, so all emergency personnel can communicate. 
+In some cases, better preparation would be as simple as freeing up staff to draft an emergency response plan.
+Fewer than 25% of county and city health departments have such a plan.
+Of those that do, fewer than half have tested it with drills, according to the departments' professional association. 
+One final prong of the preparation effort is public outreach: getting the word out to citizens not to panic.
+Some local officials fear that the drumbeat of warnings on bioterrorism will prompt a run on hospitals as people see every sniffle as a sign of anthrax poisoning.
+"We're very concerned that, with the winter flu season coming on, if we don't tone down the rhetoric we could very easily find ourselves overwhelmed," said Chuck Lanza, emergency director for Miami-Dade County in Florida. 
+With so many disparate needs identified--and so many urgent holes to fill--state and local anti-terrorism efforts have been somewhat scattered in the weeks since Sept. 11.
+As Freeman put it: "It has not yet coalesced into a national strategy." 
+That doesn't trouble Brad Roberts, an anti-terrorism expert at the private Institute for Defense Analyses, a think tank that advises the Pentagon.
+In fact, Roberts suggested, a diffuse approach may well be the best national strategy of all. 
+"The problem we face is so fuzzy . . .
+we cannot precisely tailor a response," Roberts said.
+"We have to strengthen our defenses across a broad range of issues--and hope that, when a crisis comes, we've done enough of the right things to make a difference."   
+Times staff writers Aaron Zitner and Robert L. Jackson in Washington contributed to this report.

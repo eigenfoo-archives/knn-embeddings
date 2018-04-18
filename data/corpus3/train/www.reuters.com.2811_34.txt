@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:919c2b2d416eea2432b10fa3062712c960bef6750be4fce80f081ad1edf4f50f
-size 2668
+Advanced Micro Devices Inc. on Wednesday posted its first loss in at least five quarters as the chipmaker suffered from a slowing economy, grim PC sales and a bitter price war with rival Intel Corp., prompting it to warn of an operating loss in the fourth quarter. 
+Advanced Micro Devices (AMD) AMD.N said it recorded a loss of $186.9 million, or 54 cents a share, compared with net income of $408.6 million, or $1.18 a share last year. Sales fell 37 percent to $765.9 million from $1.21 billion. 
+Excluding charges related to job cuts and closing two plants, Sunnyvale, California-based AMD had a loss of $97.4 million, or 28 cents a share, in line with a warning issued on Oct. 5. Analysts were expecting, after the Oct. 5 warning, a loss of 28 cents, with a forecast loss range of 18 cents to 30 cents, according to market data research firm Thomson Financial/First Call. 
+In the year-ago period, excluding a gain of $336.9 million from the sale of its voice communications unit Legerity and a charge of $22.9 million for retiring debt, AMD had a profit of $219.3 million, or 64 cents. 
+Shares of AMD fell 95 cents to $9.66 ahead of the report, which came after markets closed. AMD shares have fallen 30 percent this year, compared with a 21 percent decline in larger rival Intel's stock price. 
+AMD said it had market share in the 22 percent range in the market for microprocessors, although Intel said on Tuesday when it reported quarterly results that it gained two to three points of market share, largely at the expense of AMD. 
+AMD said it had record sales of the Athlon and Duron processors, coming in at more than 7.7 million, which was consistent with the record level of the second quarter. 
+Sales of chips in its memory group, mostly flash chip sales, declined 34 percent to $210 million from the second quarter, and reflected continuing weakness in the communications sector and bloated inventories at major customers, AMD said in a statement. 
+The company said that sales of flash chips in the fourth quarter will range from unchanged to growth of 10 percent over the third quarter. It also said it expects again to sell a record number of Athlon and Duron chips in the fourth quarter. 
+Overall, AMD said it expects total company sales to be flat to "high single-digit percentage growth" in the fourth quarter. 
+"Revenues in this range would be insufficient to offset the current level of expenses, and therefore the company currently expects to report an operating loss in the fourth quarter," the company said in a statement. 
+A survey of analysts by First Call expect the company to post a loss of 21 cents a share for the fourth quarter.

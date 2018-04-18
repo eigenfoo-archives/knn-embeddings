@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:471968db528aec04fdbf91435934113d59933bbf16e47a565bde11130e9a8244
-size 2654
+What is the National Guard?
+The National Guard is a state and federal military force with Army and Air Force troops in all 50 states and the District of Columbia, Guam, the Virgin Islands and Puerto Rico.
+There are about 350,000 Army Guard soldiers in the United States and 108,000 Air Guard troops.
+By comparison, the active-duty Army has 480,000 soldiers and the Air Force has 357,000 airmen.
+The majority of Guard troops are part-timers who drill one weekend a month and two weeks each year.
+In its state role, the Guard falls under the command of each state's governor in peacetime and can be called up to respond to natural disasters and other emergencies.
+The National Guard also has a federal role serving as a backup to the Army and Air Force.
+A large percentage of combat support jobs in the Army and Air Force are assigned to the National Guard, including military police, aerial refuelers, water purification units and numerous other specialists.
+The Guard also has combat units that include infantry, tank units and fighter jets.
+The Army National Guard is separate from the U.S. Army Reserves, which is the active-duty Army's backup force and reports directly to the Army.
+The Army Reserves has about 208,000 soldiers.
+The National Guard is the oldest component of the armed forces.
+The National Guard traces its roots to state militias set up 365 years ago during the colonial period.
+The Guard has fought in every major war this century.
+The National Guard made up 40% of American combat divisions in France and National Guard units were among the first to deploy overseas during World War II.
+Guard troops in the Persian Gulf War performed a variety of missions, from supporting combat soldiers to flying fighter jets.
+In many hundreds of communities across the United States, the National Guard is the most visible U.S. military presence.
+There are National Guard armories in virtually every congressional district in the United States and in some towns three and four generations have served in the Guard.
+There is a vast difference between the Army Guard and the Air Guard.
+For most of this century the Army Guard has had a rocky relationship with the active-duty Army.
+The two forces have competed for federal funding and troops.
+In the past 5 years, the Army and National Guard have attempted to forge a much closer relationship.
+The Air National Guard has cultivated a close relationship with the active-duty Air Force and is often seen by Air Force leaders as an equal player.
+Air Guard fighter units are often filled with former Air Force pilots and mechanics and sometimes have more experience than their Air Force counterparts.

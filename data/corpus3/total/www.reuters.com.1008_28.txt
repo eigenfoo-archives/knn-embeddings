@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bd7a3f828febaa2d1e73c7a2b56f5b994b9455c9d467cea3f7fbfae08fafdd9
-size 2717
+Hong Kong stocks slipped on Friday morning despite a sharp rally on Wall Street as domestic economic uncertainties prompted investors to take profits on some stocks they had recently pushed up. 
+The benchmark Hang Seng index was down 1.02 percent at 10,415.56 points at 10:58 p.m. EDT. 
+"The index has rebounded about 2,000 points since the September 11 attacks.
+It's approaching overbought, so there'll be profit-taking," said Ben Kwong, director at KGI Asia. 
+China stocks, which have outperformed the broader market since the attacks on New York and Washington, were down as investors said they may have moved up too far to fast. 
+Analysts said investors had been throwing their weight behind China technology stocks recently because the mainland is seen as being relatively insulated from international uncertainties. 
+The Hang Seng Mainland Composite Index was down 3.21 percent at 1,127.75, but is still up 8.5 percent since the attacks. 
+HSBC Holdings, Hong Kong's top bank and a global giant, led gainers with a 0.58 percent climb to HK$86.50, arcing toward an overbought level on its 14-day relative strength index. 
+Analysts said investors were buying into selected heavyweights and liquid stocks in the face of global uncertainties. 
+But technology stocks slipped although the tech-heavy Nasdaq Composite Index had spiked up 4.62 percent. 
+Legend Holdings, the mainland's top computer maker, lost 3.36 percent at Hk$3.60 after rising as high as HK$3.85 shortly after market opened. 
+Top mainland cellular carriers, China Mobile and China Unicom lost three percent to HK$25.25 and 2.6 percent to HK$9.15 respectively.
+China Mobile is the second largest stock on the Hang Seng by market capitalization behind HSBC. 
+Investors also may have been taking profits ahead of the weekend in case of another surge in international tensions. 
+The FBI warned Americans on Thursday of possible new terror attacks on U.S. soil within the next few days as U.S. forces unleashed their fiercest onslaught yet on Afghanistan. 
+Investors are concerned that a protracted war would delay the economic recovery of the United States, Hong Kong's second largest trading partner. 
+"The players are still concerned about the economic outlook in the U.S. and in Hong Kong.
+The market is now focused on the economy after the policy address," said Kenny Tang, associate director at Tung Tai Securities. 
+In his annual address to the legislature on Wednesday, Hong Kong leader Tung Chee-hwa warned of tougher times ahead after last month's attacks on the United States but offered little to kickstart the local economy. 
+Market turnover stood at HK$2.64 billion (US$338 million).
+Losers led gainers 270 to 81 with 401 stocks unchanged.

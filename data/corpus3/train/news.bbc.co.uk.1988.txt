@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f88abf50882a6513a827c6fa16763bbad0bd107eaf9e53d7b407235aabecc01
-size 3461
+The best images ever taken of Saturn's mysterious moon Titan reveal a complex surface that may be home to icy landforms and frigid hydrocarbon seas. They would be the only known open oceans in the Solar System, other than on Earth. 
+Astronomers from the US Lawrence Livermore National Laboratory and the University of California have captured the images using the world's largest telescope, the Keck reflector on Hawaii. 
+Sharper than those obtained by the Hubble Space Telescope, the Keck images show dark regions that may be seas of liquid hydrocarbons as well as bright regions that may be ice-and-rock continents or highlands. 
+
+Titan is 5,120 kilometres (3,200 miles) in diameter, larger than the planet Mercury and is the only body in the Solar System with a nitrogen-rich atmosphere like the Earth's. Being 1,200 million kilometres (800 million miles) from the Sun, Titan is much colder than Earth, with a surface temperature of minus 180 degrees Celsius (-290 F). 
+Scientists believe that Titan could be one of the most important objects for scientific scrutiny in the entire Solar System as it may contain some of the secrets of the beginning of life. 
+The new observations confirm that Titan is chemically rich. It contains many of the molecules that were on the Earth before life arose on our planet. 
+When the Voyager spacecraft passed by in 1980, it saw only the orange-brown top of Titan's smoggy skies. Now, using the Keck telescope, scientists can get a more detailed view. 
+
+"With the tremendous power of the Keck Telescope we are able to map surface features 150 miles in size on a moon that is more than 1,200 million kilometres (800 million miles) from Earth. I find this tremendously exciting to think about," said Claire Max of the Lawrence Livermore Laboratory. 
+"These models give the first quantitative map of Titan's surface. The bright region shaped somewhat like a rubber duck seems to be made of a mixture of rock and ice," astrophysicist Seran Gibbard added. 
+A kidney-shaped region near the left edge of that image is made of an extremely dark material. Scientists have long suggested that ethane smog could condense and rain onto Titan's surface as a black liquid. 
+The dark material could be a sea of liquid methane, ethane or other hydrocarbons," Livermore's Bruce Macintosh said. "It's one of the darkest things in the Solar System. It could also be solid organic material." 
+Either possibility is exciting to scientists. If it is a sea, it represents the only such open body of liquid known beyond planet Earth. 
+
+Using this information, it is possible to imagine standing on Titan's frozen surface. 
+The ground beneath your feet would have the reddish colour that dominates everything around you. As you look towards the horizon, you would see undulating hills of ice with dark red and yellow peaks and rivulets of ochre on their flanks. 
+Looking down you could see how the Ethane sea has eroded the base of one hill and you could see the scars made by recent icefalls. 
+It may even rain on Titan, but not rain as we know it. Methane rain would fall more slowly and in bigger drops than on Earth. They may lead to streams, rivers and oceans, with rolling waves larger and slower than on our own planet. 
+The Cassini spacecraft is currently en route to Saturn. When it reaches it in 2004, it will drop a probe into Titan's atmosphere that, with luck, will land on the moon's surface and send back pictures.

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:159d33285e8163d0c699315baf11a18be6ff748838bf4f190e976b5f03f35efa
-size 1891
+New York health officials said Friday results of anthrax testing done on the city's subway are expected to be released on Saturday.
+Investigators are very curious to find if anthrax spores were found on the No. 6 subway line used by hospital worker Kathy T. Nguyen, 61, who died Oct. 31 from inhalation anthrax infection.
+The case has baffled federal health and law enforcement officials because they cannot link the woman to any contaminated locations -- such as the offices of several media organizations, U.S. Post Office facilities or the handful of federal government ofices in Washington -- where anthrax has been found since the anthrax attack began in early October.
+"We believe that whatever findings we may find in the subway will guide us with respect to tracking the source of the exposure, but not have any impact on public health," said Dr. Neal Cohen, New York City health commissioner.
+Health officials have said spores found on the subway would not be considred harmful to passengers because of the time elapsed since the Nguyen infection was disclosed.
+Seventeen anthrax infections, including 10 of the most severe inhalation type, have been confirmed in New York, New Jersey, Washington and Florida.
+There also are seven cases of cutaneous or skin anthrax infection and five additional cases of suspected cutaneous infection.
+Four people have died from inhalation anthrax.
+While cross contamination of spores from anthrax-laden letters onto postal machinery, other mail, mail bags, furniture or equipment may have caused numerous postal facilities, government offices and media outlets to test positive for anthrax, health officials believe such small or trace amounts of the pathogen usually are not enough to cause even cutaneous infection and almost certainly not enough to cause inhalation infection.
+Copyright 2001 by United Press International.
+All rights reserved.

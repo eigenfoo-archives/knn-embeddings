@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5843a9bde64fe6b585a079d7e6c95e556a017884d88cee95e85055c976887a50
-size 2295
+The volleys come on the eve of unusual dual-track court hearings to determine how to punish Microsoft after last year's appeals court ruling that the firm illegally protected its Windows monopoly.
+In a hearing Wednesday, Microsoft and the Justice Department will make the case that their proposed deal is in the public interest.
+Several industry groups are slated to oppose it.
+The deal would require Microsoft to let PC makers more easily promote non-Microsoft products and disclose Windows' code to ensure rival software works well with the dominant operating system.
+Nine other states joined the pact.
+Then, in a trial to start Monday, the nine dissenting states and the District of Columbia will argue for tougher sanctions, such as more code disclosure.
+They also want a Windows version from which the browser, media player or other features can be removed.
+In court papers Friday, Microsoft said it would scuttle Windows XP and Windows 2000 under such a scenario.
+The states, in turn, said in a filing that Microsoft need only produce one "modular" Windows version from which PC makers could remove add-ons.
+Despite Microsoft claims that the mandates would doom Windows, "I think they would have to bring out a product," says analyst Rob Enderle of Giga Information Group.
+"They can't walk away from Windows."
+But in pretrial testimony released Monday, Microsoft CEO Steve Ballmer said there is no demand for a stripped-down Windows.
+He said it's a plot by rivals to "torture Microsoft."
+Various features, he said, share software code.
+"If you pull out a piece, it won't run."
+Still, Microsoft executive Jim Allchin said in a deposition that Windows sports "chunks of functionality" that can be interchanged.
+Also, in legal filings, the states said its key witnesses, Anthony Fama of Gateway and Larry Pearson of SBC Communications, will testify that tougher remedies are needed to stop Microsoft from rewarding PC makers that favor its products.
+And Palm's Michael Mace and Novell's Carl Ledbetter will testify that Microsoft can prevent or has prevented rival handheld devices or server products from working well with Windows.
+Meanwhile, a long list of Microsoft executives, possibly including Chairman Bill Gates, will describe the havoc the states' proposal would wreak on Microsoft.

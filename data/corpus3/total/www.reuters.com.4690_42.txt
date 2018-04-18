@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf7762cd87abdb4627993962f14a22c71c0e6a06ff129dcd2e2112f8b404325d
-size 6182
+Technology stocks rose on Wednesday as investors welcomed upbeat earnings from companies such as QLogic Corp ( QLGC.O ) but the broad market was flat, the dollar fell and long-term U.S. bonds surged as investors bet new economic data would point to further weakness. 
+Oil prices rebounded, shrugging off data showing U.S. crude and product stocks rose and gaining amid speculation that the Organization of Petroleum Exporting Countries, OPEC oil cartel, may call for its fourth output cut this year. 
+Technology stocks climbed on Wall Street amid guarded optimism about earnings and a lack of bad anthrax news, but the broad market's modestly higher finish reflected a mixed bag of quarterly results outside of the tech sector. 
+The tech-laced Nasdaq Composite Index .IXIC rose 27.10 points, or 1.59 percent, to 1,731.54, the blue-chip Dow Jones industrial average .DJI gained 5.54 points, or 0.06 percent, to 9,345.62 and the broader Standard Poor's 500 Index .SPX inched up 0.42 of a point, or 0.04 percent, to 1,085.20. 
+QLogic, a designer and supplier of storage area network equipment, soared $5.67 to $41.75 after reporting profits that met analysts' expectations.
+Compaq Computer Corp. ( CPQ.N ) moved higher by 34 cents to $9.74, after reporting an operating loss in line with estimates.
+Specialty software maker Citrix Systems Inc. ( CTXS.O ) jumped $3.31, or 15.5 percent, to $24.68 after it said its quarterly net income rose 28 percent to $27.8 million on strong uptake of its MetaFrame XP line. 
+"People are thinking we're seeing a bottom," said Crit Thomas, head of growth equities for National City Investment Management Co.
+"Some companies aren't revising outlooks down, and orders are looking better for others." 
+But blue-chip stocks lagged as disappointing news from No. 1 photographic film maker Eastman Kodak Co. ( EK.N ) weighed on the Dow.
+Kodak tumbled $3.46, or 10 percent, to $30.71 after it warned fourth-quarter profits would likely miss estimates. 
+AT T Corp ( T.N ) also lost after reporting a sharp drop in profits and warned its core telephone business would take a hit through 2002 amid a weak economy and stiff competition. 
+Enron Corp. ( ENE.N ) plunged, hugging the top spot on the list of biggest losers on the New York Stock Exchange, on concerns whether financial deals made by North America's largest buyer and seller of electricity and natural gas could negatively affect earnings going ahead.
+Shares lost 17.08 percent, or $3.38 to $16.41. 
+Outside the United States, technology and economy-sensitive cyclical firms led European shares to their third straight day of gains, but sliding oils sliced the advance as investors looked to a euro zone interest-rate cut on Thursday. 
+Among the day's standouts, German airline Lufthansa ( LHAG.DE ) soared 7.5 percent after the government extended its guarantee on war risk insurance for the country's airlines by a month.
+France Telecom ( FTE.PA ) jumped 6.2 percent ahead of third-quarter sales due on Thursday.
+But drug giant AstraZeneca ( AZN.L ) lost 1.2 percent despite nudging up full-year forecasts after posting a seven percent rise in third-quarter profits. 
+The Eurotop 300 index .FTEU3 of pan-European blue chips nudged up 0.15 percent to end at 1,207.15 points.
+The narrower Euro Stoxx 50 index .STOXX50E gained 0.8 percent. 
+Tokyo stocks closed mixed with several high-tech issues such as Sony Corp ( 6758.T ) falling prey to profit-taking, but banks, which had been left behind in the recent rally, were higher.
+The Nikkei share average .N225 finished down 0.55, falling for the first time in four sessions. 
+Treasuries rallied as investors bet that signs of further economic weakness and tame inflation would lead to more Federal Reserve interest rate cuts.
+The Fed cut rates nine times so far this year in a bid to shore up the flagging U.S. economy. 
+Prices on 30-year bonds surged more than a full point as the Fed's Beige Book, an anecdotal summary of economic conditions, supported those hopes by saying that the Sept. 11 attacks "sharply reduced" economic activity temporarily, but that the long-term effects were hard to assess. 
+"The economy remains weak, the Fed remains in easing mode and there's certainly a lot of potential for shocks," said David Ging, strategist at Credit Suisse First Boston. 
+Treasury prices drew fuel also as dealers reversed short positions to guard against price falls ahead of the more than $20 billion in investment grade corporate debt expected this week. 
+At the 3 p.m. EDT (1900 GMT) settlement, two-year Treasury notes US2YT=RR rose 4/32 to 100-3/32, yielding 2.70 percent.
+Five-year notes US5YT=RR rose 6/32 to 103-6/32 to yield 3.85 percent,
+benchmark 10-year notes US10YT=RR were up 16/32 at 103-7/32, yielding 4.59 percent, and 30-year bonds US30YT=RR were up 1-2/32
+to 100-26/32, yielding 5.32 percent. 
+In energy markets, NYMEX December crude settled 48 cents or 2.2 percent higher at $22.33 a barrel, wiping out a 41-cent loss on Tuesday while December Brent also rebounded, finishing 35 cents or 1.7 percent up at $21.29 in London trading. 
+Weekly inventory data from the U.S. Energy Information Administration showed a big rise in crude stockpiles, but the agency also reported that demand for refined products bounced last week.
+This heartened the market, traders said. 
+Meanwhile, Qatar, a Middle East producer, became the latest OPEC member to clamor for a 1 million barrel per day output cut.
+Venezuela and Iraq previously called for a similar reduction from the 23.2 million ceiling applied to 10 members with quotas, excluding sanctions-bound Iraq. 
+In currency markets, the euro rose against the dollar and yen, amid signs that euro zone inflation pressures might be easing ahead of an interest rate policy setting meeting by the European Central Bank on Thursday. 
+The single European currency floated with view of session highs near 89.40 cents against the dollar EUR= , well off Tuesday's six-week low at 88.65 cents and nearly 0.40 percent higher from its previous U.S. close.
+The euro posted its strongest gains against the yen, buying 109.75 yen EURJPY= , its highest in a week and up 0.60 percent on the day.
+REUTERS

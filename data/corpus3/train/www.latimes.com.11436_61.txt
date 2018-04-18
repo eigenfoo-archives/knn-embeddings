@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caeaf8da2c311e11d2aa72e096dd38039c410ee7f211f35a92609bd62ffc643b
-size 1844
+Trace amounts of anthrax have been found in the offices of three more U.S. senators, bringing to 11 the number of senators' suites found in recent days to be contaminated.
+All 11 are in the Hart Senate Office Building, where an anthrax-filled letter was opened Oct. 15 in the office of Senate Majority Leader Tom Daschle, D-S.D.
+The amounts found were small enough that federal officials are not recommending antibiotic treatment for people who worked in or visited the offices-- as they did for people in Daschle's suite.
+"There is no health risk," said Lt. Dan Nichols, spokesman for the U.S. Capitol Police.
+David Sandretti, press secretary for Sen. Barbara Boxer, D-Calif., said anthrax traces were found on a table in the senator's mail room. FBI officials notified her staff of the discovery Sunday night and said that investigators did not believe the traces were the result of a contaminated letter being sent directly to Boxer. Instead, Sandretti said, they seemed to be the result of cross-contamination from another letter.
+Boxer's office is in the same wing of the Hart building as Daschle's, an area considered at the highest risk for exposure because it shares a ventilation system with the area where the anthrax-filled letter was opened.
+Sens. Jon Corzine, D-N.J., and Richard G. Lugar, R-Ind., were also notified Sunday night that anthrax traces were found in their offices.
+The Hart building has been closed for business since Oct. 17. Senators and their staffs have been working out of temporary offices scattered around the Capitol complex. Congressional officials have yet to decide how to decontaminate the building.
+That decision may be complicated because anthrax traces have been discovered in so many different locations in the building. Corzine's office, for example, is not in the same quadrant as Daschle's.

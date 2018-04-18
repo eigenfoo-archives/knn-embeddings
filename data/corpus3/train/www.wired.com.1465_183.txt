@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57215d0bc6e8158167dcd2c0257dd851ee17cedc7dbf42bb7646b5254fb0b711
-size 3707
+"Privacy practices and policies in corporate America have been steadily getting worse over the last couple of years," said Jason Catlett, president of Junkbusters, an independent privacy advocacy and consulting firm.
+Just last week Yahoo ( YHOO ) followed in the steps of eBay ( EBAY ) and Amazon ( AMZN ) in changing its privacy policies to allow for greater use of the data, Catlett said.
+Now, Yahoo can more easily send spam e-mail and make telemarketing calls while forcing customers to manually change their privacy preferences if they don't want that, he said.
+Legal actions seem to be prompting somewhat better behavior. To settle federal and state class action lawsuits, Internet advertiser DoubleClick ( DCLK ) in March agreed to adhere to an enhanced privacy policy, as well as pay $1.8 million in legal fees.
+Internet consumers still rate online privacy as one of their top issues, said Marc Rotenberg, executive director of the Electronic Privacy Information Center.
+"We see it in opinion polls, that people are concerned about what happens to personal information when they visit a website," he said.
+To assuage those concerns, corporations can use IBM's ( IBM ) Tivoli Privacy Wizard, said Arvind Krishna, vice president of IBM's Tivoli Security Products division. The software transforms a company's written privacy policies into electronic guidelines that can be used to prevent employees from violating the rules, he said.
+For example, the software can prevent an employee from using a customer's home address information for anything besides shipping a product, Krishna said.
+Meanwhile, AT&T's ( T ) Privacy Bird software allows people to set privacy preferences so that they get visual and audio cues when they visit websites that meet, beat or fall short of their privacy preferences.
+Rotenberg said that while such software may help companies comply with their privacy policies and help consumers better identify privacy policies of websites, they won't actually do anything to expand individuals' privacy protections.
+"Consumers want the ability to surf anonymously, to limit the collection of their information and to see that information when it is collected by others," Rotenberg said.
+Software such as that from IBM, "is basically automating privacy policies, which currently can be read on websites, and which many people find frustrating and that change too frequently," he added.
+Catlett agreed, saying that "encoding policies in readable form won't make much difference at all."
+'s software "may help reduce the all-too-frequent accidents in privacy (lapses), but it won't deter the deliberate privacy violations," Catlett added.
+Krishna countered that the software may not solve all privacy problems, but at least it may motivate corporations to improve their practices.
+"The reason people don't implement desirable policies is because they are afraid of the cost," he said. "If you offer automation and a way to implement sophisticated policies at a reasonable cost then they'll do so."
+In January, Montreal-based Zero-Knowledge Systems and the Privacy Council released corporate privacy software of their own, with the Privacy Council's offering being free.
+Last month, the conservative, think-tank Progress and Freedom Foundation released a study that found that commercial websites were gradually collecting less personal data from people and giving them more control over how the information is used.
+However, Catlett and other experts attributed that finding to the fact that there are fewer dot-com companies around to violate the privacy of Web surfers.
+'s software is available for download , as is AT&T's software .
+ 
+Printing? Use this version.

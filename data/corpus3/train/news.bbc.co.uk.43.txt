@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:777c214035921e988afc64a8d2c441daada868be482c9e64e9f9d00f5290d316
-size 4113
+Scientists have found DNA from genetically modified crops in wild maize growing on remote mountains in Mexico. 
+The authors of the study say they found the results hard to believe, but saw them verified by a Mexican Government follow up. 
+Now, they are worried that genes from GM crops are unintentionally threatening the valuable diversity of native wild maize. 
+The wild maize in question was growing around 100 kilometres (62 miles) from the nearest industrially farmed crops. 
+Mexico has had a moratorium on new plantings of GM maize since 1998 but allows the import of GM crops for consumption. 
+
+Ignacio Chapela and David Quist of the University of California, Berkeley, US, compared wild maize from the Sierra Norte de Oaxaca mountains in Mexico with GM varieties from the Monsanto company in the US and with samples known to be uncontaminated. 
+They found that some of the wild samples were contaminated with telltale sections of DNA from GM crops. 
+"This is very serious because the regions where our samples were taken are known for their diverse varieties of native corn, which is something that absolutely needs to be protected," Dr Chapela said. 
+"Originally I was very surprised and concerned about the danger of false positives. I was very alarmed and hoping it wasn't true," his colleague David Quist told BBC News Online. 
+"It was initially hard to believe that corn in such a remote region would have tested positive," he said, explaining that tests were carried out in two labs in Mexico and one in the US. 
+It is not entirely clear how the DNA from the GM crops got into the wild plants, but David Quist has a theory. 
+"It's more likely that the contamination came from food aid brought in to these regions. A lot of it comes from the United States and a lot of it is transgenic," he said. 
+Mr Quist believes measures should be taken to counter the spread of GM genes. "Once the DNA is in the population, you can't just go and fish it out," he said. 
+But a well-enforced ban on imported GM corn and a programme to encourage traditional habits of swapping and testing wild seeds would dilute the influence of the GM genes, he said. 
+
+The publication of the study coincides with the issue of a report by a UK coalition calling for further restrictions on GM crops. 
+"The issue... has amounted to a public relations disaster for a government whose support for the agri-biotechnology industry has been seen to clash with its responsibility to the public interest," the Five Year Freeze campaign said on Wednesday. 
+The campaign, which encompasses a range of pressure groups and companies, wants to see a five-year ban on the planting, import and patenting of GM crops. 
+"Today's report in Nature shows evidence of GM contamination of wild maize in Mexico, the origin of all maize varieties, posing a potential threat to vital diversity essential for future global food security," said the campaign's coordinator, Clare Devereux. 
+"Here in the UK the issue of genetic pollution not only threatens biodiversity, but also the livelihoods of non-GM and organic farmers, and the right of consumers to choose GM-free food," she said. 
+
+Guy Poppy of CropGen, an association backed by the UK biotech industry, described the study as "a good piece of research" but said it contained no real surprises. 
+"It's better to acknowledge that a minimum of cross-pollination cannot be avoided and not to panic: after all, nowhere in the world has a GM product been found to be unhealthy and no adverse environmental effect has ever been substantiated," he said. 
+Further studies were required to evaluate the impact of genetic transfers, he said, adding: "Let's not forget that the benefit from GM is already being felt around the world. 
+"In Mexico, they've used GM technology to address the problem of high levels of aluminium in the soil, which in the developing world reduces yields by as much as 80%. 
+"By transferring a gene from a bacterium called Pseudomonas into maize, the crop can be made resistant to this toxic metal." 
+The Mexican maize study appears in the journal Nature.

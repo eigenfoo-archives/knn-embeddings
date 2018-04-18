@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd3ccfea5850291adcb6ec9d72ff447c598a0de1319d9342abe6e9309647f15a
-size 2651
+Network equipment maker 3Com Corp. (Nasdaq: COMS - news ), fighting to recover after the telecom sector downturn this year, posted a narrower-than-expected second-quarter loss on Tuesday and said it hopes to return to profitability by the fourth quarter.
+Santa Clara, California-based 3Com posted a loss before charges of $47 million, or 14 cents a share in the quarter ended Nov. 30, compared with a loss of $51.1 million, or 15 cents a share in the year-earlier period.
+Company officials attributed the better-than-expected results to cost-cutting efforts and rising revenues.
+Analysts surveyed by research firm Thomson Financial/First Call had on average expected 3Com to post a loss of 22 cents, with loss estimates ranging from 17 cents to 28 cents.
+The narrowing loss was a sign that 3Com is positioned to work toward profitability, executives said, while citing concerns about the slow economy and the depressed telecom market.
+"Each one of our businesses had growth," 3Com Chief Executive Bruce Claflin told Reuters. "Our enterprise business grew 1 percent. Our PC card business grew 6 percent. And CommWorks, which targets carriers and service providers, grew 8 percent."
+The gains helped lift 3Com's revenue to $394 million from $390 in the prior quarter, the first sequential revenue gain for 3Com since it announced restructuring plans in January.
+Claflin also credited $200 million in cost cuts for helping second-quarter results, but said the company has more room to pare expenses, including more jobs.
+3Com, which launched a major restructuring to offset sagging revenues during the telecom downturn, aimed to end November with 6,000 employees, roughly half its work force of a year earlier.
+3Com Chief Financial Officer Michael Rescoe told a conference call the company hoped to return to profitability in its fiscal fourth quarter, which ends May 31, 2002.
+The company, a pioneer of the Ethernet networking standard, last saw profitability in the third quarter of fiscal 2000 which ended in February that year.
+Analyst Michael Cristinziano of Gerard Klauer Mattison & Co. said 3Com may be too optimistic about its turnaround.
+"Management is doing a good job managing new business, but it doesn't seem to be enough" to compensate for the continued downturn in spending on information technology, Cristinziano said.
+3Com shares, which trade on the Nasdaq, closed on Tuesday at $5.31, up 27 cents, or 5.4 percent. The shares were 58 percent higher than their year-low of $3.37 on Sept. 17.
+By contrast, the Nasdaq Composite index ( IXIC - news ) closed at 2,004.76, up 45 percent from its year-low of 1,387.06 on Sept. 21.

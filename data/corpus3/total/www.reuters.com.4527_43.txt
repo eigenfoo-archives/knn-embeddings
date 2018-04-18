@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:042340ed3b7c0644d65837c02d10e207ccd0a369cfa1b873d4b3cf9529cff1f2
-size 1225
+A British soldier was injured on Friday when a bomb was thrown during rioting between pro-British Protestant gangs in north Belfast, police said. 
+Petrol bombs and other missiles were thrown during the disturbances at Glenbryn Drive, a flashpoint in sectarian violence that has surged in the northern part of the capital in recent months. 
+The solder's condition was not given.
+Police said several people were treated for shock later when a small bomb was hurled at the back of a house at nearby road bordering a Catholic neighborhood. 
+Security forces later found what they said looked like several pipe bombs and petrol bombs in a derelict house. 
+The streets turn off Northern Ireland's most disputed walkway -- Ardoyne Road -- where Catholic "nationalists" and Protestant "loyalists" live cheek-by-jowl. 
+Friday night's flareup jarred with a new climate of optimism in the troubled province's peace process after the Catholic-backed Irish Republican Army announced this week it was disarming. 
+Britain is closing four security bases in response to the IRA pledge but troop numbers have not been decreased, partly because they are needed to back up police at flashpoints and due to a threat posed by renegade Republicans.

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d624c4496fb955c1ff5f5fae78b05b131191738d46f7ed74f991bfdcfe3b449
-size 2527
+In a DDOS attack, a computer is swamped with an overwhelming number of requests that are disguised to look innocuous, so that the website that it controls grinds to a halt. 
+Experts say tens of thousands of such attacks occur each year -- and that a far greater number probably go unreported by companies fearful of hurting their business. 
+Six-year-old CloudNine was forced to sell its business and hand over 2,500 customers to its rival Zetnet. 
+"The basic reasoning was we would have needed to bring the network offline for far too long (to make repairs). We just came to the conclusion that we couldn't continue," said co-founder Emeric Miszti. 
+Two other recent victims of DDOS attacks were the British Internet portal of the Italian ISP Tiscali, whose service was halted for several days, and the British Internet provider Donhost, which was knocked out for a few hours. 
+"It's not just a game of taking down one server," said Stephane Huet, acting chief operating officer for Tiscali UK. "It affects portal revenues if the rest of the world cannot access it. It has a powerful business impact." 
+The motivation for such attacks is diverse. Many hackers are simply after illicit thrills, while others seek publicity for a particular cause. It is now common in wars, especially civil ones, for each side to sabotage the other's websites. 
+Past targets include sites associated with the White House and the Palestinian Authority. 
+A DDOS attack last week is also suspected to have sabotaged a live online chat with the Dutch crown prince and his Argentinian fiancee. 
+In the case of CloudNine, the DDOS attack prevented users served by the company from logging onto the Internet and shut off access to websites hosted on its network. 
+"It was a very methodical attack," said Miszti. 
+"It occurred over a number of months. Their objective was to map out our network, identifying the key servers and determining their capacity. Then they knew how to attack with the appropriate force." 
+Miszti says he is not sure why his firm was targeted and has no clear idea who was behind it. 
+He and Tiscali are both working with police, but computer experts say DDOS investigations are rarely successful. 
+"If (hackers take) reasonable precautions, it would be very difficult to track them down," said Gary Milo, managing director of security start-up Webscreen Technologies, which has developed software to protect companies against such attacks. 
+Have a comment on this article? Send it . 
+Printing? Use this version.

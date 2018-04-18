@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd342589cc65c4af4d69e3d6efba016255d173668264a23ba01ae36a37090f8c
-size 2358
+Intel Corp. INTC.O on Monday said it has been operating a one-stop shop for chip designers seeking to bring their product to market quickly and at a lower cost, by managing the chip making process for clients from concept to final product. 
+Intel, the world's largest chip maker, will utilize factories in Asia owned by companies such as Taiwan Semiconductor Manufacturing Co. Ltd. 2330.TW , and rely in part on its own experience in chip design and project management. 
+The business, called Intel Microelectronics Services, has operated for more than a year but had not been formally announced by Intel before Monday. 
+Intel Microelectronics is not the first to offer complete chip outsourcing services -- LSI Logic Corp. LSI.N is one well-known provider -- but it is likely to make a major impact in the emerging market for such services. 
+Traditionally, semiconductor companies that lack their own production equipment have hired a factory to manufacture custom-designed chips, and other companies to package the chips, said Needham & Co. analyst Dan Scovel. 
+Intel's service would let companies submit a design or concept and await a finished product within months. Intel would be able to handle -- either on its own or with partners -- design, testing, packaging, and manufacturing. 
+"Basically, what we're trying to do is give our customers the flexibility to choose the process that best suits their plans," Intel spokesman Manny Vara said. 
+But Scovel questioned whether Intel's strengths in the computer processor business are well suited for a foray into the outsourcing services business. 
+"They're not going to get the advantage of what they do well in the PC space," Scovel said, referring to Intel's strength in manufacturing PC microprocessors, the brains that run personal computers. 
+"There's a huge service-oriented commitment, a lot of customer hand holding," he added. 
+SG Cowen listed Amkor Technology Inc. AMKR.O as one of the firms that will benefit from providing chip testing and packaging for the new business. The firm also listed chip design services company Synopsys Inc. SNPS.O as a beneficiary. 
+Shares of Intel climbed $2.01 to close at $21.31 on Nasdaq, while the tech-heavy Nasdaq Composite Index .IXIC rose more than 5 percent. Synopsys stock rose $2.57 to $39.61, and shares of Amkor rose 30 cents to $11.65. 

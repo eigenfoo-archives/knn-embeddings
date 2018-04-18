@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:faf7db1030109c540920c74adf049f22c61117f10566aa667be64a1dd4c587f6
-size 5942
+Sometimes looking out the window is more reliable than reading these instruments.
+
+Weather is usually boring in Southern California--haze in the morning, sun in the afternoon, no precipitation and a layer of fog and smog to hide mountains and other land forms.
+But that all changes in the mid-winter months when we traditionally get rain showers, hail and the kind of crisp, brilliantly clear days that made this area a promised land to weather-weary East Coasters.
+This is about the only time of year when a home weather station is of interest, even in this era of instant weather reports and forecasts on the Internet. Southern California is made up of so many mini-climes--some separated by only a few city blocks--that personal weather instruments can provide meaningful information.
+And in this digital era, a home setup can provide not only readings of the current temperature and humidity, but also process barometric pressure data to produce a short-term forecast.
+Two companies that make digital gadgets--La Crosse Technology (www.lacrosse technology.com) and Oregon Scientific (www.oregonscientific.com)--sell compact home weather stations for about $100.
+The basic readout units are upright, tastefully designed devices that could fit the decor of just about any desk that harbors a computer. They also could go nicely on a kitchen countertop, window ledge or alcove, or even a bedroom nightstand.
+Both units tested came with alarm clocks controlled via radio waves by a government atomic clock. They also came with wireless, supposedly weatherproof sensors that can be attached to fences, balcony railings and other outdoor structures for monitoring outside conditions.
+The big question: Are these little weather stations toys or reasonably scientific instruments? Last weekend's rainstorm offered a chance to find out.
+Setting up both models--the La Crosse WS-7078UF and Oregon Scientific BAR112HGA--seemed deceptively simple. The temptation was to pop batteries into the main units and sensors, and then start playing junior weather forecaster.
+I learned the hard way to follow the directions, step by step. For example, the batteries should go first into the wireless sensor and then the main unit if they are to make a solid radio connection.
+Also, in perusing the La Crosse manual I discovered that the forecast indicator on this type of unit works by monitoring trends in barometric pressure, so it isn't of much use until it sits in one spot for at least 12 hours. Taking the unit up or down even one floor in a building will affect barometric pressure readings, throwing the forecast off.
+The clocks can be adjusted manually, but for exact settings they are supposed to align themselves via radio signals overnight.
+The La Crosse unit picked up the radio signals nicely but the Oregon Scientific never did, indicating the signal was too weak where it sat (right next to the La Crosse). This was especially odd because a nearby radio-controlled alarm clock also from Oregon Scientific has picked up the signal nightly for more than a year.
+The La Crosse outdoor sensor attached easily to a wood fence with a couple of provided screws. Once in place, a plastic hat went over the sensor to protect it from rain. The Oregon Scientific sensor was more problematic to mount as the company did not provide screws.
+By Saturday morning, both the main units and sensors had been in place for more than 12 hours. The La Crosse readout panel included both the indoor and outdoor data.
+The Oregon Scientific front panel showed only the indoor readings--a button had to be pushed to get the outdoor data. Score one for La Crosse.
+There was little difference between the units in their temperature readings. If they varied, it was usually by less than a degree.
+Relatively humidity was another story. The readings would often vary by 10 or more percentage points.
+I tended to trust the Oregon Scientific readings more, because when the rain came down in buckets it was showing 98% outdoor humidity while the La Crosse showed a suspiciously low 84%.
+The forecast mode was the most problematic. On Saturday afternoon, the La Crosse unit was predicting partly cloudy skies with clearer weather on the way. It finally started to predict rain on Sunday at 6 a.m., but by late morning was back to its partly cloudy forecast.
+On Saturday afternoon, the Oregon Scientific unit predicted rain, but it also began to lose a bit of confidence Sunday about 9 a.m., when it also began forecasting partly cloudy.
+The rainfall began with sprinkles Sunday at 11 a.m. and was in full storm mode by midafternoon. By 5 p.m., the National Weather Service issued a "Special Weather Statement" to warn against effects of the storm.
+The Oregon Scientific unit did a bit better in forecasting the rain. But it lost major points when, in the middle of the storm, the link between its outdoor sensor and main unit failed. I reestablished it briefly with a manual restart but then the link quit.
+I brought the sensor inside, opened it up and discovered that water had seeped inside. Once dried off it began working again, but it's an obvious drawback for an outdoor sensor if it falters during a rainstorm.
+Both weather stations had good and bad aspects. The La Crosse main unit was easier to read and its outdoor sensor weathered the storm, but it didn't do quite as good a job in foreseeing the wet weather.
+The Oregon Scientific did better at forecasting, but it lost points when its outdoor sensor got soggy. Also, its radio clock never successfully caught the atomic clock signals.
+It's hard to give either of them a passing grade, except on looks.
+
+David Colker covers personal technology. He can be reached at david.colker@latimes.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you want other stories on this topic, search the Archives at latimes.com/archives . For information about reprinting this article, go to www.lats.com/rights .

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0f57738cb48d8c619d7060f11f925943462b9ea2e30c6ea4c5fd1bddf655736
-size 2243
+has again postponed the launch of a spacecraft designed to make movies of solar flares. 
+There is no problem with the High Energy Solar Spectroscopic Imager, or HESSI, according to Susan Hendrix, a spokeswoman for the Goddard Space Flight Center.
+But the launch has been delayed indefinitely because of ongoing concerns about the satellite's launch vehicle -- a Pegasus rocket. 
+A similar Pegasus rocket is blamed for dooming the test flight earlier this month of NASA's X-43A, an experimental plane designed to attain speeds as high as Mach 10. 
+Moments after the X-43A and its Pegasus booster rocket were released from the wing of a carrier aircraft, the combo went off course and was deliberately blown up.
+The debris fell into the Pacific off the coast of California. 
+The investigation into the test flight mishap still is in the works, so NASA is holding off on the $85 million HESSI mission, Hendrix told CNN.com on Tuesday. 
+Instead, she said the spacecraft will be loaded onto the Stargazer, a modified Lockheed L-1011, and ferried from its Cape Canaveral, Florida, launch site to Vandenberg Air Force Base in California within the next few days to have its battery replaced. 
+When HESSI is launched, the Stargazer will fly it out of Cape Canaveral Air Force Station to a height of about 39,000 feet over the Atlantic.
+The spacecraft and its Pegasus rocket will be dropped from the plane and the Pegasus then will boost HESSI to a circular orbit 373 miles (600 kilometers) above the Earth. 
+The satellite is equipped with an imaging spectrometer that can create X-ray and gamma ray movies of solar flares, which can disrupt communications and equipment on Earth.
+HESSI has a new kind of X-ray vision that will create the first high-fidelity color movies of solar flares in their highest energy emissions, according to NASA. will join a team other solar observing satellites including SOHO, the Solar and Heliospheric Observatory; GOES, the Geostationary Operational Environmental Satellite; TRACE, the Transitional Regional and Coronal Explorer; and ACE, the Advanced Composition Explorer. 
+The HESSI mission is expected to last two to three years. 
+previously was set to launch last July but suffered damage during testing in March.

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c71b1c55847a260306682aeb573691d3123ca207271a80fb33773c57d941b4ae
-size 2623
+An anti-AIDS drug that has helped to control the illness in adults could also be an important weapon in battling the disease in children, British doctors said Friday.
+Although more than 11 million children and young people worldwide are living with HIV/AIDS they have fewer treatment options than adults.
+But a trial of 128 HIV-infected children in eight European countries and Brazil showed that the drug abacavir, made by drugs giant GlaxoSmithKline, works well in young patients.
+"I think it could be a very important weapon.
+It may be more useful near the beginning of treatment rather than leaving it as salvage treatment," said Dr. Diana Gibb, of Britain's Medical Research Council, who coordinated the study.
+Abacavir belongs to a class of drugs known as nucleoside reverse-transcriptase inhibitors (NRTIs), which interfere with the reverse transcriptase enzyme needed by the virus to replicate in the body.
+It is usually given in a drug cocktail, in combination with one or more other drugs, that interrupt the life cycle of HIV.
+Gibb and her team found that drug regimens containing abacavir were more effective than other combinations of NRTIs in children who had not been previously treated for the illness.
+"It is a very useful drug which has a good formulation and can be used up front in children," Gibb added.
+The researchers measured the viral load, the amount of virus in the blood, and monitored the immune response of children who had been randomly selected to receive one of three different combination treatments.
+The viral loads dropped in most of the children but it was most significant when the youngsters received abacavir and lamivudine, another NRTI which is also known as 3TC.
+"For the whole trial two-thirds of the children had undetectable virus in their blood at the end of the year but there were significantly more in the 3TC, abacavir group," Gibb explained.
+Hypersensitivity, which causes a fever and rash, is one of the main side effects of abacavir but Gibb said her team did not see any reactions that were out of the ordinary.
+Scientists do not know if the treatments can be interrupted or what the long-term side effects will be.
+The results of the Pediatric European Network For Treatment of AIDS (PENTA) are published are in The Lancet medical journal.
+Most HIV children acquire the virus at birth from their mothers.
+Gibb said the latest figures indicated that 1,800 children were infected with HIV each day in Africa.
+Many of the mothers were unaware that they had HIV.
+Drugs and caesarean section operations have been shown to reduce the rates of mother-to-child transmission.

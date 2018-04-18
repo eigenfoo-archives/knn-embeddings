@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:671fc77c314944f866e1062768a157263c7fea004a789831f751d4a952f04de2
-size 4190
+The long-term future of the UK's Jodrell Bank Observatory is secure after the money was found to upgrade and run its Merlin network of radio telescopes. 
+The Cheshire observatory, which is best known for its giant Lovell dish, has come through an uncertain few months with physics authorities in Britain arguing over how best to fund the country's competing astronomical interests. 
+Next year, the UK will join the European Southern Observatory (ESO) project in Chile with its world-class array of optical telescopes - but this is expensive, and the costs of membership have led to a reappraisal of other commitments. A question mark was even put against Jodrell. 
+But the Lovell dish will now continue to sweep the skies for many years to come, thanks to an announcement on Wednesday from Pparc, the Particle Physics and Astronomy Research Council. 
+
+The body, which runs most of the UK's astronomy effort, has determined that the work done at Jodrell should be enhanced. This means the observatory's Merlin (Multi-Element-Radio-Linked-Interferometer) network of telescopes will be upgraded. 
+Jodrell had already found the capital costs of the upgrade; it needed the Pparc endorsement to get the running costs. 
+The upgraded network will be known as e-Merlin. The current seven-dish 217-km-long (134 miles) array of radio antennae, stretching from Cheshire to Cambridgeshire, will be improved with optical fibre connections. 
+This will allow a far greater proportion of the radio waves actually collected by the individual antennae to be brought back to Jodrell Bank, whose Lovell dish is currently ungoing a major refit of its own. 
+
+Dr Philip Diamond, Merlin's director, said: "In combination with the newly resurfaced 76-metre Lovell telescope, the upgrade will give a 30-fold increase in sensitivity. 
+"This will enable the enhanced instrument, called e-Merlin, to probe far deeper into the Universe, achieving in one day what would currently take three years of continuous observation." 
+Merlin is the UK's national radio-imaging facility and the only world-class astronomical facility based solely in the UK. 
+Radio astronomy is crucial to the understanding of our Universe because radio waves penetrate the clouds of dust and gas that hamper observations at other frequencies. 
+But what gives? 
+e-Merlin will have unprecedented sensitivity and an imaging capability equivalent to viewing a one-penny piece at a distance of 80 kilometres (50 miles). 
+Radio astronomers have known for a number of years that by linking together an array of telescopes they can mimic the power of a single, very much larger device. 
+This approach, known as interferometry, is now being applied to optical telescopes like the Very Large Telescope (VLT) array being installed in Chile by the European Southern Observatory. 
+The ESO facility promises to push astronomy forward on another giant leap of discovery when it becomes fully operational in a couple of years. 
+astronomers are very keen to be part of the venture and will have to give up other cherished projects to pay for access - especially now that the Merlin upgrade has been agreed. 
+
+This point was underlined by Professor Ian Halliday, the chief executive of Pparc. 
+He said: "Joining ESO requires that Pparc make savings from its current ground-based programme in order to supplement the significant contribution we received from government at the last spending review. 
+"We plan to achieve these savings by restructuring the current ground-based astronomy programme. With a limited budget, there will be inevitable reductions to certain facilities within the existing programme." 
+astronomy is waiting to see which projects now get dumped. 
+Nevertheless, Sir Martin Rees, the Astronomer Royal, was upbeat about Tuesday's announcement: "Joining ESO is good for UK science, and I think good for Europe as well. It offers us access to the VLT's 8-m class telescopes and restores the UK's full competitiveness in optical astronomy." 
+Sir Martin added: "The upgrade to Merlin will ensure our own national facility, centred around the Lovell telescope in the North West, will continue to deliver world class science."

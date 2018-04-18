@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46e8c54efa21c1185ed82bf8cce291d660d3e9dedf8746cce356b1e136780f2c
-size 2838
+Hackers have exposed a security flaw which allows you to read other people's e-mails in Hotmail. 
+Details of how to read other people's messages have been posted on a website run by a group called Root Core and it has quickly spread to other sites and newsgroups. 
+"This is a serious vulnerability with Hotmail," said Graham Cluley, senior technology consultant at the anti-virus firm Sophos. 
+But the process is cumbersome and involves some guesswork, limiting the threat to privacy. 
+"The good news is that the average person in the street doesn't need to worry, as they would have to be specifically targeted," said Mr Cluley. 
+"But if you're feeling paranoid, get your messages offline," he added. 
+
+Hotmail is one of the world's most popular web-based e-mail services, with Microsoft saying it has more than 110 million active accounts. 
+"Hotmail has been notified so it might not work for much longer but it works as of right now," says a message on the hackers' website. 
+The flaw only allows you to read specific messages. You cannot get access to the inbox or other parts of the e-mail account and you first need to log in to Hotmail using your own account. 
+"There is the potential for some serious damage," said Craig Whitney, sales manager for Europe and the Middle East at the Managed Security Services division of Internet Security Systems. 
+The flaw exploits the way Hotmail organises messages. Every e-mail has a consistent format and the same number of digits. 
+To gain access to the e-mails, you need to know a person's username and guess the number of a message. 
+
+To get round this long process, Root Core have devised a scanning programme that tries about one message number per second. 
+Mr Whitney said various factors could limit the impact of the security flaw. 
+He said you would need a fast internet connection to run the scanning programme and know how often someone looked at their Hotmail account. 
+Additionally there would be a clear trail back to the original Hotmail account used to hack another person's e-mails. 
+"It raises the question of e-mail as a secure way to communicate," said Mr Whitney, comparing it to sending a letter in a transparent envelope. 
+
+Microsoft has taken the brunt of criticism for security flaws exposed over the internet. 
+Hackers have targeted its server software, Windows operating system, Outlook e-mail program, Internet Explorer browser, instant messaging software and Hotmail. 
+"The problem is that Hotmail is probably the most popular web-based e-mail service, so hackers are drawn to target it," said Mr Cluley. 
+"It's not necessarily that Microsoft software has more holes, but that more people are targeting their software as there is more of it." 
+Root Core describes itself as a group which focuses on "information sharing not causing havoc."

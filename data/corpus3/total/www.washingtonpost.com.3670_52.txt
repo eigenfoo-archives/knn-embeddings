@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:542b0cf374dba6a4558199b92d2ecfbcfe5d6494833c37d401d33f8668792da6
-size 4605
+Several states involved in the Microsoft Corp. antitrust case were prepared last night to reject a settlement between the Department of Justice and the company unless the software giant agreed to major changes, sources said.
+But one key state, New York, struck a separate tentative deal with Microsoft, said sources close to the states' deliberations.
+Calling the Justice Department settlement a "license for Microsoft to use its dominance and power to crush its competition," Massachusetts Attorney General Tom Reilly said yesterday that he would not sign it without major changes.
+California also will tell a federal judge this morning that without modifications it cannot support the settlement and will pursue the case without the Justice Department, sources said.
+U.S. District Court Judge Colleen Kollar-Kotelly gave the states until a court hearing today at 9 a.m. to decide whether to join the settlement.
+The judge eventually will decide whether the agreement is in the public interest, but any number of states can pursue the court case on their own to the next phase -- which would determine how Microsoft should be penalized for illegally abusing its monopoly power.
+The decisions by the states and the company will mark yet another remarkable turn in the nearly four-year-old case, the largest monopoly prosecution by the government in a generation.
+The agreement reached last week was sharply criticized by Microsoft's industry rivals, who believe that recent court decisions affirmed their claims that Microsoft's business practices were predatory and stifled competition.
+Assistant U.S. Attorney General Charles James and Microsoft said Friday that their deal would not be altered.
+But yesterday, the company and New York Attorney General Eliot Spitzer were negotiating separately and were expected to finalize an agreement in time for the court appearance today.
+Spitzer, who only two months ago publicly vowed to press the case if the Justice Department was not sufficiently aggressive, was seeking an amendment to the agreement that was not as broad as what the coalition is asking for, the sources said.
+Many of Spitzer's fellow attorneys general were furious at his dealing on the side, sources said.
+Spokesmen for the Justice Department and Microsoft declined to comment on the day's developments.
+Sources said that how many states decide to support or reject the agreement will depend on how flexible Microsoft is in modifying the deal, and on the decision of Iowa Attorney General Tom Miller, who has led the coalition of 17 states and the District of Columbia.
+The states planned a final conference call today at 7 a.m. before heading to court.
+Assuming some states pursue litigation, Kollar-Kotelly must decide how the case should proceed on two tracks.
+She must determine a schedule for ultimate hearings on how Microsoft's anti-competitive conduct should be rectified.
+Before the deal between the Justice Department and Microsoft, she had set hearings to begin in March, with time in between for taking depositions and gathering evidence.
+She also must review the current settlement agreement and determine whether it is in the public interest, under a law known as the Tunney Act.
+The law provides for a 60-day public comment period, during which the government must file its rationale for the settlement, and opponents can file arguments on why it fails to meet the public interest.
+"The judge has wide discretion in defining the public interest," said Robert Litan, an antitrust expert at the Brookings Institution.
+Given that Kollar-Kotelly strongly urged the parties to settle, and that the Justice Department has latitude in how it wants to prosecute antitrust actions, many lawyers associated with the case believe she is likely to approve it.
+But Litan and other legal analysts said that this Tunney Act proceeding will be unusual because most settlements are reached before trials are held, so no findings of guilt have been issued by courts.
+In this case, a trial judge ruled that numerous Microsoft business practices violated antitrust laws, and many of those findings were upheld by a federal appeals court in June.
+Kollar-Kotelly will have to decide how closely the settlement needs to reflect the appeals court decision.
+The Justice Department believes that its settlement provides strong prohibitions on anti-competitive conduct by Microsoft and that it meets the mandate of the appeals court.
+Legal and industry critics of the agreement say it falls far short and is riddled with loopholes and exceptions that favor Microsoft.
+2001
+The Washington Post Company

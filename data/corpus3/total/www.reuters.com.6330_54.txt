@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24781cd07b487895e8e80a0ef74e3f2a81761e0a61200153c2d58395a5382388
-size 1510
+Stocks moved into positive ground in mid-afternoon trading on Tuesday after the Federal Reserve cut the borrowing costs by a half percentage point in its tenth interest-rate reduction this year to lift the sluggish economy. 
+The blue chip Dow Jones industrial average .DJI was up 5.47 points, or 0.06 percent, at 9,446.50.
+The broader Standard & Poor's 500 Index .SPX added 0.18 of a point, or 0.02 percent, at 1,103.02.
+The technology-laced Nasdaq Composite Index .IXIC rose 7.89 points, or 0.44 percent, to 1,801.54. 
+The central bank cut rates by a half percentage point for the third time in less than two months after the Sept. 11 attacks leveled the World Trade Center and exacerbated the economy's woes.
+The reduction brings the federal funds overnight lending rate to 2.0 percent, its lowest level in four decades. 
+Investors widely expect the economy to slip into recession this year, but they are betting a rebound is in the cards by 2002.
+Those hopes have supported stocks in the past few weeks amid a downpour of dismal economic data.
+The economy suffered its worst contraction in more than a decade in the third quarter, and job losses hit a two-decade high last month. 
+"A lot of people were only expecting 25 basis points.
+We got the 50, so we got the market up," said Thomas Garcia, who helps manage $2.5 billion for Thornburg Asset Management.
+"Rate cuts are good for the overall economy because the cheaper it is to borrow, the more you're willing to do it.
+This expands the economy faster."

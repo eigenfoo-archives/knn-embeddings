@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6411fcf344c7343187822e33f0f567b39ca05369a48e50559278dfddee64bba7
-size 1238
+Orbiting the earth in a cramped space station may leave astronauts little time for the finer things in life. 
+But if a plan by Japan's space agency comes to fruition, they could spend their spare moments learning the elaborate rituals of the Japanese tea ceremony. 
+The National Space Development Agency (NASDA) is one of the groups working on the $95 billion international space station, led by Russia and the United States. 
+The agency is working with fine arts professors and students on a plan to use a space measuring four square meters (13 square ft) in its allocated area as a tea ceremony room. 
+Usually performed by elegant, kimono-clad women, the Japanese tea ceremony is a highly formalized method of preparing green tea from powder that hardly seems to lend itself to a zero-gravity environment. 
+But NASDA emphasizes the relaxing atmosphere of the tea ceremony room itself -- usually a small, simply decorated space with tatami rush mat flooring. 
+"Space travel can be psychologically difficult, so the idea is to have a place to relax, a healing space," said NASDA spokesman Yoshihiro Nakamura. 
+Copyright 2002 Reuters . All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.

@@ -1,3 +1,110 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99969131d7f12b570fae9a95f8817784a788655f27e3223368cb0f9e9da7ec4c
-size 11679
+Evidence-based interventions for HIV prevention in developing countries--Comparison of efficiency, effect size, and cost-effectiveness.
+DALY, disability-adjusted life-year. 
+The third criterion is cost-effectiveness.
+As many intervention effects accrue over time, mathematical models are important for assessing and comparing the long-term cost-effectiveness of particular measures.
+The intervention ratio, effect size, and cost-effectiveness of various interventions are summarized in the table (above).
+Peer-mediated education programs among female sex workers are among the first interventions to be described and are perhaps the ones with the highest impact in preventing HIV infection in developing countries.
+In areas with high HIV prevalence, female sex workers rapidly acquire HIV and infect their male clients, who then infect other female sex partners, who then infect their children.
+The central importance of unprotected sex within core groups is perhaps best illustrated by the observation that major HIV heterosexual epidemics only occur in societies where this practice is common.
+Peer-mediated prevention programs have consistently achieved sustained high-level condom use, and reduced the risk of acquiring HIV and sexually transmitted infections (STIs), thereby preventing further transmission .
+Thailand acted successfully upon this insight and India has adopted this approach in its national AIDS control strategy.
+Contrary to some beliefs, peer-mediated education programs generally reduce the stigmatization associated with the sex trade, spark community development, do not promote sex work, and also contribute to the control of other STIs.
+High-risk male behavior, notably unprotected sex with female sex workers, is also central to HIV transmission.
+Although high-risk men are not as readily identified as high-risk women, they may be amenable to intervention through their workplaces .
+However, there are many more clients than there are female sex workers, and they have far fewer sex partners, reducing the intervention efficiency ratio.
+Conventional STIs act as cofactors in HIV transmission by increasing HIV susceptibility and infectivity.
+These considerations prompted the randomized community trial in Mwanza, Tanzania, which showed that improved and expanded STI treatment reduced HIV incidence by about 40% .
+Another community intervention trial in Rakai, Uganda, based on periodic mass antibiotic treatment for STIs, did not reduce HIV incidence.
+Although there has been debate about the interpretation, the Mwanza study clearly showed that improved case management of largely symptomatic STIs is cost-effective .
+Furthermore, STIs are risk markers as well as true risk factors, making STI patients an ideal group for behavioral interventions.
+Mother-to-child transmission rates among untreated, breastfeeding HIV-infected mothers range from 25 to 48%; about half of transmission is due to breastfeeding, with the rest occurring before or at birth .
+Consequently, about 470,000 children worldwide die of AIDS annually.
+Clinical trials have shown that many mother-to-child transmission infections are preventable.
+For example, in a randomized trial in Kenya, breast milk substitutes prevented 44% of cases of mother-to-child transmission .
+Short courses of antiretroviral drugs such as zidovudine or nevirapine for mothers and newborns have reduced transmission by 37 to 50% in low-income country settings, and such interventions are cost-effective, with costs below $100 per healthy life year gained .
+About six infected breastfeeding women would need to be given breast milk substitutes, or eight treated with nevirapine, to avert one infant infection; however, the number of women requiring screening to prevent an infection is large, and depends on HIV prevalence.
+In low-prevalence settings, the number of infections prevented by these interventions is small.
+To reduce costs in high-prevalence countries , antiretroviral therapy could be offered to all pregnant women, with or without screening, but the health systems in many developing countries may be unable to deliver such sophisticated interventions adequately.
+Moreover, in high-prevalence countries, the benefits of breastfeeding in reducing other infectious disease morbidity and mortality may outweigh the risks of HIV transmission.
+Although perinatal HIV infections are downstream and not central to transmission, cost-effectiveness of interventions such as antiretroviral therapy and breast milk substitution makes them compelling options.
+Several interventions have potential in preventing HIV infection.
+One of them, voluntary counseling and testing, is gaining favor, but its sustained effect on behavior remains uncertain.
+The most consistent effects have been observed among HIV discordant couples, but there are few studies of its efficacy in developing countries.
+One recent trial showed a decrease in risky behaviors during the first year after counseling .
+However, there was little effect on the incidence of STIs and the sustainability of the effect is unclear.
+Costs per healthy-year-of-life saved were estimated at $249 to $346, but this may be optimistic.
+It is also true that high-risk individuals might avoid such services.
+Ultimately, female condoms or vaginal microbicides may become effective alternatives to male condoms in preventing HIV transmission, but female condom use is limited and evidence for efficacy is lacking.
+Recent disappointing experience with the efficacy of nonoxynol-9 as a vaginal microbicide has underscored the need for more research.
+A wealth of evidence indicates that male circumcision protects against HIV infection, but no clinical trials have been conducted.
+Certain other HIV prevention interventions have not been shown to be particularly effective.
+Mass media information and communication programs increase knowledge of HIV and are thought to create an environment permissive for prevention interventions.
+However, in industrialized countries, there is little evidence for direct effect on behavior and there are few studies on the effects of mass media campaigns in developing countries.
+As young people often have high HIV-incidence rates, protecting youth is key to stemming the epidemic.
+Unfortunately, general educational programs for youth apparently have little effect on HIV or STI incidence, and there is little evidence for sustained safer behavior.
+Focused interventions among high-risk youth may be a more effective approach.
+Finally, programs to reduce the supply of female sex workers in Thailand have been unsuccessful; wherever there is demand for paid sex there will be a supply.
+In contrast, raising legal costs of exploitation of child sex workers and enforcing legal sanctions may be effective .
+The advent of highly effective antiretroviral therapy (HAART) has been a major advance and making it affordable or freely available for developing countries has become an issue of social equity.
+In the West, HAART has reduced AIDS mortality, but the number of people living with AIDS has increased.
+In addition, risky behavior has increased among gay men in North America, likely in response to the availability of HAART and the improved prospects of life with HIV, making its effect on HIV transmission uncertain.
+We make five recommendations for controlling the spread of the epidemic.
+First, HIV control programs need to incorporate the most effective evidence-based interventions and should focus on high-risk groups as a first priority.
+This can be politically unpopular as these groups are often stigmatized, so advocacy is required.
+Second, there should be increased spending on high-impact interventions.
+The Joint United Nations Program on AIDS has estimated that HIV/AIDS-related expenditure in 1996-97 was only $549 million from the 64.7 countries that compose three-quarters of the world's HIV-infected population.
+The World Bank's cumulative disbursements for HIV/AIDS is only $233 million.
+In contrast, comprehensive HIV/AIDS and STI prevention services for all developing countries would cost $1.5 to 2.9 billion annually.
+Third, money needs to be better spent.
+Of 60 World Bank HIV/AIDS projects before 1992, only 48% have financed condom promotion and 57% have supported STI treatment, whereas 38% have financed treatment of AIDS.
+The World Bank's most recent document on scaling up interventions in Africa barely discusses prevention interventions targeting high-risk groups .
+Fourth, expanded research agendas should include studies on the effectiveness of male circumcision and vaginal microbicides, as well as cost-effective behavioral interventions for high-risk men and youth.
+There is renewed optimism about vaccines: the work of the International AIDS Vaccine Initiative needs to be accelerated.
+Fifth, we need enhanced monitoring of key interventions.
+Countries need to collect reliable surveillance data, map transmission hot spots, estimate coverage for key interventions and evaluate the impact of interventions on HIV transmission.
+Experience of the past two decades has taught us how the epidemic can be controlled.
+The time to act is now.
+World Bank, Confronting AIDS:
+Public Priorities in a Global Epidemic (World Bank, Washington, DC, 1998).
+Investing in Health Research and Development, Report of the Ad Hoc Committee on Health Research Relating to Future Intervention Options (document TDR/Gen/96.1.), (WHO, Geneva, Switzerland, 1996).
+R. M. May, R. M. Anderson, Nature 326 , 137 .
+E. N. Ngugi et al.
+, Lancet 2 , 887 .
+M. Laga et al
+. ,
+Lancet 344 , 246 .
+S. Moses et al. ,
+AIDS 5 , 407 .
+R. Machekano et al
+. , Fifth Conference on Retroviral and Opportunistic Infections, Chicago, 1 to 5 February 1998, Foundation for Retrovirology and Human Health and NIAID (abstr.
+no. 15) .
+H. Grosskurth et al
+. , Lancet 346 , 530 .
+L. Gilson et al
+. ,
+Lancet 350 , 1805 .
+R. Nduati et al. , JAMA 283 , 1167 .
+L. A.Guay et al. , Lancet 354 , 795 .
+E. Marseille et al
+. , Lancet 354 , 803 .
+M. Sweat et al
+. , Lancet 356 , 113 .
+D. Tarantola, Bull.
+WHO 78 , 236 .
+Intensifying Action Against HIV/AIDS in Africa: Responding to a Development Crisis (World Bank, Washington, DC, 1999).
+www.worldbank.org/html/extdr/offrep/afr/aidstrat.pdf Supported by grants from the Canadian Institutes of Health Research and the Canadian International Development Agency, and by the Commission on Macroeconomics and Health.
+F.A.P. is the recipient of a Senior Scientist Award from the Canadian Institutes of Health Research and a Canada Research Chair.
+S.M. is the recipient of a Clinical Professor in Population Health Award from the Manitoba Medical Services Foundation.
+The views expressed are those of the authors and not their affiliated institutions.
+P. Jha is at the Economics Advisory Service, World Health Organization, Geneva, Switzerland.
+N. J. D. Nagelkerke, B. Willbond, S. Moses, and F. A. Plummer are in the Departments of Medical Microbiology, Community Health Sciences and Medicine, University of Manitoba, Winnipeg, MB, Canada R3E 0W3.
+N.J.D.N. is also in the Department of Public Health, University of Rotterdam, Rotterdam, and National Institute of Public Health and the Environment, Amsterdam, Netherlands.
+E. N. Ngugi and F.A.P. are at the Department of Community Health, University of Nairobi, Nairobi, Kenya.
+J. V. R. Prasada Rao is at the National AIDS Control Organization, Ministry of Health and Family Welfare, New Delhi, India.
+F.A.P. is also at the National Microbiology Laboratory, Health Canada, Winnipeg, MB, Canada.
+Ramasundaram, S .
+Can India avoid being devastated by HIV?.
+BMJ 324: 182-183
+[Full Text]
+Volume 292, Number 5515, Issue of 13 Apr 2001, pp.
+224-225.

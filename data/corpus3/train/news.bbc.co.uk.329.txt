@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94da102529480af7101e21e57d6cb9d7bd2727f36f600732b43cd4dcfadf27e5
-size 3222
+World governments are coming under renewed pressure to lift an international ban on whaling. 
+Japan, Norway and Iceland will this week urge members of the International Whaling Commission (IWC) to end a moratorium on the killing of whales. 
+But the UK, Australia and America support the international ban on commercial whaling, which has been in force since 1986. 
+Environmental groups have even accused Japan of bribing poorer countries to vote with them. 
+They claim several Caribbean nations have accepted financial aid in return for supporting Japan at Commission meetings. 
+Animal rights groups are to hold a protest outside the London venue of the week-long meeting, fearing the ban could be overturned. 
+
+The moratorium's supporters are essentially fighting a rearguard action to keep it intact. In the 15 years since the prohibition came into force, thousands of whales have been killed. 
+rules allow unlimited catches of any species in the name of scientific research, and Japan has been hunting the relatively abundant minke whales in the Antarctic for some years. 
+A Japanese delegate to the talks was criticised by conservationists after he described minke whales as "cockroaches of the seas", adding that "there are too many of them". 
+Japan has recently extended the hunt to take small numbers of minkes, sperm and Bryde's whales, which are much less numerous, in the north Pacific. 
+The environmental pressure group Greenpeace says Japan has secured support for lifting the ban by bribing a number of countries, including six east Caribbean states, the Solomon Islands and Guinea. 
+Norway is not bound by the moratorium because it objected to it in the first place. 
+It kills around 500 minkes in the north Atlantic every year. There is also some limited whaling by local communities in the Arctic and the Caribbean, again permitted by the IWC. 
+And Iceland, which left the Commission in 1993, has this year rejoined it. It says it will resume whaling, possibly as early as next year. 
+
+In a report released to coincide with the meeting, the International Fund for Animal Welfare (IFAW) says Japan, Norway and Iceland have all generated sizeable incomes from a growing whale-watching industry. 
+The study claims the activity is now worth ?710m worldwide. 
+Japans' IFAW spokesman Inaoko Funahashi said: "No doubt whale-watchers in Japan, Norway and Iceland are wondering why their governments want to kill this precious resource. We think whales should be seen and not hurt." 
+The IWC was set up more than 50 years ago, charged with conserving both whales and whaling. Twenty years ago, a clear majority of members favoured a purely conservationist role for the commission. 
+They argued that the depredations of the commercial whaling years meant the world's severely depleted populations should be left in peace, in the hope that they might recover. 
+Some appear to have begun to do so: the minkes and the gray whales are doing comparatively well. 
+But there is hardly any sign of growth in the numbers of blue whales, the largest creatures ever to have lived on Earth. 
+Estimated at more than 250,000 in their prime, the blue whales are now thought to number perhaps as few as 5,000.

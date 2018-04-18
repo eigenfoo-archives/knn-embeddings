@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0e32959bb53cde2ebc2b6735ca32a6b15321be0719856752b5a6fa25b4fb24c
-size 2833
+Standing in the giant upturned metal bowl that is the Lovell radio telescope, there is no view of the ground and so no indication that you are nearly 100 metres (300 feet) above the Cheshire countryside. Somehow, I feel as if all that matters is the metal I stand on and the space above. 
+Most astronomers who use this giant radio telescope to probe the distant Universe never come up here and walk on the metal plates that reflect radio waves as efficiently as any polished mirror. 
+Sometimes they do climb the tower that holds sensitive detectors at the dish's focus to catch the radio waves, then they scurry back down eager to point the dish at some object in space. 
+But over the years, the rain and frost has taken its toll and started to corrode the surface. It needs replacing - over 5000 square metres of it. It is a big task. 
+
+Space scientists have to deal with miniaturised electronics; optical astronomers have to polish their mirrors to an accuracy of a thousandth of the width of a human hair - but there comes a time when radio astronomers have to start welding sheet metal. 
+Examining the old surface, Jodrell Bank's director, Professor Andrew Lyne, told me how the new surface would extend the useful life of the telescope. 
+
+"When the new surface is complete in 2002, this telescope will have as much promise as when it was built all those years ago," he said. "We will be able to observe at more wavelengths and with greater sensitivity." 
+So the bowl of the telescope is now a patchwork quilt of new and old metal plates, as piece by piece the old surface is replaced with one that is more accurate. 
+When the big dish rose above the Cheshire plain just over 40 years ago, it was ahead of its time. The first indication of its importance came not with observations of deep space but with something nearer. 
+
+When Sputnik was launched in 1957, the mighty Jodrell Bank dish was about the only thing that could track it. 
+
+Since then its gaze has been drawn ever outward - to super dense, rapidly spinning stars that flash like celestial lighthouses; to vast clouds where stars are born; to distant galaxies that shout across space using radio waves; and to the luminous beasts that inhabit the edge of the observable Universe. 
+The improvements to the main telescope will bring benefits to others as well. 
+The Jodrell Bank telescope is the anchor of a network of interconnected radio telescopes spread over the country. 
+Improving the Lovell telescope, the biggest of them all, will benefit a system that can take sharper pictures of the cosmos than the Hubble Space Telescope. 
+It is going to take another year for the resurfacing to be completed but when it is done the Lovell telescope will be back at the forefront of radio astronomy. Actually, in many areas of research, it always has been.

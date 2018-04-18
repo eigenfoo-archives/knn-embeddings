@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3fceb0d79ea0d5181934d426401c995b9054892067559785e451f10026270a7
-size 3877
+Under the proposal made public last week, Microsoft and some plaintiffs agreed the company would provide more than $1 billion worth of Microsoft software, refurbished personal computers and other resources to more than 12,500 of the nation's poorest schools. 
+Critics contend the proposal will only serve to enhance Microsoft's competitive advantage in schools while doing little to meet the poorest schools' extensive needs. 
+Both sides were in court Tuesday to argue the settlement's merits before U.S. District Judge J. Frederick Motz in Baltimore. 
+Motz told a courtroom filled with more than 100 spectators, many of them lawyers involved in the case, that he did not know how he might rule. 
+"I have no idea what I am going to do," Motz said. "I want to hear from everybody." 
+Some lawyers who attended Tuesday's hearing, including the lead counsel for plaintiffs in California, have objected to the settlement, calling it inadequate. 
+And Apple, long the leader in educational computers and software, filed a brief arguing that the settlement would only further Microsoft's monopoly power, the concern that prompted the lawsuits in the first place. 
+Microsoft and Apple, once fierce rivals, have been on relatively friendly terms since 1997, when Microsoft made a $150 million investment in its rival to help keep Apple afloat. 
+Nonetheless, analyst Rob Enderle of Giga Information Systems said he wasn't surprised by Apple's strong criticism of the deal. "Apple is clearly the company that could be the most damaged" by the proposal, he said. 
+Michael Hausfeld, one of the plaintiffs' lawyers in favor of the settlement, said it would help close the "digital divide" -- the gap between affluent students, who generally have easy access to technology, and poor students, who do not. 
+Hausfeld said if consumers pursued their claim against Microsoft and eventually won the case, they would stand to recover as little as $6 each, before court costs were deducted. 
+"We clearly have a choice: We can spend several years, and a great deal of money, fighting the private antitrust cases in the courts for a few dollars benefit per claimant, or we can force Microsoft to assist economically challenged children now," Hausfeld said. 
+A growing group of educators are questioning whether the proposal as it stands will truly meet the schools' needs, though. 
+"States, districts and schools have spent a lot of time over the last five years creating technology plans," said Helen Soule, director of technology for the state of Mississippi. 
+"I would much rather that they be able to implement those plans with some sort of Microsoft funding, rather than be given specific things that they don't necessarily need," Soule said. 
+Microsoft said the deal allows schools to choose to spend money on training and resources for non-Microsoft products. But the company concedes that those who go with Microsoft products will be given more resources, such as free software. 
+"The actual settlement is made up of a basket of resources," said Mark East, worldwide general manager of Microsoft's education solutions group. "The software component is just one of the elements." 
+The settlement hearings come as Microsoft continues to attempt to reach a deal with nine states seeking a remedy against the software giant for violating antitrust laws. 
+The Justice Department and nine other state attorneys general moved earlier this month to settle the lawsuit after Microsoft agreed to new provisions aimed at ensuring that competitors can build software products that work seamlessly with its Windows operating system. 
+But Connecticut Attorney General Richard Blumenthal became the latest official to back away from the proposed deal, saying on Tuesday that it "has too many gaps and ambiguities." 
+
+Have a comment on this article? Send it . 
+Printing? Use this version.

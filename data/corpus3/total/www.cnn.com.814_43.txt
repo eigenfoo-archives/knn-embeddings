@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca355e71449e49d6c441143ac0adf938222c0118d14e9330036cec28215f6b68
-size 1626
+Bad weather is pushing back the timetable for raising the wreck of the Russian nuclear submarine Kursk. 
+Rough seas have slowed down the progress of divers attaching cables to the Kursk from a barge that will be used to winch the submarine to the surface. 
+The Dutch-led team had hoped the winching could begin this week but now it will not be possible to begin the operation until next week. 
+And the divers are in a race against time with winter weather closing in on the Barents Sea where the Kursk sank. 
+The Barents Sea storm season, which begins during October, could rule out further attempts to raise the submarine until after the winter. 
+Bad weather and technical problems have already seen the first deadline -- September 15 -- for raising the submarine pass. 
+Frans van Seumeren, president of the Mammoet company which is working to raise the Kursk with another Dutch company, Smit International, was quoted by The Associated Press as saying: "I think we must more think about the beginning of next week, or the weekend.
+" 
+The Kursk -- one of Russia most modern nuclear-powered submarines -- sank in August 2000, killing all 118 sailors on board, while on exercises in the Barents Sea. 
+Divers have attached six of the 26 cables needed to raise hoist the Kursk to the surface. 
+Russian officials have said the Kursk sank after a faulty torpedo set off a series of explosions last August -- but what caused the initial blast remains a mystery. 
+Once it is raised, the Kursk's body will be transported to a dry dock, where experts are to examine the wreck for clues as to what caused Russia's worst naval disaster.

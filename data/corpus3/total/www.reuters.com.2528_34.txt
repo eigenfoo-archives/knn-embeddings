@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae92ef46a17d7f15b4323df173816d7f210a6e6ba5d01d6e42f609e559328ec0
-size 2390
+Texas Instruments Inc.
+TXN.N , the world's No. 1 maker of computer chips for mobile phones, on Wednesday posted a third-quarter loss as world demand remained weak for cell phones and other communications equipment powered by TI semiconductors. 
+The Dallas-based manufacturer said it expected a deeper loss in the current quarter but that this year's slide in revenues should bottom out in the same period. 
+Texas Instruments posted a pro forma loss of $57 million, or 3 cents a share, in the third quarter compared with a profit of $589 million, or 33 cents a share, in the year-earlier quarter. 
+TI said it expected the pro forma loss per share in the fourth quarter to be "about 6 cents more" than in the third quarter. 
+The consensus analyst profit forecast was a loss of 4 cents per share, with a range between a loss of 1 cent and a loss of 7 cents, according to Thomson Financial/First Call. 
+Texas Instruments shares closed before the earnings news at $29.91, down $1.58, or 5 percent.
+The shares have lost 36 percent of their value this year and underperformed the broad benchmark S&P 500 index by 22 percent. 
+Under generally accepted accounting principles (GAAP), TI posted a net loss of $117 million compared with net income of $676 million in the year-ago period, and a diluted loss per share of 7 cents compared with earnings per share of 38 cents a year ago. 
+Revenues were $1.85 billion after $3.13 billion a year earlier. 
+TI said it expected fourth-quarter revenues to decline about 10 percent sequentially, mostly due to normal seasonal declines in calculators as well as continued weakness in semiconductors. 
+But the company said it was beginning to see an upturn in orders for its core semiconductor products after a sharp decline since the end of last year, when world demand for cell phones and other communications devices and infrastructure hit a wall. 
+"As things stand now, it appears that the third quarter will mark the bottom for orders, and the floor for revenue should be set in the fourth quarter," Tom Engibous, chairman, president and CEO, said in a statement. 
+TI said it was trimming research and development spending this year to $1.5 billion pro forma from a prior estimate of $1.6 billion and last year's $1.6 billion.
+Capital expenditures will remain unchanged from previous estimates for 2001 at $1.8 billion, down about 35 percent from last year.

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b370f893794ff7a622234d62cfdcb3aa35d19ac6b6c98c96f79d819c03fde532
-size 1038
+March 31, 2000
+An absence of DVD players for users of the Linux OS created a hacking scandal to, well, start all hacking scandals.
+But now, a company has developed a legal box, and geeks are smiling.
+By Michelle Finley. 
+March 30, 2000 Script kiddie MostHateD can't make his arraignment on computer cracking charges, because he's in jail for stealing a car and burglarizing a house.
+By Lynn Burke. 
+March 28, 2000
+What would happen if a bunch of Linux types staged a protest over an arcane DVD copyright law and nobody came?
+It wasn't exactly nobody, but a good time was had by all 20 of 'em.
+Declan McCullagh reports from Washington. 
+March 22, 2000 IBM execs say the creation of the world's fastest Linux supercomputer will revolutionize science.
+Then it'll take on e-commerce.
+By Michelle Finley and John Gartner. 
+March 17, 2000 Mattel gets a federal court order against a program that reveals CyberPatrol's off-limits sex sites.
+But the utility is already being mirrored -- is there anything the company can do?
+By Declan McCullagh.

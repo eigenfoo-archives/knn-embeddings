@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8aacf446391a39b33dbac3626c9c19bd3f0e2b11aa2880684ba58b6be9b90daa
-size 1497
+Rep. Curt Weldon, R-Pennsylvania: "It's a failure of our intelligence system. ... It's a failure that was caused by a lack of resources and by a complacency that set in over the last 10 years, a complacency that convinced all of us that with the demise of the Soviet Union, there were no more threats."
+Sen. John McCain, R-Arizona: "The unwarranted, unprovoked attacks on innocent Americans is clearly an act of war and one that requires that kind of response."
+Sen. Orrin Hatch, R-Utah: "I think most authorities agree this is something we doubt Iran, Iraq or Libya would try and do, because they know of the massive response we would have to bring down on them."
+Sen. Christopher Dodd, D-Connecticut: "We stand completely and totally behind our president. We may have our differences from time to time, but on a day like this, which rivals or not exceeds the attack on Pearl Harbor, we stand united behind our president and our government."
+Sen. Edward Kennedy, D-Massachusetts: "All of us deplore the acts of terrorism that we have seen in these last minutes, and our hearts reach out to all of those who have suffered, lost their lives or who are injured right now, and all of us reach out to the brave rescue workers who are attempting to help our fellow citizens." 
+Sen. Robert Byrd, D-West Virginia: "We can be shocked, but we shouldn't be overly surprised by what we're seeing. Planes are capable of diving into buildings, and there are lots of suicide bombers all over the world." 

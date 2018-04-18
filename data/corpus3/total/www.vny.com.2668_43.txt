@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff3cff9945500fffb074ba93aafb5307272c22784505095b2f72fd56ec481c53
-size 5634
+Feature:
+The Singapore-China connection By SONIA JESSOP, Special to UPI SINGAPORE, Aug. 24
+(UPI) --
+Singapore needs to tap the opportunities of the expanding Chinese market.
+This is an increasing necessity as China readies itself to entering the World Trade Organization in November, and because China's cross-strait trade with Taiwan could soon improve dramatically.
+The double concern for the Singaporean government is that the emergence of the Chinese economic powerhouse is directly impacting its export performance at a time when the country is already in recession, and that it is also likely to pull investments from multinational companies away from Singapore toward a cheaper labor market.
+In the short-term, Singapore retains a comparative advantage as China builds the required infrastructure and business environment.
+But this advantage will disappear over time.
+In his recent "Address to the Nation," Prime Minister Goh Chok Tong warned of the serious economic threat China represented as it emerges as a manufacturing powerhouse.
+"I have seen China's transformation at close quarters.
+It is scary," he said.
+"Our biggest challenge is, therefore, to secure a niche for ourselves as China swamps the world with her high-quality but cheaper products."
+Earlier this month, Deputy Prime Minister Lee Hsien Loong also warned of the "near-term pain" China's economic rise would bring to Singapore and the rest of Asia.
+Asian countries, particularly those heavily dependent on the information-technology (IT) market, are already "feeling the heat," he said.
+A cornerstone of Singapore's success in the last two decades has been its export of electronic components to the U.S. market.
+But since 1997, Singapore's share of the U.S. electronic market has been steadily falling to the benefit of China, whose share has now overtaken Singapore's.
+Lee also noted that 70 percent of foreign direct investment in the region was now being channeled into China and its Special Administrative Region of Hong Kong.
+An economic survey released this month by the Ministry of Trade and Industry, also warned that if the economic integration between Taiwan and China becomes a reality, Singapore's exports -- especially electronics -- may lose competitiveness in the global market as Taiwanese firms are able to produce the components at a lower cost in China.
+The Taiwanese government has recently indicated its willingness to abandon its "go slow, be patient" policy in favor of a policy of "active opening and effective management" when it comes down to business relations with China.
+The new initiative would cover key fields related to investment restrictions, direct trade, direct links, direct banking transactions, inward investment from China and return of investment profits from China.
+The MTI survey showed that such drastic shift in policy would have an economic impact for Singapore.
+The profiles of Singapore and Taiwan exports to China are similar.
+Machinery exports makes up 42 percent of Taiwan's total exports to China, while it is about 58 per cent of Singapore 's total exports to China.
+Meanwhile, as low-end production continues to migrate to the mainland, Taiwan would be forced to move away from manufacturing to services and intellectual properties, and move up higher in the value chain in order to survive.
+This would put it in direct competition with Singapore.
+While aware of the economic threat China represents, the Singaporean government has clearly indicated it wants to make the best of what could be a great opportunity in the longer-term for Singapore, mainly a bigger market to which it can export its goods.
+Economic relations between both countries have expanded significantly in the last decade.
+Closer linkages, especially in the electronics and oil refinery industries, have enabled bilateral trade to register strong growth, and more can be done.
+China is currently Singapore's seventh-largest trading partner.
+According to statistics from the MTI, bilateral trade has grown at a rate of 15 percent per annum in the last decade, reaching an all-time high of U.S. $12.5 billion last year.
+Between 1990-2000, exports to China rose by 20 percent per annum, while imports increased by 13 percent.
+The pattern of trade has altered dramatically in the past decade, going from mainly commodities and primary products to electronics and machinery.
+Though on the decline, oil trade continues to have a significant contribution to bilateral trade, and given Singapore's position as a regional refinery hub, oil trade should continue to exert significant influence over bilateral trade.
+The rapid expansion of bilateral trade was partly the result of an increase in Singapore's FDI to China.
+In 1997,China overtook Malaysia to become Singapore's top investment destination in cumulative terms.
+Singapore is now the fifth-largest foreign investor in China.
+However, FDI into China reached a peak in 1995 prior to the Asian financial crisis in 1997-1998 and has yet to recover convincingly.
+According to recent figures released by China's Ministry of Foreign Trade and Economic Cooperation, Singapore's new investments in China slipped 5.6 percent to just $978 million in the first half of this year.
+This raised the it's total investments to date to nearly $18 billion.
+Manufacturing and real estate attracted the bulk of Singaporean investments in China.
+Earlier this week, a business delegation lead by Singapore Trade and Industry Minister George Yeo left for an intensive tour of China to scout out potential investment opportunities.
+--
+Copyright 2001 by United Press International.
+All rights reserved. --

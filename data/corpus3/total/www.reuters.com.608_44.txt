@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:359e9800146e62f2ce2d0d60aa8c925d7df968d575de1d30cd4dbcd704a85974
-size 1828
+Rupert Murdoch's News Corp. said on Saturday it was withdrawing its proposal to take over satellite television company Hughes Electronics Corp. , after Hughes' parent, General Motors Corp. , failed to choose a buyer at its board meeting earlier in the day. 
+News Corp.'s proposal competed with a bid by EchoStar Communications Corp., which was believed to be offering as much as $31.5 billion in stock and cash. 
+"We have no option but to withdraw immediately our fully negotiated and financed proposal," said Chief Executive Murdoch in a statement.
+"Hughes would have been an excellent strategic fit for our global platforms, and we are disappointed with the Board's inaction in the face of an as-yet unfinanced counter proposal." 
+Littleton, Colorado-based EchoStar is offering 0.75 a share for each Hughes share, and is believed to be lining up as much as $5.5 billion in cash from a credit line supplied by UBS Warburg and Deutsche Bank.
+EchoStar and Hughes declined to comment.
+GM did not immediately return phone calls requesting comment. 
+For a year and a half, News Corp. had coveted Hughes' DirecTV satellite service as the U.S. component of its Sky Global network of satellite TV service, which stretches from Europe to Asia to Latin America.
+Had it succeeded in its proposal, the media conglomerate would have had a global distribution network for its vast array of programming assets, which include the Fox Broadcasting Network, Twentieth Century Fox film studios and cable channels like the Fox News Channel and FX. 
+News Corp. planned to merge Hughes with Sky Global and spin the combined entity off as an independent publicly traded entity.
+GM, which owns roughly 30 percent of Hughes, would have received approximately $4 billion in cash from News Corp.'s partners Microsoft Corp. and cable magnate John Malone.

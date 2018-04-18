@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32be78cb7fca81e910759fd7e8ddcf4bf2c1db98158f89d25d30cd218537b017
-size 3451
+* Individual stocks. Some brokerages are refusing to take "market" orders in advance. Market orders are requests to buy or sell a stock at whatever price is available.
+Some firms, such as the major online brokerage Fidelity Investments of Boston, said they will accept advance "limit" orders--orders to buy or sell only at a specified price or better--although such trades cannot be executed until the market reopens, of course.
+Fidelity rival Charles Schwab Corp. of San Francisco is among firms still accepting market orders, but it is encouraging investors to consider placing limit orders instead.
+Limit orders can be less risky for investors during times of extreme price fluctuations because investors can specify the lowest price at which they would sell or the highest price at which they would buy.
+* Mutual funds. Unlike stock trades, which can be executed at the start of the day, most mutual fund transactions are completed at the end of daily trading. That is, for most funds, orders to buy or sell are priced at the fund's closing price on the day the order is received (assuming the market is open).
+For now, "Investors can think of this as if it were a Sunday: They can put in their orders but they won't go through" as long as markets remain closed, said John Collins, spokesman for the Investment Company Institute, the fund industry's Washington-based trade group.
+The same pricing schedule applies to virtually all foreign stock funds traded in the U.S., Collins said.
+Some funds, however, are priced more than once a day. Some index funds from Rydex Funds , for example, are priced twice a day, and the Select stock-sector funds from Fidelity are priced hourly.
+Some firms, including Schwab, have declined to take online fund trading requests for now, steering investors to phone representatives instead. They say this is to provide investors thorough and timely information--not to dissuade them from selling.
+Though trading could be fast and furious once it resumes, mutual fund companies say they stand ready to meet demand.
+"Our Web site and automated phone system have the capacity to handle whatever happens," said Shelley Peterson, spokeswoman for Janus Capital Corp. in Denver.
+Though Janus, like most fund companies, has reported light call volumes from customers so far, some analysts expect Wall Street's lengthy closure to lead to heavy trading volume when the stock market reopens.
+* Investments in 401(k) retirement plans. Fund companies that administer 401(k)s and similar tax-deferred retirement savings plans say their information systems are running smoothly. Requests for mutual fund transactions within 401(k) plans, like other fund trades, will be executed at the end of the first day that trading resumes.
+But investors should note that some employers sponsoring the plans have limits on the number of trades participants are allowed to make in a particular period, said Brian Mattes, spokesman for Vanguard Group in Valley Forge, Pa., which administers numerous retirement plans.
+In some cases the limit may be four trades a year, and in other cases 10, he said. That could hamper investors who were active traders earlier this year and now are bumping up against company-set limits.
+Companies may set limits to keep plan costs in check, Mattes said, or they may simply be "paternalistic." Reciting one of Vanguard's mantras, he said: "Excessive trading, after all, can be a road to ruin." 

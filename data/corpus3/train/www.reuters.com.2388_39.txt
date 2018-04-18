@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b2734494e8ceceee9bcf0c7c22ad6708bace27894993e8478b9fcb2778ef934
-size 2376
+Hong Kong stocks are expected to rise on Tuesday following a Wall Street rally inspired by upbeat corporate earnings and hopes that lower interest rates and government stimulus packages will kickstart the flagging U.S. economy. 
+The technology-heavy Nasdaq composite index .IXIC jumped 2.2 percent while the blue-chip Dow Jones industrial average .DJI climbed 1.88 percent. 
+The two indices were boosted by positive results from companies like 3M, Minnesota Mining and Manufacturing Co ( MMM.N ), which makes Scotch tape and Post-It notes. 
+"This will push the HSI up by between 100 and 200 points," said Conita Hung, head of research at Mansion House. 
+Analysts also said China's top cellular carriers China Mobile ( 0941.HK ) and China Unicom ( 0762.HK ) are also likely to rise. 
+The benchmark Hang Seng index .HSI ended 0.29 percent, or 28.30 points, lower at 9,797.54 points. It is about six percent below its level on September 11 before the attacks on New York and Washington, and off over 35 percent for the year to date. 
+China Mobile edged up 1.14 percent to HK$22.10 on news that its subscribers grew 8.2 percent in the third quarter. 
+China Unicom, however, fell 3.38 percent to HK$7.15, as institutional investors remained worried about rising competition on the mainland. 
+Analysts said HSBC Holdings ( 0005.HK ), Hong Kong's largest bank and the Hang Seng's biggest constituent by market capitalisation, is like to stage a mild rebound as it had been under selling pressure lately. 
+"It won't be a strong rebound because some institutional funds are still underweight on it because of earnings fears," said Hung. 
+The stock fell 1.51 percent to HK$81.75 on Monday, but HSBC Holdings gained 2.54 percent in London overnight. 
+H-shares, or shares of Chinese-incorporated companies listed in Hong Kong, are also likely to be in focus after China's stock market regulators halted a selldown of state holdings in listed companies through IPOs and additional share offerings. 
+This will clear the overhang of the yuan-denominated A-shares in the market and likely boost prices, although analysts said A-shares, which are not open to foreigners, were already too expensive. 
+"The A-share market has to go down, they're overvalued and it's good to sell as much state-owned shares as possible," said Andrew To, sales director at Tai Fook Securities. REUTERS

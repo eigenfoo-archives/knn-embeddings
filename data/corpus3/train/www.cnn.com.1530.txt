@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:181a3715595f6efaf8773f7e815a3b85ebf3e94199e2048b4542f182b538ebff
-size 4748
+Upset with the Bush administration's proposed antitrust settlement with Microsoft, Los Angeles programmer Dan Kegel posted a letter to the United States Justice Department on his Web site. He soon had more than 2,100 co-signers. 
+"It lacks effective enforcement and it fails to prohibit a number of anticompetitive licensing practices," said Kegel, with the approval of private software developers at universities, businesses and government laboratories. "It's taking away the chance for real competition in the operating system market." 
+Kegel's letter is one of thousands that interest groups, industry groups and even regular citizens have filed with the Justice Department by Monday's deadline for public comment on the settlement. 
+The judge handling the case has ordered the department to summarize the comments for the court and publish them all in the Federal Register within 30 days. The department said it has no plans to go beyond the court requirements in releasing the comments. 
+Steven Aftergood of the Project on Government Secrecy says the government should make the public comments in such a high-profile case easier to read online, rather than in the voluminous Federal Register. 
+"What is the point of soliciting public comment if the comments are going to be buried or ignored?" he asks. 
+
+Microsoft and its critics both worked to ensure their views were reflected in the comments. Americans for Technology Leadership (ATL), made up of Microsoft and several others friendly to the software giant, offered letter-writers extra chances to win a handheld computer. 
+is a co-sponsor of this week's Conservative Political Action Conference. With access to the addresses of people registered to attend the conservative get-together, ATL sent letters deriding the antitrust suit and urging attendees to send an e-mail to Justice to "bring to a close one of the remaining legacies of the Clinton administration." 
+If the comments were also sent to ATL, the attendee got two entries to win a handheld computer -- rather than just one at ATL's conference booth. Compaq iPaq computers, which run Microsoft software, can cost up to $650. ATL executive director Jim Prendergast says he doesn't think there's anything wrong with the computer offer. 
+"A lot of times we'll go to conventions and the iPaq is something we use to encourage people to get involved," Prendergast says. "That's not a bribe." 
+Prendergast says he has received many calls from supporters, but declines to disclose how many people have used his site to send comments to Justice. 
+
+The Web site for ProComp, a group funded by Microsoft rivals, had a pop-up window asking visitors to write to Justice. Microsoft's Freedom to Innovate site had a similar request. 
+In its comments, ProComp included an affidavit from Kenneth J. Arrow, a Nobel laureate economist at Stanford University. Arrow, the government's economics expert in a previous antitrust action against Microsoft, said the current settlement ignores how Microsoft's dominance has grown since the mid-1990s and omits "forward-looking remedies that address such efforts by Microsoft to protect and enhance its existing market power by using its illegally maintained monopoly." 
+Time Warner -- parent company of CNN -- also submitted comments critical of the settlement, as did several consumer groups. 
+the Microsoft-funded Americans for Competitive Technology and former attorneys general Griffin Bell and Edwin Meese sent papers supporting the deal. 
+It's unclear how the Justice Department will treat the comments, which could run into the hundreds of thousands. Justice is only required to summarize them, although the judge hearing the case will be able to read them as she decides whether the settlement is in the public interest. 
+"I bet my wife a nickel in December that I could make a difference, and I'm still waiting to collect on the bet," Kegel said. 
+
+In separate developments, lawyers for California plaintiffs in the private Microsoft class-action suit have objected to part of the federal settlement that may erase Microsoft's antitrust liability. 
+The settlement states it would not "confer upon any other persons any rights or remedies of any nature whatsoever." The California lawyers say they fear that language could threaten the class-action suit, which alleges Microsoft overcharged customers for its products. 
+Also, Microsoft told the federal court Monday that it and AOL Time Warner have resolved their disagreement over documents requested by Microsoft in the portion of the antitrust case still being pursued by nine states. 
+Copyright 2002 The Associated Press . All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.

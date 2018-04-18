@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6da50445d5e3460ef4e58bb66740831ee2ca14769e259eded703fc4c97b960f0
-size 3215
+Scientists have found a piece of the meteorite that many believe killed the dinosaurs. 
+The small piece of rock was discovered during an international drilling mission to recover samples from beneath the floor of the Pacific. 
+It is only 2.5 mm in size, but a detailed chemical analysis indicates that it is rich in metals and seems typical of a type of meteorite called a carbonaceous chondrite. This strongly suggests that the body that so devastated the Earth 65 million years ago was an asteroid 10km across. 
+The meteorite profoundly changed the evolution of life on Earth - without it, humans would probably not be here. 
+The find adds to the already strong evidence that an impact of an asteroid, at that time, caused worldwide climatic disruption and probably wiped-out the dinosaurs and many other species. 
+Ten kilometres across may not sound very big, but it would have been travelling so fast that it would have slammed into the ground with overwhelming force - it would have distorted the very crust of the Earth. 
+
+A few years ago, scientists identified the point of the impact. It is a 300x180 km crater, now under the sea and covered with deposits off the Yucatan peninsula in the Gulf of Mexico. 
+The first any creature would have known about it would have been a steadily brightening point of light in the sky. 
+If it were ever to happen again there is only one thing to remember - if you can see it coming then you are going to die, if you cannot you are probably dead anyway. 
+Most of the asteroid would have been vaporised during impact. 
+But landing in the ocean would not soften the blow. Superheated steam would have been thrown into the atmosphere and tidal waves would have raced around the globe, repeatedly devastating seaboards. 
+Molten rock from the sea floor would rain down on the land within thousands of miles of the impact. A searing blast wave would race away from the impact point at thousands of miles an hour setting alight anything in its path. 
+Dust from the impact and dust from the innumerable forest fires, not to mention exposed coal seams that would burn for millions of years afterwards, would accumulate in the atmosphere. 
+
+The Sun's light would be cut off and the single most important chemical reaction on Earth would cease - no sunlight, no photosynthesis. 
+Plants would die and food chains collapse - entire species would become extinct. 
+Some calculations of the impact suggest that not all of the meteorite would have been vaporised. Perhaps, if it came in at an oblique angle some would have survived. There is some evidence for this as the Mexican crater is oval. 
+Not every living thing perished after the impact. Many plants did survive, as did crocodiles and turtles. This puzzles scientists. Also there is some evidence that the dinosaurs may have been declining before the impact. 
+After the devastation had subsided, mammals, almost insignificant during the reign of the dinosaurs, were given the space to evolve into animals that eventually became us. 
+You can read more about the fossil meteorite discovery in this week's Nature journal. The research paper is authored by Frank T Kyte of the University of California, Los Angeles.

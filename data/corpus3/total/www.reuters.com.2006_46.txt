@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:511478f1b857920ffa26ae86e5ce9c7890160aad768bcdeac9d0666c2e084c14
-size 2778
+Australian stocks were softer at the mid-session, mirroring market leader News Corp ( NCP.AX ) on Tuesday by keeping to levels midway between the day's high and its low. 
+Market leader News Corp ( NCP.AX ) plunged six percent on Monday here and on Wall Street after quitting talks over the weekend with General Motors ( GM.N ) over GM's satellite business. 
+News Corp, which with its preferred stock ( NCPDP.AX ) makes up about 10 percent of Australia's key stocks gauge, shed as much as 2.7 percent in early trade to a low of A$13.30. 
+At mid-session, it was 22 cents lower at A$13.45. 
+Its bounce from the lows helped halve the benchmark S P/ASX 200 index's .AXJO early losses, lifting it from its 3,232.1 morning trough to 3,241.8, down 14.4 points, or 0.44 percent, as of 2.00 p.m. (0400 GMT). 
+Declines here were less pronounced than those in New York, where pessimism over key U.S. economic data due out this week slashed nearly three percent from the Dow Jones Industrial average .DJI
+and almost four percent from the Nasdaq .IXIC . 
+"People are still pretty nervous, pretty cautious, but they're not panicking over fluctuations in the U.S.," said Lucinda Chan, director of Macquarie Equities. 
+"We're taking it all in a very mature fashion," she said. 
+Meanwhile News Corp's declines were checked by a view that General Motors, which hammered out a US$25.8 billion deal to sell its Hughes Electronics ( GMH.N ) to News Corp rival EchoStar ( DISH.O ), may have backed the wrong horse, brokers said. 
+"The market seems to be toying with the idea that EchoStar won't get all the approvals it needs to buy DirecTV," said Richard Caldwell, senior equities adviser at broker Burdett, Buckeridge and Young. 
+"That could play into News Corp's hands by allowing it to come back in at a lower price," he said. 
+Bucking the downward trend, publisher John Fairfax Holdings ( FXJ.AX ) jumped as much as three percent on takeover speculation then gave up some gains to stand one cent firmer at A$3.52. 
+Banking sources said APN News Media ( APN.AX ), 40-percent controlled by Irish media magnate Tony O'Reilly, will announce a A$700 million capital raising to fund its acquisition of Wilson Horton, also controlled by O'Reilly interests. 
+Brokers said the market believes O'Reilly's activity could be a precursor to a bid for Fairfax. 
+"Obviously, the market is keen for something to happen there," Macquarie's Chan said. 
+Weapons technology developer Metal Storm ( MST.AX ) added 6.5 percent to A$1.30 on the view that the U.S. vow to fight terrorism would enhance existing defence contracts at home and in Washington. 
+Australia's only pure defense play has risen 38 percent since September 11, when hijacked aircraft slammed into U.S. landmark buildings on the East Coast.
+REUTERS

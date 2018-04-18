@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01e972b9420779a2b71c468c2c672f3a52a6ec5a38beecbf5475211848d9442c
-size 3690
+The anthrax that killed five people appears to have been produced in the United States, the White House said Monday, but investigators still don't know who mailed it.
+On Capitol Hill, a second attempt to sanitize a contaminated Senate office building failed. 
+White House press secretary Ari Fleischer said the evidence on the anthrax sent to Sens. Tom Daschle, D-S.D., and Patrick Leahy, D-Vt., is increasingly "looking like it was a domestic source." 
+President Bush emphasized that the case remains unsolved. 
+"We're still looking," he said.
+"We've all got different feelings about it.
+We're gathering as much information as possible .
+" The president promised that as soon as some conclusions are reached "we'll share it with the American people." 
+At the State Department, the FBI was called to examine a white powder found in an envelope addressed to Deputy Secretary of State Richard Armitage.
+The envelope moved through the regular U.S. mail system and officials assumed that it had been irradiated, said Lynn Cassel, a department spokeswoman. 
+Cassel said the letter was addressed in "block letters," but she did not know if the envelope or the writing resembled that found on previous, anthrax-tainted letters. 
+On Capitol Hill, a military physician told members of Daschle's staff at a briefing that he would recommend they take an anthrax vaccine, which is considered experimental, if Health and Human Services
+Tommy Thompson approves its use.
+Thompson was expected to make his decision this week. 
+Technicians, meanwhile, ran into more problems trying to sanitize a Senate office building contaminated by lingering anthrax spores from the letter sent to Daschle in mid-October. 
+Attempts to pump poisonous gas into the Hart Senate Office Building's ventilation system to kill any remaining spores failed early Monday, said Capitol Police spokesman Lt. Dan Nichols. 
+He said a mechanical problem kept the gas from reaching the saturation point needed to kill the anthrax.
+Technicians worked from 9 p.m Sunday to 3 a.m. Monday before they abandoned the effort. 
+"The goal was to get 500 parts per million.
+We did not achieve that goal," said Nichols.
+He said he did not know what caused the problem, which did not show up the first time they used the gas on the building. 
+Nichols said he was not aware of when another attempt would be made. 
+The Hart building has remained closed since Oct. 17, two days after an anthrax-filled letter was received in Daschle's office.
+The EPA reported Friday that traces of anthrax remained after the initial fumigation. 
+In New Mexico, officials at the Los Alamos National Laboratory, who have been conducting research in the anthrax investigation, acknowledged that they received a sample of viable, or living, anthrax, despite telling area residents that its research was limited to inactive spores. 
+Los Alamos, which has been analyzing the genetic content of the anthrax used in the attacks, thought it was receiving dead spores from Northern Arizona University.
+But after the paperwork was filled out, the university discovered that the spores were alive and able to grow. 
+An internal Los Alamos report indicated that its lab was not certified to handle live anthrax, prompting concern from a member of Congress, Rep. Edward Markey, D-Mass.
+In fact, federal officials said Monday, the internal report was wrong and Los Alamos is certified to handle the live bacteria. 
+The Centers for Disease Control and Prevention has confirmed 18 cases of anthrax infection nationwide ?
+11 cases of inhalation anthrax and seven through the skin ?
+since the anthrax-by-mail attacks began in October.
+Five people have died, all from inhalation anthrax.

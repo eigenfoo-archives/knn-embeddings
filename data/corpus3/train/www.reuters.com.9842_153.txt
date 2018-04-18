@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f850d2cb3e8d84d4aea451a122275fd48388e78a65a7f1868f5a0b3a6227f70
-size 2930
+An experimental drug that works to calm brain activity could help patients with moderate to severe Alzheimer's disease just as they lose the ability to care for themselves, researchers said on Tuesday.
+The drug, called Memantine, slows over-excited brain cell signaling that is associated not only with Alzheimer's but with other brain diseases, including Parkinson's.
+In doing so, it slows the progression of the disease, which gradually robs patients of their ability to remember, to find their way around, and to bathe and dress themselves, researchers told a meeting of the American Association for Geriatric Psychiatry in Orlando, Florida.
+There is no cure for Alzheimer's, which affects 4 million Americans, and drugs used to treat it, such as Aricept, only slow progression of early disease. The disease is always fatal and patients die robbed of most of their senses.
+The Alzheimer's Association predicts that by 2050 more than 14 million people in the United States alone will develop Alzheimer's disease.
+"(Memantine) is the first efficacious treatment for moderate to severe Alzheimer's, which is a big chunk of the disease," Dr. Barry Reisberg, a psychiatrist and Alzheimer's specialist at New York University School of Medicine who led the study, said in a telephone interview.
+This stage of Alzheimer's lasts about 2 1/2 years.
+"It is the stage of the disease when family members are the most burdened," Reisberg said.
+"Over the course of this stage of Alzheimer's disease, patients progressively lose the ability to pick out their clothes and to put on their clothes, to bathe without assistance ... and become incontinent."
+"They usually can't give you their correct address and usually can't give you the name of the president. They still know their own name," he added.
+Reisberg's team tested Memantine on 252 patients at this stage of the disease. Half got the drug and half got a placebo. Researchers, who did know which patients got the drug, watched and recorded their progress.
+"The Memantine was very, very well-tolerated," Reisberg said. "There was a marked slowing of the functional problems of the patient. Cognitively we saw something very similar."
+Depending on the test used, the drug either slowed deterioration entirely for six months, or cut the rate in half.
+The drug is an NMDA antagonist. It blocks the transmission of NMDA, one of the brain's messenger chemicals that becomes overactive in diseases such as Alzheimer's and Parkinson's.
+The next step is to see how long the slowing lasts, and then to test the drug in earlier- and later-stage Alzheimer's patients.
+Forest Laboratories, Inc. is applying for U.S. Food and Drug Administration approval of the drug this year.
+Danish pharmaceuticals group Lundbeck, which holds some rights to the drug in Europe, Canada, Australia and South Africa, said last week the drug was recommended for approval by a European Union committee.

@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31be1c960e541009c232088a6989ca49aeea16acc1d55a1b50af665d8f7f3562
-size 5624
+Two things terrify today's computer users: viruses and hackers.
+And just like viruses, most people don't understand hackers or what they do. 
+Hackers come in many varieties.
+The term "hacker" usually brings to mind three of these -- people who break the security of computer networks, people who break the security on application software, and people who create malicious programs like viruses.
+These aren't mutually exclusive, but it's a simple way to divide the activities that fall under "hacking." 
+These are the hackers you see in movies, usually as unattractive, introverted and anti-social -- or ultra-hip, sexy and connected.
+Real hackers don't fit those stereotypes.
+They aren't nerds living in darkened dorm rooms or multi-millionaire industrial spies.
+They are average people with strong computer skills and the desire to test those skills in ways that often prove illegal. 
+Network hackers engage in several sorts of activities.
+Some, like "denial of service attacks" or "mail bombs," are designed to swamp a computer network's ability to respond and perform its internal functions.
+For instance, a denial of service attack on a Web server floods it with bogus requests for pages.
+The server spends so much time trying to process these requests that it can't respond to legitimate requests and may crash.
+A mail bomb is similar but targets a victim's mail server.
+A number of businesses and Internet service providers have suffered these sorts of attacks in recent years. 
+Another form of network hacking involves penetrating a secure area by subverting its security measures.
+Network hackers might accomplish this by setting up programs that try millions of passwords until one is accepted.
+A hacker may set up "sniffers," programs that check data to find encrypted or sensitive information.
+Once they gather the information they can decode it, or if unencrypted, use it directly to find out more about a network and penetrate it more easily. 
+Once hackers get onto the machines that host networks, they can alter or remove files, steal information and erase the evidence of those activities.
+But many hackers break security systems just to see if they can do it.
+They may enter the system, look at the data within and never go back.
+For these hackers, it's more a test of skill than an attempt to steal or alter data. 
+Application software, such as programs for word processing or graphics, puts the power of a personal computer in the hands of a user, even one who doesn't know how the computer works.
+It's often expensive and, like anything else that's useful but expensive, there's bound to be someone who wants to get it free of charge.
+That's where "crackers" -- hackers who break software security -- come in. 
+These hackers develop their own software that can circumnavigate or falsify the security measures that keep the application from being replicated on a PC.
+For instance, you have a piece of software that requires a serial number to install.
+A software hacker does this in much the same way that network hackers attack network security.
+They may set up a serial number generator that tries millions of combinations of numbers and letters until it finds one that matches.
+The hacker could also attack the program at the assembly-code level, finding and altering the security measures. 
+One note:
+A software hacker is not necessarily a software pirate.
+A hacker may break the security and use the software, but a true pirate would also replicate and sell the cracked software. 
+Some hackers are also virus builders.
+Viruses, worms, Trojan horses and logic bombs are all forms of programs that can invade a system.
+Some are malicious, some aren't. 
+A virus is a program that may or may not attach itself to a file and replicate itself.
+It may or may not corrupt the data of the file it invades.
+It may or may not try to use all of the computer's processing resources in an attempt to crash the machine.
+If that seems vague, it's because viruses are tricky.
+They may be simple notes that say "Hello" -- or they may attack and corrupt the files at the core of the system, causing it to crash. 
+Worms invade a computer and steal its resources to replicate themselves.
+They use networks to spread themselves. 
+A Trojan horse appears to do one thing but does something else.
+The system may accept it as one thing, but upon execution it may release a virus, worm or logic bomb. 
+A logic bomb is an attack triggered by an event, like the computer clock reaching a certain date.
+It might release a virus or be a virus itself. 
+No one connected to a computer network is really safe from hackers.
+Luckily, most invasions or infections don't result in serious injury to the system that has been attacked. 
+The only real defense is limiting your risk by using virus scanners and enforcing security measures on network computers.
+But in the end, hackers see security systems as a challenge, not an obstacle. 
+Technology and Society at the World Wide Web Consortium
+(W3C) --
+The W3C tries to set and maintain standards for the portion of the Internet people are most familiar with, the World Wide Web.
+The Technology and Society domain seeks to influence public and private policy on issues, including security, arising out of the development of Web technology.
+The articles may be a little dry, but the information is good. 
+Electronic Freedom Foundation --
+An organization dedicated to keeping the Internet an uninhibited medium for information, the EFF is an excellent source of information about security issues and legislation that affects the Internet. 
+David Mandeville is an application engineer at iXL.

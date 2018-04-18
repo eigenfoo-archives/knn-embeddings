@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f705f3971c706628491b8d0c678ef8865b6570a9d76c51ac17def303ca6c8a1f
-size 2167
+The Internet has lost its novelty for many U.S. users but is turning into an increasingly important tool for everyday living, according to a study released on Sunday.
+As Internet users gain more online experience, they reported a slight dip in the length of the average online session -- from 90 minutes to 83 minutes over the course of one year, the Pew Internet and American Life Project found.
+But experienced users said they were more likely to use that time for activities like working from home, checking bank-account balances and making travel reservations, rather than simply browsing.
+E-mail has lost its novelty as well, the survey found, as users said they sent messages to distant friends and relatives less frequently.
+But users are more likely to rely on the medium to express worries, ask for advice or send other serious messages.
+"The Internet has gone from novelty to utility for many Americans," said Lee Rainie, director of the Pew project.
+"They are beginning to take it for granted, but they can't imagine life without it."
+Many experienced users said the Internet modified their "offline" behavior as well.
+One out of four said they spend less time watching television, while nearly one in three who shop online said they have spent less time shopping in "bricks and mortar" stores as a result.
+Internet users were more likely to bring their work home with them, the study found.
+Fourteen percent of those surveyed said the computer network increased the amount of time spent working from home, while 5 percent said their work at home had decreased.
+The survey did not find a dramatic increase in telecommuting, as only 6 percent said they spent less time in traffic because of their Internet use.
+That figure jumped to 30 percent for those who said they worked more from home.
+Unwanted junk e-mail, or "spam," led the list of complaints, with 44 percent saying it was a problem.
+More than half said they had received an e-mail with pornographic content.
+The Pew Internet & American Life Project tracked 1,501 Internet users over the course of a year, from March 2000 to March 2001.
+The survey has a margin of error of plus or minus 4 percent.

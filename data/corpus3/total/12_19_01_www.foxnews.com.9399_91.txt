@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b87ad4e1b5296b0013367dc17e904a34fd782533c417ddadbfd2beb8cfd2c31
-size 3385
+Solectron Corp., the world's largest contract electronics manufacturer, Tuesday reported a fiscal first-quarter loss, on sharp declines in its personal computer and telecommunications operations. 
+The Milpitas, California-based company, which has cut 25,000 jobs worldwide in the past year to combat the economic downturn, also said it plans to raise about $1.5 billion in new debt, and established a $500 million credit facility. 
+Shares of Solectron tumbled $2.61, or nearly 18 percent, to $12.20 in morning trade on the New York Stock Exchange. 
+Contract manufacturers, including Solectron and rival Flextronics International Ltd., have been suffering along with their customers from a slump in demand for electronics products over the past year. 
+In the first quarter that ended Nov. 30, Solectron lost $52.5 million, or 8 cents a share, on sales of $3.15 billion.
+A year ago, the company earned $190.6 million, or 29 cents a share, on sales of $5.70 billion. 
+Excluding charges for acquisitions, restructuring, and asset impairment, the company said it broke even for the first quarter.
+On a cash basis, Solectron said it earned 5 cents a share, in line with the consensus analyst estimate as measured by research firm Thomson Financial/First Call. 
+Solectron said sales could drop further in the second quarter, to a range of $2.7 billion to $3.2 billion.
+Before one-time items, the company forecast breaking even or losing as much as 3 cents a share in the second quarter. 
+On a cash basis, the company said it expects earnings of between 1 cent and 4 cents a share. 
+Analysts had expected earnings ranging between four cents and 10 cents per share for the period, with a mean of seven cents. 
+The company, which acquired Montreal-based C-MAC Industries Inc. for about $2.3 billion, also said it expects to take between $250 million and $350 million in restructuring and impairment charges in the second quarter. 
+"We continue taking actions to align our cost-structure with current revenue levels," Solectron Chief Executive Koichi Nichimura said.
+"These actions, which include reducing employment levels and production capacity, are painful but necessary to keep the company healthy." 
+Solectron's shares closed at $14.81 on the New York Stock Exchange on Monday.
+They have fallen from a high of $41.95 on January 19. 
+The company said it would offer $1 billion in adjustable conversion-rate equity security units, or ACES, and at least $500 million of unsecured fixed-rate debt. 
+The ACES consist of a contract to buy a variable number of Solectron common shares and a five-year note to be issued by Solectron.
+Under the contract, the company will issue common stock in three years. 
+Early Monday, Moody's Investors Service cut its ratings on Solectron's long-term senior unsecured debt to junk, or below investment grade, status.
+The rating change, Moody's said, is due to the company's weak operating performance, among other reasons. 
+The ACES offering was given a junk rating by international rating agency Fitch. 
+The company also said it had received a commitment for $500 million of revolving credit facilities and expects to close on it during the first quarter of calendar 2002. 
+Chief Financial Officer Kiran Patel said the debt and credit plans formed part of "a comprehensive plan that meets our near-term debt obligations and strengthens our capital structure."

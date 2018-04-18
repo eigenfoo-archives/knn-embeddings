@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6330b0f4cd7e3ab578e9a3cb9e1130aa7b9a37478bc7750f5b9ebd257532b244
-size 1909
+Astrophysicists have announced the first observations of so-called cosmological shear, an effect predicted by Einstein's theory of relativity. 
+The discovery casts new light on the distribution of the "dark matter" which is thought to make up much of the Universe but which cannot be seen. 
+"Pieces of the puzzle are falling into place," said Morris Aizenman of the US National Science Foundation's (NSF) Directorate for Mathematical and Physical Sciences. 
+"Within the first few months of this millennium, we have solved the riddle of the geometry of the Universe and are now on the threshold of exploring its structure." 
+Unseen by telescopes, the nature and distribution of dark matter has puzzled astronomers for decades. Now, using observations of an effect called weak gravitational lensing, scientists have been able to map the distribution of dark matter over large areas of the sky. 
+Their results, already discussed at several conferences, are now published in the journal Nature. 
+
+Gravitational lensing relies on Einstein's prediction in his general theory of relativity that gravity bends light. The astronomers analysed the light from 145,000 very distant galaxies for evidence of distortions produced by the gravitational pull of dark matter that lay in their paths. 
+To observers, the light from distant spherical objects is distorted by this gravitational pull into elliptical shapes, an effect known as cosmic shear. 
+"The cosmic shear measures the structure of dark matter in the Universe in a way that no other observational measurement can," Anthony Tyson, another astronomer involved in the project said. 
+"We now have a powerful tool to test the foundations of cosmology." 
+The researchers were able to rule out a scenario known as the standard cold dark matter model, in which there is enough ordinary matter and dark matter in the Universe to eventually stop its expansion.

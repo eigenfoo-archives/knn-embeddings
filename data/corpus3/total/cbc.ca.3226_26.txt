@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:791e0a654c5b13fc5c7656cec90909655bae3af560fa6719b967306f485af184
-size 1296
+Health Canada has issued a warning about the margarine "Becel Pro-Activ" which claims to lower cholesterol.
+The department says it's being sold without approval and it may even be dangerous for certain people. 
+The Health Canada advisory says the product is made with a plant compound, phytosterols, which the manufacturer, Unilever, claims lowers blood cholesterol levels.
+According to Statistics Canada, 45 per cent of men and 43 per cent of women have elevated cholesterol levels. 
+The product is said to be a "healthy heart margarine that helps manage cholesterol." 
+Health Canada says the company is making a therapeutic claim and that means it's considered a drug.
+To be a drug, the company has to provide evidence the product does what it claims to do. 
+According to a release, the department says "phytosterols may pose health risks for certain groups, such as: pregnant women, children, people predisposed to hemorrhagic strokes and people on cholesterol-lowering medication." 
+In the European Union and Australia, Becel Pro-Activ is required to carry a label advising that certain consumers may be placed at risk by consuming the product. 
+Pro-Activ hit the Canadian market in July.
+Health Canada advises anyone who has been using this product and is concerned to consult their doctor.

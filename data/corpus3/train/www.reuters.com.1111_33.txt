@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d583b99e84f79482fa10b47083e6e85e4eb9edaaad25a95034357200fbe4baa
-size 4162
+The U.S. Congress appeared ready on Tuesday to let lapse a ban on Internet-specific taxes, as a dispute over states' ability to tax online sales threatened to derail a simple extension of the politically popular moratorium. 
+But America's 130 million Internet users will not be hit with new taxes any time soon, representatives of state and local governments said, as state legislatures are not in a taxing mood and only four are even in session. 
+The U.S. House of Representatives voted on Tuesday to extend the current ban on online access taxes and other "multiple and discriminatory" Internet taxes for another two years, winning praise from the Bush Administration. 
+However, it appeared unlikely that the Senate would take up the issue before the current ban expires on Sunday. 
+Congress passed the original ban in 1998 to prevent states and local governments from imposing taxes that might discourage growth of the new medium, which now accounts for somewhat less than 1 percent of all retail sales. 
+But with more than half of all Americans now online, many state and local governments worry that their revenues will decrease as residents turn increasingly to the Internet to make purchases. 
+A 1992 Supreme Court decision prohibits states from collecting taxes on out-of-state retailers unless they have a physical presence in the state. 
+That adds up to $13.3 billion in lost revenues this year, one study says. 
+Catalog companies and Internet retailers have long argued it would be nearly impossible to comply with the roughly 7,500 different taxing jurisdictions in the United States alone. 
+State governments have sought to simplify their sales-tax codes with the hopes that Congress will allow them to collect taxes on online, catalog and other "remote" sales. 
+Proponents, including many "bricks and mortar" retailers, have sought to hitch the effort to the moratorium extension and force Congress to consider both issues under one bill. 
+Efforts to combine two issues -- the online sales tax and an extension of the current moratorium -- have proven fruitless. 
+Senate Commerce Committee negotiators failed to reach a compromise after 18 months of talks, and House Judiciary Committee Chairman James Sensenbrenner, a Republican from Wisconsin, overruled efforts to consider them jointly in the House last week. 
+The bill the House passed by voice vote on Tuesday afternoon simply extended the current moratorium for another two years. 
+The Bush Administration said in a release that it supported the bill but would have preferred a five-year extension. 
+Sen. Ron Wyden, an Oregon Democrat, said he hoped the Senate would pass an identical measure this week. 
+"You can make something happen pretty quick around here, but we still have some persuading to do," Wyden said. 
+The Senate Commerce Committee is not scheduled to take up Wyden's two-year bill or competing five-year and nine-month extensions, a committee spokesman said. 
+Senate Majority Leader Tom Daschle could bypass the Commerce Committee and take the House bill straight to the floor, but Wyden said such a move is unlikely as the Senate has not reached a consensus. 
+Representatives from state governments said not much would change if the ban was allowed to expire, but some lawmakers disagreed. 
+Rep. Chris Cox, sponsor of the House bill, said in debate on the House floor that "all hell could break loose" if the ban is not renewed. 
+"Many, many special tax districts, utilities commissions, regulatory agencies and excise bureaus, 30,000 of them, are lying in wait, ready to pounce," Cox said. 
+The picture painted by Wyden was somewhat less urgent. 
+"I don't think Western Civilization is going to end if you pass the bill on Monday rather than Sunday," he said. "But once the clock goes down on Sunday night, you're inviting trouble." 
+Frank Shafroth, director of state and federal relations for the National Governors' Association, said states are not planning any new Internet tax initiatives, and only four state legislatures are even in session right now. 
+"The sun is going to come up next Monday and the sky will not have fallen," Shafroth said.

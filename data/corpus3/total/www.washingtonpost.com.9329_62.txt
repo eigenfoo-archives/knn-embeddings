@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e09ac08636f1d5846aa01bfbefb3d17426bc82c37f3a8d35f8520c6fa0623f11
-size 2460
+The Federal Aviation Administration on Friday ordered airlines to immediately inspect the tail assemblies of their Airbus A300-600 and A310 planes.
+The tail of an Airbus A300-600 sheared off before an American Airlines plane crashed in New York Monday.
+American and two cargo carriers, FedEx and United Parcel Service, fly the French-made jets.
+About 135 planes are covered by the order.
+The tails on both Airbus models are made of composite materials nonmetal, graphite-like substances that are lighter than aluminum.
+Federal safety investigators are looking at the tail of American Flight 587 as they try to figure out the cause of Monday's crash, which killed 265 people.
+"Although neither the FAA nor the NTSB (National Transportation Safety Board) have reached conclusions with respect to these possible failures on the accident airplane, we consider it prudent to require an inspection of these structures to identify any such indication that may exist," the FAA said in its directive.
+French aviation authorities issued similar orders, the FAA said.
+The FAA said all inspections must be carried out within 15 days and focus on the vertical stabilizer and the hinges that attach the rudder to the tail and that attach the tail to the body of the aircraft.
+If the inspections find cracks or other problems that need to be repaired, the airlines must get FAA approval for the work.
+All results from the inspections must be submitted to the FAA.
+Airlines that had inspected those areas within six months do not have to recheck the planes, but must submit the results to the FAA.
+The FAA plans to use the data from the inspections to see whether any additional inspections or safety regulations are needed, spokesman Les Dorr said.
+Coming so soon after terrorists hijacked four airplanes Sept. 11, the crash of American Flight 587 initially raised fears that it was the victim of another attack.
+Though NTSB officials quickly said there was no evidence of terrorism or sabotage, the FAA's action indicates that investigators believe the crash was due to mechanical problems, said Mary Schiavo, former inspector general of the Transportation Department.
+"If they don't go out and inspect the planes, it leads one to suspect that they really believe it's something not mechanical or structural," said Schiavo, now a lawyer representing victims of airplane crashes.
+"If that's what they think happened, why aren't they out there trying to prevent future ones?"

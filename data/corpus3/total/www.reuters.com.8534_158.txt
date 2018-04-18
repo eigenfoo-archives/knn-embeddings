@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6661e34ab6d9a178575e1cca958d8097889635a94e83fec452d1a3feaac48e8a
-size 5616
+Lawyers for Microsoft Corp. and the U.S. Justice Department told a federal judge on Wednesday their proposed antitrust settlement was better than what could be achieved by further litigation and urged its quick approval.
+But U.S. District Judge Colleen Kollar-Kotelly said she still had a lot to consider and offered no indication she would endorse the settlement ahead of hearings on a proposal for harsher sanctions from nine states that have refused to sign the pact.
+"This is a very important and complex case to which I am going to give careful and thoughtful attention," Kollar-Kotelly said at the end of the day-long hearing.
+Microsoft and the federal government, former adversaries in the nearly four-year-old case, sought to persuade Kollar-Kotelly that their settlement is the best deal for consumers and companies trying to compete with Microsoft.
+The settlement terms "go beyond those that we would likely have obtained had we litigated," Justice Department attorney Philip Beck said.
+He urged Kollar-Kotelly to quickly approve the settlement.
+Waiting until the end of the separate hearings on the non-settling states' demands would be a prescription for "potentially inordinate delays," Beck said.
+Microsoft lawyer John Warden said the company was confident it could have limited the scope of sanctions if the lawsuit were to go forward, but settled "to achieve certainty about the rules going forward."
+Kollar-Kotelly did not give any indication of whether she is inclined to accept, reject or modify the settlement.
+She said she would consider that decision separately from hearings on any further remedies.
+She also pressed Microsoft to say if it agreed with the Justice Department's interpretation of the settlement, perhaps anticipating a dispute like that which erupted over a 1995 agreement and led ultimately to the present case.
+Warden, after conferring with other Microsoft lawyers present in the court, said, "We have a meeting of the minds, that we certainly agree with the scope and operation of the (settlement).
+"
+Under the settlement proposal reached in November, computer makers would get more freedom to feature rival software on the machines they sell.
+It also would require Microsoft to share some of the inner workings of its Windows operating system with rival software makers.
+Nine of the 18 states in the lawsuit agreed to sign on to the settlement.
+But another nine -- California, Connecticut, Florida, Iowa, Kansas, Massachusetts, Minnesota, Utah and West Virginia -- still are pursuing the case, saying the settlement is too weak to prevent future antitrust violations.
+Kollar-Kotelly's endorsement of the settlement is required under a 1974 federal law called the Tunney Act that governs federal antitrust settlements.
+Separate hearings on the calls for harsher remedies are due to start next Monday and could last two months.
+Microsoft has asked for a two-week delay to study some refinements of the dissenting states' demands that include selling a version of Windows that can be stripped of features like the Web browser.
+Microsoft and the Justice Department have pushed for Kollar-Kotelly to endorse the settlement separately, before starting proceedings on any further remedies.
+In that case, the nine states that oppose the deal could have a tougher time arguing for additional sanctions against the company.
+Beck told the judge the appeals court ruling was not broad enough to allow the government to impose stricter remedies against Microsoft, as some of Microsoft's competitors and consumer groups have urged.
+Specifically, Beck said the Justice Department could not have demanded any sanctions designed to take away Microsoft's Windows monopoly unless it could prove that competitors, like Netscape with its Web browser, would have succeeded but for Microsoft's behavior.
+"If we had not settled we would have tried," Beck said.
+But it "would have been an uphill battle that likely would have been resolved against us."
+But Kollar-Kotelly balked at that argument, saying the appeals court had set that mainly as the standard for breaking up the company.
+The appeals court in June ruled against breaking up the software giant.
+The judge also wondered if the settlement's definition of "middleware" was broad enough and wanted more details of a three-member panel that would oversee the settlement.
+Middleware software, such as an Internet browser, sits between the computer users and the operating system and could be a threat to Microsoft's Windows.
+"I do want to know whether you are taking a different approach (from the appeals court) and if (so), I want to know why," Kollar-Kotelly said.
+Judges typically give deference to the Justice Department in antitrust settlements but the Microsoft settlement confronts Kollar-Kotelly with an unprecedented situation, according to legal experts.
+That's because the courts have already ruled against Microsoft.
+All previous settlements under the Tunney Act, in contrast, have involved cases that never got to trial or a verdict.
+A lawyer representing SBC Communications Inc. told the judge that the Justice Department's standard would allow any monopolist to kill off emerging competitors "in the crib" with impunity.
+'s lawyer, Donald Flexner, also questioned whether Microsoft will use its dominant Internet Explorer browser to take over the market for Internet servers and, eventually, the market for Internet services such as e-commerce.
+Beck said the settlement would bar Microsoft from doing that by requiring the company to disclose some of the inner workings of the browser and how it inter-operates with servers.

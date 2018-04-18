@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2fed56a064469da624d354bd1e99fb61322c2e03842ab5589f9903561210f906
-size 4942
+Leading graphics chip maker is the darling of users and Wall Street.
+
+Among Silicon Valley nerds, chip engineers like Jen-Hsun Huang are the geekiest of all.
+But when the 38-year-old founder of Nvidia Corp. strolls the streets in a T-shirt emblazoned with his company logo, he gets stopped for his autograph. Granted, those asking are avid computer game players who shell out hundreds of dollars for each graphics card that contains one of Nvidia's high-end chips.
+These days, though, it's not just consumers who are enamored of Huang and his company. Wall Street also is swooning. Despite a meltdown in technology stocks, Nvidia finished 2001 as the best performer in the Standard Poor's 500 index. The chip maker replaced Enron Corp. in the index in late November. "The company has just had extraordinary execution," said Mark Edelstone, analyst with Morgan Stanley Dean Witter in San Francisco.
+Nvidia shares Friday fell $2.09 to close at $69.62 on Nasdaq.
+This year, the question is whether Nvidia can sustain its performance in what is essentially a cutthroat commodity business in which prices plunge a few months after the introduction of new products.
+The answer depends on how well the Santa Clara, Calif., company continues to crank out blazingly fast graphics chips ahead of its rivals, which include Intel Corp. and ATI Technologies Inc.
+To survive in the semiconductor business, companies must stay on the bleeding edge of technology. Being fastest and best is the only way to command premium prices. To compete, companies must be large enough to spend hundreds of millions of dollars each year developing the latest technology.
+In doing so, Nvidia, which designs new chips and contracts with Taiwanese manufacturers, emerged on top after a six-year wave of consolidation that reduced the ranks of graphics chip makers from more than 60 companies to little more than half a dozen.
+Of those, Nvidia is the undisputed king, with a 60% share of the market for stand-alone graphics chips on personal computers.
+"They're everybody's favorite semiconductor company," said Peter N. Glaskowski, senior analyst of Cahners In-Stat/MDR in Sunnyvale, Calif., and senior editor of MicroDesign Resources, an industry newsletter.
+"They have simply put in yet another year of consistent results by designing exactly what the market wants, delivering it when the market wants and charging a fair price," Glaskowski said.
+It wasn't always that way. Nvidia's first batch of chips in 1995 failed miserably, Glaskowski said. But the company advanced, eventually setting the standard for speed and performance in 1997 with its Riva line of chips.
+The following year, it posted its first profit--five years after Huang and two fellow engineers founded the company. As computer games featured increasingly lifelike virtual worlds, consumers gobbled up PC graphics cards in record volume. Nvidia pummeled rivals by putting out a new line of faster chips about every six months.
+In 2000, Nvidia won a crucial bid to provide the graphics and audio chips for Microsoft Corp.'s Xbox game console, which launched in November and immediately became the must-have tech toy of the year. The contract, estimated to bring in about $2 billion in revenue over five years, came with a $200-million prepayment from Microsoft.
+The only blemish on the company's record has been a federal investigation of possible insider trading.
+The Securities Exchange Commission in November charged 15 people, including 10 Nvidia engineers, of illegally trading shares of the company in 2000 after Huang circulated an internal memo about winning the Xbox contract, five days before the deal was publicly announced.
+One engineer left the company, and Nvidia placed the other nine on unpaid leave pending the outcome of the investigation.
+Meanwhile, Nvidia is expanding into markets for graphics chips in laptops, workstations and consumer electronics. In addition, the company is vying for a larger piece of the market for graphics functions on a computer's main chip, an area dominated by Intel.
+For Nvidia to continue to please investors, success in these new markets is key. Nvidia's core market--personal computers--is losing steam as consumers have been slower to upgrade their PCs.
+The Xbox contract is one such vital area. Though not as profitable as its PC business, the Xbox deal gives Nvidia enormous cachet in future endeavors in consumer electronics, analysts said.
+"You can only gain so much market share in one product before you begin to saturate the market," said Hans Mosesmann, managing director of semiconductor research at Prudential Securities in Menlo Park, Calif. "The challenge for them is to penetrate new markets as successfully as they have done with the desktop market." 
+If you want other stories on this topic, search the Archives at latimes.com/archives . For information about reprinting this article, go to www.lats.com/rights .

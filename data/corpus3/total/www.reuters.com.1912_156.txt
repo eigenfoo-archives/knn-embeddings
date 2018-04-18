@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:212cf03ce89a888d76ab26453daee334dee231e43dbfc3f95619e1b4fbc56475
-size 3701
+The space shuttle Columbia can complete its 11-day mission to the Hubble Space Telescope despite a faulty coolant line that threatened an early end to the flight, NASA said on Saturday.
+A review by ground controllers and mission planners found the problem was stable and there was no reason to believe the orbiter's flight systems might overheat during reentry into Earth's atmosphere, something that could have devastating consequences for the seven astronauts aboard.
+"The team decided we could press on with the nominal mission and not make any changes," said Ron Dittemore, the shuttle program manager.
+The astronauts were all asleep when the announcement came from Mission Control in Houston, but got the news as soon as they woke up on Saturday evening.
+Columbia's mission to the Hubble telescope involves extensive modifications and repairs that should improve its performance tenfold.
+has called it one of the most challenging missions ever undertaken by a shuttle crew, and to underscore that, played TV's Mission Impossible theme for the crew's wake-up music.
+"Your mission, if you choose to accept it, is to rendezvous and grapple the Hubble Space Telescope and then spend five days massively reoutfitting and upgrading the telescope," Mission Control joked with the astronauts.
+With rendezvous just hours away, the astronauts immediately began a crowded timeline that will reach its peak early on Sunday morning when Columbia reaches Hubble after a two-day chase.
+Within minutes of liftoff on Friday, NASA discovered a low flow rate in a Freon coolant loop that prevents heat from building up in the orbiter's electronics systems, especially during reentry when temperatures are at their peak.
+revealed on Saturday that the flow of Freon through the loop was below the safety margin prescribed by flight rules, but mission managers thought they could bypass the problem by turning off some heat-generating electronics during reentry.
+Engineers did not believe there was a leak in the line.
+Instead, the most likely culprit was debris that could be clogging a filter.
+That debris may have been introduced during a 2 1/2-year, $164 million overhaul Columbia has undergone since it last flew in 1999.
+would not speculate what the debris might be.
+Astronaut Scott Altman, the mission commander, told reporters during a round of Earth-to-orbit interviews that the crew did not really understand the seriousness of the problem when it was first discovered.
+"It got our attention at first, although I thought it might just be a minor problem.
+It wasn't apparent right at first just what the impact would be," Altman said.
+"We're just hopeful we can square everything away and perform what we came here to space to do."
+Columbia is scheduled to rendezvous with the four-story Hubble telescope early on Sunday and astronaut Nancy Currie will use the shuttle's robotic arm to snatch the observatory from its own orbit and secure it to a platform in the shuttle's payload bay.
+What follows is five demanding spacewalks on five consecutive days as two teams of astronauts add new solar-power arrays, install a new phone-booth sized imaging camera, repair an existing camera and install a new power control unit with dozens of power couplings to feed all the satellite's systems.
+That last task is the real nail-biter because it requires NASA to cut power to the satellite for the first time since it was launched in 1990, and the astronauts will have to remove an old power unit that was not designed to be worked on by astronauts.
+If any part of that operation fails, there is a good chance the Hubble would have to be abandoned in space, only to eventually fall to Earth and burn in the atmosphere.

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe9600575c0d19b0004bae5b42e9938ffb39487cfd3f08333c1f41282fbdbccb
-size 2838
+The American space agency (Nasa) says the space shuttle Columbia can complete its 11-day mission to the Hubble Space Telescope despite a technical hitch that had threatened to end the flight.
+Shuttle programme manager Ron Dittemore said a review had concluded that the problem in the craft's cooling system was stable and there was no reason to believe it posed a threat to the shuttle or its seven crew.
+"The team decided we could press on with the nominal mission and not make any changes," he said.
+Columbia's blasted off on Friday for an 11-day mission to carry out repairs and improvements to Hubble.
+But ground controllers soon detected a blockage in the coolant line which removed heat from the shuttle's electronics system.
+It is believed the blockage may be debris from a welding job carried out during Columbia's recent overhaul.
+Records show a welding error happened during the overhaul, but the line was cleaned, inspected and re-certified, said Kari Fluegel, a spokeswoman for private contractor United Space Alliance.
+
+Although the reduced flow in the line posed no immediate problem, flight rules insist that the shuttle has two working coolant loops.
+Optimism had been growing throughout Saturday that the mission would remain on track.
+Mission director Phil Engelauf said engineers were confident that the system would still handle the increased heat load during landing, although some systems may have to be closed down.
+The final decision came on Saturday as the astronauts slept.
+It means all systems are go for the shuttle's rendezvous with Hubble at 0915 GMT on Sunday and five days of spacewalks to improve the telescope's electrical and scientific output.
+Even before the decision, Columbia's commander, Scott Altman, said that he and his crew were "charging ahead full speed with our eyes on the goal", despite the debate taking place at mission control.
+"To be honest, we have gone on the assumption that we are here to stay, that we are going to do our job, and we have just kept that thought foremost in our minds," he said.
+Astronaut John Grunsfeld added: "We're letting the smart folks on the ground really worry for us."
+Mr Dittemore said if there were any signs of the coolant blockage worsening, he and his team would reassess the situation.
+The 12-year-old orbiting Hubble observatory has taken some astonishing pictures of deep space and is expected to do even better after its upgrade.
+The Columbia crew must fit Hubble with a new camera, solar wings, power-control unit, steering mechanism and a refrigerator system that should allow scientists to use an infrared camera.
+The most daunting part of the mission will be to fit the new power unit.
+Astronauts will have to switch the telescope off and Nasa cannot guarantee that it will be able to switch the observatory back on again.

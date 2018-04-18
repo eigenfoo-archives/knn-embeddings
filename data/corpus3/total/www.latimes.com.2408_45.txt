@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5bf15be65aecaa85d4e172b98685ce276ece231fc0a4c4c781abbca17189364b
-size 4281
+Congress: House measure includes it, Senate's does not.
+Both aim to broaden law enforcement's powers.
+The Senate and House are poised to pass separate anti-terrorism bills next week with differences on key provisions that could complicate the prospects for a final agreement.
+Those differences came into clear view Thursday after Senate negotiators disclosed details of an agreement they reached during marathon talks the night before with the White House.
+Both bills would dramatically expand law enforcement's surveillance powers, increase penalties for terrorist crimes and allow for longer detention of noncitizens suspected of terrorist activity.
+But the two chambers differ on the scope of some of these new powers and on a number of provisions designed to guard against the erosion of civil liberties.
+The main sticking point is a provision in the House bill that would cause law enforcement's new surveillance authority to expire after two years.
+The clause was included to appease House members who fear the sweeping powers proposed for law enforcement would be vulnerable to abuse and ought to be reexamined in 2003.
+The Senate, acceding to White House demands, did not include such a "sunset provision."
+Rep. F. James Sensenbrenner Jr.
+(R-Wis.), chairman of the House Judiciary Committee, said the discrepancy could be a major obstacle.
+"That would cause great difficulties in the House because the sunset provision was the principal compromise that got the agreement," Sensenbrenner said.
+Without that provision, he said, the bill could either fail in the House or pass by such a narrow margin that it would send an unfortunate signal about the nation's resolve.
+"The question the administration is going to have to answer is what message we want to send to the world," Sensenbrenner said.
+"If it looks like the air of bipartisanship is falling apart, that will be interpreted by the terrorists that maybe America is not as united in meeting this threat."
+The provision exposes a rare rift between the House GOP's leadership and the administration, which has argued against a termination clause in legislation that Atty.
+Gen. John Ashcroft says is critical to the country's ability to defend against terrorist attacks.
+"No one can guarantee that terrorism will sunset in two years," Ashcroft said Thursday.
+"Our laws need to reflect the new war. . . .
+It must provide us with tools on a continuing basis to do so."
+White House spokesman Ari Fleischer said President Bush shares Ashcroft's concern.
+The sunset clause would apply to portions of the legislation that ease restrictions on electronic surveillance.
+Among them are provisions that would allow law enforcement to eavesdrop on e-mail and other computer communications without permission from a court; to obtain wiretapping authority for multiple jurisdictions from a single court; and to deploy "roving" wiretaps that allow investigators to monitor a suspect's communications across multiple devices.
+On several other fronts, the House and Senate bills are virtually identical, scaling back or scrapping entirely some of the most controversial proposals made by the White House after the Sept. 11 attacks on the World Trade Center and Pentagon.
+Both bills would allow investigators to detain noncitizens suspected of terrorist activity for at most seven days before having to file charges or release the detainees.
+Ashcroft had sought authority to hold such suspects indefinitely.
+Both bills also would broaden law enforcement's power to pursue wiretap authority under guidelines for gathering foreign intelligence.
+Ashcroft had sought sweeping clearance to conduct such wiretaps.
+But lawmakers said authorities would need to show that seeking foreign intelligence is "a significant purpose" of the surveillance.
+The Senate and House bills also set similar guidelines that allow law enforcement greater freedom to share information culled from wiretaps and other sources with intelligence agencies when terrorist threats are identified.
+The Senate agreement was announced late Wednesday.
+Majority Leader Tom Daschle (D-S.D.) indicated that he plans to push the bill through the Senate swiftly by bringing it directly to the floor next week, rather than waiting for it to be reviewed by the Judiciary Committee.

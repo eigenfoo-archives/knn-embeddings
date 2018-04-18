@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:731a4d6c543904aab49132d39357413b7da17a1c5b311865ab4b48e20ffd27c4
-size 3101
+Ground controllers are more optimistic that the space shuttle Columbia's 11-day mission to the Hubble Space Telescope can be completed despite a problem with a critical cooling system, NASA told the seven astronauts aboard Columbia on Saturday.
+Within minutes of liftoff on Friday, NASA discovered a low flow rate in a coolant loop that prevents heat from building up in the orbiter's electronics systems, especially when the shuttle re-enters the Earth's atmosphere and temperatures are at their peak.
+The mission management team is to meet again on Saturday and may announce a final decision on whether Columbia stays or returns to Earth.
+revealed on Saturday that the flow of Freon through the loop actually was below the safety margin prescribed by flight rules, but that mission managers think they can bypass the problem by turning off some heat-generating electronics aboard the shuttle during re-entry.
+"The discussion is still ongoing, and as you know and would have expected, people are sharpening their pencils and taking a real close look at this," Mission Control told the astronauts.
+"The analysis and discussion thus far are such that people are feeling more and more optimistic about the prospects of remaining on orbit and continuing the flight."
+One thing bolstering the mission's prospects is that engineers do not believe there is a leak in the line.
+Instead, the most likely culprit is debris that could be clogging a filter.
+That debris may have been introduced during a 2.5 year, $164 million overhaul Columbia has undergone since it last flew in 1999.
+would not speculate what the debris might actually be.
+Astronaut Scott Altman, the mission commander, told reporters during a round of Earth-to-orbit interviews that the crew did not really understand the seriousness of the problem when it was first discovered.
+"It got our attention at first, although I thought it might just be a minor problem.
+It wasn't apparent right at first just what the impact would be," Altman said.
+"We're just hopeful we can square everything away and perform what we came here to space to do."
+Columbia is scheduled to rendezvous with the four-story Hubble telescope early on Sunday and astronaut Nancy Currie will use the shuttle's robotic arm to snatch the observatory from its own orbit and secure it to a platform in the shuttle's payload bay.
+What follows is five very demanding, very long spacewalks on five consecutive days as two teams of astronauts will add new solar-power arrays, install a new phone-booth sized imaging camera, repair an existing camera and install a new power control unit with dozens of power couplings to feed all the satellite's systems.
+That last task is the real nail-biter because it requires NASA to cut power to the satellite for the first time since it was launched in 1990, and the astronauts will have to remove an old power unit that was not designed to be worked on by astronauts.
+If any part of that operation goes foul, there is a good chance the Hubble would have to be abandoned in space, only to eventually fall to Earth and burn in the atmosphere.

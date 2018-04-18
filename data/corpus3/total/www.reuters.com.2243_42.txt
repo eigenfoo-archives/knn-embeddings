@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa2d2aab07abeacb3a7256677251bc4d35cbe4f2e85a4745095afd9b1bb6e3ac
-size 1159
+Flower and gift retailer
+1-800-FLOWERS.COM Inc. FLWS.O on Wednesday said it reduced its losses from a year ago as online sales grew 27 percent while other revenue streams dipped or were flat. 
+The company reported a loss of $8.95 million, or 14 cents a share in its fiscal first quarter ended Sept. 30, compared with a loss of $22.5 million, or 35 cents a share a year ago.
+Analysts had been expecting a loss of 16 cents a share, according to Thomson Financial/First Call. 
+Earnings before interest, taxes, depreciation and amortization (EBITDA) was a loss of $5.9 million compared with an EBITDA loss of $19.1 million a year ago.
+The company expects to swing to an EBITDA gain of $4.5 million to $5 million next quarter with profits of about 2 cents to 3 cents a share, in line with analyst forecasts of 2 cents a share. 
+Revenues for 1-800-FLOWERS.COM are expected to grow in a range of 25 percent to 28 percent next quarter to $168 million to $172 million.
+For the year, the company said it expects revenue growth of 16 percent to 20 percent with EBITDA of $8 million to $10 million. 
+Shares of 1-800-FLOWERS.COM closed at $11.25 on Tuesday on the Nasdaq.

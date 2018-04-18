@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21b806dcf4affb484fa7c4c24f9fc371210a1d734365516eb7b9b184193866c0
-size 2124
+Astronomers have detected what could be a 17th moon orbiting Jupiter - the first discovery of a previously unknown satellite around the giant planet for more than 20 years. 
+The scientists at the University of Arizona and the Smithsonian Astrophysical Observatory in Massachusetts say the possible new moon is just 5km across, making it the smallest moon found for any of the major planets in the Solar System. 
+But the astronomers say confirmation will not be possible for several months because Jupiter and its moons are currently too near the Sun for accurate, follow-up observations to be made. 
+If it is confirmed, the new moon will then be given a name.
+At the moment it is known only as S/1999 J1. 
+Astronomers first spied the new moon as part of the Spacewatch Project, while they were scanning the skies for comets and asteroids. 
+One object they saw was treated as if it was an asteroid and designated as 1999 UX18. 
+But the object was moving more like a comet than an asteroid, even though it did not really look like a comet, the astronomers said. 
+Scientists at Arizona's Lunar and Planetary Laboratory and at the Smithsonian's Minor Planet Center did not fully realise that the object was a new Jovian moon until this month, when orbital calculations showed it was not an asteroid orbiting the Sun, but rather a previously unknown moon going around Jupiter. 
+To date, the smallest known moon for Jupiter was the 10km-diameter Leda, discovered in 1974. 
+Astronomers say the new satellite belongs to the subgroup of outer satellites that travel around Jupiter in irregular orbits, around an average distance of about 24 million km (15 million miles) from the planet and take some two years to do so. 
+It is the Sun's gravitational influence that makes the orbits highly erratic.
+These outer satellites also circle Jupiter in the opposite direction to the other Jovian moons and were probably captured long ago from orbits about the Sun. 
+Observations to tie down the details of S/1999 J1 are just beginning again as Jupiter can now once more be seen in the morning sky after its conjunction with the Sun in May.

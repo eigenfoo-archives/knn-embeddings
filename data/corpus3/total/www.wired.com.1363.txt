@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c56547b6a4829d21483e688491faa694c1a1c20cba1ccbd7771f4803174a6de3
-size 2597
+The interactive, Web-based map catalogs most of the 2,400 cameras filming public space in the city, including cameras on buildings, ATMs and traffic lights. 
+Users log on to the iSee website, select a point of departure and a destination, and a dotted line sketches a route around closed-circuit cameras marked as red boxes.
+Camera coverage is so dense that the island of Manhattan looks like a red chili pepper. 
+"We've designed iSee to be useful to a wide range of ordinary people," said an IAA operative who declined to be identified.
+"The demonstrated tendency of Closed Circuit Television (CCTV) operators to single out ethnic minorities for observation and to voyeuristically focus on women's breasts and buttocks provides the majority of the population ample legitimate reasons to avoid public surveillance cameras." 
+The IAA operative also noted the proliferation of spy-cam websites, and increasing commercial incentives for distributing CCTV footage to reality-based media shows like Cops and America's Funniest Home Videos. plans to expand iSee to cover Seattle, Chicago and perhaps London, which, after years of being plagued by terrorism, is one of the most camera-saturated cities in the world. 
+But like water's path of least resistance, a travelers' "path of least surveillance" can be so circuitous it transforms a walk of several blocks into an odyssey of miles.
+It's doubtful iSee will replace the morning traffic reports.
+So who is it for? 
+Obviously, political activists who'd like to post flyers, paint graffiti messages or commit other acts of covert civil disobedience are likely to log onto iSee.
+Although the iSee icon features a man with a bomb for a head (an unfortunate joke predating Sept. 11), the IAA doesn't think terrorists will see much value in iSee.
+Most of them will be long gone before the feeds from cameras can be used against them. 
+"CCTV isn't much of a threat to terrorists," the IAA operative said.
+"While CCTV systems can help police reconstruct events after an incident, CCTV is not terribly effective either in preventing attacks or in identifying suspects.
+As a result, terrorists spend remarkably little time worrying about the locations of surveillance cameras." 
+In other words, it's everyday employees and spouses, not the Mohammed Attas of the world, who fear the cameras. 
+But Alex Mathieson, marketing manager for video systems at Sensormatic Electronics , a fire and security company, said iSee is "inappropriate." 
+He suggested privacy zealots "should stay at home." 
+Have a comment on this article?
+Send it . 
+Printing?
+Use this version.

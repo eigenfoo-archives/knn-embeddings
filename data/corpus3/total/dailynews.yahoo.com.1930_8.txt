@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98802c9297f25594302e2654b4edbfabb584ebd1e12d0ae900ab38e49cc28bf
-size 3459
+Shares in graphics chip maker NVIDIA Corp.
+(Nasdaq: NVDA - news ) closed sharply lower on Thursday, extending a two-week slide after game publishers and analysts said Microsoft Corp.'s (Nasdaq: MSFT - news ) XBox ( news - web sites ) could ship in smaller quantities than initially expected.
+Shares in NVIDIA closed down 8.5 percent at $28.88 on Nasdaq.
+NVIDIA, which is making the primary graphics chip for the XBox game console, split 2-for-1 on Monday but have fallen in eight of the last 10 traded sessions.
+Robertson Stephens analyst Eric Rothdeutsch said the sell-off on Thursday was directly related to expectations related to the XBox launch, but that any impact was "purely psychological."
+Microsoft said on Wednesday it cannot yet forecast how many XBox units it will have available at the time of its much-heralded launch on Nov. 8 in the United States.
+Many game publishers and analysts now believe that the number of game units available at launch will be closer to 300,000 than the 600,000 to 800,000 units Microsoft had initially pledged.
+"We haven't heard anything about what (Microsoft's) day-one quantities are going to be," an NVIDIA spokesman told Reuters.
+Microsoft has said it would ship between 1 million and 1.5 million XBox units by year-end.
+But the software giant will not know how many of the consoles it will have available at launch until production hits full capacity at a plant in Mexico, a spokesman said on Wednesday.
+One analyst said that the prospect of lower game console shipments at launch did not surprise industry participants.
+"I've been hearing that for about two months," said Michael Wallace, who covers the video game industry for UBS Warburg.
+"Is it possible?
+Yeah."
+Wallace also said it would be "pure speculation" to project a firm launch quantity yet because production has not begun.
+The XBox is still on track for its Nov. 8 launch, a Microsoft spokesman said, adding the company told retailers last week that it was about to begin production.
+Microsoft's North American XBoxes are being manufactured by Singapore-based contract manufacturing company Flextronics International Ltd.
+(Nasdaq: FLEX - news ) at a facility in Mexico.
+Alexander Blanton, an analyst at Ingalls & Snyder, said the contract manufacturing company had been ready to produce as many XBox consoles as Microsoft wanted "since at least the beginning of August, if not before."
+"If there is a reduction I don't think it's them," he said.
+Flextronics declined to comment on XBox production issues.
+Take-Two Interactive Software Inc. (
+Nasdaq: TTWO - news )
+President Paul Eibeler said on a conference call Wednesday he had heard Microsoft was going to ship fewer units than had been planned, and said when asked by an analyst about a figure of 300,000 units, indicated that was plausible.
+Shares in Take-Two closed down 22.2 percent at $7.99 on Nasdaq on Thursday, giving back much of the 31.8-percent gain posted on Wednesday.
+Sony Corp ( news - web sites ).
+(6758.T) ran into problems last year when it delivered far fewer PlayStation 2 ( news - web sites ) consoles than projected on launch day, leading to shortages and angry customers.
+Retailers and analysts downplayed the risk of a similar backlash when Microsoft launches its competing platform.
+"(Microsoft's) teams have been very proactive with us," said a major video game retailer, noting that the chain did not expect problems with shortages or the fulfillment of pre-orders. 

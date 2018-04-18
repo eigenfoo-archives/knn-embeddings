@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22792e9d71f4c72bfdf56c2ed7d20b5ef2b12e1fb3eb5d5bc68b9c7baf5d6c3c
-size 5889
+Preparedness: A federal report on a simulated sarin gas release in O.C. cites several mistakes that could have spread the deadly chemical.
+But agencies also win praise for their rapid response. 
+A large law enforcement drill simulating a sarin gas attack at Edison Field in Anaheim last year exposed weaknesses in Orange County's response to a major terrorist assault, according to a confidential report by the Department of Defense. 
+Many of the agencies involved in the drill won praise for their efforts, but the report cited a number of mistakes that could have spread the deadly chemical. 
+County officials said the exercise was designed to detect exactly such problems so they can be avoided in the event of a real-life attack.
+Agencies, they said, have been working to improve their response plan since the drill, which was one of largest ever undertaken in the nation. 
+Still, the findings offer the best glimpse yet at how local authorities would react if terrorists launched an attack using chemical or biological weapons, as well as what some of the problems might be. 
+* The rescue effort was hampered by communication problems, with various agencies having trouble reaching one another on the county's new 800-megahertz radio system. 
+* Several hospitals did a poor job treating "victims' " wounds and removing the nerve agent from patients. 
+* A National Guard soldier testing whether firefighters were contaminated by the gas mistakenly set his testing equipment so it could not detect sarin. 
+* Some firefighters wore contaminated gloves while changing air tanks, a mistake that observers said could have sent the nerve agent into the air tanks' lines. 
+* A group of victims in one waiting area of the stadium grounds were sent to another section to be scrubbed clean.
+But, in a crucial mistake, they were then sent back to the original waiting area, where they probably would have come into contact with the gas again. 
+Despite such miscues, officials who took part in the drill described the exercise as a success.
+Evaluators hired by the Department of Defense said firefighters and police officers responded rapidly to the crisis. 
+Many of the mistakes, officials said, were the result of minor gaffes rather than fundamental flaws in the county's response plan. 
+"It is better to make the mistakes on the drill ground . . .
+than not do any kinds of preparations and make those mistakes in a real-life incident," said Huntington Beach Fire Chief Chuck Burney. 
+How local authorities would respond to a real-life incident using chemical or biological weapons has become a mounting concern nationwide since the Sept. 11 terrorist attacks. 
+Although terrorism experts said the chances of such an attack remain slim, anxieties have grown since federal authorities last month grounded crop-dusting planes out of fear that the aircraft might be used in just such an attack. 
+The Anaheim stadium drill drew more than 1,000 people from 50 local and federal agencies, helped by scores of volunteers playing the role of victims.
+The simulation was one of many organized by federal officials to prepare cities, including Santa Ana, Van Nuys and San Diego, for terrorist attacks. 
+The exercise was designed to be difficult, said Anaheim Police Lt.
+Ray Welch, who helped coordinate the drill. 
+The unfolding scenario pretended that terrorists at a baseball game unleashed the same deadly nerve agent that killed 12 people and sickened thousands in a 1995 attack on a Tokyo subway.
+It included a number of obstacles to test rescue workers, including secondary explosive devices, winds that would allow the gas to drift and victims reluctant to cooperate. 
+"We plan for the worst and pray for the best, so that whatever happens we can deal with it," Welch said.
+"If you have a training exercise that's 100% perfect, how can you learn from it?" 
+The report evaluating the drill singled out police officers for doing "an excellent job" in avoiding the gas while steering victims toward treatment areas.
+Firefighters were praised for rapidly setting up equipment to scrub victims free of nerve agents.
+And the report concluded that the Sheriff's Department bomb squad ably dealt with two explosive devices designed to kill emergency crews rushing to the scene. 
+But the report also noted several communication problems among rescuers, including a delay in telling some emergency workers about what type of chemical weapon they were dealing with. 
+As part of the drill, organizers arranged for one man to play the role of a suspect in the attack.
+FBI agents stopped and questioned the suspect but then let him go.
+It was only when Anaheim police stopped and questioned him later that he was detained. 
+In the report, officials expressed concern over the ability of the county's ambulance crews to keep rescue vehicles from being contaminated by the deadly chemical, recommending that the crews receive more training. 
+Welch said city officials began drawing up new training plans for rescue workers within hours of the drill's conclusion. 
+Many of the mistakes were avoided during a similar exercise in May in Huntington Beach.
+Although the emergency radio system that failed in Anaheim has been the subject of widespread complaints, the network worked properly during the Huntington Beach exercise, fire officials said. 
+Officials said that more work needs to be done before Orange County is fully prepared to deal with a real-life attack. 
+The drill showed that some hospitals had trouble treating casualties.
+And county medical officials acknowledged that only a handful of hospitals are equipped with gear that can protect the medical staff and decontaminate patients.
+In addition, more supplies of antidotes to chemical and biological agents are needed. 
+"Hospitals are probably one of our biggest weaknesses," said Santa Ana Fire Chief Marc Martin.
+"We've got some more work to do."

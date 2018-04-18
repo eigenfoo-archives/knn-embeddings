@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:756abe32fd981eb06394a34beaa4b6cfb5000e2872f08592c9a5c86cfba8d189
-size 2302
+Most large businesses and government agencies in the US have been the victim of computer crime which has cost them millions of dollars, researchers say.
+A survey by the Computer Security Institute and the Federal Bureau of Investigation found that 85% of respondents had detected security breaches of their computer systems last year.
+While most organisations were reluctant to put a figure on their financial loses, a third said security breaches in 2001 had cost them $377m, compared to $265m in 2000.
+"The results of this year's survey again demonstrate the seriousness and complexity of computer crime," said Bruce Gebhardt, director of the FBI's Northern California office.
+For the survey, the Computer Security Institute interviewed 538 computer security experts in business, government agencies, medical institutions and universities.
+As in previous years, the most serious financial losses occurred through theft of proprietary information.
+"Theft of trade secrets takes place despite the presence of encryption," said Patrice Rapalus, director of the Computer Security Institute.
+Virtually all the organisations had been attacked by computer viruses last year.
+But one of the most common forms of attack was one of the least damaging.
+Some 90% of organisations said they had been victims of website defacements in 2001, a rise from 64% in the previous year.
+Another common breach was employees abusing their internet privileges, such as downloading pornography or pirated software.
+"Net abuse flourishes despite corporate edicts against it," said Patrice Rapalus.
+He urged companies and the government to take a more aggressive and coordinated approach to fighting computer crime.
+"Organisations that want to survive in the coming years need to develop a comprehensive approach to information security, embracing both the human and technical dimensions," he said.
+"They also need to properly fund, train, staff and empower those tasked with enterprise-wide information security."
+The US Department of Justice is working with Congress to toughen existing cybercrime legislation.
+In response to the growing threat from cybercriminals, the FBI has set up the National Infrastructure Protection Center and regional Computer Intrusion Squads have been created in several offices throughout the US.

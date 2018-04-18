@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:203a384e93ca0e2f86d7daa4690517ac5b44c95a5564f5dded64d1c52c17d228
-size 4787
+Senate lawmakers can do little to help Enron Corp.'s employees recover from the loss of their life savings after the energy trader filed for bankruptcy last week, but a couple have offered legislation to prevent such stunning losses from happening again. 
+As senators listened to tales of the energy giant's employees, two Democratic senators proposed changing the law to limit to 20 percent the investment an employee can put into any one stock in their 401(k) accounts. 
+"Frankly, we have been generous with our bill putting down a 20 percent cap," said Sen. Jon Corzine, D-N.J. 
+Employees had as much as 67 percent of their stock invested in Enron, including matching contributions by the company.
+Now that Enron's stock has gone from a high of $90 per share last year to less than a dollar per share this week, thousands of employees have been essentially ruined. 
+In a Senate Commerce Committee hearing Tuesday, Robert Vigil, a Portland General Electric foreman, said his 401(k) went from a high of $163,000 to pennies.
+Part of the reason was Enron's practice of purchasing its own stock to match funds contributed from employees.
+"Every PGE employee has a story to tell about his or her losses," Vigil told the committee.
+"All of us regarded the 401(k) plan as a way of investing our hard-earned wages for future security.
+And we assumed that, in matching our contributions, our employer was giving us something of value.
+It all now appears to have been a cruel illusion." 
+Another complaint of employees is that they were locked out of selling their stock during a crucial period in October when Enron was trying to secure a deal to be bought out by Dynergy Corp.
+After the deal went bad, employees said it was too late to get rid of their stock, even though Enron executives cashed out more than $1 billion in stock near its peak price.
+Nearly 600 other critical operators received $100 million in bonuses last month. 
+"We have been lied to and we have been cheated," said Janice Farmer, a retiree who had nearly $700,000 in Enron stock. 
+In all, 4,500 out-of-work employees, countless investors and retirees have been burned by Enron's bankruptcy claim. 
+"This is a tragedy for many, including the workers and investors who ... have been cheated out of billions of dollars," said Sen. Byron Dorgan, D-N.D., chairman of the Senate Commerce subcommittee on consumer affairs. 
+"Some at the top of the pyramid got rich and many at the bottom lost everything.
+It appears to me to be a combination of incompetence, greed, rampant speculation with investors' money, and perhaps some criminal behavior," Dorgan said. 
+Sen. Barbara Boxer, D-Calif., a co-sponsor of the legislation, said she hoped some people "wind up in jail."
+In the meantime, her bill has also proposed that employers limit to 90 days the amount of time an employee must hold a matching employer stock contribution in the employee's individual account plan, the idea being to allow workers to get rid of company stock if they don't want it.
+Vigil said Enron required employees to hang on to company stock until age 50. 
+The bill, which will have to wait until next year before any action can be taken, also calls for a reduction to 50 percent from 100 percent of the amount of tax deduction an employer can take on a matching contribution of company stock. 
+In the meantime, Sen. Ron Wyden, D-Ore., said he would withhold his judgment on Enron executives' actions until the Securities and Exchange Commission investigates the bankruptcy, but he likened Enron's treatment of its workers to Titanic coal shovelers locked in the boiler room when the ship started sinking. 
+"What is especially unsettling is that there is a law on the books today that was designed to prevent the sort of carnage that took place at Enron.
+I wrote this law ... so that there would be new, stiffer requirements on accountants to search for fraud at publicly held companies like Enron and disclose it when they found it," Wyden said. 
+C.E. Andrews of accounting firm Arthur Andersen said they are looking into possible mistakes or fraud in the Enron account. 
+The Justice Department is also investigating Enron for possible criminal conduct.
+The Labor Department, along with the SEC, is conducting its own civil investigation. 
+Enron, which was the nation's seventh-biggest company in revenue and admired by Wall Street as a technological innovator, has acknowledged it overstated profits for four years. 
+For the second time in less than a week, no Enron officials were present at a congressional hearing to defend the company's actions.
+Chairman and CEO Kenneth Lay, a big campaign contributor, declined an invitation to testify but told the Senate panel he would attend a future hearing. 
+The Associated Press contributed to this report .

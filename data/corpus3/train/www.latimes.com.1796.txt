@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5db9b2286e7114ba0e3406b102112fb5dbdd6b033fcc3aae1cca03416c98cb95
-size 6568
+Inkjet printers that cost no more than their ink cartridges are popping up on store shelves everywhere. Although cheap printers may seem like a bargain, don't expect too much.
+You get what you pay for.
+We tested five inkjet printers selling for less than $100--the Epson 480SXU, Epson 777, Lexmark Z23, Canon S400 and Hewlett-Packard 468C--and only one exceeded our modest expectations. All we wanted was a fast printer that produced relatively high-quality images. The $79 Epson 777 actually did. The $99 Canon S400 came close. The others, however, produced high-quality images slowly and low-quality images quickly--if they produced images at all.
+Cheap printers are perfect for computer users who want a workhorse machine to output rough copies of Web pages or family pictures. They probably won't appeal to people who print lots of text pages--who are better off with a laser printer--or to photo enthusiasts--who rely on higher-end printers.
+In any case, it's worth keeping in mind that refilling the ink cartridges can sometimes cost more than the printers themselves.
+Most of the models output draft-quality black-and-white text pages in only a few seconds. They slowed considerably when producing at a higher quality, printing at a rate of 25 to 65 seconds a page. Most produced clean text, but some were not worth the wait for large documents. The Lexmark Z23, for example, took more than 25 minutes to print a 23-page term paper.
+Color printing time was also lengthy. The Epson 777 took six minutes to produce a high-quality photograph. The rest took nine to 18 minutes. Even then, some of the images were slightly pixilated.
+With each model, we printed a 23-page college term paper and a high-resolution color photograph, testing both high-quality and high-speed settings. The printers were also evaluated on their ease of use and setup.
+Overall, the Epson 777 consistently produced the cleanest--and fastest--prints. At its fastest speeds, it output black-and-white text at about 13 seconds a page and the color photograph in three minutes.
+Lexmark, which does not include a black-ink cartridge, produced the worst text pages. Although the color cartridge blended the ink to create black, some of the colors printed through.
+The HP printer was as fast as the Epson 777 when producing black-and-white prints, but it would not print color photographs. An "unknown system error" occurred that could not be resolved even after the printer's software was uninstalled and reloaded.
+
+The least expensive model tested at $39 (or $19 with a mail-in rebate), the Epson 480SXU printed draft text documents at just 10 seconds a page. The text was so light, though, it was barely legible.
+In high-quality text mode, which took more than three times longer to print, type was as clean as that produced by the more expensive Epson 777 model.
+It was, however, the slowest to print photographs. At its highest-quality setting, it produced an image in 18 minutes. At its fastest setting, it produced one in nine minutes.
+Although usually sold as a bundle printer, the Epson 480SXU is sometimes available separately. Its features are limited. The machine, for example, does not have an on-off switch. Power is controlled by the electrical cord plugged into an outlet. It also does not have a parallel port, using only a USB cable.
+
+Printing text documents at about 26 seconds a page, the $79 Epson 777 produced the fastest high-quality pages.
+The machine's photo printing capabilities were the most impressive of the five printers. At its fastest speed it output an image in only three minutes.
+They looked good from a distance, but the photographs were slightly pixilated. Its documents were the cleanest of the five printers, however, and even those produced at its fastest speed were often better than the highest-quality prints from some of the other models.
+
+Selling for about $79 (or $49 with a mail-in rebate), the Lexmark Z23 does not include a black-ink cartridge, which costs an additional $28.99.
+It prints black-and-white documents without the extra cartridge, but the text is lightly streaked red, yellow and green.
+Because the printer must mix colors to obtain the black ink, its text output times were the longest of all the printers. At its fastest speed, it output a page of text in about 30 seconds. At its slowest, it took more than a minute.
+It produced a high-quality color image in about nine minutes.
+Because Lexmark's software activates an audio announcement when a printing job begins and ends, you don't have to sit next to the machine and wait for it to finish. Just listen for the "printing complete" announcement.
+
+One of only two printers tested that did not cut off the page numbers at the bottom of documents, the $99 Canon S400 was the most consistent after the Epson 777.
+At its fastest speed, it printed black-and-white documents in just under 20 seconds. At its highest-quality setting, its outputs were just as good as the Epson 777.
+But the machine took nearly twice as long to produce full-color images, and it could not produce high-quality "super photos" without an additional photo ink cartridge.
+Unlike the other printers that had one black and one color cartridge, the $99 Canon has four separate cartridges: black, cyan, magenta and yellow. Each of the color cartridges costs $11.95.
+
+Although the $99 ($69 with rebate) Hewlett-Packard 468C had the potential to rival the Epson 777, it did not print full-color photographs in our test because of an "unknown system error." The warning attributed it to an "error writing to the USB" and suggested restarting the computer.
+Done. But it still did not print the photograph.
+Checking the cable connection and running a test page, which printed in color without problem, yielded nothing. After trying to print the photograph a third time without success, we unplugged the USB port and tried using a parallel port.
+That didn't work. The problem persisted after uninstalling and reloading the software.
+Although it did not produce any photographs, it printed black-and-white documents in only 10 seconds at its fastest speed and about 26 seconds at its highest quality. The text images weren't as clean as they could have been, however.
+Times staff writer Christine Frey covers personal technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you want other stories on this topic, search the Archives at latimes.com/archives . For information about reprinting this article, go to www.lats.com/rights .

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eaed88684220ffb72a3fc7238018a02245670b82218d620fc99e5fada14f2d09
-size 2749
+The internet's single most important software package contains holes that can be exploited by malicious hackers. 
+Anyone exploiting these vulnerabilities could take control of net servers, redirect visitors and steal e-mail messages, web security experts say. 
+Net server administrators using the at risk versions of the Berkeley Internet Name Domain (Bind) software have been urged to update their systems swiftly before they are attacked. 
+The internet's 13 root servers were quietly updated earlier this month ahead of the general, public alert. 
+
+The security warning about the Berkeley Internet Name Domain server, used by an estimated 90% of the networks that comprise the internet, was issued by the US Government-funded Computer Emergency Response Team (Cert). 
+Bind is the net equivalent of directory enquiries, and is consulted by a computer when it converts a domain name, such as bbc.co.uk, into a numeric address that details where to find that site on the internet. Typically, hundreds or thousands of computers on an individual network consult a couple of servers running Bind. 
+Now, work by PGP Covert Labs has found that versions 4 and 8 of Bind contain vulnerabilities that could be exploited by malicious hackers and let them take over a server. 
+Typically, when a computer on the net gets a message it does not understand, it responds by generating a routine error message. But PGP Covert Labs found that the vulnerabilities mean that Bind will execute commands hidden in carefully-crafted bogus messages. 
+Malicious hackers exploiting this could take over a net server, redirect queries to sites they controlled or re-route e-mail messages. 
+
+Shawn Hernan, leader of the Cert team, said Bind was "arguably the internet's single most important software package" and added: "This is among the most serious vulnerabilities to affect the internet." 
+Before they were quietly upgraded earlier this month, the internet's 13 root servers, that hold the master lists of which websites are where, were vulnerable to this type of attack. 
+Cert is typically happy to issue warnings via the net but this latest vulnerability was so serious that it called a press conference and publicly urged web server administrators to act straight away to close the loophole. Worried webmasters should upgrade to secure versions of Bind. 
+Cert said that swift action was needed malicious hackers are known to watch vulnerability alerts - sometimes more closely than many web administrators. 
+When Cert issued a warning about a hole in Bind in November 1999, the number of attempts by malicious hackers to exploit this vulnerability rose in the following couple of months. It expects exploitation of the holes to be "widespread" very soon.

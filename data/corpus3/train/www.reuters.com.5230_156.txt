@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40cc6e31ae05f79c8c95ee899ed55e591a5f8cf544d6f98661c4cce8815b94e1
-size 2904
+A top media executive on Monday said 1 million movie files were downloaded illegally on the Internet each day and called for a renewed crackdown on online file-services that promote digital piracy.
+"Our content must be protected from unencrypted, illegal file sharing," Peter Chernin, president and chief operating officer of News Corporation, told an assembly of media executives at the FT New Media and Broadcasting Conference in London.
+"We're in the process of raising a generation to think that stealing is okay," he added.
+Chernin said the media industry must play a more active role in educating youths about the legal implications of using peer-to-peer, or P2P, networks such as Grokster and Morpheus Music City to trade music and movie files via the click of a mouse.
+He said there were technological stop-gaps available to protect digital television and satellite broadcasts from online pirate broadcasters. But the so-called P2P services were more difficult to stop, he said.
+Media companies have fought a losing battle so far in their attempts to block unauthorized copying and distribution of copyrighted material over the Internet.
+Lately, media executives have sought help from U.S. lawmakers and pleaded with consumers at public forums, including last week's Grammy Awards broadcast, to refrain from swapping music and movie files over high-speed Internet connections.
+The campaign coincides with efforts by media companies to transform their loss-making Internet units into profitable, subscription-based platforms.
+But not everybody sees new technologies as a threat to copyright-protected content.
+Ashley Highfield, director of new media and technology at the British Broadcasting Corporation said new advancements in set-top box and recordable DVD players would enable consumers to download television programs that can then be "burned" on to a disk and played on any computer.
+"And the BBC will be ready for it," he said.
+Meanwhile, Jeffrey Chester, executive director of media watchdog group Centre for Digital Democracy, accused major media companies of using the digital piracy issue to assert more control over online distribution of media content.
+When not lamenting the growing scourge of digital piracy, media executives on Monday were doing their best to bury the old ad-supported business model that was the blueprint of so many failed dot-coms.
+Chernin, for one, told conference attendees that Internet media currently has "no viable economic model."
+He added that the News Corp. Internet strategy was to roll out more subscription-based online media services, such as The London Times' online crossword puzzles and Web news archives.
+The company's free sites, which include Foxnews.com in the United States, are regarded as "promotional adjuncts" now, he said. "They are a taste for what (consumers) will eventually have to pay for in the future," he added.

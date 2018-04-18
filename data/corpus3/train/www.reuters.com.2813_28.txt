@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9e92a20f32d500842c784951f671137b8fc0ef68cef2dea420661eb459b0976
-size 2350
+Networking equipment maker Juniper Networks Inc. JNPR.O on Thursday reported third-quarter results that beat Wall Street expectations and said it had focused on finances in a tough environment. 
+Excluding one-time charges, Juniper posted a profit of $32.5 million, or 10 cents per share. In the year-earlier quarter the Sunnyvale, California-based company had earnings of $60.3 million, or 17 cents per share. 
+Revenues for the quarter were $201.7 million compared with $201.2 million a year ago. 
+Shares jumped in after hours trade to $20.35 on Instinet from a close of $16.64 on the Nasdaq, where the stock had already gained 11 percent for the day. 
+"It seems like a very solid quarter in an environment where a month ago everybody thought these guys were falling off a cliff," said SoundView Technology analyst Ilya Grozovsky. 
+"They (results) are in line with the company's guidance, and that is obviously much better than the Street expected." 
+Most analysts polled by research firm Thomson Financial/First Call predicted the company would post third-quarter earnings in a range of 5 cents to 9 cents per share. The consensus view was for earnings of 7 cents per share on revenue of $187.92 million. 
+Juniper reported a slew of extraordinary charges, including a charge to contract manufacturers of $39.9 million, resulting in an overall net loss of $29.7 million or 9 cents per share for the quarter, compared with net income of $58.1 million or 17 cents per share in the third quarter of 2000. 
+The company also announced a two-year stock buyback program worth up to $200 million. 
+"The ability to deliver a strong bottom line in difficult times is strategic," said Chairman and Chief Executive Scott Kriens in a statement, adding that the company focused on financial fundamentals. 
+Juniper stock has underperformed bigger rival Cisco Systems Inc. CSCO.O by about 70 percent this year, although both are down by more than half. 
+Both also have perked up since Oct. 4, when Cisco reaffirmed the company's outlook for the fiscal quarter ending Oct. 31, although Mountain View, California-based Juniper declined to comment at the time. 
+Networking companies were hard hit after major customers such as telecommunications firms found themselves with more capacity than needed, helping to propel the economy into the current slowdown.

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c76536b659ecce87cc356a672b1f7016a8dd3adce400610dcddf1aff77b90fa4
-size 3257
+A pair of astronauts from space shuttle Columbia performed the first of five ambitious spacewalks dedicated to improving the Hubble Space Telescope on Monday, hanging a new solar-power array on the orbiting observatory.
+reported that the first of the two new wing-like structures to be added on this mission had passed an aliveness test, and television pictures beamed down from space showed the array in motion, a necessary feature to track the sun while Hubble speeds around Earth.
+Astronauts John Grunsfeld and Rick Linnehan donned bulky spacesuits and left Columbia s airlock during a pass over the Sahara Desert some 350 miles below.
+Hello, Mr. Hubble, the telescope.
+We re here to give you more power, said Grunsfeld, an astronomer and self-described Hubble hugger making his second service call on the venerable telescope.
+He made two spacewalks on a 1999 Hubble mission.
+With rare whimsy, Mission Control awoke the astronauts hours earlier by playing Mozart s Variations on Twinkle,
+Twinkle Little Star.
+Grunsfeld said when Columbia s crew was finished with modifications designed to improve Hubble s performance tenfold, I think the stars will twinkle a little more for everyone.
+Linnehan, making his first spacewalk, will make two more with Grunsfeld before the end of the mission.
+Linnehan spent most of the first seven-hour spacewalk riding one end of the shuttle s 50-foot robotic arm, which was operated from inside Columbia by astronaut Nancy Currie.
+The four-story Hubble was secured to Columbia s cargo bay after it was plucked from orbit on Sunday.
+On Tuesday, another team of astronauts will add the second of the thin, flexible, 40-foot solar arrays, which were rolled up like scrolls to make them easier to maneuver once detached.
+The spacewalkers made quick work of removing the array, but fell behind when they struggled to close a cargo-carrier that will return the old arrays to Earth.
+The new arrays are smaller, each just 25 feet long, but they will deliver 20 percent to 30 percent more power making it possible for Hubble to use all its scientific instruments at once.
+reported a problem with Grunsfeld s spacesuit, which did not send back data on oxygen, battery power and some 25 other readings throughout the spacewalk.
+As a result, he had to periodically call out readings to Mission Control, where Dana Weigel, lead spacewalk officer, said they hoped to later reset the circuitry.
+No impact on the mission was expected even if the problem continued.
+Hubble is 12 years into a 20-year mission and has established itself as one of history s finest scientific instruments, having proven the existence of super-massive black holes, witnessed the formative stages of solar systems and charted the age of the universe.
+Scientists are particularly excited because the upgrades on this mission should leave the telescope 10 times as powerful.
+But that extra power does not come without risk.
+On Wednesday, NASA will have to turn off Hubble s power for the first time in orbit, something never anticipated.
+There is no guarantee the power will come back on, though NASA said it was confident it would.
+Columbia launched from the Kennedy Space Center on Friday and is to land there March 12.
+Have a comment on this article?
+Send it.

@@ -1,3 +1,126 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5925a255733276c32b325cc41d3d17c0a60c490f0eb4e02fbfa2ca0ceca82b53
-size 17132
+Since 1955, when an airliner was brought down over Colorado by a bomb in a suitcase, the U.S. has made little real progress toward countering such threats. 
+How long does it take the United States to counter a threat to commercial aviation?
+In the case of a bomb stowed in luggage in the belly of an airliner, the answer is nearly half a century.
+And counting.
+Since a man placed a bomb in his mother's suitcase in 1955 and blew up a United Airlines flight over Colorado, more than two dozen fatal explosions have been recorded on aircraft around the world.
+Despite ample evidence that airliners are vulnerable to bombings, U.S. officials have made only halting progress in countering the explosives threat.
+Today, only a small percentage of passenger luggage on domestic flights is screened for explosives.
+While European airports plan to have some form of mechanical screening of all checked luggage in place by the end of next year, all airports in the United States are not scheduled to do the same until 2017.
+The government so far has paid for just 142 of an estimated 2,000 machines needed to cover all of the nation's airports.
+Even after the Sept. 11 terrorist attacks on the World Trade Center and the Pentagon, the few explosive detection machines in airports remain woefully underused, government inspectors have found.
+Congress now wants to speed deployment of the medical-style CT scanning machines, which provide the best method for detecting explosives.
+In its version of aviation security legislation, the Senate called upon the Federal Aviation Administration to set goals and report back annually.
+In a rival bill, the House on Thursday asked for a deadline of Dec. 31, 2003, for installation of the machines.
+Bombs in checked bags are, of course, just one threat among many that air travelers face.
+But how U.S. officials have handled the threat provides a case study in the go-slow approach that, until now, has characterized efforts to improve aviation security.
+Those urging faster action have been stymied, time and again, by views propounded by the airline industry and accepted by the government: that the threat of a bomb on a domestic airliner is relatively small and that a society that prizes convenience and economy should not be held hostage by costly and time-consuming security checks.
+U.S. officials historically have responded to aviation disasters by proposing flurries of security measures, only to roll back many of them when airlines objected and the public's focus on the issue waned.
+Even after a bomb exploded in the baggage hold of Pan Am Flight 103 in December 1988, claiming 270 lives, reforms were measured, at best.
+The government proposed expanded baggage safety checks, but airlines objected that the checks would take too long and the government backed down.
+More recently, some airlines and airports have resisted using state-of-the-art, Lincoln Continental-size, $1-million explosive detection machines.
+Although the government pays for the machines, airlines and some airports have complained they are too slow, too expensive to maintain, even too ugly.
+At a time when aviation security in this country is at an all-time high, security experts remain concerned that airliners still are vulnerable to bombings and that attention to the issue must not be allowed to wane.
+"I'm sick and tired of body counts before we get motivated to do something," said Larry C. Johnson, former deputy director of the State Department's office of counter-terrorism for transportation.
+"We don't need to have any more people die to know that the security measures in place now are not enough to prevent a person from putting a bomb aboard a plane."
+The threat of explosives in luggage was first demonstrated in the United States in 1955 when 44 people on a United Airlines plane died over Colorado so that a man who planted the time bomb could collect on the $37,000 insurance policy of his mother, who was aboard.
+John Graham was executed for the crime.
+But it was not until 30 years later that the U.S. government moved to tighten cargo hold security.
+That initial push was provided by the June 1985 plunge into the sea of an Air India flight near Ireland as the result of a powerful explosion in its cargo hold and the hijacking the next month of TWA Flight 847 from Athens.
+The FAA ordered U.S. air carriers to tighten security at major airports in other countries.
+And U.S. air carriers overseas were under FAA orders to match every piece of luggage with every passenger to defeat the possibility that a terrorist might check a suitcase containing a bomb, then not take the flight.
+To make the policy work, though, airlines had to be willing to delay their flights to remove and search by hand any unaccompanied bags.
+Pan American World Airways was in too much of a hurry for that.
+It systematically violated the new rules.
+Government records show that Pan Am's top security official told subordinates that the FAA had informally given permission to skip laborious bag matches and hand searches.
+Instead, he said all bags should simply be X-rayed, even those transferred from other airlines.
+This way Pan Am would not have to wait, even if a bag showed up but the passenger to whom it belonged did not. "
+In the event of a no-show interline passenger and his bag is load ed in the belly of the plane we go!!!!
+" he wrote to Pan Am workers.
+The flaw in Pan Am's decision became all too apparent when Flight 103 was blown out of the sky over Lockerbie, Scotland.
+The rudimentary X-ray machine could not reliably spot the kind of plastic explosives--hidden in an unaccompanied bag--that brought down that airliner.
+In the investigation that followed, the FAA denied ever having given Pan Am permission to skip hand searches.
+The presidential commission assigned to investigate the tragedy condemned "a pattern of complacency at both Pan Am and the FAA."
+The commission recommended a slew of changes in air security, including a requirement that no unaccompanied bags be allowed on flights.
+The international civil aviation organization, which operates under the auspices of the United Nations, adopted that standard, as did the FAA, applying it to U.S. airlines' international flights.
+But the U.S. airline industry strongly opposed "bag matching" on domestic flights.
+Airline executives argued that the chances of a bomb being planted were remote and that the practice would lead to widespread delays--as baggage handlers would be forced to wade into the cargo holds of fully loaded planes to pull off the bags of any missing passengers.
+And it would not prevent bombings by terrorists willing to get on a plane they were about to blow up.
+The FAA decided not to have airlines match bags with passengers on all domestic flights.
+Instead, the agency encouraged development of a machine capable of detecting small amounts of explosives in luggage.
+The search for a better machine became long and protracted.
+The FAA decided that the device needed to be easy to operate, and yet so technologically sophisticated that it would assure that even small and well-hidden quantities of explosives would be found.
+Meanwhile, U.S. officials had no comprehensive strategy to keep explosives in checked baggage from getting on planes.
+European civil aviation authorities, in the wake of the Pan Am explosion, required airlines to match all bags with passengers on domestic and international flights.
+But Europe also turned to machines.
+Rather than waiting until the perfect machine could be developed, member states were urged to employ whatever technology was available and to upgrade as better solutions became available.
+The result is that Europe is way ahead of the United States--very close to achieving a goal of 100%, relatively high-grade mechanical screening of checked bags by the end of next year, security industry executives said.
+Before the House acted Thursday, U.S. plans were to require 100% screening of checked bags at some airports by 2009 and at all airports by 2017, the executives said.
+The bill the House passed Thursday, moving up the deadline to Dec. 31, 2003, still has to be squared with a Senate version of the aviation security bill that sets no specific deadline.
+Under the arrangement favored by the House, airlines would be required to "bag match" until the machines are in place.
+Ofer Einav, former security director for Israel's national airline, El Al, said in an interview that he believes U.S. airlines had pushed for perfection in the machines as part of a strategy to avoid bag matching.
+Because a superior, mechanical screening system was under development, he said, they could argue that it made no sense to require them to adopt the more onerous, comprehensive bag-matching approach in the meantime.
+A key premise of the go-slow approach was that domestic airlines were not significantly threatened by bombings.
+But signs were accumulating that this was wishful thinking.
+In 1993, a truck bomb placed by terrorists went off at the World Trade Center.
+The next year, a man who was later convicted in that attack, Ramzi Ahmed Yousef, was arrested.
+His laptop computer contained plans to blow up 12 United, Delta and Northwest flights originating in East Asia and bound for the United States.
+When TWA Flight 800 exploded shortly after leaving New York's JFK Airport in July 1996, the U.S. government finally was jolted into action.
+Speculation abounded that the explosion was the work of terrorists.
+Although the crash turned out to have been caused by a fuel tank malfunction, a presidential commission already had been impaneled to recommend security fixes.
+Aware that full deployment of bomb detection machines still was a far-off promise, the new commission headed by then Vice President Al Gore recommended that airlines match at least some bags to some passengers on domestic flights--those selected at random by computer or because of some behavior, such as purchasing one-way tickets in cash.
+Many aviation security specialists derided the system, which singled out from 2% to 5% of passengers.
+"Leaving a computer system as the only method of identifying a possible terrorist is myopic," San Francisco airport security director Mark Denari said.
+But over the next few years, all of the major airlines voluntarily went along with the approach--to a degree--as the FAA worked on a formal rule.
+The catch was that the airlines wanted to make the checks only on the first legs of a domestic flight.
+A passenger selected as suspicious could defeat the system simply by getting off a plane he intended to blow up at an intermediate stop.
+The Air Transport Assn., which represents all the major carriers, told the FAA in writing in 1999 that continuing to match bags at intermediate stops was "not possible" because it would lead to "unacceptable delays" at airport hubs or transfer points.
+To justify its position, the FAA did a cost-benefit analysis that showed that one plane blowing up would justify 10 years' worth of increased costs to the industry.
+The agency figured that the partial bag matches it desired would cost the airlines about $2 billion, mainly in delays.
+For comparison purposes, the FAA calculated the cost of losing an entire airliner.
+First, it valued each traveler's life at $2.7 million.
+Then, it figured the loss if terrorists blew up a typical plane--a Boeing 737, two-thirds full with 73 passengers and five crew members.
+Their deaths would cost a total of about $210 million in liability losses.
+The airplane itself would mean $16 million more, the agency said.
+Miscellaneous property damage, investigative and legal costs would bring the total to $271 million.
+Even that huge loss might not justify spending $2 billion on advanced bag checks, humanitarian concerns aside.
+But the agency then cited a study showing that people are less willing to fly for about nine months after a major air disaster.
+The agency figured that a loss of business of that magnitude would cost $1.7 billion.
+Thus, the cost of the enhanced security measures would cost about the same as losing an airliner, the FAA concluded.
+Its rule requiring partial bag matching continued to limp through the federal bureaucracy.
+Two years later it still has not been issued.
+The partial bag matching was seen by the FAA as an interim step, pending availability of enough explosive detection machines to do the job.
+Industry and government experts have calculated that it will take about 2,000 of these machines--at about $1 million apiece--to screen every checked bag in the United States.
+San Francisco's airport alone figures it needs 35 of the devices.
+But at the moment, seven years after the machines were certified by the FAA as technically sound, only 142 have been deployed nationwide.
+Congress and the airlines have said they are committed to installing the machines, but for years have found ways to delay the process.
+At the Gore commission's urging, Congress appropriated some funds, but those have been whittled away or used for other security-related technologies, including hundreds of special cloth wipes that detect explosives in trace amounts.
+The government also has turned to bomb-sniffing dogs.
+Los Angeles International Airport has more of the dogs than any other facility, an LAX spokesman said.
+Explosive detection machines have been installed at all of the busiest airports, including LAX, which had two more installed Thursday night and now has at least one at each terminal.
+But the majority of U.S. airports have none.
+A few of the scanners are sitting in warehouses because the FAA says it has no money to install them.
+In some cases, floors would have to be retrofitted to handle the equipment because of its tremendous size and weight.
+Airports say that another challenge is finding space for the machines, particularly in crowded, behind-the-scenes baggage handling areas.
+Even where the machines have been installed, many are not being used to full capacity.
+Rather than screen as many bags as possible, some airlines merely have run through the luggage of the 2% to 5% of passengers selected for scrutiny by airline reservations computers.
+Some machines were screening fewer than 100 bags a day as recently as last summer, instead of the 200 an hour they are capable of processing, the Department of Transportation's inspector general found.
+Some of the machines also have been used cavalierly.
+The inspector general's office found that, before Sept. 11, some operators were not even bothering to investigate alarms signaling the possible presence of explosives in suitcases.
+Although airlines get the machines free, they have to pay to maintain and operate them and have not always been willing to do so.
+When officials at Chicago's Midway Airport were redesigning a terminal for Southwest Airlines in the late 1990s, they were granted government funds to install the machines as part of a new baggage conveyor, said Robert Monetti, who became an aviation security expert and consultant after losing a son aboard Pan Am Flight 103.
+But Southwest balked because it did not want to pay to operate the machines and was concerned that the machines would slow down baggage handlers, Monetti said.
+A Southwest spokesman confirmed that the airline did not want the machines but said this was only because of concerns that they were unreliable.
+At any rate, the machines never were installed.
+There have even been concerns that the machines are not pretty enough.
+"At one major airport," Inspector General Kenneth Mead told Congress in October, "the airport operator would not approve a lobby installation because the machine did not fit the lobby's color scheme."
+Mead did not identify the airport.
+But a security executive familiar with the situation identified it as Washington's Reagan National and said the operator relented when informed that the manufacturer did not do custom painting.
+Since Sept. 11, security procedures and airline attitudes have changed rapidly.
+Dave Ridley, vice president for ground operations at Southwest Airlines, said that the FAA told the carrier to scrap bag matching and begin hand searching the checked baggage of passengers selected by their reservations computers.
+Airlines also were ordered to increase the number of passengers searched, either at random or using computer profiling.
+Airlines with access to explosive detection machines were exempted from the hand search requirements.
+This suddenly made the machines a lot more attractive to the airlines--preferable to the time-consuming and potentially embarrassing hand searches, which have been conducted at makeshift areas next to ticketing counters.
+Ridley said Southwest now is "trying to get" the scanning machines.
+He said the company only has access to machines--mainly shared with other airlines--at six of the 59 airports it serves.
+Since Sept. 11, the FAA also began to more meaningfully address the possibility that people who do not check suitcases might be carrying bombs.
+Airlines have been told to have their reservations computers profile passengers who have only carry-on luggage for hand searches and pat-downs at boarding gates.

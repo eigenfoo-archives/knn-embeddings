@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83012093695331612d1c0bcb3de0c2ac98e8d57798593d9d6f38f8d580ee59bb
-size 2684
+June 30, 2000 A long-running banking scandal. Encrypted CD-ROMs. If hackers opposed to the continued domination of the ruling PRI can crack the code, Mexico's fate may be changed forever. Mike Kamber reports from Mexico City. 
+June 30, 2000 Can congressional websites set cookies? They're not bound by edict, but the flap over cookies on government websites is affecting those sites that do. By Declan McCullagh. 
+June 29, 2000 Distributed computing projects -- where people donate part of their computer space to massive computational efforts -- used to be strictly for the proud and geeky. Now, it's for money, too. By Andy Patrizio. 
+June 27, 2000 Transmeta unveils new mobile processors to challenge on Intel. Both companies want to provide chips for the new round of lightweight notebooks offering wireless connections and all day battery life. John Gartner reports from PC Expo in New York. 
+June 27, 2000 The "Honeynet Project" threw out easy bait, hoping to catch a live denial-of-service attack. They found a good one, and also an interesting phenomenon: hackers like to improvise. By Chris Oakes. 
+June 27, 2000 Long gone are the days when everybody and her mother attended trade shows such as PC Expo and Comdex. Now, even the big computer companies are deciding not to set up booths. Michelle Delio reports from New York. 
+June 26, 2000 The White House, embarrassed by its use of cookies on a government drug site, issues an edict to all Federal departments: no more cookies (except for a few exceptions, of course). 
+June 26, 2000 While Internet companies are tripping over one another to stake out ground in the electronic voting marketplace, election officials warn that too much too quick could backfire. By Lynn Burke. 
+June 23, 2000 A software consultant figures out a flaw in a slot machine, then posts the information on the Internet. Now he's being sued by the gaming manufacturer after being banned from several casinos. Charles Mandel reports from Edmonton, Alberta. 
+June 22, 2000 A day after the White House admitted it may have violated federal privacy guidelines by tracking users who searched for drug-related info, privacy advocates called on Congress to investigate. 
+June 21, 2000 The FBI's mammoth computer that approves prospective gun purchasers is about as buggy as a bayou pickup's windshield. The Senate Judiciary Committee wants to know why it's not working. Declan McCullagh and Nicholas Morehead report from Washington. 
+June 19, 2000 They patented the system of hyperlinking more than 10 years ago, British Telecom officials say, and now they want their royalties. Looks like a patent battle for the digital ages. By Craig Bicknell.

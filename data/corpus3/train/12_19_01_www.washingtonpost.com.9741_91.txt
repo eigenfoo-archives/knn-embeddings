@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50dddeecec76c98adf88047b5223bd26cfdcfbfeff5496d2de681653fa3d6b5a
-size 1117
+Was Enron's failure caused by bad luck, incompetence or greed? Were illegal or criminal actions involved?
+Where were the company's directors while this was happening? How much did they profit from it? Were they kept in the dark by senior executives?
+What was the role of Enron's longtime auditor, Arthur Andersen LLP? Were the accountants duped or were they incompetent? Wasn't it a conflict of interest for the accounting firm to depend on Enron for tens of millions of dollars in consulting contracts, in addition to its auditing work?
+What about the federal regulatory agencies, such as the Securities and Exchange Commission? Did they miss signs of trouble at Enron?
+Did financial analysts who kept issuing "strong buy" recommendations for Enron stock know what they were doing? Did they have a conflict of interest because of their investment firms doing financial work for Enron?
+A survey of analysts' recommendations on Nov. 29, the day after Enron's share price fell from around 60 cents to about 40 cents, found six "strong buys" for the stock, two "buys," six "holds," no "sells" and one "strong sell."

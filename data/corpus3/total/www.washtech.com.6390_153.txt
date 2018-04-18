@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:daed5846dd7ac2926934c06c254cdf0a13fa38f44ec513f481af9f1de3f3e0ee
-size 2784
+The federal government has decided not to expand a closely watched AIDS vaccine study because the vaccine has fallen short of prompting a key immune system response in volunteers, health officials said yesterday.
+The AIDS vaccine regimen, one of many at various stages of testing in the United States and abroad, involves an initial "primer" shot made by Aventis Pasteur followed by a "booster" vaccine made by VaxGen of Brisbane, Calif.
+Researchers had hoped that the federally funded study would shed light on which components of the immune system are most effective at fighting HIV, the virus that causes AIDS.
+But results to date indicate that by one key measure, at least, the vaccine is not potent enough to answer that question, said Anthony S. Fauci, director of the National Institute of Allergy and Infectious Diseases, which has been funding the study.
+That does not mean the U.S. government has lost faith in the vaccine combination, Fauci and others said.
+A nearly identical regimen, with components made by the same two companies, has a good chance of being expanded into a large-scale, federally funded test in Thailand next year, health officials said yesterday.
+That vaccine combination was already under study by the Department of Defense.
+The program is to be shifted to the National Institutes of Health as part of a large-scale transfer of AIDS vaccine research from the military to the civilian sector.
+The reorganization, ordered last month by the Office of Management and Budget, calls for oversight and administration of the Defense Department's AIDS research and development program to be transferred to the NIH from its current location in the U.S. Army Medical Research and Materiel Command.
+The move effectively consolidates within the NIH all federal AIDS vaccine research, which until now has been conducted by NIH and the Defense Department on two parallel and according to some critics, sometimes redundant tracks.
+Despite years of research, scientists do not know which component of the immune system is best able to kill HIV information that could help them design more effective vaccines.
+The "prime-boost" vaccine study known to the AIDS community as HVTN 203 had sought to answer that question but now appears unlikely to do so, Fauci said, because the study design had counted on a more robust effect than has been seen in volunteers.
+But a differently designed study with a similar vaccine has a good chance of being expanded to include large numbers of volunteers in Thailand, Fauci said.
+That study seeks to answer a simpler question "Does the vaccine help prevent HIV infection?" without trying to settle the question of how it may be providing that protection.
+A large study of the VaxGen vaccine by itself is already underway in Thailand.

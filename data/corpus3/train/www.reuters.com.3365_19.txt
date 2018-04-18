@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dc212a7ca104213924450621604833341fcb4685eb7ff449eaa7638db3a2945
-size 3218
+Researchers reported on Monday they may have found a way to prevent lasting liver damage in virtually every case of hepatitis C as long as treatment can begin during the earliest stages of the potentially fatal infection. 
+The report, which could affect the treatment of hundreds of millions of people infected with the virus, will appear in the Nov. 15 issue of the New England Journal of Medicine. But the editors released the findings six weeks early because of the clinical implications. 
+A team led by Dr. Elmar Jaeckel of the Hannover Medical University in Hannover, Germany, found they were able to prevent the development of chronic hepatitis C in 44 volunteers who were aggressively treated with injections of interferon alfa-2b while they were suffering from acute hepatitis C, the short-term version of the illness. 
+In all but one case, daily interferon injections reduced the amount of hepatitis C virus (HCV) in the blood to undetectable levels. 
+"We found that early treatment with acute hepatitis C with interferon alfa-2b alone prevented the development of chronic HCV infection in almost all patients" said the researchers. Anyone with acute hepatitis C should receive the drug, they said. 
+Dr. Michael Manns of Hannover, a co-author of the study, told Reuters the findings should encourage doctors to be more vigilant about identifying cases of acute hepatitis now that it is known that early treatment can prevent the development of long-term illness. 
+"Everyone should be alert to diagnosing acute hepatitis C," he said. 
+Nearly 4 million people in the United States and 170 million worldwide are believed to be infected with the hepatitis C virus. Long-term infection is the leading cause of liver disease in the United States and, once it causes liver failure, the leading cause of liver transplants. 
+Hepatitis C usually comes from sharing needles or through unprotected sex, although some infections can be traced to a transfusion of contaminated blood. Blood banks now have screening tests for the virus. 
+Symptoms may include fever, fatigue and nausea, but many people who develop an acute hepatitis C infection do not realize it. Yet in 50 to 84 percent of the cases, the acute infection progresses to chronic hepatitis C, a process that can take up to 20 years, according to the Jaeckel team and epidemic.org, a Dartmouth College Web site on hepatitis. 
+The researchers gave daily injections of interferon to volunteers for the first four weeks of therapy. They received the drug three times a week for the remainder of the study. 
+The doctors found that, on average, HCV had dropped to undetectable levels after about 3.2 weeks of treatment. After two years, only one of the 44 patients had any trace of the virus in their blood. 
+In a similar group of 40 untreated patients, chronic hepatitis C developed in 28. 
+"Since the current treatment for chronic HCV infection eliminates the virus in only about half the cases," the researchers said, "we suggest that all patients with acute hepatitis C should be treated" with interferon. 
+The interferon was supplied by Essex-Pharma of Munich, which paid for the study. Two of the 10 authors have financial ties to the company. 

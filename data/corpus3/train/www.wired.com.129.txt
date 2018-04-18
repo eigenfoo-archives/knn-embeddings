@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1971d688912c576d3c26ca5a266619ab10c06d83f53e8a83f804b3a77c52d326
-size 5757
+2:00 a.m. PST PayPal is poised to launch a stock offering at a time when few investors are interested in Internet companies. Is there more to the story? By Joanna Glasner. 
+2:00 a.m. PST Palm's newly renamed software division unveils a faster and much more robust new operating system. What does this mean for the PDA market? By Elisa Batista. 
+
+8:25 a.m. PST HP and Compaq set dates for shareholder voting on their proposed merger. Also: Kenneth Lay resigns from Enron's board.... European regulators drop an investigation into charges that Intel unfairly squelched competition.... and more. 
+Monday Philips, the Dutch electronics manufacturer, appears on a collision course with the record labels over its objection to copy-protection codes burned into CDs. The fight could be the format's death knell. By Paul Boutin. 
+Monday America Online's music service, with its bundling of downloads and streams and radio and chat and music news, is a prime example of how the online music business is changing. By Brad King. 
+Monday CEOs of high tech firms at the World Economic Forum disagree with predictions that an economic turnaround is just around the corner. 
+Monday Silicon Valley's rise continues to lure other communities into building tech clusters, despite its recent fall. A new book intrigues many planners about where the next valleys will be built, and how. Tania Hershman reports from Jerusalem. 
+Monday The new Palm operating system, the beta version of which will be unveiled Tuesday, could make or break the company, analysts say. By Elisa Batista. 
+
+Monday Private Media withdraws plans to issue some 50 million euros worth of shares. Also: Arthur Andersen hires a former Federal Reserve chairman to improve its business strategies.... and more. 
+Monday Sky Dayton, who founded Earthlink, thinks his second fortune will come with his new outfit, which serves up wireless networking. 
+Saturday Exactly what material -- and exactly who -- is being restricted under Australia's controversial online content law remains a mystery to some, critics claim. Proponents say it's doing a great job of limiting children's access to porn. Stewart Taggart reports from Sydney. 
+Friday Big business tended to muscle out the geeks and hackers at the recently concluded LinuxWorld 2002 convention, making it clear a bridge between the two has yet to be built. Michelle Delio reports from New York. 
+
+Friday Microsoft hires a top computer security expert. Also: Microsoft will reimburse nine states $10 million for legal expenses.... Priceline.com will create a new travel booking service for eBay.... and more. 
+Friday A denial-of-service attack forces the shutdown and sale of a longtime English ISP, causing great concern among e-businesses everywhere. 
+Where's The Money? 
+Friday Revenue recognition is getting fresh attention this year. A big question is whether companies booked money from sales earlier than they should have. By Joanna Glasner. 
+Friday The ivory tower of European basic science is under siege from venture capitalists scouring the academic world for marketable ideas, just like they've been doing in the cash-conscious United States for decades. Daith? ? hAnluain reports from Ireland. 
+Thursday Linux users and developers have two new tools that will enable all applications written for the operating system to run on all compliant versions. Michelle Delio reports from LinuxWorld 2002 in New York. 
+Thursday One of the highlights of every LinuxWorld is the Golden Penguin Bowl quiz. This year, open source stalwart Chris DiBona was a late replacement as emcee, and he lived up to the task. Michelle Delio reports from New York. 
+
+Thursday The European Commission approves HP's proposed takeover of Compaq Computer. Also: Microsoft and the U.S. Justice Department may have a hearing to defend their proposed settlement.... EBay and Sotheby's form a partnership.... and more. 
+Thursday The FCC's battle with NextWave may continue before the Supreme Court. If that happens, attorneys and analysts say the bankrupt company is kaput. By Elisa Batista. 
+
+Thursday Palm is losing market share in Europe. Also: Police patrol the Super Bowl wirelessly.... Handspring responds to Palm's i705.... A London court stiffens the penalty for mobile phone theft.... and more, in this week's Unwired News. By Elisa Batista. 
+Thursday An Internet privacy group creates a program that allows readers to identify the sender of an unsolicited e-mail prior to opening it. By Julia Scheeres. 
+Jan. 30, 2002 LinuxWorld 2002 is a staid, serious affair -- even with the announcement that Linux coding will soon be available on Sony's PlayStation 2. Michelle Delio reports from New York. 
+Jan. 30, 2002 The man facing a $65 million court judgment for stealing the domain name Sex.com is asking a court to drop its order against him, saying the ruling left him so poor he can't afford toilet paper. By Joanna Glasner. 
+Jan. 30, 2002 The fun new game on stock message boards is guessing which company will follow Enron's footsteps in the next big bankruptcy scandal. So far, the nominees seem to include half the public companies in America. By Joanna Glasner. 
+Jan. 30, 2002 "Everything crashed at once," Global Crossing's CFO says -- this week it became the largest telecom firm ever to file for bankruptcy protection in the U.S. 
+
+Jan. 30, 2002 New Internet domain ".coop" opens for registration. Also: ViaCell files an IPO to raise $115 million.... EU prepares to clear the $23.1 billion merger of Hewlett-Packard with Compaq Computer without requiring divestments.... and more. 
+Jan. 30, 2002 The SEC goes after online investment fraud with a little fraud of its own -- hoax websites lying in wait to trip up naive consumers.

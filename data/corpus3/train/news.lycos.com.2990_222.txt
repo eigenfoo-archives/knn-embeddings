@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4d3e89f2564408a3683f2863e35c883d209d97480083c0a313f04d4412fec80
-size 4215
+An expert panel recommended Sunday that doctors stick with tamoxifen as the time-tested treatment for early stage breast cancer, despite evidence that newer drugs may do a better job of preventing recurrence.
+The decision affects the care of an estimated 700,000 women in the United States who take tamoxifen to prevent their breast cancer from coming back.
+Cancer physicians fielded many calls from patients last December after reports that a newer class of drugs, called aromatase inhibitors, appear slightly more effective. Some quickly switched their patients, while many others wondered whether they should.
+To help them decide, the American Society of Clinical Oncology, the world s largest organization of cancer doctors, convened an expert panel to review the issue.
+Their decision: It s too soon to change. In the end, the new drugs may prove superior, but it will take a few more years of study before doctors can be certain of their advantages as well as their possible risks.
+"Clearly if the difference was very, very dramatic, that would color one s thinking, but the difference was small," said Dr. Eric Winer. "It s proper caution to wait and see what happens before changing practice."
+Winer, a physician at Boston s Dana-Farber Cancer Institute, chaired the 18-member panel that released the recommendations at the oncology society s meeting in Orlando.
+Tamoxifen has been a standard drug for 20 years for women who have had surgery for breast cancer. It works by blocking the effects of the female hormone estrogen, which can fuel cancer growth.
+The aromatase inhibitors also block estrogen, although in a different way. They are already widely used to treat women with spreading cancer.
+In December, researchers released the results of a head-to-head comparison of tamoxifen and an aromatase inhibitor called Arimidex in 9,366 women with early stage cancer. After 33 months of follow-up, 90 percent of women getting Arimidex were alive and free of cancer, compared with 88 percent on tamoxifen.
+However, women typically take tamoxifen for five years. So the panel concluded that results after less than three years may not fairly show tamoxifen s advantages. Furthermore, they said, there is no evidence so far that Arimidex improves women s survival.
+"At this point, we would not recommend that doctors and patients start using this as the standard hormonal therapy in postmenopausal women," Winer said.
+The study that showed Arimidex s slight advantage will continue to follow women. At least 10 studies involving over 50,000 women are under way to compare various aromatase inhibitors with tamoxifen.
+"Give it two or three years, and we will be in a difference place" for comparing the drugs, Winer said.
+Dr. William Gradishar of the Northwestern University said cancer specialists are looking for guidance on which drug to offer. "This is an evidence-based, cautious statement," he said. "Some people will disagree with it, but we need longer follow-up to be confident of the results."
+Dr. Rowan Chlebowski of Harbor-UCLA Medical Center in Torrance, Calif. said the report "takes the pressure off doctors who think they have to do the latest thing" for their patients.
+"We were not expecting support for a wholesale switch," said Mary Lynn Carver, a spokeswoman for AstraZeneca, which makes Arimidex. "But we expect doctors to discuss this with their patients, and ASCO supports that."
+Since Arimidex and other aromatase inhibitors are already on the market, doctors can use them in early stage breast cancer if they wish. AstraZeneca asked the Food and Drug Administration in February for formal approval of this use and expects an answer by August.
+The expert panel said doctors may want to substitute Arimidex in some situations where women cannot safely take tamoxifen because of concern about side effects. The drug can increase the risk of strokes and uterine cancer.
+Arimidex and similar drugs drastically cut circulating estrogen levels, and their major known side effect is an increased risk of fractures. Other aromatase inhibitors on the market are Femara and Aromasin.
+S NOTE: Medical Editor Daniel Q. Haney is a special correspondent for The Associated Press.

@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25e706876db8b70701a0767e0851d31860ba64ecca5c0ef4aead7d291e9de9b8
-size 5512
+Various reports to the contrary, the Internet is not losing its importance for Americans, according to a new study from the Pew Internet and American Life Project.
+If anything, the study says, the medium simply is becoming a routine part of everyday life.
+The "longitudinal study" sought follow-up input in March 2001 from a group of 1,501 Internet users who first were interviewed by Pew researchers about Net-usage habits in March 2000.
+Project director Lee Rainie said it is the first Pew study to re-interview survey respondents and monitor changes in Internet usage.
+The data indicates that, the longer someone is online, the more sophisticated and serious they become about using the new medium.
+"As they gain experience," the 27-page report states, "many Net surfers seemed less dazzled by the Internet.
+As a result, they are less likely to e-mail a family member on a daily basis. ?
+At the same time, users value the Internet as much or more than ever."
+The report says that over time, the Internet simply becomes "a normal part of life's rhythms," and as a result people are becoming less likely to sing the Net's praises.
+In March 2001, the report says, 79 percent of people indicated that e-mail was "very," or "somewhat" useful to them, compared to 88 percent of the same people who said as much a year before.
+There also is a decline in the number of people who use e-mail to stay in touch with family on a daily basis, the report indicates, saying that the weekly e-mail has instead become a staple.
+About 50 percent of Net users say they e-mail friends or family once a week.
+"These changes in some users' perspectives are understandable," the report said.
+"The initial excitement and fun of e-mailing a distant friend or family member is bound to make people at first herald the way the Internet enhances the feeling of closeness.
+E-mail has gone from the remarkable to the reliable, but the lower buzz associated with the Internet has not supplanted the clear finding that Americans see the Internet as a good tool for keeping in touch with others."
+Instead of sending a line or two every day, the report says, people have begun leaning toward sending longer, more complex e-mail to trusted friends, often to express worries or to seek advice.
+The report says in the year between surveys researchers detected a 70 percent increase for all e-mailers sending messages to family members seeking advice, with a 63 percent spike in people sending posts to family members expressing worries.
+Pew also noted an overall increase in the number of online activities people engage in.
+In March 2000, the average Internet user had tried out 11 activities, which range from sending e-mail, engaging in e-commerce, surfing the Web, participating in chats and the like.
+By March 2001, the average user had tried out 14 of the 24 activities Pew researchers asked about.
+"More people used the Web to get health care information, news, financial information, and product information," the report states. "
+The largest increments of growth in those types of activities came among Internet veterans.
+"
+There was a 6 percent increase in product purchases online, and an 8 percent increase in travel services between March 2000 and March 2001.
+There also was a 6 percent increase online-auction participation.
+There was little growth in "fun" activities, including searching the Web for hobby information, playing games and other diversions.
+Rainie said that fun activities are what most Internet newcomers try out first, but as they gain confidence using the medium and gravitate toward other more serious activities such as seeking financial numbers, health information or daily news.
+Among fun activities, only online music showed a significant increase.
+The Internet is cutting into other "real world" activities.
+The report says that 18 percent of Net users surveyed spent less time shopping in stores, while 28 percent of "Internet veterans" (those who have several years Net experience) said the same thing.
+Newspapers are losing readers to the Internet as well, with 14 percent of respondents saying they read newspapers less, and 21 percent of Internet veterans reporting declining newspaper reading ?
+though Pew says veterans are more likely to read online news.
+The spam is getting worse.
+Forty-four percent of respondents said in March 2001 that unwanted e-mail was a problem for them, compared to 33 percent who said so the previous year.
+"I guess the most interesting to us is that all of the trends flow in the same direction," Rainie told Newsbytes.
+"It would have been harder to interpret if some things were up and some things were down and there were no pattern to it.
+But there's just a clear pattern that, in virtually every way you look at it, people get more serious."
+Rainie said the results are a counterweight to a growing perception among media critics and other observers that the Internet is losing its luster ? and may be a passing fad.
+"Since the stock market is down and since there have been stories here and there about people having less interest in the Internet, I think it's pretty widely believed ?
+that the Internet might be a passing fad," Rainie said.
+"And this data shows the exact opposite, that no matter what the vicissitudes of dot-com companies are, people are embracing this technology in really important ways."
+Added Rainie: "A lot of people sort of think that the Internet is pass?
+, that it's fading out of people's lives.
+And this tells the exact opposite story."

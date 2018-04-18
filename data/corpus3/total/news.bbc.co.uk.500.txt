@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:811b2bf8f51a0bb8a989da203a623b168337a2918013c1768999ff155b5b6c6c
-size 2272
+New delays to the launch of Japan's first H-IIA rocket, made worse by the arrival of Typhoon Pabuk, are the latest in a series of headaches for its National Space Development Agency (Nasda). 
+Nasda was set up in 1969 and launched Japan's first totally self-developed rocket, the H-II, in 1994. 
+But the H-II programme was cancelled in 1999 after the first-stage engine of the rocket cut out too early and the rocket was deliberately destroyed along with its $83m (?57m) satellite payload. 
+Six other H-IIs were launched and both the second and sixth launch missions had problems inserting their satellite payloads into correct orbits. 
+Experience gained on the H-II programme has been incorporated into the H-IIA, intended as a competitor to Europe's Ariane system. 
+The first H-IIA was due to fly in February 2001, but there were problems with the rocket's pipes and plating, and the launch was rescheduled for August. 
+Now, problems with a valve in one of the rocket's engines mean it will not lift off before 28 August. 
+Replacement parts are already at Nasda's Tanegashima Space Centre, but the arrival of Typhoon Pabuk means aircraft flights are being cancelled and a full investigation of the problem is being held up. 
+Nasda is optimistic about the H-IIA's future, despite the cancellation in 2000 by Hughes Space and Communications International of a $710m (?489m) order for 10 H-IIAs. 
+The H-IIA is designed specifically for commercial launches and costs half as much as its predecessor. 
+It can put a four-tonne payload into orbit, and Nasda hopes that this will be extended to a 7.5 tonne capacity within two years. 
+The 53-metre high rocket is built using 20% fewer parts than its predecessor, which makes it cheaper, and, with luck, less likely to go wrong. 
+Nasda is well aware of the pressure it faces. 
+"We're definitely feeling the heat," Nasda spokesman Keiichi Yamata told Reuters news agency. 
+"There is a social environment right now that won't permit any more mistakes." 
+Japanese newspapers are reporting that Nasda may face steep budget cuts as part of a drive to cut public spending. 
+But Mr Yamata says that Nasda is keeping its mind on the H-IIA mission. 
+"We can't think about budget cuts...
+We just have to have a successful launch," he said.

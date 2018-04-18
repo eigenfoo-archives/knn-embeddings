@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dcdade18055c9f8ef0e9365364829660d1352741eccd16d78cea35fda2cbd156
-size 4074
+Business-to-business software maker Agile Software Corp. (
+Nasdaq: AGIL - news ) on Wednesday posted a narrower fiscal second-quarter net loss and said that business had stabilized, but warned it was way off previous high levels.
+"We're seeing demand flatten," chief executive Bryan Stolle told Reuters in a telephone interview. "
+But that doesn't mean it's going back up, it just means we're not scared witless anymore."
+Like every other business-to-business software company, Agile has seen share price tumble as the slowing U.S economy has led corporations to curtail their technology spending.
+But by contrast with the previous quarter, Agile saw some large deals come back in the second quarter, such as two seven-figure contracts signed with existing customers Lucent Technologies Inc.
+(NYSE: LU - news ) and Ciena Corp.
+(Nasdaq: CIEN - news ), Stolle said.
+"We think people feel like they have a grip on where their demand is now and they've budgeted their business around that," Stolle said.
+"They're still spending less, but at least they're willing to spend something."
+But Agile -- which signed 26 new customers in the second quarter -- still saw its revenues slow considerably to $21.2 million, an increase of just 5 percent, from the $20.2 million booked in the prior period.
+In the first quarter, revenue growth was up 48 percent from the year before and stood at $23.3 million.
+Agile, based in San Jose, California, posted a net loss, including numerous charges, of $4.5 million, or 9 cents a share, compared to a net loss of $14.1 million, or 31 cents a share, the year before.
+Excluding charges, Agile's proforma loss was 9 cents a share, beating analyst's lowered consensus of 12 cents a share, according to Thomson Financial/First Call.
+In after hours trading, Agile's shares jumped to $16.40, immediately following the release of its second quarter earnings, after a Nasdaq close of $15.99.
+The shares later lost those gains and were trading as low as $15.02, according to Instinet.
+Since the beginning of the year, the company's shares have lost 70 percent of their value, significantly underperforming their peers in the Standard & Poor's Computer Software ( SPCMSF - news ).
+The index is up 43 percent over the time period.
+Although Stolle said he was optimistic for the long term, he stressed that in the short term, the company's visibility was still poor.
+"In the short term, we don't think much has changed," he said.
+"We think it's still a very cloudy picture."
+To that end, Agile forecast that it would lose 10 cents to 15 cents a share in both the third quarter and the fourth quarter of fiscal 2002.
+That's wider than it's previous estimate of a loss in the range of 5 cents to 15 cents a share.
+The outlook is more bearish than analysts' current consensus estimate for a 10-cent per-share loss in the third quarter and a loss of 7 cents a share in the fourth quarter, according to First Call.
+Agile also said it sees full year fiscal 2002 revenue of $80 million to $85 million, below analysts' current estimate for annual revenue of $92.42 million.
+Prior to its first warning of lower-than-expected earnings for the third and fourth quarter, Wall Street had expected Agile to record a loss of 6 cents in the third quarter and 2 cents in the fourth quarter, according to First Call.
+Agile's software enables manufacturers to collaborate with their suppliers over the Internet on new or changing product designs and then find and purchase the necessary components.
+Its customers include such high-tech names as Compaq Computer Corp.
+(NYSE: CPQ - news ), Dell Computer Corp.
+(Nasdaq: DELL - news ), Juniper Networks Inc.
+(Nasdaq: JNPR - news ), and Lucent Technologies Inc. (LU.N).
+"That (software) solves a real pain point that a lot of companies have right now," Ian Morton, an analyst with J.P Morgan
+said, adding that Agile's product is also easier to install than competitive products.
+"You can put it in, install it and get a very quick pay back," Morton said.
+"Those are the kind of projects that are getting the green lights right now."

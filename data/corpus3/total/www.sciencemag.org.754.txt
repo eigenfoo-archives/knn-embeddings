@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42534f5a1a2191f4feeed318fb8dd562144d02ae4bca5650d1f43156c225b234
-size 1259
+Satellite observations suggest that the thermal radiation emitted by Earth to space increased by more than 5 watts per square meter, while reflected sunlight decreased by less than 2 watts per square meter, in the tropics over the period 1985-2000, with most of the increase occurring after 1990.
+By analyzing temporal changes in the frequency of occurrence of emitted thermal and reflected solar fluxes, the effects of El Ni o-Southern Oscillation are minimized, and an independent longer-time-scale variation of the radiation budget is identified.
+Similar analyses of upper tropospheric humidity, cloud amount, surface air temperature, and vertical velocity confirm that these flux changes are associated with a decadal-time-scale strengthening of the tropical Hadley and Walker circulations.
+Equatorial convective regions have intensified in upward motion and moistened, while both the equatorial and subtropical subsidence regions have become drier and less cloudy. 
+1 Department of Earth and Environmental Sciences, Columbia University, Palisades, NY 10964, USA. 
+2 NASA/Goddard Institute for Space Studies, 2880 Broadway, New York, NY 10025, USA. Tropical Surprises. 
+Evidence for Large Decadal Variability in the Tropical Mean Radiative Energy Budget.

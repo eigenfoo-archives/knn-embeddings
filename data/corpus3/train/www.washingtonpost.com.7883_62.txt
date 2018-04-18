@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:261de02f4f28a8e3edc11b394228de0a06b665f829a7b9c7f962c8cf5171f910
-size 1551
+The Federal Aviation Administration planned to require fleetwide inspections of Airbus A300 planes as soon as Thursday, focusing on the tail that sheared off in Monday's plane crash.
+Ninety planes would be covered by the FAA's order. Three U.S. airlines American and cargo carriers FedEx and United Parcel Service fly the European-built plane.
+"It's the first time we've ever had a vertical tail fall off, in my memory, particularly on a modern jetliner," said Jim Hall, former National Transportation Safety Board chairman.
+spokesman Les Dorr said the agency expected to issue the order Thursday but was still working out whether the planes would be grounded until they were inspected, how much time the airlines could take to do the required checks, and whether areas of the planes besides the tails would have to be examined.
+Chairwoman Marion Blakey said American was doing sample inspections among its remaining 34 Airbus A300s to ensure there are no problems with other tail assemblies. They are made out of composite materials nonmetal, graphite-like substances that are lighter than aluminum.
+Dorr said the FAA was working closely with Airbus, French authorities and the three U.S. airlines to develop the procedures for inspecting the planes.
+The 27-foot fin of Flight 587, found in New York's Jamaica Bay, had been ripped off the fuselage cleanly. The crash killed 265 people.
+"It came off so cleanly, there may have been a structural failure there," said David Stempler, president of the Air Travelers Association, an industry group.

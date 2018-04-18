@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbe5f6c41a7ef3263c390d406ed0c5c68bd55c743c57d53ed016413ce3611d63
-size 2790
+"Oftentimes, the longer the document, the more messed up the business," wrote Steve Milunovich, Merrill Lynch's global technology strategist, in a study released Tuesday. 
+He found that companies with long annual reports, known as 10Ks, often used the space for detailed explanations of write-offs and other unusual items that dragged down earnings. 
+To carry out the research, Milunovich compared the file sizes of annual reports submitted by companies in the Merrill Lynch 100 technology stock index.
+He then compared that data to the performance of the stock in their most recent fiscal year. 
+The findings?
+The study concluded that 83 percent of companies with the shorter annual reports (those occupying less than 300 KB of file space) outperformed the index. 
+On average, stocks of companies in the under-300 KB group, which included Adobe Systems ( ADBE ), Sungard Data Systems ( SDS ) and Unisys Corp. ( UIS ), declined by 52 percent in their most recent fiscal year.
+Although they didn't exactly do well, the group's performance was above average for firms in the index, which took a beating in 2000. 
+Companies with long annual reports (over 500 KB), on the other hand, sported an average decline of 77 percent in their most recent fiscal year.
+Only 18 percent of companies in that category, which included underperformers Lucent Technologies ( LU ), Nortel Networks ( NT ) and Brocade Communications ( BRCD ), outperformed the index. 
+Researchers advised that the results be taken with a grain of salt.
+Often there are other factors besides complicated explanations of losses that can account for a lengthy annual report.
+In the case of AOL-Time Warner, for example, myriad pages were required to explain the process of merging the Internet and media behemoths. 
+Also, there are exceptions to the generalization that long reports signify poor performance, and vice versa.
+Cadence Design Systems ( CDN ), for example, filed a 508 KB annual report and only saw its stock drop 10.4 percent in fiscal 2000.
+Foundry Networks ( FDRY ), which filed a 245 KB report, saw its stock plummet 94.8 percent. 
+Even so, Milunovich believes there's a lesson to be learned in all this Kilobyte-counting.
+Investors, he said, should beware of annual reports with too many footnotes.
+It's not that all footnotes are bad, he said, but in general, the longer the annual report, the more complicated the business is, and the more issues that need to be explained. 
+Merrill Lynch cautioned, however, that the experiment was "less than scientific."
+Only 48 of the 100 companies in the index were included in the study.
+Others hadn't yet submitted annual reports, had irregular fiscal years, or were based outside the United States. 
+Have a comment on this article?
+Send it . 
+Printing?
+Use this version.

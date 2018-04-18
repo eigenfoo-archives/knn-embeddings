@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ee399e15872997ff3fa0a9eb5d99179e8662181ee126cedbe3d8c11cf5b9710
-size 1970
+A team of investigators are preparing to board the salvaged wreck of the Kursk nuclear submarine. 
+Russia's chief prosecutor General Vladimir Ustinov is to fly to the Arctic port of Roslyakovo -- where the wreckage has been installed on a floating dock -- on Monday to head the investigation. 
+The 18,000-ton vessel, which sank after an explosion during exercises in the Barents Sea in August 2000 killing its entire 118-man crew, was raised from the sea bed earlier this month. 
+Many Russian and foreign experts have said the initial explosion was set off by an internal malfunction, but government officials say it may have collided with another vessel. 
+According to the official Web site of the Kursk salvage operation, Ustinov said he expected to find new evidence in the wreckage that might explain the disaster, including "journals, notes by the duty officer about the exercises and notes left by the sailors." 
+But officials think the submarine's first compartment, mangled in the explosion and left behind when the wreck was raised, would have contained the most information. 
+"Without examining the bow of the boat, it is impossible to completely clarify the cause of the disaster," Ustinov told The Associated Press news agency. 
+Russian officials say they will retrieve the wreckage of the first compartment next year if possible, reported the news agency. 
+A senior navy official said one of the most difficult stages of the salvage effort is yet to come: dismantling the 22 Granit cruise missiles left on board. 
+Vice Admiral Mikhail Barskov told Russian news agency Interfax that it was unclear what condition the missiles were in, and dismantling them will entail "a significant element of risk." 
+But he said it would be impossible for the missiles to launch by themselves, the news agency reported. 
+Each missile weighs 6.9 metric tonnes (7.6 short tonnes) and is 10.5 metres (35 feet) long.
+The warheads weigh one metric tonne (1.1 short tonne) each.

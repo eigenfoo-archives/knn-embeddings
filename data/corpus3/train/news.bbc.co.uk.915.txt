@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:095b8c0a08c82ab3beef02442a3a772fbee9b4267ab705561a94e5d2ac2fcb5c
-size 3643
+Fourteen years after the world banned whaling, the signs are that the moratorium will be lifted within the next year or two. 
+The ending of the ban, imposed in 1986, may not necessarily mean a big increase in the number of whales being killed. 
+But it will send shockwaves through the green movement, which sees the ending of commercial whaling as one of its crowning achievements. 
+And it will throw wide open the debate about sustainable use, the argument that humans can, within limits, exploit every species. 
+The secretary of the International Whaling Commission (IWC), Dr Ray Gambell, told BBC News Online that a failure to signal the forthcoming end of the ban would mean "a real danger that the commission will lose its credibility totally". 
+
+The ban on commercial whaling was agreed by the IWC in 1982, and finally implemented four years later. But two IWC members continue to kill whales - Japan for what it calls "scientific research", and Norway because it does not accept the moratorium. 
+Under IWC rules both are legally entitled to their catches, though most members disapprove strongly. 
+In 1999 Japan killed more than 500 minke whales in the Antarctic and north Pacific, and Norway plans to catch 655 north Atlantic minkes this year. Adult minkes, the smallest of the great whales, measure about 10 metres. 
+There are thought to be at least 750,000 in the Antarctic, and 80,000 off the Norwegian coast. 
+Japan is extending its research programme to kill two larger species, sperm and Bryde's whales, as well as minkes. 
+The IWC will hold its 2000 meeting in Adelaide, South Australia, in July. For years now, IWC meetings have been little more than ritual confrontations between the anti-whaling majority and the pro-whalers, Japan, Norway and their few allies. 
+But Adelaide looks likely to be very different, with the whalers being offered the prospect that their activities will soon have the commission's approval. 
+Dr Gambell, a British whale biologist, has been secretary of the IWC, which is based in Cambridge, UK, since 1976. He will retire after the Adelaide meeting. 
+
+Stressing that an end to the ban was only a possibility, he told BBC News Online: "Whaling is going on at a commercial level. It's outside IWC control. 
+"I would think it much better that it was brought within international regulations and oversight. 
+"I think the commission will need to move forward on measures which would allow controlled whaling, otherwise it will lose credibility. 
+
+Dr Gambell accepted that many people would be aghast at the prospect of the IWC sanctioning renewed commercial whaling. 
+"Some people think whales are such special animals that they shouldn't be hunted at all. But that's very much a question of different cultures. 
+"There have been major advances in recent years in the killing technology. The time to death is very much improved, though there is still room for further improvement. 
+"There is not going to be, I think, a major expansion in whaling across the world's oceans. Commercial whaling is going to be a small-scale local activity, largely confined to coastal areas." 
+Dr Gambell also believes a resumption of trade in whalemeat and products is possible, relying on state-of-the-art DNA technology to determine the origin of every import. And he thinks the IWC must face up to the challenge of sustainable use. 
+"We have to look to managing the world in a proper way, because the number of people is going to continue to grow, there are going to be increasing pressures on living space and food availability. 
+"The whale is a high-profile animal. It has become a symbol."

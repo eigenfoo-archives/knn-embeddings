@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb56b0f75f62795f2aee23a697e4542b12038ad69b6ace97d2f9bac9891bac68
-size 888
+November 11, 2001 -- The Red Cross is offering to refund money to donors seeing red over the charity's spending decisions. 
+"We don't want to keep funds from people who contributed with one thing in mind and find that it's being spent on another thing," said Dolores Swirin, chief of fund-raising for the Greater New York chapter. 
+Some 3,000 people have called and e-mailed the American Red Cross in the last 10 days, demanding explanations of how the half-billion dollars raised by the charity after the Sept. 11 terrorist attacks are being spent, said spokesman Bill Blaul. 
+Swirin tells local callers that the Red Cross is helping workers at ground zero, evacuated residents, people who lost jobs or income, and others seeking counseling. 
+Some funds will be held for "long-term needs," some to pay the charity's expenses, and some will be reserved for "future attacks," she said.

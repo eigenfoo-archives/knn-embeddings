@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:041daf7b82d8c354ef257d768f3e1c1c56e48b20c468ee839cc1b5176798386c
-size 9950
+Owning a digital camera means never having to buy another roll of film.
+But if you plan to pass around those digital pictures, you'll probably have to stock up on unusually expensive paper and ink.
+Tech Times recently tested four small printers dedicated to digital photos, all of which work without the aid of a computer. The printers read images either directly from the camera or from the camera's removable storage card. Three of the models--the Canon CP-10, the Sony DPP-SV55 and the Olympus Camedia P-200--use dye sublimation, the same technique found in professional-grade printers. The other--the Hewlett-Packard Photosmart 100--is a more conventional ink-jet printer.
+The models vary dramatically in price, print size, editing functions and costs per print. Yet they all were a breeze to use, and each produced prints comparable in quality to the local one-hour photo lab. All provided near-instant gratification, churning out prints in 1 1/2 to 2 1/2 minutes.
+Beyond the immediacy of the results, though, none of the printers offered a compelling reason to use it instead of an all-purpose computer printer or an online photo-processing service. Each photo cost as much as $1.20, with no discounts for double prints.
+'s Photosmart 100 was the most affordable, with prints costing around 40 cents each. Still, the only real advantage the HP seems to provide over computer printers with photo-printing software is that it can be placed anywhere in the house, rather than being tethered to the PC.
+Dye-sublimation printing is a bit like ironing a design onto a T-shirt. The printer uses an array of tiny heaters to press dots of color onto the photo paper.
+The process starts with a roll of thin plastic film that's embedded with cyan, magenta and yellow dye. Before each image is printed, a new section of film lines up between the heating elements and the surface of the photo paper.
+The amount of heat emitted by each tiny element determines how much dye gets vaporized and deposited onto the print. The paper slides back and forth within the printer four times--once for each pigment, and once for a final coat of transparent sealer that blocks ultraviolet rays.
+The result is a smooth, well-defined image. And thanks to the UV-resistant coating, the prints should resist fading for 25 years or more--the same as those printed by a professional lab, said Chuck Westfall, an assistant director for technical information at Canon USA Inc.
+Ink-jet printers, by contrast, are more like pointillist painters. They spray droplets of liquid ink onto the photo paper one thin line at a time.
+The HP Photosmart 100 starts with a container of cyan, magenta and yellow ink. As paper passes through the printer, the ink cartridge slides back and forth, releasing a line of tiny drops of color. On photo paper designed for ink-jet printers, the ink will seep below the glossy surface to resist smudging and prolong life.
+Still, HP says the Photosmart's prints may start to fade after four to 51/2 years. Other disadvantages of ink-jet printers generally are that they're slower than dye-sublimation models and their images tend to have softer edges.
+On the other hand, the array of thousands of heating elements in dye-sublimation printers boosts their cost significantly over ink-jet models. And the dye-infused ribbons are much more expensive than ink cartridges, so the prints are more costly as well.
+
+The $300 CP-10 works only with four Canon digital cameras (the A10, A20, S110 and S300), and its largest prints are the size of a business card (2.1 by 3.4 inches). Those limitations make the CP-10 the wrong printer for most consumers.
+The size of a boxy camera, the CP-10 sets up quickly and easily. A special wire connects the printer to a Canon camera's USB port, and all the operations are controlled from the camera's menu and LCD screen. It takes seconds to select and crop images and even less time to send a newly snapped photo straight to the printer.
+Each print takes less than a minute to process, rivaling a Polaroid's speed from shutter to paper. And with the sticker option, users can print eight postage-stamp-size versions of an image on an adhesive-backed sheet.
+The prints themselves were the brightest of the models tested and had the highest contrast. But they also had the least vivid hues, resulting in paler skin tones and darker reds and blues. The model is rated at 300 dots per inch, with 256 shades per color.
+Canon sells its proprietary ink ribbons with packages of paper, with each ribbon capable of printing only the sheets provided in the pack. The most economical option is 36 sheets for $17.50, which amounts to a little less than 50 cents per print.
+For larger images and wider compatibility, Canon offers the $500 Canon CD-300, which can print 4-by-6-inch and 4-by-10-inch images from any camera.
+
+Olympus' entry-level dye-sublimation printer, the P-200, lists for $599 but can be found online for $350 to $400. It handles only one size of paper--4 by 3 inches--which can be used for one to 16 images.
+The size of a compact dictionary, the P-200 can print images directly from a SmartMedia or CompactFlash card, or with an optional USB or parallel cable, from a computer. With the optional rechargeable battery (list price: $100), you can take the P-200 with you to make prints on the road.
+The printer can read the Digital Print Order Format (DPOF), which most digital cameras use to tag images on a storage card for printing. Otherwise, controls on the printer let users select an image or sequence of images to print. Users must select images by number because the P-200's small monochrome display can't show the images themselves.
+The printer doesn't offer any mode for cropping images. The only way it can alter picture quality is through a sharpness button, which subtly increases or decreases the crispness of the image.
+The images tended to be lighter than the Canon's but darker than those of the other units tested, with deeper blues. The printer was relatively fast, churning out photos in about 90 seconds. The model is rated at 320 dots per inch, with 128 shades per color.
+Olympus sells packs with 25 sheets of photo paper and a dye ribbon for a little under $30, which translates to $1.20 per print.
+
+The largest and most feature-packed of the printers tested, the $350 DPP-SV55 can edit as well as print photos. Like all Sony digital products, it's designed to work most easily with Memory Stick storage cards--the version of flash memory Sony developed. But it also has a slot for PC cards, so it can accept other forms of flash memory with a PC card adapter.
+The size of a three-ring binder, the DPP-SV55 is a bit daunting to use with a computer but extremely easy with a TV set. The TV serves as a monitor, displaying menus and images to help users choose which photos to print and what effects to apply. The Sony also supports DPOF, eliminating the need for a TV to do basic printing jobs.
+The DPP-SV55's paper tray can handle two different sizes: 4 by 6 inches and 3 1/2 by 4 inches. The larger sheets take about 90 seconds to print, the smaller ones a little less. Each sheet can be split into four, nine or 16 images.
+The built-in editing tools include cropping and enlarging; adjusting the brightness, color and sharpness; and adding a few simple filters. The unit also offers a handful of templates for personalized postcards, calendars or stickers, and the cards can be further customized with text.
+The editing tools came in handy because Sony's prints were the most deeply saturated in color. Skin tones were ruddier and hues were more intense than any other units', and contrast tended to be lower. The model is rated at 403 dots per inch, with 256 shades per color.
+Sony sells packages of 25 4-by-6-inch sheets with a dye ribbon for $20, or 80 cents per sheet. It also sells 30 sheets of the smaller paper with a dye ribbon for $15, or 50 cents per sheet.
+
+Bearing an uncanny resemblance to a countertop radio, the $179 Photosmart 100 prints 4-by-6-inch, wallet-size (2 1/2-by-3 1/4-inch) or thumbnail images on glossy photo sheets, index cards or even plain paper.
+The unit was the most widely compatible of the models testing, with slots for CompactFlash, SmartMedia and MemoryStick cards as well as a USB port for connecting to a computer.
+Like the Olympus P-200, the Photosmart has a small screen that displays only numbers and icons. It can't display which images are on the inserted storage cards, so users have to select images for printing by number.
+The unit also lets people use the screens on their cameras to pick which images they want to print.
+The Photosmart is low on features, with no ability to crop or adjust images. It's also significantly slower than the other units tested, taking about 2 minutes and 50 seconds per photo.
+The prints were brighter, crisper and less green than the other models' photos. Although the results seemed washed out at times, the Photosmart did a better job than the other units in keeping white objects white. It's rated at up to 2,400 by 1,200 dots per inch, but the difference in printing techniques makes it misleading to compare an ink jet's rating to a dye-sublimation model's.
+The Photosmart uses a specific ink cartridge made only by HP, which costs $35 for up to 391 photos, depending on the color density. But the unit can handle most manufacturers' 4-by-6-inch photo paper. If you stick with HP premium paper, the cost per print is about 42 cents.
+
+Jon Healey covers the convergence of entertainment and technology. He can be reached at jon.healey@latimes.com.
+
+
+
+
+
+
+
+Bottom line: Best suited for commercial applications that demand speedy, professional-quality prints.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you want other stories on this topic, search the Archives at latimes.com/archives . For information about reprinting this article, go to www.lats.com/rights .

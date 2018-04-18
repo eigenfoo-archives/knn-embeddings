@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e93fab085c28a05742ff1dce29175a0532cdb28562ec83ded49787dbe4891c01
-size 2440
+Scientists are haggling over an ancient chunk of rock that contains either imperfections or 3,500 million-year-old fossils of bacteria -- evidence of the oldest form of life on Earth.
+The debate delves into the origin of life, when and how it started and if it could exist in similar forms on other planets.
+William Schopf, a scientist at the University of California in Los Angeles , discovered what is thought to be the oldest example of life in ancient rock formations in Western Australia in 1993.
+The fossils of bacteria are 1,300 million years older than other specimens of early life.
+According to Schopf, the shape and look of the specimen, which was all they had to go on at the time, indicated they were bacteria and showed life evolved more quickly than previously thought -- less than a billion years after the Earth was formed.
+It also suggested life was a consequence of planet formation and could exist elsewhere in the solar system.
+In a letter to the journal Nature on Wednesday, Schopf and his colleagues said an analysis of the fossils with a new laser technique supported their earlier conclusions.
+An analysis of their chemical composition also showed the fossils contain carbon, proving that they once lived.
+The results obtained substantiate the biological origin of the earliest cellular fossils known, Schopf said in the journal.
+But in a separate letter to Nature, Martin Brasier of Oxford University in England and other scientists challenged Schopf s findings, saying the shapes of the fossils bear no resemblance to bacteria and they are more likely blobs of mineral graphite imbedded in the rock.
+If Brasier is correct, Nature s deputy editor Henry Gee said it could have a major impact on Schopf s discovery and many other fossils that have been discovered in other ancient rock formations during the past decade.
+What Brasier is doing is calling all of these (findings) into question, Gee said in an interview.
+It is not a yes or no answer. There could be some that are blobs and some that are fossils and it is going to very hard, if not impossible, given current technology to tell the difference.
+Schopf s conclusions suggest that complex life could have formed extraordinarily quickly after the formation of the planet.
+This new work calls a lot of that into doubt and could wipe out the first billion years of evidence of life on Earth, Gee added.
+Have a comment on this article? Send it.

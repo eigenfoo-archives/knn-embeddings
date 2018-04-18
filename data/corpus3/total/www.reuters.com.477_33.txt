@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81e924e1c20c281d93a6b73eef832d8d6efd824f4aefc5e62f823468d51a88f5
-size 1555
+BioPort Corp., the only U.S. maker of an anthrax vaccine, said on Monday it had filed final documents aimed at securing regulatory approval to resume distribution of the shots. 
+The company, based in Lansing, Michigan, is seeking Food and Drug Administration clearance for a renovated manufacturing plant where it makes the vaccine.
+Currently, the company is not permitted to ship any vaccine supplies made at the facility. 
+"We're entering what we hope will be the final stages of a long, rigorous technical process," BioPort President and Chief Operating Officer Bob Kramer said in a statement. 
+BioPort has an exclusive contract to produce the vaccine for the U.S. military, which has inoculated troops to protect them from a biological attack with anthrax. 
+Currently, there is no vaccine for civilian use, BioPort said. 
+Concern about anthrax is growing as letters containing powder laced with the potentially deadly bacteria appeared in three states and the District of Columbia.
+One Florida man died after inhaling anthrax spores. 
+An FDA spokeswoman said the agency was committed to reviewing BioPort's submission and inspecting the plant "as quickly as we can, while at the same time assuring that the safety and effectiveness of the vaccine is maintained."
+She said she could not comment on how long that would take. 
+Low vaccine supplies have forced the military to scale back its effort to inoculate all of its active and reserve troops against anthrax.
+In June, the Pentagon announced that only special mission forces would receive the shot.

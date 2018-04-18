@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2bb789334909cdf24fc1c039fd633df3eba91afc03ed7f02314025d530cc31e
-size 740
+By Associated Press SANTO DOMINGO, Dominican Republic -- The Associated Press erroneously reported Feb. 21 that Mike Tyson plans to train in the Dominican Republic for a match with Lennox Lewis.
+Sterling McPherson, speaking in English to Dominican reporters, said he was holding a news conference "to explore the possibility" of such a training session. A simultaneous translation into Spanish misstated his plans; the AP's story was based on the Spanish translation.
+Tyson adviser Shelly Finkel said the boxer had no intention of training in the Carribean nation.
+The AP also erroneously identified McPherson as a member of Tyson's management team. McPherson heads his own company, Sterling Promotions, and is not associated with Tyson.

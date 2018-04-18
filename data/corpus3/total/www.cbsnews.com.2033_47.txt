@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68f3c416029f3bebedaa0b191fe47fc5347d45e2e1aed1fca16a3d3df3569c5a
-size 4391
+A Russian-made space module launched two weeks ago docked late Tuesday with the International Space Station, an important step in a project already running two years behind in construction. 
+The Zvezda module snapped into place with two other space station components, Zarya and Unity, which were launched in 1998.
+The first crew then could go to the station in October, reports CBS News Space Consultant Bill Harwood. 
+The international space station is running two years behind schedule, and already has gone $3 billion over budget because of problems on the Russian side that raised questions about Moscow's reliability as a partner.
+Zvezda was the first module to be built solely by the Russians. 
+Russian space officials tried to put that all behind them on Wednesday. 
+"I want to wish you all that we will see such events happen again without any more delays," said Yuri Semyonov, head of the state RKK Energiya company, which built the module. 
+Russian Aerospace Agency chief Yuri Koptev used the occasion to press for more state funding, noting that the government had provided only about 30 percent of the money needed for each launch. 
+"This event shows that Russia is still strong and developing as a superpower and the government should support us," he said at Korolyov. 
+Shortly after docking, Zvezda's solar arrays were to begin tracking the sun.
+Within a few days, its computers will take full control of maintaining the station's orbit. 
+The space laboratory, a massive 16-nation project headed by the United States, will not be complete for another five years, after more than 40 space flights. 
+Some members of the U.S.
+Congress have questioned whether to fund NASA's spending projections on the $60 billion project, particularly after the failed launches of two Mars missions last year.
+But they expressed cautious optimism about the Zvezda launch. 
+As the station expands, many of the module's functions will be taken over by other components, but Zvezda will remain the heart of the Russian segments.
+Once the ISS is complete, it will weigh about one million pounds and have six laboratories. 
+Docking ports for future U.S.-built modules are already in place, so any Russian delays will hold up only the Russian part of the station. 
+A key mission is scheduled for early October, when a shuttle will bring the first piece of the girder-like truss assembly that will hold giant solar panels. 
+The first live-in crew is to arrive in October or early November aboard a Russian Soyuz vehicle, and a November shuttle flight will follow with solar panels that will dramatically increase the electricity supply. 
+That is expected to pave the way for the U.S.-built Destiny science module, the center of the station's research activity, to arrive in January, 2001. 
+U.S. President Ronald Reagan set the ISS program in motion in 1984.
+Nine years later, with the project in turmoil, President Bill Clinton invited the Russians to join. 
+However, instead of saving the U.S. time and money as hoped, the Russians caused even more delays and created even bigger expenses for NASA. 
+In the event the automatic linkup with the ISS went awry, two cosmonauts were on standby to launch on Aug. 10 from the Baikonur space facility - Russia's rocket launch site - and fly immediately to Zvezda aboard a Soyuz rocket. 
+NASA had hoped the modified docking procedure, in which the space station approached the passive Zvezda module, would help avoid anything similar to the disastrous collision in 1997 between a Russian re-supply ship and the Mir space station.
+Cosmonauts attempted to manually maneuver the ship into the loading dock of the Mir station when it careened into a Mir module and into several solar panels causing millions in damage. 
+Russia and the United States are investing high hopes in the Zvezda module, the core of the $60 billion, 16-nation space station project.
+Without the module, no crews could be sent up to the station, because Zvezda will contain the flight controls, sewage system and living quarters. 
+NASA workers have created a World Wide Web site to help stargazers track the International Space Station, the orbiting laboratory being built in space. 
+The site, developed at Marshall Space Flight Center and linked from NASA's Liftoff to Exploration Web site, allows Internet surfers to plug in their zip code and find out the best time to view the station.

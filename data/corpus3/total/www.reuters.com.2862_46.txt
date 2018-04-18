@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de46373e80511202d6ff7e8e3bb729e0b7f85f596ff159ea60b694212ea9f5e0
-size 1238
+The U.S. government posted a surplus of $127.17 billion in the 2001 budget year, a fall from the record surplus seen in the prior year and the first time since 1992 the annual federal budget picture has deteriorated. 
+The Treasury Department and the Office of Management and Budget said on Monday the dwindling surplus reflected in part lower revenues due to a faltering U.S. economy. 
+"The (revenue) shortfall was largely related to lower-than-expected collections of individual income taxes and corporation income due to the slowing economy," the agencies said in a joint press release. 
+The decrease in the surplus from the record $236.92 billion in fiscal 2001 marked the first time since 1992 there has not been either a smaller deficit or a larger surplus in the government's accounts on an annual basis. 
+The 2001 fiscal picture was boosted by Social Security receipts.
+Excluding Social Security and Postal Service receipts, the government posted a budget shortfall of about $33.52 billion, down sharply from the $87.10 billion surplus seen on the same basis last year. 
+The surplus for September, the final month in the fiscal year, was $35.39 billion, down from $65.75 billion in September 2000, reflecting a variety of factors.

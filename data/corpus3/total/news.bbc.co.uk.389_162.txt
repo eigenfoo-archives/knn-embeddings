@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dab5f798cb381d71e58e83c48557d1b5cd4807c58d833865a69f1bae7ffa93b
-size 2723
+Oops, the Universe is not turquoise - it is off-white.
+Researchers who tried to gauge what the eye might see if it were tuned to all the light coming from thousands of galaxies have admitted to a mistake with the software they used to make the calculation.
+They say the software was set up wrongly, making the Universe more colourful than it really is.
+"It's much closer to white, really," said Ivan Baldry, a post-doctoral fellow at Johns Hopkins University, US.
+"More like cream."
+Dr Baldry made the turquoise announcement in January with Dr Karl Glazebrook.
+The Hopkins scientists said they were alerted to the error by colour engineers who checked the software.
+"It is embarrassing," said Dr Glazebrook.
+"But this is science.
+We're not like politicians.
+If we make mistakes, we admit them.
+That's how science works."
+The pair determined the cosmic colour by combining light from over 200,000 galaxies within two billion light-years of Earth.
+The data had come from the Australian 2dF Galaxy Redshift Survey at the Anglo-Australian Observatory in New South Wales, Australia.
+By giving a numeric value to the colours of the different galaxies, adding them together and then averaging them, they came up with their colour, which they dubbed cosmic spectrum green.
+The activity was supposed to be an amusing footnote to a serious astronomical paper, but the media liked it and ran the story with big headlines.
+Then, the Munsell Color Science Laboratories at the Rochester Institute of Technology in New York, US, contacted the researchers to tell them they had incorrectly set a feature known as the "white point".
+The white point is the point at which light appears white to the human eye in different kinds of illumination.
+The Hopkins astronomers' white point was redder than it should have been, and this skewed their result.
+Munsell Color Science Laboratories is now working with Drs Baldry and Glazebrook to produce more impressions of the colour of the Universe.
+"The mistake took some time to realise and track down," the team said on its website.
+"Only a handful of colour scientists had the expertise to spot the error.
+One moral of this story is we should have paid more attention to the 'colour science' aspect and had that refereed as well."
+The website updates the researchers' earlier findings.
+It shows a patch of colour that to the casual observer will seem, well, white.
+"Good luck if you can see the difference between this colour and white!" they write. "
+Suggestions for the name are welcome.
+As long as it is not beige!"
+The serious research the two men were doing?
+It was about using the light from stars of different ages to try to work out how the rate of star-birth might have changed over time.

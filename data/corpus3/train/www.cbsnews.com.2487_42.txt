@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da694255363ebdd5ee815c3dbd4ddc11661cdbae2023d2d4cc73518e2d470a72
-size 2858
+A spike in gasoline prices in September sent U.S. consumer prices up at the sharpest rate in four months, the Labor Department reported on Friday. 
+Energy prices have declined in October, however, and inflation is not considered a major threat to the economy. 
+The Consumer Price Index - the broadest available gauge of national inflation - rose at a stronger-than-expected 0.4 percent rate last month following a 0.1 percent August gain. 
+The September inflation figures represented the largest monthly gain in consumer prices since a matching 0.4 percent gain in May and exceeded Wall Street economists' forecasts for a 0.3 percent advance. 
+But excluding food and energy, consumer prices climbed a more modest 0.2 percent, the same rate as in each of July and August. Gasoline prices, which had shot up in advance of the Labor Day weekend at the start of the month -- one of the year's busiest driving periods -- were up 8.6 percent in September. It was the sharpest rise in gasoline prices in more than a year. 
+To stabilize the tottering economy, the Federal Reserve has cut interest rates nine times this year, with two of those reductions coming after the Sept. 11 attacks. One of the reasons the Fed has been able to act so aggressively is because inflation has not been a problem. 
+While economists are hopeful that prices will remain stable in the aftermath of the attacks, some worry about price spikes, especially for energy products. Others are concerned that the Fed's credit easing to support the economy could sow the seeds of inflation down the road. 
+During the first nine months of this year, consumer prices rose at an annual rate of 2.8 percent, compared with an increase of 3.4 percent for all of 2000. 
+While gasoline costs were up sharply last month, prices for natural gas and electricity fell in September by 5.5 percent and 0.6 percent, respectively. 
+Food prices rose for the second month in a row by 0.2 percent in September, reflecting higher prices for vegetables, fruits and pork. 
+Those higher prices blunted lower prices for other items. 
+Housing costs fell by 0.2 percent in September, the first decline since February 1986 and the biggest drop since December 1982. 
+Airlines fares fell by 0.7 percent in September and new car prices were flat. 
+In its trade report, the Commerce Department said the August deficit was 7 percent below a July imbalance of $29.2 billion. The improvement reflected a 1.1 percent drop in imports, the fifth straight monthly decline, and a small 1 percent increase in U.S. exports. 
+America's deficit with China surged to $8.1 billion, the highest level since last October, while the deficit with Japan shrank. 
+So far this year, the U.S. trade deficit is running at an annual rate of $360 billion, an improvement over the all-time record deficit of $375.7 billion set last year.

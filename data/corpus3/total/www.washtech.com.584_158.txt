@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae889198cd6f0c710a3e0761ad842ebfbc9515311dcc9019b17b116194105842
-size 5713
+As scientific arguments go, the great debate of recent years over how best to unravel the genetic map of the human race never seems to end.
+Every time scientists think it has died down, the dispute comes roaring back.
+The latest installment, due for electronic publication today in Proceedings of the National Academy of Sciences, is a detailed analysis by three leading figures of the international Human Genome Project of the work done by their former competitor, Celera Genomics Corp.
+That's the Rockville company that raced them to a draw two years ago in compiling a draft map of the genome, the entire complement of human genetic instructions.
+The scientists conclude that the scientific paper Celera published about its experiment, an attempt to apply a fancy new technique to the problem of creating genetic maps, essentially didn't prove the case.
+After analyzing that paper in detail, the scientists said the company relied so heavily on a public database compiled by the Human Genome Project that it's impossible to know whether Celera's rapid-fire approach would have worked on its own.
+"We're not saying by any means that it can't be done," said Robert Waterston, director of gene sequencing at Washington University in St. Louis and lead author of the new paper.
+If Celera had provided the proof in its published paper, "we would say fine, it does work," he said.
+"They didn't."
+People at Celera beg to differ.
+They have always acknowledged using data from their competitors in the public project to cut costs and speed up their work.
+But they deny that the information was crucial to their ability to produce a draft map of the genome.
+"The fact is that the details they use to back up their arguments are either incorrect interpretations of our paper or outright errors in their approach," said Mark Adams, a senior Celera scientist on the genome project.
+"There really is no basis for the claims they make."
+Since relatively complete genetic maps became available in 2000, scientists say they have greatly accelerated research on biological problems such as cancer and heart disease.
+But the maps themselves are still not entirely finished, and work continues on them.
+In addition, scientists are working on mapping the genomes of laboratory rats, mice, dogs and other organisms useful for research.
+The debate over how best to compile a map is a replay of a fevered argument that gripped the world of biology from 1998 to 2000.
+In 1998, the Human Genome Project was moving along at a stately pace with the goal of producing a complete human genetic map by 2005.
+Celera, an upstart biotechnology company run by a team of star scientists, was formed in 1998 with the goal of upending that timetable, producing a map more quickly, and selling access to it to drug companies and universities.
+Mapping the human genome, conceived as one of the grand undertakings of modern science, quickly turned into a brawl.
+Much of the clash was simply over bragging rights, but at root there was also a serious scientific question.
+The human genetic code contains billions of chemical "letters" of deoxyribonucleic acid, or DNA, encoding instructions for making the proteins that make up a human body.
+To give them insight into human development, disease and aging, scientists want to know the exact order of those letters.
+But modern machines can read only a few hundred letters at a time, so genomes have to be analyzed in tiny pieces and then put back together, like a vastly complicated jigsaw puzzle.
+The Human Genome Project was using a proven technique that involved mapping the contours of relatively large pieces of DNA, then shredding those into tiny bits to be fed into the machines that read genetic letters.
+It's a relatively slow, laborious approach, but one likely to give an accurate answer, because it minimizes the chance that any one piece of the jigsaw puzzle will wind up in the wrong place.
+Adopting a more aggressive strategy, Celera decided instead to shred human DNA into millions of pieces all at once, then rely on the power of computers to put the pieces back together.
+This approach promised speed, but it was also much riskier, because the chance of putting puzzle pieces into the wrong place was far higher.
+Celera had the built-in advantage that it could use data from its publicly financed competitors, but the competitors couldn't use data from Celera.
+Eventually the two sides put aside their differences long enough to declare the race a draw and announce their draft genome maps at the White House.
+The new paper was written by three of the leading figures in the Human Genome Project Waterston, Eric Lander and John Sulston.
+Waterston said in an interview that the group was reluctant to rehash an old debate "we actually thought about not publishing at all" but felt an important scientific question remained unresolved.
+The central conclusion of the paper is that, because Celera relied in part on genome data compiled by a technique different from its own, the company cannot claim its more aggressive approach will work on large genomes like those of mammals.
+"Our analysis indicates that it is not possible to draw meaningful conclusions about the [Celera] approach because the authors did not perform an analysis of their own data by itself," says the forthcoming paper.
+Celera scientists rejected the conclusion.
+The best evidence that the rapid technique does work, they said, is that a consortium of publicly funded laboratories is using a strategy much like it to map the genome of the laboratory mouse.
+The public scientists acknowledged that point but said they assume the consortium will eventually have to do extra mapping work to make full sense of its data.

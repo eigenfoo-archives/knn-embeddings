@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6eadb960a64e3875b9a552a56e295f96b91868555730d3d48fe69f394fc56767
-size 4944
+Constant Surveillance In Urban Areas
+Face Recognition Technology Picks Out Likely Criminals
+What About Civil Liberties? 
+If there is one city that understands the horror of Sept. 11, it is London, which has lived with terrorism for decades.
+Over the years, the city has developed ways to contain the threat. 
+Colin and Elaine Perry lived through the Nazi blitz in World War II.
+"It was absolutely shocking," he says.
+"The whole landscape was desolate.
+There wasn
+t a thing standing." 
+Even though they were teen-agers, both felt then what many Americans feel today. 
+"I wanted revenge, not bitterness.
+I wanted us to fight back," says Colin. 
+From their own painful history, the British have taken measures to fight back terrorists, be they IRA bombers, or Osama bin Laden's cells. 
+"I got fairly used to facing the threats from terrorism there," says Roger Davies, a former commander of the Northern Ireland bomb squad.
+He says U.S. police need the same tools that British cops use.
+Among them is Closed Circuit Television, or CCTV. 
+The people of Great Britain are the most watched in the world.
+Cameras are everywhere, watching nearly everything, from St. Paul s Cathedral to Parliament.
+Across Great Britain, there are more than two million surveillance cameras, keeping an eye on street criminals, as well as terrorists. 
+"Intelligence shows us that the IRA will avoid areas where the cameras are.
+Because the terrorists know they will get caught one way or the other on camera," says Bob Lack, head of security for the Borough of Newham in east London.
+From a control room, personnel monitor more than 250 cameras, which pan, zoom and record all life in public areas. 
+Lack says the results have been dramatic: a 30 percent reduction in crime. 
+Sir Robin Wales, the leader of the borough, says that he is not uncomfortable with the cameras: "I hope they're watching us!
+Because the whole point is, I want to know this place is safe.
+So I want these here.
+And I want to catch the people that think they have the right to determine how the rest of us should live or what should happen to us." 
+Lack says that CCTV evidence helped convict one man who set a bomb. 
+Not everyone approves of the surveillance.
+"When I look at a sign that warns me that I'm being watched, the first thing I think of is George Orwell, 1984.
+A society where everybody just expects routinely to be monitored by the state," says civil liberties advocate Simon Davies. 
+Davies estimates that six to seven million cameras will be installed in U.S. cities in the next four years.
+"The primary challenge to human rights and to privacy from these cameras is simply that it makes people behave differently," Davies says.
+"It makes them cautious, neurotic.
+It changes their interactions.
+Everybody is brought to heel.
+Everybody s made to be good.
+It's like living in some giant shopping mall." 
+In Newham, there s more to these cameras than meets the eye.
+Newham is the first place to use face recognition technology.
+A computer scans faces on the street looking for a match with faces stored in its data bank.
+Newham officials say matches happen about three times a day.
+The police are then notified. 
+Tim Pidgeon of Visionics, the company that developed the software, explains how it works.
+First, a face is placed in the data bank.
+Police can do the same with mug shots or pictures of known terrorists.
+The computer scans the faces on camera looking for a match.
+In a test with Van Sant, the computer makes the match in less than a second.
+At that point, an alarm goes off, alerting an operator.
+But the system is not perfect: It didn t make a match when Van Sant wore a cap and sunglasses. 
+Face recognition technology is already in use at the Keflavic airport in Iceland. "
+Technology like this will help to prevent acts of terrorism.
+If you're known, you couldn't get onto a bus, a train, a plane without having an operator being alerted to your presence," says Lack. 
+Davies hates the idea: "You can put up millions of cameras, connect them to a single computer, and just put the whole population on auto surveillance.
+Now, that sort of society I regard as totally different to anything we ve known throughout history." 
+Cameras also record the license plates of vehicles entering the center of London, in what s called the "Ring of Steel."
+Many cars and trucks are searched. 
+Davies says the British people themselves play a role: "In becoming more aware of our surroundings, asking what perhaps were before intrusive questions of our neighbors, but accepting that s one of the prices we have to pay to live in the world that we do." 
+Despite all these measures, bombs sometimes still explode.
+Davies says that this fact is something those in the modern world may have to learn to live with. 
+The Perrys, who lived through the Blitz, are certain that Americans will prevail. 
+"Have great faith in your nation, great faith in yourselves," says Colin. "
+Stand firm."

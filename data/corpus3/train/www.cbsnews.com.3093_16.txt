@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1a1f38f5d2686f137acdf4c78860e600eabec9fd4ec5be6979bd406c6b0db9c
-size 2565
+The recording industry, sensing victory and looking to avoid trial in its lawsuit against Napster, asked a federal judge to rule that the song-swap company is liable for damages for copyright infringement. 
+In a request for summary judgment filed late Tuesday with U.S. District Judge Marilyn Hall Patel, the recording industry insisted Napster had direct knowledge of the copyright infringement aided by its network of users. The documents were made available Wednesday. 
+"Napster's Web site advertised the piratical nature of the system by bragging that, 'With Napster, you'll never come up empty handed when searching for your favorite music again,'" attorneys for the recording industry wrote in their brief. 
+The recording industry also said Napster benefitted financially from the free trade of copyright music, because the company based its value on the quantity and quality of songs available through its network. 
+Napster attorneys were not immediately available for comment. 
+Record industry attorneys asked for an Oct. 1 hearing with Patel on the summary judgment request. 
+Patel ruled last year that Napster's free swapping of copyright songs is illegal and issued an injunction forcing the company to closely police its system for pirated music if it wanted to stay in business. 
+Napster's song-trading network has been offline since July 2, when it took down the system to comply with that order and improve filters that weed out copyright music. 
+Patel later told the company to remain offline until it could offer a foolproof service able to screen out every single unauthorized song. 
+Napster appealed the judge's order and an appellate court allowed Napster to resume its service, but the company has yet to come back online. 
+Since Napster took its service down, online music fans have turned to other services such as Kazaa and Gnutella for free music downloads. Some of Kazaa's servers are located outside of the U.S. and Gnutella is a decentralized network of computer users - factors that make those services hard to corral. 
+Napster has been looking for a way out of the lawsuit for months, maintaining a standing offer to settle and promising to develop a legal subscription service to offer copyright music later this year. 
+In February, Napster offered $1 billion to the recording industry to settle, but the offer was rejected. 
+The record companies are seeking the maximum statutory damages of $100,000 for each work infringed and believe the total amount of damages will exceed $100 million. No trial date has been set. 

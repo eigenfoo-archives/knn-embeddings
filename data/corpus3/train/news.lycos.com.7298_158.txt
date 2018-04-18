@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c39b5d2ae9b20bc214740996bf8e634e98a43f4505ca017d66373193778a9b9d
-size 3687
+A hacker claiming to be a 17-year-old girl says she wrote a new worm targeting Microsoft Corp. s (NASDAQ:MSFT) .NET Web services platform to prove women are capable of creating computer viruses and make a statement against sexism, a computer security company said Monday.
+Dubbed the Sharpei worm, it is believed to be the first virus written in C-sharp, the programming language which runs on .NET platforms, said UK-based Sophos, which received a copy of the virus from the programmer.
+She wrote the worm to make a social point and dispel the perception that there aren t female virus writers, said Chris Wraight, U.S.-based technology consultant for Sophos.
+The so-called proof-of-concept worm, the second virus targeting .NET, was written partially in Visual Basic , according to Microsoft. The .NET framework is designed to allow developers to write programs that will enable people to access software online using any device.
+Microsoft has staked the future of the company on Web services and said in January it will focus on improving the security of its products in order to gain customer confidence.
+Someone going by the handle Gigabyte sent the worm sample to Sophos, saying she was inspired by sexism in the male dominated anti-virus industry, according to Sophos.
+In an e-mail, Gigabyte said she chose C-sharp because it is a new language and seemed fun to experiment with. She said she did not intend for it to spread and created it as an intellectual challenge, to prove it could be done and to annoy Microsoft.
+The worm, a self-propagating virus, has not spread in the wild yet and so it has a low-risk rating, Wraight said.
+It is written to spread via Outlook e-mail. It has a subject line that reads Important: Windows update, and purports to be an update from Microsoft that can speed up the performance of systems by 50 percent.
+The worm checks to see if the computer has .NET technology present and if so, it infects certain executable files in specific Windows directories.
+It also contains an attachment that when opened forwards the virus to everyone listed in the Outlook address book and displays a message warning that the computer has been infected.
+Microsoft, however, does not distribute any patches or updates over e-mail, according to Mike Kass, product manager for .NET framework.
+In addition, newer versions of Outlook, such as Outlook 2002, and systems that have Microsoft s Security Update will block the worm, said Kass. Default settings are configured to restrict unknown code from being executed, he said.
+Regardless, Kass warned Windows users to be cautious when allowing executables to install software on their systems.
+We ve given you this great car alarm security system, he said. If you let intruders into your car yourself and you hand them the keys, well, we can make no promises.
+Sophos and other anti-virus vendors have released updates to their products to detect and remove the new worm.
+Of the prospect that the worm was written for socio-political purposes, Kass said, I m psyched women are entering this space. I just don t know what she s accomplishing by this. She s neither hurting nor helping people.
+Gigabyte s home page said she is a 17-year-old high school senior who likes house, techno and trance music and takes kickboxing classes. It was not clear where she lives.
+In January, a virus written by a Czech programmer was sent to anti-virus vendors that targeted executable files created for .NET technology.
+Dubbed Donut, the worm did not spread itself via e-mail, but required someone to save an infected file to a computer hard drive for it to infect other files.
+Have a comment on this article? Send it.

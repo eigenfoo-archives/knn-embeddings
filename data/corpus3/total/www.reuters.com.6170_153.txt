@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19e51fcd3e15bec462faacaf0d95bbd3796f528c73b4e103d0d59babe96e8421
-size 5235
+Early human data suggest two HIV vaccines being developed by Merck & Co. may help control the virus that causes AIDS, yet it remains to be seen whether they can prevent infection, researchers said on Tuesday.
+If later-stage trials indeed prove the vaccines can tame the deadly virus, researchers said they might someday be used to improve treatment for HIV-infected people who are already taking cocktails of drugs to ward off AIDS symptoms.
+Merck researchers, who have been working for 15 years to develop HIV vaccines, unveiled the encouraging preliminary human data at the annual meeting of the Conference on Retroviruses and Opportunistic Infections being held in Seattle.
+The results come on the heels of previously published animal studies of similar Merck vaccines, which effectively controlled a virus that causes AIDS-like symptoms in monkeys, but did not prevent infection of monkeys with the virus.
+In the human trials described today, HIV-negative volunteers were given vaccines containing a gene that codes for production of the so-called gag protein found inside HIV.
+The gene is unattached to anything else, and hence "naked."
+Researchers said the protein on its own poses no apparent health or safety risk, and neither vaccine has caused significant side effects.
+The aim of the Phase I trials was to verify safety of the two vaccines and get an initial idea whether they stimulate the immune system, particularly white blood cells called T cells that are responsible for killing bacteria and viruses.
+The first vaccine was comprised of pure DNA that instructs for production of the HIV gag gene.
+It was tested among 108 volunteers, divided into groups receiving either a 1 milligram or 5 milligram dose of the vaccine, or a placebo vaccine.
+But the strongest immune responses were seen among dozens of volunteers given varying doses of a different Merck vaccine comprised of the gag gene crammed into an adenovirus, or common cold virus.
+The cold virus -- modified beforehand
+so it could not reproduce in the recipient -- was used as a vector, or delivery vehicle, for the gag gene.
+"The adenovirus-vector vaccine has been by far the vaccine we are most excited about because it appeared the most promising in our earlier monkey studies," Dr. John Shiver, Merck's senior director of vaccine research, said in an interview.
+Shiver said volunteers given the naked gag gene vaccine were injected four times within a 30-week period.
+Only about 2 percent getting the 1 milligram dose showed a positive immune response 12 weeks into the trial, although about 20 percent had significant T-cell responses after 30 weeks.
+Among those getting the 5 milligram dose of the naked DNA vaccine, up to 42 percent showed positive immune responses at 30 weeks, as judged by a laboratory test that measures how many T cells in a given blood sample are actively producing the antiviral chemical gamma-interferon.
+"It appears the higher the dose of the DNA vaccine, the better the immune response," said Shiver, who noted that Merck licensed the naked DNA vaccine method from San Diego biotech firm Vical Inc.
+But Shiver said results were more impressive for patients receiving the adenovirus vector vaccine.
+Six of the nine volunteers getting the lowest dose of the vaccine, or 67 percent, showed T-cell responses after a series of inoculations given over both an eight-week period and a 30-week period.
+About half the subjects receiving various doses of the adenovirus vector vaccine showed positive T-cell responses.
+"That may be related to the fact that half of all North Americans have natural antibodies against the type of adenovirus our vaccine uses," Shiver said, meaning their immune systems were naturally inclined to attack the cold virus and could be neutralizing the vaccine in the process.
+With monkeys, neither the naked DNA vaccine nor the adenovirus-vector vaccine was able to prevent infection with an HIV-like virus.
+But combined use of the vaccines stimulated dramatic immune responses in monkeys who were later infected with the virus, enabling long-term suppression of the virus and AIDS-like symptoms.
+For that reason, Shiver said most of the humans already given the naked DNA vaccine will now also be given Merck's adenovirus vector vaccine, to see if their immune responses can also be further stimulated.
+He said results of volunteers taking both vaccines would be available at an unknown future date, after which Merck could proceed with larger and later-stage trials better geared to determine effectiveness of the vaccines.
+"We hope to determine if our vaccines can either protect against infection with the virus or control the virus," Shiver said, noting that no vaccine yet exists to prevent HIV infection although many firms are racing to develop one.
+In the meantime, Shiver said controlling the virus in already infected people might not only moderate or prevent AIDS symptoms, but could slash bloodstream HIV levels so greatly that patients will be unlikely to infect others.
+An estimated 40 million people globally, most of them in Africa, are believed infected with HIV.
+A vaccine to prevent infection is considered the only practical, and affordable, way of controlling the ever-widening epidemic.

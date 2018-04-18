@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce5a75fc69f171cd31087f6da49c14b31fccef67a13beb53f9aecae7d5c25fbc
-size 2556
+The Web site of the World Economic Forum crashed Friday, and cyber-activists claimed they took it down in a "virtual sit-in." 
+Forum officials said they were trying to determine what brought the site down.
+They originally attributed the failure to "overuse," but messages posted on a Web site called Indymedia.org.
+took credit for the crash. 
+Anti-globalization groups urging Internet users to join the cyberattacks identified themselves as Electronic Disturbance Theater, Electronic Civil Disobedience and the Federation of Random Action. 
+"We regard it as a nuisance.
+We hope the site goes back up soon," said Charles McLean, the forum's communications director. 
+McLean said technicians were struggling Friday to restore the site, which carries the forum's press releases and other information at www.weforum.org. 
+Coordinating a cyberattack requires minimal sophistication and the tools are readily available on the Internet. 
+Last year, computer hackers stole credit card details and other personal information for hundreds of World Economic Forum participants off the Internet, including former President Clinton, South African President Thabo Mbeki, Palestinian leader Yasser Arafat and others. 
+McLean said security experts had patched security holes in the organization's servers after last year's breaches. 
+For a conference that prides itself on deft use of cutting-edge technology, the World Economic Forum has been plagued by a surprising slew of technical glitches. 
+On Thursday, guests lined up for an hour or longer to receive free Compaq iPAQ handheld computers, equipped with short-range wireless modems that allow participants to receive e-mail and register for panel discussions. 
+But for many, the wait wasn't worth it. 
+"The wireless connection was somewhat capricious -- very slow," said Dani Rodrik, a Harvard University economist who spoke at the conference. 
+Outside the Waldorf-Astoria hotel conference site, the connection didn't work at all, guests said. 
+One gadget that did win guests' praise was the hologram-equipped identity badge system.
+All 3,000 guests and reporters at the conference must wear the badges to enter the forum's two hotel sites and the badges can be used to log on to a network of computer kiosks. 
+The kiosks allow guests to register in advance for panel discussions, and send e-mail to all conference participants -- from Jordan's King Abdullah to Microsoft Corp.
+Chairman Bill Gates. 
+The five-day forum provides meeting time for the world's movers-and-shakers to swap ideas about the global economy.

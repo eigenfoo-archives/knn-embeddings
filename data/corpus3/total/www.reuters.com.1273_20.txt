@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bea6f63232ec9f49e8a9c5b3f52d250666ae55d359d1842af3f8bdf126584bbf
-size 3124
+Music and motion picture companies filed suit Wednesday against a trio of online file-swapping sites that enable users to download copyrighted music, movies and other files for free. 
+A wide range of music labels and film studios filed the suit with the hopes that a California federal court will shut down Grokster Ltd., MusicCity.com Inc., MusicCity Networks Inc. and Consumer Empowerment BV, which operate services that enable users to trade a wide variety of digital media files. 
+The services, which go by the names Morpheus, Grokster and Kazaa, have grown rapidly since pioneering music-swap site Napster went dark in early July. 
+In the complaint, plaintiffs said the services profit by violating the copyrights of their material. 
+"Defendants have created a 21st century piratical bazaar where the unlawful exchange of protected materials takes place across the vast expanses of the Internet," the complaint said. 
+Users can find movies still in theaters, such as Planet of the Apes and Legally Blonde, as well as new releases by recording artists such as Bob Dylan and 'N Sync, a recording-industry trade group said in a release. 
+The move comes at a time when the recording industry is attempting to roll out digital-music services of its own, which plan to give users limited access in exchange for a monthly fee. 
+Backers of industry ventures MusicNet and Pressplay plan to introduce their services within the next two months. 
+"We cannot sit idly by while these services continue to operate illegally, especially at a time when new legitimate services are being launched," said Hilary Rosen, president of the Recording Industry Association of America. 
+But unlike Napster, which eventually agreed to purge its system of copyrighted files in March after a long court battle, Morpheus, Grokster and Kazaa could prove harder to shut down. 
+Consumer Empowerment, which operates the Kazaa portal, is based in the Netherlands, while Grokster Ltd. is incorporated in Nevis, a 36-square-mile island in the Caribbean.
+Music City, operator of Morpheus, is based in Tennessee. 
+But even if all three services were shut down, the network would continue to operate, Music City Chief Executive Steve Griffin told Reuters in August. 
+Users of all three services tap into one network developed by Consumer Empowerment, called Kazaa. 
+Unlike Napster, which routes all traffic through a central server operated by the company, FastTrack uses a decentralized system. 
+Napster users were no longer able to trade music when the company shut down its central server in July.
+But FastTrack users would still be able to use their proprietary software to trade music, movies and other files even if all three companies went out of business, Griffin said. 
+"The network is self-sustaining," he said. 
+Backers of the MusicNet service, including RealNetworks Inc., AOL Time Warner Inc.'s Warner Music, EMI Group Plc, Bertelsman AG's BMG and independent Zomba Records, plan to launch their service within two months. 
+Pressplay is a joint venture between Vivendi Universal's Universal Music Group and Sony Corp.'s Sony Music Entertainment.

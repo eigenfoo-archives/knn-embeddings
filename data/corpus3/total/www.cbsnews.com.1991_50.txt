@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04500f2665fe309ca946a407d1a488cdb66686517e7b70e702693c66022dc248
-size 5590
+U.S. District Judge Colleen Kollar-Kotelly agreed to review the settlement and gave states involved in the case until Tuesday to decide if they would accept the plan. 
+"I will applaud the effort to come to an agreement ... in this time of rapid national change," the judge said, alluding to her earlier plea for the rival sides to settle their case in the aftermath of the Sept. 11 terrorist attacks. 
+The Redmond, Wash.-based software giant, credited with helping drive the technology revolution of the last decade, would be prohibited from entering exclusivity deals with computer sellers that disadvantaged competitors, the government said. 
+The settlement imposes a "broad range of restrictions that will stop Microsoft's unlawful conduct," the Justice Department said, hailing a deal many hope will invigorate the slumping economy and the technology industry. 
+Microsoft urged the states to accept the plan.
+Company lawyer John Warden called the agreement "good for the parties, and for consumers as we fully expect the states will conclude." 
+He added the "greatest beneficiary is the national interest." 
+Phil Beck, a private lawyer representing the Justice Department, outlined a three-month process for reviewing the deal and winning final approval from the court.
+There would be 60 days for the public to weigh in with comments. 
+Beck said the government was confident "that at the end of this period the court will rule the settlement is in the public interest." 
+Brendan Sullivan, a lawyer representing the 18 states that joined Justice in suing Microsoft for antitrust violations in 1998, said his clients needed until Tuesday to review the terms and "be sure that this is a good agreement that is enforceable." 
+Kollar-Kotelly accepted the settlement under advisement and ordered the parties to return to court Tuesday. 
+The restrictions would be imposed for five years, and could be extended for another two years if Microsoft failed to follow the terms, the government said. 
+Microsoft would also allow a panel of three independent experts to reside on its premises and work full-time to ensure the software giant complied with the settlement, Justice officials said.
+The experts would have access to the programming code that is the blueprint of Microsoft's Windows software. 
+"These experts will have full access to all of Microsoft's books, records, systems and personnel, including source code, and will help resolve disputes about Microsoft's compliance," the department said. 
+The deal, if approved, would bring to end a historic antitrust case in which the American icon credited with helping driving the computer revolution was judged to be an illegal monopoly that thwarted competition. 
+The proposed settlement marks a sudden shift in a case that began under the Clinton administration, which sought to break Microsoft into two for its antitrust violations. 
+A judge originally agreed to do that, but the breakup was reversed by a federal appeals court this summer.
+The Bush administration took the breakup off the table before starting negotiations this fall. 
+President Bush has long urged a settlement in the case but the White House remained on the sidelines during the final days of negotiations led by Justice Department antitrust chief Charles James. 
+Critics complained the deal doesn't go far enough to ensure Microsoft won't engage in the same practices that led to the monopoly charges.
+Government officials countered it would prohibit the software giant from entering into exclusive deals with computer sellers to squeeze out rival products. 
+James said the deal would also "promote innovation, give consumers more choices and provide the computer industry as a whole with more certainty in the marketplace." 
+Microsoft will be required to provide software developers with interfaces for its browser, e-mail programs, media players and other Windows additions so that rival developers can write programs that work with those features. 
+The settlement would also require non-Microsoft Internet server software to work with Windows on a personal computer just as well as Microsoft servers do. 
+And Microsoft must license its operating system to key computer makers for five years and can't require manufacturers to exclusively support Microsoft software.
+The company will also be prohibited from retaliating against companies that support competing products. 
+Senior Justice lawyers and Microsoft executives decided to press forward without full cooperation from their state partners in the case and to present the deal to Kollar-Kotelly.
+She has strongly urged the sides to settle since taking over the complex case in August. 
+Lawyers for the states pressured their federal counterparts unsuccessfully this week to seek tougher penalties.
+Some states also argued Microsoft can't be trusted to abide by promises to reform its business practices.
+The current case stems from charges that the company violated a related 1995 agreement with the Justice Department. 
+James similarly lobbied states individually to break from the group.
+None did.
+Iowa, Connecticut, Wisconsin and California were among the most resistant to any immediate settlement, along with Ohio and Kansas. 
+If states decide to reject the settlement, they could object during upcoming public hearings in an effort to scuttle the deal, or they could decide to pursue the case separately in court. 
+But legal experts cautioned it was unclear how effectively states could influence terms during consideration by the trial judge, since she has expressed such strong desire for a settlement.

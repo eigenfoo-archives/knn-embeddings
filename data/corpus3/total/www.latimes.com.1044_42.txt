@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21c7e04521cd61b887bed8c7f9ec8a31258cf3e1c2d64f76edf0e0f6f3df5776
-size 9372
+A lack of regulation allows firms to control production.
+Some want to see the government step in. 
+The shortage of vaccines in the United States against smallpox and anthrax is hardly isolated to those once-obscure bioterrorist threats.
+This country suffers chronic difficulties in producing even some everyday inoculations. 
+The process is plagued by shortages and manufacturing snafus.
+Flu shots, for example, will be delayed again this year because one of the four manufacturers has stopped making the vaccine and another is experiencing plant delays. 
+A months-long shortage of tetanus vaccine has forced hospitals and doctors to abandon standard 10-year booster shots for adults and even to deny shots to injured patients in some remote areas.
+And demand for a new vaccine against such childhood maladies as meningitis has been so great that its manufacturer can't keep up. 
+Several other vaccines are produced by only one manufacturer and could disappear with a serious plant malfunction, a failure to meet federal standards or a decision by the producer to withdraw from the market. 
+The problem is that vaccine makers have little financial incentive to continue manufacturing because vaccines are relatively inexpensive.
+And the companies face plenty of legal liability when patients allege injury.
+From their perspective, plants could be better used to make blockbuster drugs. 
+"Let's face it, there aren't the profits in vaccines that there are in the baldness drug minoxidil," said Steven Block, advisor to the government on biological warfare issues and a Stanford University biophysicist. 
+Critics lament that the federal government has little control over the industry.
+Legally, the government cannot require companies to manufacture vaccines, nor can federal officials demand that companies give notice if they want to stop making one. 
+Dr. Steven Black, co-director of the Vaccine Study Center at Kaiser Permanente, said vaccine companies should be regulated in the same way as public utilities or banks. 
+If the lone maker of tetanus vaccine "decided they could make more money selling rubber ducks tomorrow, they could theoretically stop doing that
+and then there would be no one producing tetanus in this country," Black said.
+"That doesn't seem appropriate to me." 
+For now, doctors and patients confront some serious shortages. 
+Rural physicians complain that they have no tetanus vaccines for patients who suffer deep cuts or who step on scraps of metal, said Dr. Bruce Gellin, executive director of the National Network for Immunization Information.
+Pulmonologists, he said, have reported they couldn't get flu shots for some patients with weak immune systems. 
+"It's not clear that people have been harmed yet by these delays, but the fact that there are spot shortages of these vaccines--and you have to prioritize who gets it--
+that's a problem," Gellin said. 
+With bioterrorism fears growing by the day, Health and Human Services Secretary Tommy Thompson negotiated a deal with a British company, Acambis, to produce 40 million doses of smallpox vaccine by next summer.
+He's also negotiating with other drug companies to expand the government's stockpile to 300 million doses. 
+The government had no backup supplies when Wyeth-Lederle Vaccines stopped making tetanus vaccine for adults earlier this year.
+Because a second company also made the tetanus vaccine, the government did not deem it necessary to keep any reserves on hand. 
+Aventis Pasteur, the remaining tetanus vaccine manufacture, will need several more months to increase its production. 
+Government officials acknowledge now that tetanus supply problems could have been prevented. 
+"We have to reevaluate," said Dr. Walter Orenstein, director of the National Immunization Program at the Centers for Disease Control and Prevention. 
+Several other vaccines are likewise made by a single company.
+Merck & Co. is the sole producer of measles-mumps-rubella (MMR) vaccine, as well as the chickenpox vaccine.
+Wyeth-Lederle is the only manufacturer of pneumococcal vaccine for children. 
+Neither of the two relatively new vaccines is kept in the government's stockpile. 
+According to recent CDC figures, the government keeps only three routine vaccines in its stockpile: 4 million doses of MMR vaccine, 3.6 million doses of polio vaccine and 150,000 doses of pediatric diphtheria-pertussis-tetanus vaccine. 
+Several members of Congress and the National Vaccine Advisory Committee are so concerned about the vaccine supply that they are discussing how the government can protect the public from shortages. 
+"The government needs to play a bigger role in assuring vaccines by stockpiling them," said Rep. Henry Waxman (D-Los Angeles), who has been actively involved in vaccine supply issues.
+But having a federal takeover of vaccine manufacturing "would have to be a last resort," he said. 
+Orenstein suggested greater financial incentives be given to drug companies to produce vaccines.
+Mass vaccination programs, such as those for childhood diseases, are normally developed under government or World Health Organization contracts that offer very modest profit margins. 
+Pharmaceutical companies prefer to focus their efforts on vaccines for more specialized conditions, such as Alzheimer's disease, AIDS and cancer.
+If such vaccines can be manufactured, they could be huge moneymakers. 
+"Vaccines are not the gift that keeps on giving with respect to pharmaceutical company profits," said Block, the Stanford biophysicist.
+"They are interested in selling us a pill that we can take every day for a long period of time." 
+In the 1970s and early '80s, most companies left the vaccine business because of liability concerns, leaving most of the market to a few large competitors. 
+"With any large-scale vaccination campaign, you know one thing for certain--people will die," Block said.
+He was referring, primarily, to the elderly, the very young, or those with weakened immune systems.
+But strong and healthy individuals, too, are sometimes harmed by vaccines. 
+In response, the federal government established a compensation program for patients who suffer injury.
+The program has paid out $1.3 billion since its inception in 1986, removing most liability from the vaccine companies. 
+But many new vaccines are not covered in that program, and the program allows civil suits in certain circumstances. 
+On top of legal concerns, experts say, some drug companies have been driven out of the vaccine business by more stringent safety standards imposed by the federal government. 
+In 1999, the government banned the use of thimerosal, a vaccine preservative containing mercury that possibly has dangerous side effects.
+As a result, two of four companies stopped producing childhood diphtheria-pertussis-tetanus vaccine.
+A third company has had troubles upgrading its plant. 
+Now there is a national shortage of that vital childhood vaccine. 
+"We accept a trade-off that there may be glitches in the vaccine supply because now we no longer accept mercury of even the smallest amount as a preservative in vaccines," said Dr. Jerome Klein, a member of the National Vaccine Advisory Committee. 
+BioPort Corp., which makes anthrax vaccine, hasn't produced a dose since 1998 because its plant has consistently failed U.S. Food and Drug Administration inspections.
+It is trying yet again to receive permission to restart production. 
+Even so, some say that the vaccine industry is undergoing a kind of renaissance--at least in the areas of genetic engineering that can lead to lucrative niche products. 
+"We've made enormous strides.
+The vaccine industry has really been transformed," said Una Ryan, chief executive of Avant Immunotherapeutics Inc. 
+The company is creating oral vaccines for affluent travelers who want to be protected against cholera and typhoid when they travel to areas where such diseases are endemic.
+Avant is also producing vaccines to improve cholesterol levels. 
+Avant recently licensed technology pertaining to a genetically engineered anthrax vaccine to DynPort Vaccine Co., a supplier to the Defense Department.
+The vaccine is still being developed. 
+"In the areas we have concentrated in, we believe that they are very nice businesses," Ryan said. 
+The government, meantime, is doing research of its own.
+To deal with bioterrorism, the National Institutes of Allergy and Infectious Disease is studying whether a diluted version of the smallpox vaccine would effectively protect individuals in the event that new supplies are not forthcoming. 
+Smallpox, caused by a virus, is regarded as much more worrisome than anthrax as a biological weapon, since it is highly contagious, often deadly and has no effective treatment. 
+If the research shows that a diluted version provides immunity, "we can expand the current 15.4 million doses to 75 million," said Dr. Anthony Fauci, the institute's director, who added, "We should have an answer by the end of the year.
+" 
+Some experts have suggested that the push for smallpox and anthrax vaccines have reawakened the public to the benefits of inoculations.
+After all, decades have passed since massive outbreaks of smallpox or polio. 
+"Until there's a crisis, people forget what the value of these things are in keeping diseases at bay," Dr. Gellin said.  
+Times staff writer Marlene Cimons in Washington contributed to this report.

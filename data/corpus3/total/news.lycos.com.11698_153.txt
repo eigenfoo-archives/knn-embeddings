@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee5db351d4ce57808ee47fd2a6f517bd4c39ace24a35620290bb16db47c68c70
-size 4626
+A new vaccine that is perhaps the most closely watched experiment in all of AIDS research is showing promise in early human testing, but researchers caution they are still years away from proving it works.
+The approach, called prime-boost, is highly effective in monkeys.
+Until now, scientists were unsure whether the same would be true in people.
+Results released Tuesday at the 9th Annual Retrovirus Conference in Seattle suggest the immune system response in people is identical to that in newly vaccinated monkeys, which are able to withstand exposure to the virus.
+Experts believe a vaccine is the only way to stop the worldwide AIDS epidemic, which has already killed 20 million people and infected 40 million more.
+But the search has been frustrating, because the virus has evolved elaborate and effective strategies to elude the body s usual defenses against microbes.
+Volunteers in the early-stage testing of Merck Co s experimental vaccine have not been put to the crucial challenge of exposure to HIV, and proving the vaccine does its job will require testing on large numbers of people who are at risk of catching it through sex or drug abuse.
+Nevertheless, researchers said the new results are promising, because they raise the possibility that a vaccine can arm the body s immune defenses to fight off HIV and prevent AIDS.
+"We are encouraged," said Emini, head of Merck s AIDS vaccine program.
+"Obviously, the big question is how effective this will be in preventing or mitigating infection.
+That will have to wait until we get into long-term studies."
+Several new vaccines, like Merck s, take a two-step approach.
+The first, called the prime, is typically HIV genes that are injected into muscle where they are taken up by cells and result in production of viral proteins.
+The second is the boost, often a harmless hollowed-out virus that carries in more HIV genes.
+Together, if all goes as planned, they induce the body to vigorously kill HIV-infected cells.
+This may not prevent an infection, but it should minimize its consequences by keeping virus levels low.
+The Merck study is "an important piece of the puzzle.
+The early data are encouraging and appear to be more encouraging than other types of vaccines that are in later phases of trials," said Dr. Wayne Koff, research chief at the International AIDS Vaccine Initiative.
+His organization is sponsoring a similar study in Africa, conducted by researchers from the University of Oxford.
+However, those results have not been released, so Tuesday s report by Merck is the first to suggest that the approach may work in people.
+Two other vaccines are in later stages of development, but many researchers like Koff are less enthusiastic about them.
+One, VaxGen s AIDSVax vaccine, has already been given to 7,900 volunteers in America, Europe and Thailand.
+It is a more traditional vaccine, made from the outer shell of the AIDS virus.
+Results are expected later this year.
+On Monday, the National Institutes of Health abandoned plans for a large U.S. study of another two-step vaccine approach - Aventis Pasteur s genetically engineered canarypox followed by AIDSVax - but said it will still go ahead with a similar study of the combination in Thailand.
+If all goes perfectly, Emini said it will be at least five years and probably longer before the Merck vaccine reaches general use.
+"I would say full speed ahead for this particular research program.
+These are very encouraging results," said Dr. David Ho, scientific director of the Aaron Diamond AIDS Research Center in New York City .
+The Merck researchers plan to try the vaccine on about 600 volunteers in the first-stage tests.
+About 100 people were given injections of the prime, an HIV gene called gag.
+As expected, the response was modest.
+About one-third of them showed an immune reaction.
+The team is testing escalating doses of the boost stage, which consists of a disabled cold virus crafted to hold another copy of HIV s gag gene.
+Since virtually everyone has been exposed to ordinary varieties of this microbe, known as an adenovirus, the scientists worry the vaccine will be destroyed immediately by the immune system.
+However, the new data suggest that when large doses are given, at least some of the vaccine survives to produce an immune reaction that could - if all works as planned - prepare the body to fight off AIDS.
+S NOTE:
+Medical Editor Daniel Q. Haney is a special correspondent for The Associated Press.
+Copyright 2002
+Associated Press.
+All rights reserved.
+This material may not be published, broadcast, rewritten, or redistributed.
+Have a comment on this article?
+Send it.

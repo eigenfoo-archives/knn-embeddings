@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbe02e5d5a52cb30b140da0f76759dc3f61b1b546521dc79ea49caec6556d968
-size 4919
+Intel has dominated the PC chip market for decades, but the company recently said that its revenue will be 25 percent off previous projections. And the company said a slowing demand for PCs will cut into its prospects for the foreseeable future. 
+said it hasn't felt a similar slowdown, and is moving ahead with new chips. "The world is still turning" said Robert Stead, AMD's director of European marketing. 
+Stead said the company has not changed its outlook on future chip sales. AMD's newest effort to prey on a weakened Intel is a 1.3 GHz Athlon chip, which is now shipping to customers, and should be in PCs on store shelves soon. 
+Do-it-yourselfers can also upgrade their PCs by buying chips from sites like CNET or ZDNet. 
+Stead said that because of its faster communications with memory and other optimizations, the chip runs about as fast as a 1.7 GHz Intel chip. Intel's fastest chip runs at 1.5 GHz. 
+'s chip works with DDR (double data rate) memory, which Stead said is superior to Rambus memory that is supported by Intel. "(DDR) is a better sprinter" since it sends information to the CPU quicker, he said. 
+Stead admitted that Rambus was a better "marathoner," since it has faster bandwidth once an exchange of data has been started. 
+But AMD's biggest challenger to Intel could be its unique 64-bit chip. 
+Ever since Intel helped to create the PC market, it has created new chip designs to keep feeding it. Other companies would then reverse-engineer those capabilities and manufacture chips that could also run Intel-friendly software. 
+'s Hammer chip, which will be out by the end of the year, is a proprietary design, so software companies will have to decide to create separate versions of their products and Intel's future Itanium processor. 
+is working closely with Linux developers to rally support for its chip. The company has posted software that simulates how the new chip works on the x86-64.org website, where open-source programmers can contribute to the Linux effort. 
+is also paying SuSE, Europe's largest Linux development company, to help the software along. 
+But getting Microsoft to support the new chip will likely make or break AMD's effort. AMD software engineer Mats Peterson said a smiling "no commment" about any possible talks with Microsoft, but acknowledged that its chip is dead if it can't run Windows. 
+Peterson said that the chip will be used in desktops, workstations and servers running Linux. 
+Intel was not showing off any new chips at CeBIT, Europe's largest IT show, but spokesman Hans-Jurgen Werner said the company isn't ready to cede the Linux market to AMD. 
+Werner said Intel has invested in Linux software companies Red Hat as well as SuSE, and has is even paying its customers to rewrite their software for its Itanium chip. 
+Intel has created a $243 million fund that customers such as Bank of America can get money from to pay outside agencies to develop Itanium software. 
+"The Itanium rollout is different than anything else we have done before," Werner said. Intel has distributed compilers for its new chips, and have likewise made an Itanium simulator available to open-source developers. 
+Intel is also working with Microsoft on a version of its future Whistler operating system to run on the chip. That OS should be out by summer. 
+Werner said the Rambus memory architecture is better for working with future processors that have wider bus pipelines. 
+will be in for a challenge in directly competing with Intel, Werner said, pointing out that Sun Microsystems and others had tried and failed. And asking software developers to write separate code for AMD may be unreasonable. 
+"I'm not sure if you can develop a 64-bit architecture with all of its complexity as a niche within a niche," Werner said. 
+Despite Intel's dark profit picture, Werner said the company is still committed to spending $4.2 billion on research this year. 
+Via Technologies, which recently acquired Cyrix, a chipmaker that had tried and failed to take a considerable market share from Intel, also had new offerings at CeBIT. But they aren't ready to go toe-to-toe with Intel just yet. 
+Via is instead focusing on creating a larger market for $200-$300 PCs, and the company announced new 700 MHz chips. Shane Dennison, manager of international marketing at AMD said going underneath, instead of at Intel, is the best strategy for now. "We're learning to crawl before we can walk," Dennison said. 
+Dennison said Via is making a chipset that allows motherboards that use DDR memory systems to work with Intel CPUs to give customers an alternative. 
+"Intel is committed to Rambus (because of significant financial investments)," Dennison said. "We feel it is not the answer." 
+Have a comment on this article? Send it . 
+Printing? Use this version. 
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2001 Wired Digital Inc., a Lycos Network site. All rights reserved.

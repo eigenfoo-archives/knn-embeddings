@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cf61479492b605b7cb8350a494f5f8d54353c35e9f5c67a19fcc55eb074fa85
-size 3830
+The Mac may be only a sliver of the personal computer pie, but there's a banquet of online information sources for Mac users. The Web is full of Mac-related Web sites of all types and credibility levels, sites that have full-time editorial staffs and sites that are based in spare bedrooms. Here are some of my favorites.
+For daily news and analysis that reflect the pulse of the Mac community, there's no place like Ric Ford's Macintouch, at www.macin touch.com. Online since 1994, Macintouch provides concise coverage of new products and software updates as well as reader-submitted opinions and tips.
+Another fine news site is MacCentral, at www.maccentral.com, whose news is updated regularly during each business day. MacCentral is published by the creators of Macworld magazine, which has its own site at www.macworld .com. MacAddict magazine covers the Mac in an irreverent, unabashedly partisan style. You can sample its attitude at its Web site, www .macaddict.com.
+The granddaddy of Mac e-zines is Adam Engst's TidBits, which has been published weekly since 1990. Distributed via e-mail and at www.tidbits.com, TidBits contains thorough reviews of Mac products and hard-hitting, well-reasoned analysis of news and trends in the Mac world.
+For Mac troubleshooting advice, you can't beat Ted Landau's MacFixit (www.macfixit.com). When a bug bites or a new operating system update causes problems with existing programs, you'll often hear about it here first.
+One of the Mac's many strengths is its longevity. Thanks to accelerator cards and other upgrades, I'm still using Macs made 10 years ago. For tips on keeping an old Mac alive, check out Low End Mac (www.lowendmac.com). The site is now running a series of articles on installing OS X on elderly Macs.
+If you're a Mac geek exploring the Unix underpinnings of Mac OSX, you'll like MacSlash (www .macslash.org) and Mac OS X Hints (www.macosxhints.com).
+Mike Breedens' XLR8yourmac .com is a solid source of advice on Mac performance tuning.
+Apple zealots cringe at the thought, but many Macs share office space with Windows PCs. John Rizzo's MacWindows (www.mac windows.com) provides news and advice on getting Macs and Windows on speaking terms. Last week, the site published an article about the performance problems that users are reporting with Connectix's VirtualPC 5, which lets Mac OS X run Windows.
+For news and links relating to Apple's QuickTime digital media technology, visit Robert and Judy Lettieri's Little QuickTime Page(www.judyandrobert.com/quick time). For professional video editors and DVD developers, 2-Pop (www.2-pop.com) provides articles and discussion boards on Apple's Final Cut Pro and DVD Studio Pro programs.
+There's no shortage of free or nearly free software for the Mac. Two good places to explore the world of freeware and shareware are MacDownload at www.mac download.com and VersionTracker (www.versiontracker.com).
+Speaking of free stuff, if you're the type of Mac user who likes to customize your desktop and icons, you'll find decorating ideas at Icon Factory (www.iconfactory.com) and Xicons (www.xicons.com).
+Out of the numerous Apple rumor sites, there is only one I'll recommend. Crazy Apple Rumors (www.crazyapplerumors.com) is, in its words, "dedicated to the fabrication of Apple rumors that defy verifiability, grammatical convention or any basis in reality." Believe it. Last month, before the most recent Macworld Expo, the site broke this faux exclusive: "January 7th Keynote to Be a Repeat--Apple to Re-Introduce iPod."
+And if you're a glutton for punishment, you'll find links to past Mac Focus columns as well as all of the articles I write for Macworld magazine at my humble Web outpost, www.jimheid.com.
+
+Jim Heid is a contributing editor of Macworld magazine. He can be reached at jim@jimheid.com.

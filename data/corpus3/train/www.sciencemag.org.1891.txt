@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13c728a6210d0856a0ee664f2e739924a4fdd8352ca2cadc40fb988c9c9c4ee7
-size 2107
+We describe results from a fully self-consistent three-dimensional hydrodynamical simulation of the formation of one of the first stars in the Universe. In current models of structure formation, dark matter initially dominates, and pregalactic objects form because of gravitational instability from small initial density perturbations. As they assemble via hierarchical merging, primordial gas cools through ro-vibrational lines of hydrogen molecules and sinks to the center of the dark matter potential well. The high-redshift analog of a molecular cloud is formed. As the dense, central parts of the cold gas cloud become self-gravitating, a dense core of ~100 M (where M is the mass of the Sun) undergoes rapid contraction. At particle number densities greater than 10 9 per cubic centimeter, a 1 M protostellar core becomes fully molecular as a result of three-body H 2 formation. Contrary to analytical expectations, this process does not lead to renewed fragmentation and only one star is formed. The calculation is stopped when optical depth effects become important, leaving the final mass of the fully formed star somewhat uncertain. At this stage the protostar is accreting material very rapidly (~10 2 M year 1 ). Radiative feedback from the star will not only halt its growth but also inhibit the formation of other stars in the same pregalactic object (at least until the first star ends its life, presumably as a supernova). We conclude that at most one massive ( M 1 M ) metal-free star forms per pregalactic halo, consistent with recent abundance measurements of metal-poor galactic halo stars. 
+1 Harvard Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA. 
+2 Institute of Astronomy, University of Cambridge, Cambridge CB3 0HA, UK. 
+3 Astrophysics Division, Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. 
+4 Center for Astrophysics Space Sciences, University of California, San Diego, La Jolla, CA 92093, USA. 
+
+
+How the Cosmic Dark Age Ended. 
+
+Great Balls of Fire. 
+
+
+Volume 295, Number 5552, Issue of 4 Jan 2002, pp. 93-98.
