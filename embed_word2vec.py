@@ -13,6 +13,7 @@ if __name__ == '__main__':
                  '/data/corpus3/total']
 
     for idx, data_dir in data_dirs:
+        print('Learning word embeddings for Corpus {}...'.format(idx+1))
         sentences = PathLineSentences(os.getcwd() + data_dir)
         w2v = Word2Vec(sentences,
                        size=dim,

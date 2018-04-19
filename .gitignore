@@ -1,3 +1,5 @@
+# Downloadable models #
+#######################
 glove.*.txt
 embeddings/fastText/
 
