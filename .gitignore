@@ -1,4 +1,5 @@
 glove.*.txt
+embeddings/fastText/
 
 # Compiled source #
 ###################
