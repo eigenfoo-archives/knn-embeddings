@@ -30,3 +30,8 @@ echo
 echo "Learning embeddings for Corpus 3..."
 ./embeddings/fastText/fasttext cbow -input data/corpus3/total/total.txt \
     -output fastText.corpus3.300d -dim 300 -minCount 1 -epoch 100
+
+mv fastText.* embeddings/
+
+echo
+echo "Success."
