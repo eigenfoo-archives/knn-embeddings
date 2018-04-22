@@ -1,4 +1,4 @@
-# Rocchio Classifier with Word Embeddings
+# kNN Text Categorizer with Word Embeddings
 
 ## Requirements
 
@@ -35,8 +35,20 @@ These three scripts will:
    embeddings](https://radimrehurek.com/gensim/models/word2vec.html) using the
    python library `gensim`.
 
-Note that these are fairly computationally intensive tasks.
+Note that these are fairly computationally intensive tasks, and required around
+30 minutes to run.
 
-## Results
+To use the word embeddings in a kNN text categorizer, simply run
 
-In `rocchio.py`
+```
+$ python knn.py
+```
+
+## Remarks
+
+1. Stopwords didn't help much. They increased and decreased performance,
+   depending on the corpus and word embedding.
+2. Just getting from word vectors to document vectors required a lot of
+   experimentation: the max, min and their concatenation were all found to
+   consistently underperform a simple mean.
+
