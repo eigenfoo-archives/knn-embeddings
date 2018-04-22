@@ -6,10 +6,9 @@ import warnings
 warnings.filterwarnings('ignore')
 import numpy as np
 import pandas as pd
-from sklearn.neighbors import NearestCentroid
+from sklearn.neighbors import NearestCentroid, KNeighborsClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from gensim.models.word2vec import Word2Vec, LineSentence
 
 
@@ -28,10 +27,10 @@ def get_corpus_dfs(n):
     test = pd.read_csv('data/{}_test.labels'.format(s),
                        delim_whitespace=True,
                        names=['path', 'clf'])
-    
+
     train.loc[:, 'path'] = train.loc[:, 'path'].map(lambda s: 'data' + s[1:])
     test.loc[:, 'path'] = test.loc[:, 'path'].map(lambda s: 'data' + s[1:])
-    
+
     return train, test
 
 
@@ -40,7 +39,8 @@ def rocchio_performance(X_train, y_train, X_test, y_test):
     Given a train and test split, measure the overall accuracy,
     precision, recall, F-1 score and support of the Rocchio classifier.
     '''
-    rocchio_tfidf = NearestCentroid().fit(X_train, y_train)
+    rocchio_tfidf = KNeighborsClassifier(n_neighbors=5,
+                                         weights='distance').fit(X_train, y_train)
 
     predictions = rocchio_tfidf.predict(X_test)
 
@@ -56,21 +56,17 @@ def rocchio_performance(X_train, y_train, X_test, y_test):
     return acc, prfs
 
 
-def get_embedding_matrix(corpus_df, embeddings, func, dim=300):
+with open('stopwords.txt', 'r') as f:
+    stops = f.read().split()
+
+
+def get_embedding_matrix(corpus_df, embeddings, func, stopwords=stops, dim=300):
     X = np.zeros([len(corpus_df), dim])
     
     for j in range(len(corpus_df)):
         words = list(chain.from_iterable(LineSentence(corpus_df.loc[j, 'path'])))
-
-        try:
-            try:
-                X[j] = func(embeddings.loc[words])
-            except AttributeError:
-                print('attribute error')
-                X[j] = func(embeddings[words])
-        except:
-            print('oov word!!!')
-            continue
+        words = [w for w in words if w not in stopwords]
+        X[j] = func(embeddings.loc[words])
     
     return X
 
@@ -107,39 +103,13 @@ if __name__ == '__main__':
                           quoting=csv.QUOTE_NONE)
 
 
-    print('Rocchio-glove (mean)')
+    print('Rocchio-glove')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
 
         X_train = get_embedding_matrix(train, glove, np.mean)
         X_test = get_embedding_matrix(test, glove, np.mean)
-        clf_train = train.loc[:, 'clf']
-        clf_test = test.loc[:, 'clf']
-
-        print('Corpus {}:'.format(i))
-        acc, prfs = rocchio_performance(X_train, clf_train, X_test, clf_test)
-        print('')
-        print('')
-    print('------------------------------')
-
-
-    print('Rocchio-glove (concat max and min)')
-    print('')
-    for i in range(1, 4):
-        train, test = get_corpus_dfs(i)
-
-
-        X_train = get_embedding_matrix(train,
-                                       glove,
-                                       lambda x: np.hstack([np.amax(x, axis=0),
-                                                            np.amin(x, axis=0)]),
-                                       dim=600)
-        X_test = get_embedding_matrix(test,
-                                      glove,
-                                      lambda x: np.hstack([np.amax(x, axis=0),
-                                                           np.amin(x, axis=0)]),
-                                      dim=600)
         clf_train = train.loc[:, 'clf']
         clf_test = test.loc[:, 'clf']
 
@@ -172,31 +142,6 @@ if __name__ == '__main__':
 
         X_train = get_embedding_matrix(train, w2v[i-1], np.mean)
         X_test = get_embedding_matrix(test, w2v[i-1], np.mean)
-        clf_train = train.loc[:, 'clf']
-        clf_test = test.loc[:, 'clf']
-
-        print('Corpus {}:'.format(i))
-        acc, prfs = rocchio_performance(X_train, clf_train, X_test, clf_test)
-        print('')
-        print('')
-    print('------------------------------')
-
-
-    print('Rocchio-word2vec (concat max and min)')
-    print('')
-    for i in range(1, 4):
-        train, test = get_corpus_dfs(i)
-
-        X_train = get_embedding_matrix(train,
-                                       w2v[i-1],
-                                       lambda x: np.hstack([np.amax(x, axis=0),
-                                                            np.amin(x, axis=0)]),
-                                       dim=600)
-        X_test = get_embedding_matrix(test,
-                                      w2v[i-1],
-                                      lambda x: np.hstack([np.amax(x, axis=0),
-                                                           np.amin(x, axis=0)]),
-                                      dim=600)
         clf_train = train.loc[:, 'clf']
         clf_test = test.loc[:, 'clf']
 
