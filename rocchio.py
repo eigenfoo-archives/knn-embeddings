@@ -63,14 +63,11 @@ def get_embedding_matrix(corpus_df, embeddings, func, dim=300):
         words = list(chain.from_iterable(LineSentence(corpus_df.loc[j, 'path'])))
 
         try:
-            try:
-                X[j] = func(embeddings.loc[words])
-            except:
-                X[j] = func(embeddings[words])
-        except:
-            # FIXME out of vocab words???
-            print('uh oh')
-            continue
+            # Try using glove syntax
+            X[j] = func(embeddings.loc[words])
+        except AttributeError:
+            # Else, use word2vec syntax
+            X[j] = func(embeddings[words])
     
     return X
 
