@@ -34,150 +34,132 @@ Support    10.000000  39.000000  53.000000  28.000000  87.000000  101.000000
 Rocchio-glove (mean)
 
 Corpus 1:
-Overall accuracy: 0.835214
+Overall accuracy: 0.832957
 
                  Cri        Dis        Oth         Pol         Str
-Precision   0.860000   0.910112   0.600000    0.840278    0.814815
-Recall      0.826923   0.870968   0.555556    0.870504    0.833333
-F-1         0.843137   0.890110   0.576923    0.855124    0.823970
-Support    52.000000  93.000000  27.000000  139.000000  132.000000
-
-
-Corpus 2:
-Overall accuracy: 0.775168
-
-                   I           O
-Precision   0.670330    0.821256
-Recall      0.622449    0.850000
-F-1         0.645503    0.835381
-Support    98.000000  200.000000
-
-
-Corpus 3:
-Overall accuracy: 0.814465
-
-                 Ent        Fin        Sci        Spo        USN         Wor
-Precision   0.833333   0.809524   0.868421   0.750000   0.777778    0.837607
-Recall      0.312500   0.871795   0.785714   0.954545   0.768293    0.970297
-F-1         0.454545   0.839506   0.825000   0.840000   0.773006    0.899083
-Support    32.000000  39.000000  42.000000  22.000000  82.000000  101.000000
-
-
-------------------------------
-Rocchio-glove (max)
-
-Corpus 1:
-Overall accuracy: 0.749436
-
-                 Cri        Dis        Oth         Pol         Str
-Precision   0.740000   0.842697   0.480000    0.784722    0.703704
-Recall      0.506849   0.862069   0.461538    0.882812    0.736434
-F-1         0.601626   0.852273   0.470588    0.830882    0.719697
-Support    73.000000  87.000000  26.000000  128.000000  129.000000
-
-
-Corpus 2:
-Overall accuracy: 0.788591
-
-                   I           O
-Precision   0.692308    0.830918
-Recall      0.642857    0.860000
-F-1         0.666667    0.845209
-Support    98.000000  200.000000
-
-
-Corpus 3:
-Overall accuracy: 0.745283
-
-                 Ent        Fin        Sci        Spo        USN         Wor
-Precision   0.916667   0.833333   0.684211   0.821429   0.691358    0.735043
-Recall      0.440000   0.625000   0.764706   1.000000   0.708861    0.851485
-F-1         0.594595   0.714286   0.722222   0.901961   0.700000    0.788991
-Support    25.000000  56.000000  34.000000  23.000000  79.000000  101.000000
-
-
-------------------------------
-Rocchio-glove (min)
-
-Corpus 1:
-Overall accuracy: 0.702032
-
-                 Cri        Dis        Oth         Pol         Str
-Precision   0.700000   0.842697   0.440000    0.680556    0.681481
-Recall      0.416667   0.903614   0.423077    0.823529    0.702290
-F-1         0.522388   0.872093   0.431373    0.745247    0.691729
-Support    84.000000  83.000000  26.000000  119.000000  131.000000
-
-
-Corpus 2:
-Overall accuracy: 0.768456
-
-                    I           O
-Precision    0.714286    0.792271
-Recall       0.601852    0.863158
-F-1          0.653266    0.826196
-Support    108.000000  190.000000
-
-
-Corpus 3:
-Overall accuracy: 0.820755
-
-                 Ent        Fin        Sci        Spo        USN         Wor
-Precision   0.916667   0.785714   0.868421   0.892857   0.765432    0.829060
-Recall      0.343750   0.868421   0.825000   1.000000   0.784810    0.932692
-F-1         0.500000   0.825000   0.846154   0.943396   0.775000    0.877828
-Support    32.000000  38.000000  40.000000  25.000000  79.000000  104.000000
-
-
-------------------------------
-Rocchio-glove (concat max and min)
-
-Corpus 1:
-Overall accuracy: 0.735892
-
-                 Cri        Dis        Oth         Pol         Str
-Precision   0.740000   0.831461   0.520000    0.743056    0.703704
-Recall      0.430233   0.880952   0.590909    0.891667    0.725191
-F-1         0.544118   0.855491   0.553191    0.810606    0.714286
-Support    86.000000  84.000000  22.000000  120.000000  131.000000
+Precision   0.840000   0.932584   0.600000    0.854167    0.785185
+Recall      0.807692   0.882979   0.535714    0.842466    0.861789
+F-1         0.823529   0.907104   0.566038    0.848276    0.821705
+Support    52.000000  94.000000  28.000000  146.000000  123.000000
 
 
 Corpus 2:
 Overall accuracy: 0.795302
 
                    I           O
-Precision   0.703297    0.835749
-Recall      0.653061    0.865000
-F-1         0.677249    0.850123
-Support    98.000000  200.000000
+Precision   0.681319    0.845411
+Recall      0.659574    0.857843
+F-1         0.670270    0.851582
+Support    94.000000  204.000000
 
 
 Corpus 3:
-Overall accuracy: 0.798742
+Overall accuracy: 0.757862
 
-                 Ent        Fin        Sci        Spo        USN         Wor
-Precision   0.916667   0.833333   0.842105   0.857143   0.740741    0.786325
-Recall      0.392857   0.853659   0.761905   1.000000   0.750000    0.893204
-F-1         0.550000   0.843373   0.800000   0.923077   0.745342    0.836364
-Support    28.000000  41.000000  42.000000  24.000000  80.000000  103.000000
+                 Ent        Fin        Sci        Spo        USN        Wor
+Precision   0.833333   0.809524   0.789474   0.714286   0.679012   0.786325
+Recall      0.243902   0.809524   0.750000   1.000000   0.723684   0.929293
+F-1         0.377358   0.809524   0.769231   0.833333   0.700637   0.851852
+Support    41.000000  42.000000  40.000000  20.000000  76.000000  99.000000
+
+
+------------------------------
+Rocchio-glove (concat max and min)
+
+Corpus 1:
+Overall accuracy: 0.758465
+
+                 Cri        Dis    Oth         Pol         Str
+Precision   0.740000   0.865169   0.52    0.777778    0.718519
+Recall      0.415730   0.916667   0.52    0.881890    0.822034
+F-1         0.532374   0.890173   0.52    0.826568    0.766798
+Support    89.000000  84.000000  25.00  127.000000  118.000000
+
+
+Corpus 2:
+Overall accuracy: 0.728188
+
+                    I           O
+Precision    0.648352    0.763285
+Recall       0.546296    0.831579
+F-1          0.592965    0.795970
+Support    108.000000  190.000000
+
+
+Corpus 3:
+Overall accuracy: 0.773585
+
+                 Ent        Fin        Sci        Spo        USN        Wor
+Precision   0.833333   0.880952   0.684211   0.785714   0.753086   0.769231
+Recall      0.370370   0.740000   0.812500   0.880000   0.709302   0.918367
+F-1         0.512821   0.804348   0.742857   0.830189   0.730539   0.837209
+Support    27.000000  50.000000  32.000000  25.000000  86.000000  98.000000
 
 
 ------------------------------
 Rocchio-word2vec (mean)
 
-Traceback (most recent call last):
-  File "rocchio.py", line 195, in <module>
-    X_train = get_embedding_matrix(train, w2v[i], np.mean)
-  File "rocchio.py", line 69, in get_embedding_matrix
-    X[j] = func(embeddings[words])
-  File "/zooper1/ho/.local/bin/gensim/utils.py", line 1368, in new_func1
-    return func(*args, **kwargs)
-  File "/zooper1/ho/.local/bin/gensim/models/word2vec.py", line 821, in __getitem__
-    return self.wv.__getitem__(words)
-  File "/zooper1/ho/.local/bin/gensim/models/keyedvectors.py", line 171, in __getitem__
-    return vstack([self.get_vector(entity) for entity in entities])
-  File "/zooper1/ho/.local/bin/gensim/models/keyedvectors.py", line 272, in get_vector
-    return self.word_vec(word)
-  File "/zooper1/ho/.local/bin/gensim/models/keyedvectors.py", line 269, in word_vec
-    raise KeyError("word '%s' not in vocabulary" % word)
-KeyError: "word 'atlanta' not in vocabulary"
+Corpus 1:
+Overall accuracy: 0.803612
+
+             Cri        Dis        Oth         Pol         Str
+Precision   0.78   0.910112   0.600000    0.826389    0.755556
+Recall      0.78   0.852632   0.384615    0.856115    0.850000
+F-1         0.78   0.880435   0.468750    0.840989    0.800000
+Support    50.00  95.000000  39.000000  139.000000  120.000000
+
+
+Corpus 2:
+Overall accuracy: 0.758389
+
+                    I           O
+Precision    0.681319    0.792271
+Recall       0.590476    0.849741
+F-1          0.632653    0.820000
+Support    105.000000  193.000000
+
+
+Corpus 3:
+Overall accuracy: 0.754717
+
+                 Ent        Fin        Sci        Spo        USN         Wor
+Precision   0.750000   0.785714   0.789474   0.607143   0.691358    0.811966
+Recall      0.209302   0.767442   0.769231   0.739130   0.800000    0.950000
+F-1         0.327273   0.776471   0.779221   0.666667   0.741722    0.875576
+Support    43.000000  43.000000  39.000000  23.000000  70.000000  100.000000
+
+
+------------------------------
+Rocchio-word2vec (concat max and min)
+
+Corpus 1:
+Overall accuracy: 0.623025
+
+                 Cri        Dis        Oth         Pol        Str
+Precision   0.600000   0.662921   0.280000    0.736111   0.548148
+Recall      0.361446   0.776316   0.155556    0.751773   0.755102
+F-1         0.451128   0.715152   0.200000    0.743860   0.635193
+Support    83.000000  76.000000  45.000000  141.000000  98.000000
+
+
+Corpus 2:
+Overall accuracy: 0.718121
+
+                    I           O
+Precision    0.681319    0.734300
+Recall       0.529915    0.839779
+F-1          0.596154    0.783505
+Support    117.000000  181.000000
+
+
+Corpus 3:
+Overall accuracy: 0.537736
+
+                 Ent        Fin        Sci        Spo         USN        Wor
+Precision   0.416667   0.571429   0.368421   0.392857    0.679012   0.529915
+Recall      0.208333   0.685714   0.388889   0.244444    0.482456   0.968750
+F-1         0.277778   0.623377   0.378378   0.301370    0.564103   0.685083
+Support    24.000000  35.000000  36.000000  45.000000  114.000000  64.000000
+
+
+------------------------------
