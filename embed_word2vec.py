@@ -12,11 +12,11 @@ if __name__ == '__main__':
                  '/data/corpus2/total',
                  '/data/corpus3/total']
 
-    for idx, data_dir in data_dirs:
+    for idx, data_dir in enumerate(data_dirs):
         print('Learning word embeddings for Corpus {}...'.format(idx+1))
         sentences = PathLineSentences(os.getcwd() + data_dir)
         w2v = Word2Vec(sentences,
-                       size=dim,
+                       size=300,
                        min_count=1,
                        window=5,
                        seed=1618,
