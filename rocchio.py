@@ -41,18 +41,18 @@ def rocchio_performance(X_train, y_train, X_test, y_test):
     precision, recall, F-1 score and support of the Rocchio classifier.
     '''
     rocchio_tfidf = NearestCentroid().fit(X_train, y_train)
-    
+
     predictions = rocchio_tfidf.predict(X_test)
-    
+
     acc =  accuracy_score(y_test, predictions)
     prfs = np.vstack(precision_recall_fscore_support(predictions, y_test))
-    
+
     print('Overall accuracy: {:f}'.format(acc))
     print('')
     print(pd.DataFrame(data=prfs,
                        index=['Precision', 'Recall', 'F-1', 'Support'],
                        columns=rocchio_tfidf.classes_))
-    
+
     return acc, prfs
 
 
@@ -66,6 +66,7 @@ def get_embedding_matrix(corpus_df, embeddings, func, dim=300):
             try:
                 X[j] = func(embeddings.loc[words])
             except:
+                print('floof?')
                 X[j] = func(embeddings[words])
         except:
             # FIXME out of vocab words???
@@ -185,9 +186,18 @@ if __name__ == '__main__':
     print('------------------------------')
     '''
 
-    w2v1 = Word2Vec.load('embeddings/w2v.corpus1.300d')
-    w2v2 = Word2Vec.load('embeddings/w2v.corpus2.300d')
-    w2v3 = Word2Vec.load('embeddings/w2v.corpus3.300d')
+    w2v = Word2Vec.load('embeddings/w2v.corpus1.300d')
+    w2v1 = pd.DataFrame(data=w2v.wv.vectors,
+                        index=w2v.wv.index2word,
+                        columns=range(1, 301))
+    w2v = Word2Vec.load('embeddings/w2v.corpus2.300d')
+    w2v2 = pd.DataFrame(data=w2v.wv.vectors,
+                        index=w2v.wv.index2word,
+                        columns=range(1, 301))
+    w2v = Word2Vec.load('embeddings/w2v.corpus3.300d')
+    w2v3 = pd.DataFrame(data=w2v1.wv.vectors,
+                        index=w2v1.wv.index2word,
+                        columns=range(1, 301))
     w2v = [w2v1, w2v2, w2v3]
 
 
@@ -247,7 +257,6 @@ if __name__ == '__main__':
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
-
 
         X_train = get_embedding_matrix(train,
                                        w2v[i-1],
