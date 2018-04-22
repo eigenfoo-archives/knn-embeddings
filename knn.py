@@ -23,7 +23,6 @@ def get_corpus_dfs(n):
     train = pd.read_csv('data/{}_train.labels'.format(s),
                         delim_whitespace=True,
                         names=['path', 'clf'])
-    
     test = pd.read_csv('data/{}_test.labels'.format(s),
                        delim_whitespace=True,
                        names=['path', 'clf'])
@@ -34,15 +33,15 @@ def get_corpus_dfs(n):
     return train, test
 
 
-def rocchio_performance(X_train, y_train, X_test, y_test):
+def knn_performance(X_train, y_train, X_test, y_test):
     '''
     Given a train and test split, measure the overall accuracy,
-    precision, recall, F-1 score and support of the Rocchio classifier.
+    precision, recall, F-1 score and support of the kNN classifier.
     '''
-    rocchio_tfidf = KNeighborsClassifier(n_neighbors=5,
-                                         weights='distance').fit(X_train, y_train)
+    knn = KNeighborsClassifier(n_neighbors=5,
+                               weights='distance').fit(X_train, y_train)
 
-    predictions = rocchio_tfidf.predict(X_test)
+    predictions = knn.predict(X_test)
 
     acc =  accuracy_score(y_test, predictions)
     prfs = np.vstack(precision_recall_fscore_support(predictions, y_test))
@@ -51,16 +50,17 @@ def rocchio_performance(X_train, y_train, X_test, y_test):
     print('')
     print(pd.DataFrame(data=prfs,
                        index=['Precision', 'Recall', 'F-1', 'Support'],
-                       columns=rocchio_tfidf.classes_))
+                       columns=knn.classes_))
 
     return acc, prfs
 
-
+'''
 with open('stopwords.txt', 'r') as f:
     stops = f.read().split()
+'''
 
 
-def get_embedding_matrix(corpus_df, embeddings, func, stopwords=stops, dim=300):
+def get_embedding_matrix(corpus_df, embeddings, func, stopwords=[], dim=300):
     X = np.zeros([len(corpus_df), dim])
     
     for j in range(len(corpus_df)):
@@ -72,7 +72,7 @@ def get_embedding_matrix(corpus_df, embeddings, func, stopwords=stops, dim=300):
 
 
 if __name__ == '__main__':
-    print('Rocchio-tfidf')
+    print('tfidf')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
@@ -90,7 +90,7 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = rocchio_performance(tfidf_train, clf_train, tfidf_test, clf_test)
+        acc, prfs = knn_performance(tfidf_train, clf_train, tfidf_test, clf_test)
         print('')
         print('')
     print('------------------------------')
@@ -103,7 +103,7 @@ if __name__ == '__main__':
                           quoting=csv.QUOTE_NONE)
 
 
-    print('Rocchio-glove')
+    print('GloVe')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
@@ -114,7 +114,7 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = rocchio_performance(X_train, clf_train, X_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
         print('')
         print('')
     print('------------------------------')
@@ -135,7 +135,7 @@ if __name__ == '__main__':
     w2v = [w2v1, w2v2, w2v3]
 
 
-    print('Rocchio-word2vec (mean)')
+    print('word2vec')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
@@ -146,7 +146,7 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = rocchio_performance(X_train, clf_train, X_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
         print('')
         print('')
     print('------------------------------')
