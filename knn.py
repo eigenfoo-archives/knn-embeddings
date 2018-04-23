@@ -1,4 +1,5 @@
 import os
+import sys
 import csv
 import re
 import subprocess
@@ -34,12 +35,12 @@ def get_corpus_dfs(n):
     return train, test
 
 
-def knn_performance(X_train, y_train, X_test, y_test):
+def knn_performance(X_train, y_train, X_test, y_test, k=4):
     '''
     Given a train and test split, measure the overall accuracy,
     precision, recall, F-1 score and support of the kNN classifier.
     '''
-    knn = KNeighborsClassifier(n_neighbors=5,
+    knn = KNeighborsClassifier(n_neighbors=k,
                                weights='distance').fit(X_train, y_train)
 
     predictions = knn.predict(X_test)
@@ -176,19 +177,3 @@ if __name__ == '__main__':
         print('')
         print('')
     print('------------------------------')
-
-    '''
-    for i in range(1, 4):
-        with open('queries{}.txt'.format(i), 'w') as f:
-            for w in w2v[i-1].index:
-                f.write(w + '\n')
-
-    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
-                     'model.bin', '<', 'queries1.txt'])
-    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
-                     'model.bin', '<', 'queries2.txt'])
-    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
-                     'model.bin', '<', 'queries3.txt'])
-    '''
-
-    # FIXME now do fastText!
