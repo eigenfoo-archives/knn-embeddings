@@ -1,6 +1,7 @@
 # Downloadable models #
 #######################
 glove.*.txt
+wiki-news-300d-1M.vec
 embeddings/fastText/
 
 # Compiled source #

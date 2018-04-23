@@ -1,6 +1,7 @@
 import os
 import csv
 import re
+import subprocess
 from itertools import chain
 import warnings
 warnings.filterwarnings('ignore')
@@ -103,13 +104,38 @@ if __name__ == '__main__':
                           quoting=csv.QUOTE_NONE)
 
 
-    print('GloVe')
+    print('GloVe (pre-trained)')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
 
         X_train = get_embedding_matrix(train, glove, np.mean)
         X_test = get_embedding_matrix(test, glove, np.mean)
+        clf_train = train.loc[:, 'clf']
+        clf_test = test.loc[:, 'clf']
+
+        print('Corpus {}:'.format(i))
+        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
+        print('')
+        print('')
+    print('------------------------------')
+
+
+    fasttext = pd.read_table('embeddings/wiki-news-300d-1M.vec',
+                             delimiter=' ',
+                             index_col=0,
+                             header=None,
+                             skiprows=1,
+                             quoting=csv.QUOTE_NONE)
+
+
+    print('fastText (pre-trained)')
+    print('')
+    for i in range(1, 4):
+        train, test = get_corpus_dfs(i)
+
+        X_train = get_embedding_matrix(train, fasttext, np.mean)
+        X_test = get_embedding_matrix(test, fasttext, np.mean)
         clf_train = train.loc[:, 'clf']
         clf_test = test.loc[:, 'clf']
 
@@ -150,5 +176,19 @@ if __name__ == '__main__':
         print('')
         print('')
     print('------------------------------')
+
+    '''
+    for i in range(1, 4):
+        with open('queries{}.txt'.format(i), 'w') as f:
+            for w in w2v[i-1].index:
+                f.write(w + '\n')
+
+    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
+                     'model.bin', '<', 'queries1.txt'])
+    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
+                     'model.bin', '<', 'queries2.txt'])
+    subprocess.call(['./embeddings/fastText/fasttext', 'print-word-vectors',
+                     'model.bin', '<', 'queries3.txt'])
+    '''
 
     # FIXME now do fastText!

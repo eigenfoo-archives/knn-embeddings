@@ -13,7 +13,7 @@ else
     echo
     echo "Unzipping..."
     unzip glove.6B.zip
-    rm glove.6B.zip
+    rm glove.6B.zip glove.6B.50d.txt glove.6B.100d.txt glove.6B.200d.txt 
 fi
 
 echo

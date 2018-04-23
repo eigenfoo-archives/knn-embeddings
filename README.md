@@ -46,9 +46,13 @@ $ python knn.py
 
 ## Remarks
 
-1. Stopwords didn't help much. They increased and decreased performance,
-   depending on the corpus and word embedding.
+1. Stopwords didn't help. The default stopwords shipped with `nltk` were used:
+   all stopwords were stripped from the embeddings and from the testing
+   documents (i.e. stopwords were neither embedded nor considered during
+   testing). The result was that stopwords both increased performance by at most
+   1%, and decreased performance by at most 2%, depending on the corpus and the
+   word embedding.
 2. Just getting from word vectors to document vectors required a lot of
-   experimentation: the max, min and their concatenation were all found to
-   consistently underperform a simple mean.
+   experimentation: taking the maximum, minimum and the concatenation of the two
+   were all found to consistently underperform taking the mean.
 
