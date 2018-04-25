@@ -4,6 +4,7 @@ import warnings
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from gensim.models.word2vec import Word2Vec, LineSentence
@@ -54,7 +55,6 @@ def knn_performance(X_train, y_train, X_test, y_test, k=4, preds_file=''):
                        columns=knn.classes_))
 
     if preds_file:
-        #print(predictions)
         np.savetxt(preds_file, predictions, delimiter=' ', fmt='%s')
 
     return acc, prfs
