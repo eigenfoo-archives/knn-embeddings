@@ -1,20 +1,19 @@
-import os
-import sys
 import csv
-import re
-import subprocess
 from itertools import chain
 import warnings
-warnings.filterwarnings('ignore')
 import numpy as np
 import pandas as pd
-from sklearn.neighbors import NearestCentroid, KNeighborsClassifier
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from gensim.models.word2vec import Word2Vec, LineSentence
+warnings.filterwarnings('ignore')
 
 
 def get_corpus_dfs(n):
+    '''
+    Get DataFrames with paths to training and testing documents.
+    '''
     if n == 1:
         s = 'corpus1'
     elif n == 2:
@@ -35,7 +34,7 @@ def get_corpus_dfs(n):
     return train, test
 
 
-def knn_performance(X_train, y_train, X_test, y_test, k=4):
+def knn_performance(X_train, y_train, X_test, y_test, k=4, preds_file=''):
     '''
     Given a train and test split, measure the overall accuracy,
     precision, recall, F-1 score and support of the kNN classifier.
@@ -45,7 +44,7 @@ def knn_performance(X_train, y_train, X_test, y_test, k=4):
 
     predictions = knn.predict(X_test)
 
-    acc =  accuracy_score(y_test, predictions)
+    acc = accuracy_score(y_test, predictions)
     prfs = np.vstack(precision_recall_fscore_support(predictions, y_test))
 
     print('Overall accuracy: {:f}'.format(acc))
@@ -54,27 +53,31 @@ def knn_performance(X_train, y_train, X_test, y_test, k=4):
                        index=['Precision', 'Recall', 'F-1', 'Support'],
                        columns=knn.classes_))
 
-    return acc, prfs
+    if preds_file:
+        #print(predictions)
+        np.savetxt(preds_file, predictions, delimiter=' ', fmt='%s')
 
-'''
-with open('stopwords.txt', 'r') as f:
-    stops = f.read().split()
-'''
+    return acc, prfs
 
 
 def get_embedding_matrix(corpus_df, embeddings, func, stopwords=[], dim=300):
+    '''
+    Create matrix of 'document embeddings'.
+    '''
     X = np.zeros([len(corpus_df), dim])
-    
+
     for j in range(len(corpus_df)):
-        words = list(chain.from_iterable(LineSentence(corpus_df.loc[j, 'path'])))
+        words = list(chain.from_iterable(
+            LineSentence(corpus_df.loc[j, 'path'])
+            ))
         words = [w for w in words if w not in stopwords]
         X[j] = func(embeddings.loc[words])
-    
+
     return X
 
 
 if __name__ == '__main__':
-    print('tfidf')
+    print('tf-idf')
     print('')
     for i in range(1, 4):
         train, test = get_corpus_dfs(i)
@@ -86,24 +89,24 @@ if __name__ == '__main__':
                               min_df=2,
                               norm='l2')
 
-        tfidf_train = vec.fit_transform(train.loc[:, 'path'])
-        tfidf_test = vec.transform(test.loc[:, 'path'])
+        X_train = vec.fit_transform(train.loc[:, 'path'])
+        X_test = vec.transform(test.loc[:, 'path'])
         clf_train = train.loc[:, 'clf']
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = knn_performance(tfidf_train, clf_train, tfidf_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train,
+                                    X_test, clf_test,
+                                    preds_file='tf-idf.predictions.corpus{}.txt'.format(i))
         print('')
         print('')
     print('------------------------------')
-
 
     glove = pd.read_table('embeddings/glove.6B.300d.txt',
                           delimiter=' ',
                           index_col=0,
                           header=None,
                           quoting=csv.QUOTE_NONE)
-
 
     print('GloVe (pre-trained)')
     print('')
@@ -116,11 +119,12 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train,
+                                    X_test, clf_test,
+                                    preds_file='glove.predictions.corpus{}.txt'.format(i))
         print('')
         print('')
     print('------------------------------')
-
 
     fasttext = pd.read_table('embeddings/wiki-news-300d-1M.vec',
                              delimiter=' ',
@@ -128,7 +132,6 @@ if __name__ == '__main__':
                              header=None,
                              skiprows=1,
                              quoting=csv.QUOTE_NONE)
-
 
     print('fastText (pre-trained)')
     print('')
@@ -141,11 +144,12 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train,
+                                    X_test, clf_test,
+                                    preds_file='fasttext.predictions.corpus{}.txt'.format(i))
         print('')
         print('')
     print('------------------------------')
-
 
     w2v = Word2Vec.load('embeddings/w2v.corpus1.300d')
     w2v1 = pd.DataFrame(data=w2v.wv.vectors,
@@ -161,7 +165,6 @@ if __name__ == '__main__':
                         columns=range(1, 301))
     w2v = [w2v1, w2v2, w2v3]
 
-
     print('word2vec')
     print('')
     for i in range(1, 4):
@@ -173,7 +176,9 @@ if __name__ == '__main__':
         clf_test = test.loc[:, 'clf']
 
         print('Corpus {}:'.format(i))
-        acc, prfs = knn_performance(X_train, clf_train, X_test, clf_test)
+        acc, prfs = knn_performance(X_train, clf_train,
+                                    X_test, clf_test,
+                                    preds_file='word2vec.predictions.corpus{}.txt'.format(i))
         print('')
         print('')
     print('------------------------------')
