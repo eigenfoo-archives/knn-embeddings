@@ -21,7 +21,7 @@ To download or learn the word embeddings:
 ```
 $ sh embed_glove.sh
 $ sh embed_fastText.sh
-$ python embed_word2vec.py
+$ python3 embed_word2vec.py
 ```
 
 These three scripts will:
@@ -36,12 +36,12 @@ These three scripts will:
    python library `gensim`.
 
 Note that these are fairly computationally intensive tasks, and required around
-30 minutes to run.
+20 minutes to run on a laptop.
 
-To use the word embeddings in a kNN text categorizer, simply run
+To run experiments on a kNN text categorizer with word embeddings:
 
 ```
-$ python knn.py
+$ python3 knn.py
 ```
 
 ## Remarks
