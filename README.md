@@ -3,8 +3,6 @@
 ## Requirements
 
 - `git`
-- `g++`
-- `make`
 - A Python 3 interpreter
 
 There are also a number of Python dependencies. The easiest way to install these
